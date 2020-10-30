@@ -1,0 +1,2427 @@
+Date,away_team,home_team,away_team_score,home_team_score
+20020331,Cleveland Indians,Anaheim Angels,6,0
+20020401,New York Yankees,Baltimore Orioles,3,10
+20020401,Toronto Blue Jays,Boston Red Sox,12,11
+20020401,Minensota Twins,Kansas City Royals,8,6
+20020401,Texas Rangers,Oakland Athletics,3,8
+20020401,Chicago White Sox,Seattle Mariners,6,5
+20020401,San Diego Padres,Arizona Diamondbacks,0,2
+20020401,Philadelpia Phillies,Atlanta Braves,2,7
+20020401,Chicago Cubs,Cincinnati Reds,4,5
+20020401,Pittsburgh Pirates,New York Mets,2,6
+20020401,Colorado Rockies,St. Louis Cardinals,2,10
+20020402,Cleveland Indians,Anaheim Angels,5,7
+20020402,Texas Rangers,Oakland Athletics,2,3
+20020402,Chicago White Sox,Seattle Mariners,4,7
+20020402,Detroit Tigers,Tampa Bay Devil Rays,5,9
+20020402,San Diego Padres,Arizona Diamondbacks,0,9
+20020402,Milwaukee Brewers,Houston Colts,9,3
+20020402,San  Francisco Giants,Los Angeles Dodgers,9,2
+20020402,Florida Marlins,Montreal Expos,6,7
+20020403,Cleveland Indians,Anaheim Angels,6,5
+20020403,New York Yankees,Baltimore Orioles,1,0
+20020403,Minensota Twins,Kansas City Royals,1,0
+20020403,Texas Rangers,Oakland Athletics,6,9
+20020403,Chicago White Sox,Seattle Mariners,6,7
+20020403,Detroit Tigers,Tampa Bay Devil Rays,1,2
+20020403,San Diego Padres,Arizona Diamondbacks,8,7
+20020403,Philadelpia Phillies,Atlanta Braves,3,1
+20020403,Chicago Cubs,Cincinnati Reds,10,3
+20020403,Milwaukee Brewers,Houston Colts,2,15
+20020403,San  Francisco Giants,Los Angeles Dodgers,12,0
+20020403,Florida Marlins,Montreal Expos,6,5
+20020403,Pittsburgh Pirates,New York Mets,5,3
+20020403,Colorado Rockies,St. Louis Cardinals,6,3
+20020404,New York Yankees,Baltimore Orioles,4,1
+20020404,Texas Rangers,Oakland Athletics,7,5
+20020404,Detroit Tigers,Tampa Bay Devil Rays,2,9
+20020404,Minensota Twins,Toronto Blue Jays,2,7
+20020404,Philadelpia Phillies,Atlanta Braves,2,11
+20020404,Chicago Cubs,Cincinnati Reds,1,3
+20020404,Milwaukee Brewers,Houston Colts,3,6
+20020404,San  Francisco Giants,Los Angeles Dodgers,3,0
+20020404,Florida Marlins,Montreal Expos,1,0
+20020404,Pittsburgh Pirates,New York Mets,3,2
+20020404,Colorado Rockies,St. Louis Cardinals,6,1
+20020405,Boston Red Sox,Baltimore Orioles,3,0
+20020405,Cleveland Indians,Detroit Tigers,10,1
+20020405,Chicago White Sox,Kansas City Royals,2,5
+20020405,Tampa Bay Devil Rays,New York Yankees,0,4
+20020405,Oakland Athletics,Seattle Mariners,1,7
+20020405,Anaheim Angels,Texas Rangers,3,1
+20020405,Minensota Twins,Toronto Blue Jays,4,3
+20020405,New York Mets,Atlanta Braves,9,3
+20020405,Pittsburgh Pirates,Chicago Cubs,2,1
+20020405,Montreal Expos,Cincinnati Reds,8,7
+20020405,St. Louis Cardinals,Houston Colts,5,1
+20020405,Colorado Rockies,Los Angeles Dodgers,0,9
+20020405,Arizona Diamondbacks,Milwaukee Brewers,2,6
+20020405,Florida Marlins,Philadelpia Phillies,2,6
+20020405,San Diego Padres,San  Francisco Giants,1,3
+20020406,Boston Red Sox,Baltimore Orioles,4,2
+20020406,Cleveland Indians,Detroit Tigers,5,3
+20020406,Chicago White Sox,Kansas City Royals,14,0
+20020406,Tampa Bay Devil Rays,New York Yankees,0,3
+20020406,Oakland Athletics,Seattle Mariners,8,3
+20020406,Anaheim Angels,Texas Rangers,6,3
+20020406,Minensota Twins,Toronto Blue Jays,7,5
+20020406,New York Mets,Atlanta Braves,11,2
+20020406,Pittsburgh Pirates,Chicago Cubs,6,1
+20020406,Montreal Expos,Cincinnati Reds,5,2
+20020406,St. Louis Cardinals,Houston Colts,8,4
+20020406,Colorado Rockies,Los Angeles Dodgers,2,9
+20020406,Arizona Diamondbacks,Milwaukee Brewers,6,3
+20020406,Florida Marlins,Philadelpia Phillies,7,3
+20020406,San Diego Padres,San  Francisco Giants,1,4
+20020407,Boston Red Sox,Baltimore Orioles,4,1
+20020407,Cleveland Indians,Detroit Tigers,5,1
+20020407,Chicago White Sox,Kansas City Royals,2,9
+20020407,Tampa Bay Devil Rays,New York Yankees,2,7
+20020407,Oakland Athletics,Seattle Mariners,6,5
+20020407,Minensota Twins,Toronto Blue Jays,10,6
+20020407,New York Mets,Atlanta Braves,2,5
+20020407,Montreal Expos,Cincinnati Reds,5,6
+20020407,St. Louis Cardinals,Houston Colts,6,7
+20020407,Colorado Rockies,Los Angeles Dodgers,4,6
+20020407,Arizona Diamondbacks,Milwaukee Brewers,2,0
+20020407,Florida Marlins,Philadelpia Phillies,2,3
+20020407,San Diego Padres,San  Francisco Giants,1,10
+20020408,Seattle Mariners,Anaheim Angels,5,4
+20020408,Minensota Twins,Cleveland Indians,5,9
+20020408,New York Yankees,Toronto Blue Jays,16,3
+20020408,Houston Colts,Colorado Rockies,8,4
+20020408,Montreal Expos,Florida Marlins,10,2
+20020408,Atlanta Braves,Philadelpia Phillies,2,1
+20020408,Cincinnati Reds,Pittsburgh Pirates,0,1
+20020408,Arizona Diamondbacks,San Diego Padres,0,8
+20020409,Seattle Mariners,Anaheim Angels,5,1
+20020409,Kansas City Royals,Boston Red Sox,4,8
+20020409,Minensota Twins,Cleveland Indians,4,5
+20020409,Chicago White Sox,Detroit Tigers,8,2
+20020409,Oakland Athletics,Texas Rangers,5,4
+20020409,New York Yankees,Toronto Blue Jays,5,2
+20020409,New York Mets,Chicago Cubs,0,2
+20020409,Houston Colts,Colorado Rockies,5,10
+20020409,Atlanta Braves,Philadelpia Phillies,4,7
+20020409,Arizona Diamondbacks,San Diego Padres,2,5
+20020409,Los Angeles Dodgers,San  Francisco Giants,3,0
+20020409,Milwaukee Brewers,St. Louis Cardinals,5,6
+20020410,Seattle Mariners,Anaheim Angels,8,1
+20020410,Tampa Bay Devil Rays,Baltimore Orioles,3,2
+20020410,Kansas City Royals,Boston Red Sox,6,2
+20020410,Minensota Twins,Cleveland Indians,3,9
+20020410,Chicago White Sox,Detroit Tigers,7,5
+20020410,Oakland Athletics,Texas Rangers,2,4
+20020410,New York Yankees,Toronto Blue Jays,7,9
+20020410,New York Mets,Chicago Cubs,3,2
+20020410,Houston Colts,Colorado Rockies,1,4
+20020410,Montreal Expos,Florida Marlins,9,7
+20020410,Atlanta Braves,Philadelpia Phillies,5,7
+20020410,Cincinnati Reds,Pittsburgh Pirates,8,5
+20020410,Arizona Diamondbacks,San Diego Padres,1,2
+20020410,Los Angeles Dodgers,San  Francisco Giants,1,2
+20020410,Milwaukee Brewers,St. Louis Cardinals,5,6
+20020411,Seattle Mariners,Anaheim Angels,8,4
+20020411,Tampa Bay Devil Rays,Baltimore Orioles,6,15
+20020411,Kansas City Royals,Boston Red Sox,8,5
+20020411,Minensota Twins,Cleveland Indians,4,8
+20020411,Oakland Athletics,Texas Rangers,0,7
+20020411,New York Yankees,Toronto Blue Jays,3,11
+20020411,New York Mets,Chicago Cubs,3,2
+20020411,Arizona Diamondbacks,Colorado Rockies,8,4
+20020411,Montreal Expos,Florida Marlins,5,7
+20020411,Atlanta Braves,Philadelpia Phillies,6,2
+20020411,Cincinnati Reds,Pittsburgh Pirates,3,2
+20020411,Los Angeles Dodgers,San  Francisco Giants,4,3
+20020411,Milwaukee Brewers,St. Louis Cardinals,5,6
+20020412,Oakland Athletics,Anaheim Angels,5,1
+20020412,New York Yankees,Boston Red Sox,2,3
+20020412,Baltimore Orioles,Chicago White Sox,2,5
+20020412,Kansas City Royals,Cleveland Indians,1,3
+20020412,Detroit Tigers,Minensota Twins,2,4
+20020412,Toronto Blue Jays,Tampa Bay Devil Rays,14,7
+20020412,Seattle Mariners,Texas Rangers,7,3
+20020412,Arizona Diamondbacks,Colorado Rockies,8,3
+20020412,Atlanta Braves,Florida Marlins,2,0
+20020412,Montreal Expos,New York Mets,1,2
+20020412,Cincinnati Reds,Philadelpia Phillies,8,5
+20020412,Chicago Cubs,Pittsburgh Pirates,7,3
+20020412,Los Angeles Dodgers,San Diego Padres,3,0
+20020412,Milwaukee Brewers,San  Francisco Giants,1,5
+20020412,Houston Colts,St. Louis Cardinals,3,7
+20020413,Oakland Athletics,Anaheim Angels,7,2
+20020413,New York Yankees,Boston Red Sox,6,7
+20020413,Baltimore Orioles,Chicago White Sox,3,4
+20020413,Kansas City Royals,Cleveland Indians,7,8
+20020413,Detroit Tigers,Minensota Twins,3,7
+20020413,Toronto Blue Jays,Tampa Bay Devil Rays,5,4
+20020413,Seattle Mariners,Texas Rangers,9,4
+20020413,Arizona Diamondbacks,Colorado Rockies,7,5
+20020413,Atlanta Braves,Florida Marlins,4,5
+20020413,Montreal Expos,New York Mets,9,8
+20020413,Cincinnati Reds,Philadelpia Phillies,5,2
+20020413,Chicago Cubs,Pittsburgh Pirates,2,3
+20020413,Los Angeles Dodgers,San Diego Padres,4,6
+20020413,Milwaukee Brewers,San  Francisco Giants,2,3
+20020413,Houston Colts,St. Louis Cardinals,1,2
+20020414,Oakland Athletics,Anaheim Angels,1,4
+20020414,New York Yankees,Boston Red Sox,6,2
+20020414,Baltimore Orioles,Chicago White Sox,9,4
+20020414,Detroit Tigers,Minensota Twins,7,13
+20020414,Toronto Blue Jays,Tampa Bay Devil Rays,4,5
+20020414,Seattle Mariners,Texas Rangers,9,7
+20020414,Arizona Diamondbacks,Colorado Rockies,6,3
+20020414,Atlanta Braves,Florida Marlins,0,7
+20020414,Montreal Expos,New York Mets,4,6
+20020414,Cincinnati Reds,Philadelpia Phillies,1,3
+20020414,Chicago Cubs,Pittsburgh Pirates,5,1
+20020414,Los Angeles Dodgers,San Diego Padres,0,1
+20020414,Milwaukee Brewers,San  Francisco Giants,4,3
+20020414,Houston Colts,St. Louis Cardinals,5,4
+20020415,New York Yankees,Boston Red Sox,3,4
+20020415,Baltimore Orioles,Chicago White Sox,4,13
+20020415,Seattle Mariners,Texas Rangers,13,11
+20020415,St. Louis Cardinals,Arizona Diamondbacks,5,14
+20020415,Los Angeles Dodgers,Colorado Rockies,5,2
+20020415,Pittsburgh Pirates,Milwaukee Brewers,6,1
+20020415,Chicago Cubs,Montreal Expos,6,4
+20020415,Atlanta Braves,New York Mets,6,7
+20020415,San  Francisco Giants,San Diego Padres,3,4
+20020416,Texas Rangers,Anaheim Angels,5,6
+20020416,Cleveland Indians,Chicago White Sox,5,10
+20020416,Tampa Bay Devil Rays,Detroit Tigers,3,9
+20020416,Kansas City Royals,Minensota Twins,5,8
+20020416,Baltimore Orioles,New York Yankees,5,4
+20020416,Seattle Mariners,Oakland Athletics,6,2
+20020416,Boston Red Sox,Toronto Blue Jays,14,3
+20020416,St. Louis Cardinals,Arizona Diamondbacks,3,5
+20020416,Houston Colts,Cincinnati Reds,8,3
+20020416,Los Angeles Dodgers,Colorado Rockies,4,6
+20020416,Philadelpia Phillies,Florida Marlins,6,7
+20020416,Pittsburgh Pirates,Milwaukee Brewers,5,1
+20020416,Chicago Cubs,Montreal Expos,4,8
+20020416,Atlanta Braves,New York Mets,1,3
+20020416,San  Francisco Giants,San Diego Padres,5,1
+20020417,Texas Rangers,Anaheim Angels,4,1
+20020417,Cleveland Indians,Chicago White Sox,2,7
+20020417,Tampa Bay Devil Rays,Detroit Tigers,6,7
+20020417,Kansas City Royals,Minensota Twins,16,3
+20020417,Baltimore Orioles,New York Yankees,1,7
+20020417,Seattle Mariners,Oakland Athletics,7,4
+20020417,Boston Red Sox,Toronto Blue Jays,10,3
+20020417,St. Louis Cardinals,Arizona Diamondbacks,8,4
+20020417,Houston Colts,Cincinnati Reds,7,2
+20020417,Los Angeles Dodgers,Colorado Rockies,6,3
+20020417,Philadelpia Phillies,Florida Marlins,7,5
+20020417,Pittsburgh Pirates,Milwaukee Brewers,3,2
+20020417,Chicago Cubs,Montreal Expos,8,15
+20020417,Atlanta Braves,New York Mets,2,1
+20020417,San  Francisco Giants,San Diego Padres,3,5
+20020418,Cleveland Indians,Chicago White Sox,1,7
+20020418,Tampa Bay Devil Rays,Detroit Tigers,6,4
+20020418,Kansas City Royals,Minensota Twins,1,4
+20020418,Baltimore Orioles,New York Yankees,4,8
+20020418,Anaheim Angels,Oakland Athletics,2,4
+20020418,Houston Colts,Cincinnati Reds,4,5
+20020418,Philadelpia Phillies,Florida Marlins,7,8
+20020418,San Diego Padres,Los Angeles Dodgers,2,5
+20020418,St. Louis Cardinals,Milwaukee Brewers,5,7
+20020418,New York Mets,Montreal Expos,1,0
+20020419,Detroit Tigers,Chicago White Sox,8,2
+20020419,Boston Red Sox,Kansas City Royals,4,0
+20020419,Cleveland Indians,Minensota Twins,3,12
+20020419,Toronto Blue Jays,New York Yankees,5,6
+20020419,Anaheim Angels,Oakland Athletics,9,7
+20020419,Texas Rangers,Seattle Mariners,9,0
+20020419,Baltimore Orioles,Tampa Bay Devil Rays,6,5
+20020419,Colorado Rockies,Arizona Diamondbacks,8,6
+20020419,Florida Marlins,Atlanta Braves,2,3
+20020419,Cincinnati Reds,Chicago Cubs,2,5
+20020419,San  Francisco Giants,Houston Colts,3,2
+20020419,San Diego Padres,Los Angeles Dodgers,2,5
+20020419,St. Louis Cardinals,Milwaukee Brewers,1,6
+20020419,New York Mets,Montreal Expos,3,5
+20020419,Philadelpia Phillies,Pittsburgh Pirates,4,7
+20020420,Detroit Tigers,Chicago White Sox,5,12
+20020420,Cleveland Indians,Minensota Twins,2,6
+20020420,Toronto Blue Jays,New York Yankees,5,4
+20020420,Anaheim Angels,Oakland Athletics,7,8
+20020420,Texas Rangers,Seattle Mariners,2,3
+20020420,Baltimore Orioles,Tampa Bay Devil Rays,6,3
+20020420,Colorado Rockies,Arizona Diamondbacks,8,9
+20020420,Florida Marlins,Atlanta Braves,1,3
+20020420,Cincinnati Reds,Chicago Cubs,6,1
+20020420,San  Francisco Giants,Houston Colts,13,9
+20020420,San Diego Padres,Los Angeles Dodgers,1,4
+20020420,St. Louis Cardinals,Milwaukee Brewers,3,5
+20020420,New York Mets,Montreal Expos,5,7
+20020420,Philadelpia Phillies,Pittsburgh Pirates,5,6
+20020421,Detroit Tigers,Chicago White Sox,8,11
+20020421,Boston Red Sox,Kansas City Royals,12,2
+20020421,Boston Red Sox,Kansas City Royals,8,7
+20020421,Cleveland Indians,Minensota Twins,2,4
+20020421,Toronto Blue Jays,New York Yankees,2,9
+20020421,Anaheim Angels,Oakland Athletics,5,6
+20020421,Texas Rangers,Seattle Mariners,3,5
+20020421,Baltimore Orioles,Tampa Bay Devil Rays,1,2
+20020421,Colorado Rockies,Arizona Diamondbacks,1,7
+20020421,Florida Marlins,Atlanta Braves,2,4
+20020421,Cincinnati Reds,Chicago Cubs,5,3
+20020421,San  Francisco Giants,Houston Colts,0,4
+20020421,San Diego Padres,Los Angeles Dodgers,5,0
+20020421,St. Louis Cardinals,Milwaukee Brewers,3,5
+20020421,New York Mets,Montreal Expos,3,6
+20020421,Philadelpia Phillies,Pittsburgh Pirates,3,9
+20020422,Chicago White Sox,Cleveland Indians,2,4
+20020422,Detroit Tigers,Kansas City Royals,0,6
+20020422,Anaheim Angels,Seattle Mariners,5,16
+20020422,Florida Marlins,Atlanta Braves,8,3
+20020423,Boston Red Sox,Baltimore Orioles,5,7
+20020423,Chicago White Sox,Cleveland Indians,5,1
+20020423,Detroit Tigers,Kansas City Royals,3,0
+20020423,New York Yankees,Oakland Athletics,2,1
+20020423,Anaheim Angels,Seattle Mariners,0,1
+20020423,Minensota Twins,Tampa Bay Devil Rays,4,6
+20020423,Toronto Blue Jays,Texas Rangers,2,1
+20020423,Arizona Diamondbacks,Atlanta Braves,5,2
+20020423,San  Francisco Giants,Chicago Cubs,12,4
+20020423,Colorado Rockies,Cincinnati Reds,2,3
+20020423,Houston Colts,Florida Marlins,3,4
+20020423,Milwaukee Brewers,Montreal Expos,4,5
+20020423,St. Louis Cardinals,New York Mets,3,4
+20020423,San Diego Padres,Philadelpia Phillies,5,8
+20020423,Los Angeles Dodgers,Pittsburgh Pirates,9,6
+20020424,Boston Red Sox,Baltimore Orioles,3,5
+20020424,Chicago White Sox,Cleveland Indians,9,2
+20020424,Detroit Tigers,Kansas City Royals,2,8
+20020424,New York Yankees,Oakland Athletics,8,5
+20020424,Anaheim Angels,Seattle Mariners,10,6
+20020424,Minensota Twins,Tampa Bay Devil Rays,1,9
+20020424,Toronto Blue Jays,Texas Rangers,2,3
+20020424,Arizona Diamondbacks,Atlanta Braves,3,4
+20020424,San  Francisco Giants,Chicago Cubs,4,10
+20020424,Colorado Rockies,Cincinnati Reds,3,4
+20020424,Houston Colts,Florida Marlins,7,4
+20020424,Milwaukee Brewers,Montreal Expos,4,5
+20020424,St. Louis Cardinals,New York Mets,4,2
+20020424,San Diego Padres,Philadelpia Phillies,7,2
+20020424,Los Angeles Dodgers,Pittsburgh Pirates,5,1
+20020425,Boston Red Sox,Baltimore Orioles,7,0
+20020425,Chicago White Sox,Cleveland Indians,6,3
+20020425,New York Yankees,Oakland Athletics,2,6
+20020425,Minensota Twins,Tampa Bay Devil Rays,6,2
+20020425,Toronto Blue Jays,Texas Rangers,9,11
+20020425,Arizona Diamondbacks,Atlanta Braves,11,5
+20020425,San  Francisco Giants,Chicago Cubs,1,2
+20020425,Colorado Rockies,Cincinnati Reds,3,4
+20020425,Houston Colts,Florida Marlins,4,5
+20020425,Milwaukee Brewers,Montreal Expos,1,5
+20020425,St. Louis Cardinals,New York Mets,6,7
+20020425,San Diego Padres,Philadelpia Phillies,6,4
+20020425,Los Angeles Dodgers,Pittsburgh Pirates,2,3
+20020426,Toronto Blue Jays,Anaheim Angels,0,4
+20020426,Tampa Bay Devil Rays,Boston Red Sox,2,4
+20020426,Minensota Twins,Detroit Tigers,2,3
+20020426,Baltimore Orioles,Kansas City Royals,10,5
+20020426,Chicago White Sox,Oakland Athletics,4,6
+20020426,New York Yankees,Seattle Mariners,7,1
+20020426,Cleveland Indians,Texas Rangers,7,4
+20020426,Houston Colts,Atlanta Braves,0,9
+20020426,Los Angeles Dodgers,Chicago Cubs,10,0
+20020426,San  Francisco Giants,Cincinnati Reds,3,4
+20020426,Philadelpia Phillies,Colorado Rockies,1,4
+20020426,Arizona Diamondbacks,Florida Marlins,5,3
+20020426,St. Louis Cardinals,Montreal Expos,7,6
+20020426,Milwaukee Brewers,New York Mets,0,1
+20020426,San Diego Padres,Pittsburgh Pirates,10,1
+20020427,Toronto Blue Jays,Anaheim Angels,4,11
+20020427,Tampa Bay Devil Rays,Boston Red Sox,0,10
+20020427,Minensota Twins,Detroit Tigers,1,5
+20020427,Baltimore Orioles,Kansas City Royals,9,4
+20020427,Chicago White Sox,Oakland Athletics,1,16
+20020427,New York Yankees,Seattle Mariners,0,1
+20020427,Cleveland Indians,Texas Rangers,2,4
+20020427,Houston Colts,Atlanta Braves,6,3
+20020427,San  Francisco Giants,Cincinnati Reds,4,8
+20020427,Philadelpia Phillies,Colorado Rockies,6,8
+20020427,Arizona Diamondbacks,Florida Marlins,3,6
+20020427,St. Louis Cardinals,Montreal Expos,5,0
+20020427,Milwaukee Brewers,New York Mets,1,2
+20020428,Toronto Blue Jays,Anaheim Angels,5,8
+20020428,Minensota Twins,Detroit Tigers,4,5
+20020428,Baltimore Orioles,Kansas City Royals,13,0
+20020428,Chicago White Sox,Oakland Athletics,0,10
+20020428,New York Yankees,Seattle Mariners,4,3
+20020428,Cleveland Indians,Texas Rangers,1,2
+20020428,Houston Colts,Atlanta Braves,7,1
+20020428,Los Angeles Dodgers,Chicago Cubs,5,4
+20020428,Los Angeles Dodgers,Chicago Cubs,4,1
+20020428,San  Francisco Giants,Cincinnati Reds,5,4
+20020428,Philadelpia Phillies,Colorado Rockies,2,4
+20020428,Arizona Diamondbacks,Florida Marlins,5,4
+20020428,St. Louis Cardinals,Montreal Expos,2,5
+20020428,Milwaukee Brewers,New York Mets,6,9
+20020428,San Diego Padres,Pittsburgh Pirates,2,3
+20020428,San Diego Padres,Pittsburgh Pirates,7,2
+20020429,Baltimore Orioles,Boston Red Sox,5,3
+20020429,Kansas City Royals,Detroit Tigers,4,0
+20020429,Tampa Bay Devil Rays,Minensota Twins,2,3
+20020429,Philadelpia Phillies,San  Francisco Giants,5,8
+20020430,Baltimore Orioles,Boston Red Sox,0,4
+20020430,Seattle Mariners,Chicago White Sox,4,8
+20020430,Anaheim Angels,Cleveland Indians,21,2
+20020430,Kansas City Royals,Detroit Tigers,3,9
+20020430,Tampa Bay Devil Rays,Minensota Twins,3,6
+20020430,Oakland Athletics,New York Yankees,2,8
+20020430,Texas Rangers,Toronto Blue Jays,10,3
+20020430,New York Mets,Arizona Diamondbacks,10,1
+20020430,Pittsburgh Pirates,Colorado Rockies,0,10
+20020430,Montreal Expos,Houston Colts,5,1
+20020430,Cincinnati Reds,Los Angeles Dodgers,3,1
+20020430,Atlanta Braves,Milwaukee Brewers,3,4
+20020430,Chicago Cubs,San Diego Padres,1,2
+20020430,Philadelpia Phillies,San  Francisco Giants,8,2
+20020430,Florida Marlins,St. Louis Cardinals,7,2
+20020501,Baltimore Orioles,Boston Red Sox,3,15
+20020501,Seattle Mariners,Chicago White Sox,2,9
+20020501,Anaheim Angels,Cleveland Indians,7,2
+20020501,Kansas City Royals,Detroit Tigers,6,7
+20020501,Tampa Bay Devil Rays,Minensota Twins,3,5
+20020501,Oakland Athletics,New York Yankees,4,1
+20020501,Texas Rangers,Toronto Blue Jays,8,1
+20020501,New York Mets,Arizona Diamondbacks,7,1
+20020501,Pittsburgh Pirates,Colorado Rockies,0,6
+20020501,Montreal Expos,Houston Colts,5,4
+20020501,Cincinnati Reds,Los Angeles Dodgers,4,0
+20020501,Atlanta Braves,Milwaukee Brewers,3,1
+20020501,Chicago Cubs,San Diego Padres,3,4
+20020501,Philadelpia Phillies,San  Francisco Giants,1,2
+20020501,Florida Marlins,St. Louis Cardinals,4,6
+20020502,Kansas City Royals,Baltimore Orioles,2,6
+20020502,Seattle Mariners,Chicago White Sox,15,4
+20020502,Anaheim Angels,Cleveland Indians,8,0
+20020502,Tampa Bay Devil Rays,Minensota Twins,6,7
+20020502,Oakland Athletics,New York Yankees,2,9
+20020502,Texas Rangers,Toronto Blue Jays,5,3
+20020502,New York Mets,Arizona Diamondbacks,3,7
+20020502,Pittsburgh Pirates,Colorado Rockies,2,7
+20020502,Montreal Expos,Houston Colts,2,8
+20020502,Cincinnati Reds,Los Angeles Dodgers,2,3
+20020502,Atlanta Braves,Milwaukee Brewers,3,2
+20020502,Chicago Cubs,San Diego Padres,6,1
+20020502,Florida Marlins,St. Louis Cardinals,9,6
+20020503,Kansas City Royals,Baltimore Orioles,3,4
+20020503,Oakland Athletics,Chicago White Sox,1,6
+20020503,Texas Rangers,Cleveland Indians,4,2
+20020503,Detroit Tigers,Minensota Twins,4,8
+20020503,Seattle Mariners,New York Yankees,6,2
+20020503,Boston Red Sox,Tampa Bay Devil Rays,3,2
+20020503,Anaheim Angels,Toronto Blue Jays,6,4
+20020503,Montreal Expos,Arizona Diamondbacks,3,6
+20020503,New York Mets,Houston Colts,11,3
+20020503,Chicago Cubs,Los Angeles Dodgers,8,3
+20020503,Florida Marlins,Milwaukee Brewers,8,4
+20020503,Colorado Rockies,Philadelpia Phillies,2,3
+20020503,Pittsburgh Pirates,San Diego Padres,6,4
+20020503,Cincinnati Reds,San  Francisco Giants,1,6
+20020503,Atlanta Braves,St. Louis Cardinals,2,1
+20020504,Kansas City Royals,Baltimore Orioles,0,10
+20020504,Oakland Athletics,Chicago White Sox,2,10
+20020504,Texas Rangers,Cleveland Indians,0,3
+20020504,Detroit Tigers,Minensota Twins,2,3
+20020504,Seattle Mariners,New York Yankees,9,5
+20020504,Boston Red Sox,Tampa Bay Devil Rays,7,5
+20020504,Anaheim Angels,Toronto Blue Jays,1,4
+20020504,Montreal Expos,Arizona Diamondbacks,5,6
+20020504,New York Mets,Houston Colts,1,3
+20020504,Chicago Cubs,Los Angeles Dodgers,2,3
+20020504,Florida Marlins,Milwaukee Brewers,4,6
+20020504,Colorado Rockies,Philadelpia Phillies,5,6
+20020504,Pittsburgh Pirates,San Diego Padres,0,3
+20020504,Cincinnati Reds,San  Francisco Giants,0,3
+20020504,Atlanta Braves,St. Louis Cardinals,2,3
+20020505,Kansas City Royals,Baltimore Orioles,2,3
+20020505,Oakland Athletics,Chicago White Sox,3,2
+20020505,Texas Rangers,Cleveland Indians,2,9
+20020505,Detroit Tigers,Minensota Twins,7,6
+20020505,Seattle Mariners,New York Yankees,10,6
+20020505,Boston Red Sox,Tampa Bay Devil Rays,2,0
+20020505,Anaheim Angels,Toronto Blue Jays,8,2
+20020505,Montreal Expos,Arizona Diamondbacks,2,5
+20020505,New York Mets,Houston Colts,1,12
+20020505,Chicago Cubs,Los Angeles Dodgers,3,0
+20020505,Florida Marlins,Milwaukee Brewers,7,4
+20020505,Colorado Rockies,Philadelpia Phillies,4,7
+20020505,Pittsburgh Pirates,San Diego Padres,5,6
+20020505,Cincinnati Reds,San  Francisco Giants,5,6
+20020505,Atlanta Braves,St. Louis Cardinals,4,2
+20020506,Cleveland Indians,Baltimore Orioles,9,4
+20020506,Detroit Tigers,Minensota Twins,1,3
+20020506,Boston Red Sox,Tampa Bay Devil Rays,5,3
+20020506,Chicago White Sox,Texas Rangers,5,6
+20020506,Pittsburgh Pirates,Arizona Diamondbacks,3,2
+20020506,St. Louis Cardinals,Chicago Cubs,5,6
+20020506,Milwaukee Brewers,Cincinnati Reds,5,8
+20020507,Detroit Tigers,Anaheim Angels,3,0
+20020507,Cleveland Indians,Baltimore Orioles,3,4
+20020507,Kansas City Royals,Minensota Twins,4,1
+20020507,Boston Red Sox,Oakland Athletics,9,7
+20020507,Toronto Blue Jays,Seattle Mariners,4,1
+20020507,New York Yankees,Tampa Bay Devil Rays,5,2
+20020507,Chicago White Sox,Texas Rangers,11,6
+20020507,Pittsburgh Pirates,Arizona Diamondbacks,6,7
+20020507,Los Angeles Dodgers,Atlanta Braves,6,5
+20020507,St. Louis Cardinals,Chicago Cubs,0,8
+20020507,Milwaukee Brewers,Cincinnati Reds,2,8
+20020507,San Diego Padres,Florida Marlins,4,12
+20020507,Colorado Rockies,Montreal Expos,5,3
+20020507,San  Francisco Giants,New York Mets,5,1
+20020507,Houston Colts,Philadelpia Phillies,4,7
+20020508,Detroit Tigers,Anaheim Angels,2,3
+20020508,Cleveland Indians,Baltimore Orioles,6,2
+20020508,Kansas City Royals,Minensota Twins,1,3
+20020508,Boston Red Sox,Oakland Athletics,12,6
+20020508,Toronto Blue Jays,Seattle Mariners,4,5
+20020508,New York Yankees,Tampa Bay Devil Rays,7,2
+20020508,Chicago White Sox,Texas Rangers,5,3
+20020508,Pittsburgh Pirates,Arizona Diamondbacks,3,4
+20020508,Los Angeles Dodgers,Atlanta Braves,3,1
+20020508,St. Louis Cardinals,Chicago Cubs,3,2
+20020508,Milwaukee Brewers,Cincinnati Reds,5,14
+20020508,San Diego Padres,Florida Marlins,4,7
+20020508,Colorado Rockies,Montreal Expos,5,0
+20020508,San  Francisco Giants,New York Mets,8,2
+20020508,Houston Colts,Philadelpia Phillies,3,5
+20020509,Detroit Tigers,Anaheim Angels,6,7
+20020509,Cleveland Indians,Kansas City Royals,3,5
+20020509,Boston Red Sox,Oakland Athletics,5,1
+20020509,Toronto Blue Jays,Seattle Mariners,7,8
+20020509,New York Yankees,Tampa Bay Devil Rays,3,1
+20020509,Chicago White Sox,Texas Rangers,1,4
+20020509,Los Angeles Dodgers,Atlanta Braves,2,6
+20020509,Milwaukee Brewers,Chicago Cubs,9,4
+20020509,San Diego Padres,Florida Marlins,0,1
+20020509,Colorado Rockies,Montreal Expos,5,6
+20020509,San  Francisco Giants,New York Mets,4,3
+20020509,Houston Colts,Philadelpia Phillies,1,3
+20020510,Chicago White Sox,Anaheim Angels,0,19
+20020510,Cleveland Indians,Kansas City Royals,0,9
+20020510,New York Yankees,Minensota Twins,5,3
+20020510,Toronto Blue Jays,Oakland Athletics,6,2
+20020510,Boston Red Sox,Seattle Mariners,2,7
+20020510,Baltimore Orioles,Tampa Bay Devil Rays,6,5
+20020510,Detroit Tigers,Texas Rangers,0,2
+20020510,San Diego Padres,Atlanta Braves,3,7
+20020510,Milwaukee Brewers,Chicago Cubs,6,4
+20020510,St. Louis Cardinals,Cincinnati Reds,4,2
+20020510,Los Angeles Dodgers,Florida Marlins,3,4
+20020510,San  Francisco Giants,Montreal Expos,3,6
+20020510,Colorado Rockies,New York Mets,9,5
+20020510,Arizona Diamondbacks,Philadelpia Phillies,0,4
+20020510,Houston Colts,Pittsburgh Pirates,1,5
+20020511,Chicago White Sox,Anaheim Angels,3,6
+20020511,New York Yankees,Minensota Twins,4,2
+20020511,Toronto Blue Jays,Oakland Athletics,4,7
+20020511,Boston Red Sox,Seattle Mariners,1,3
+20020511,Baltimore Orioles,Tampa Bay Devil Rays,4,6
+20020511,Detroit Tigers,Texas Rangers,6,10
+20020511,San Diego Padres,Atlanta Braves,1,6
+20020511,St. Louis Cardinals,Cincinnati Reds,1,8
+20020511,Los Angeles Dodgers,Florida Marlins,3,0
+20020511,San  Francisco Giants,Montreal Expos,3,2
+20020511,Colorado Rockies,New York Mets,3,4
+20020511,Arizona Diamondbacks,Philadelpia Phillies,6,5
+20020511,Houston Colts,Pittsburgh Pirates,2,4
+20020512,Chicago White Sox,Anaheim Angels,4,5
+20020512,Cleveland Indians,Kansas City Royals,1,4
+20020512,New York Yankees,Minensota Twins,10,4
+20020512,Toronto Blue Jays,Oakland Athletics,11,4
+20020512,Boston Red Sox,Seattle Mariners,10,4
+20020512,Baltimore Orioles,Tampa Bay Devil Rays,3,6
+20020512,Detroit Tigers,Texas Rangers,1,5
+20020512,San Diego Padres,Atlanta Braves,6,5
+20020512,Milwaukee Brewers,Chicago Cubs,13,4
+20020512,St. Louis Cardinals,Cincinnati Reds,10,8
+20020512,Los Angeles Dodgers,Florida Marlins,3,11
+20020512,San  Francisco Giants,Montreal Expos,2,4
+20020512,Colorado Rockies,New York Mets,4,3
+20020512,Arizona Diamondbacks,Philadelpia Phillies,1,3
+20020512,Houston Colts,Pittsburgh Pirates,5,1
+20020513,Minensota Twins,Kansas City Royals,3,2
+20020513,Florida Marlins,Colorado Rockies,3,7
+20020513,Philadelpia Phillies,Houston Colts,3,17
+20020513,New York Mets,Los Angeles Dodgers,2,3
+20020513,Cincinnati Reds,Milwaukee Brewers,5,0
+20020513,Arizona Diamondbacks,Pittsburgh Pirates,11,0
+20020513,Montreal Expos,San Diego Padres,3,7
+20020513,Atlanta Braves,San  Francisco Giants,6,7
+20020513,Chicago Cubs,St. Louis Cardinals,0,3
+20020514,Oakland Athletics,Boston Red Sox,2,6
+20020514,Texas Rangers,Chicago White Sox,4,15
+20020514,Baltimore Orioles,Cleveland Indians,5,6
+20020514,Anaheim Angels,Detroit Tigers,9,2
+20020514,Minensota Twins,Kansas City Royals,1,8
+20020514,Tampa Bay Devil Rays,New York Yankees,3,10
+20020514,Seattle Mariners,Toronto Blue Jays,3,6
+20020514,Florida Marlins,Colorado Rockies,6,2
+20020514,Philadelpia Phillies,Houston Colts,1,5
+20020514,New York Mets,Los Angeles Dodgers,3,0
+20020514,Cincinnati Reds,Milwaukee Brewers,4,3
+20020514,Arizona Diamondbacks,Pittsburgh Pirates,1,2
+20020514,Montreal Expos,San Diego Padres,4,5
+20020514,Atlanta Braves,San  Francisco Giants,0,2
+20020514,Chicago Cubs,St. Louis Cardinals,2,11
+20020515,Oakland Athletics,Boston Red Sox,2,8
+20020515,Texas Rangers,Chicago White Sox,5,2
+20020515,Baltimore Orioles,Cleveland Indians,1,3
+20020515,Anaheim Angels,Detroit Tigers,10,1
+20020515,Minensota Twins,Kansas City Royals,8,6
+20020515,Tampa Bay Devil Rays,New York Yankees,10,7
+20020515,Seattle Mariners,Toronto Blue Jays,8,6
+20020515,Florida Marlins,Colorado Rockies,2,7
+20020515,Philadelpia Phillies,Houston Colts,2,6
+20020515,New York Mets,Los Angeles Dodgers,2,0
+20020515,Cincinnati Reds,Milwaukee Brewers,7,4
+20020515,Arizona Diamondbacks,Pittsburgh Pirates,6,2
+20020515,Montreal Expos,San Diego Padres,1,2
+20020515,Atlanta Braves,San  Francisco Giants,6,1
+20020515,Chicago Cubs,St. Louis Cardinals,1,4
+20020516,Oakland Athletics,Boston Red Sox,5,0
+20020516,Texas Rangers,Chicago White Sox,0,4
+20020516,Minensota Twins,Kansas City Royals,14,5
+20020516,Tampa Bay Devil Rays,New York Yankees,0,13
+20020516,Seattle Mariners,Toronto Blue Jays,15,2
+20020516,Philadelpia Phillies,Arizona Diamondbacks,2,4
+20020516,Florida Marlins,Colorado Rockies,3,10
+20020516,Pittsburgh Pirates,Houston Colts,1,3
+20020516,Montreal Expos,Los Angeles Dodgers,3,4
+20020516,Cincinnati Reds,Milwaukee Brewers,2,1
+20020516,New York Mets,San Diego Padres,3,1
+20020516,Atlanta Braves,San  Francisco Giants,5,4
+20020517,Tampa Bay Devil Rays,Baltimore Orioles,3,5
+20020517,Seattle Mariners,Boston Red Sox,6,3
+20020517,Anaheim Angels,Chicago White Sox,8,4
+20020517,Kansas City Royals,Cleveland Indians,6,2
+20020517,Texas Rangers,Detroit Tigers,3,6
+20020517,Minensota Twins,New York Yankees,12,13
+20020517,Oakland Athletics,Toronto Blue Jays,1,7
+20020517,Philadelpia Phillies,Arizona Diamondbacks,9,12
+20020517,Atlanta Braves,Colorado Rockies,4,2
+20020517,Pittsburgh Pirates,Houston Colts,4,7
+20020517,Montreal Expos,Los Angeles Dodgers,5,8
+20020517,Chicago Cubs,Milwaukee Brewers,2,6
+20020517,New York Mets,San Diego Padres,13,4
+20020517,Florida Marlins,San  Francisco Giants,3,9
+20020517,Cincinnati Reds,St. Louis Cardinals,1,3
+20020518,Tampa Bay Devil Rays,Baltimore Orioles,5,4
+20020518,Seattle Mariners,Boston Red Sox,1,4
+20020518,Anaheim Angels,Chicago White Sox,4,10
+20020518,Kansas City Royals,Cleveland Indians,4,2
+20020518,Kansas City Royals,Cleveland Indians,1,4
+20020518,Texas Rangers,Detroit Tigers,7,8
+20020518,Minensota Twins,New York Yankees,2,6
+20020518,Oakland Athletics,Toronto Blue Jays,3,6
+20020518,Philadelpia Phillies,Arizona Diamondbacks,4,5
+20020518,Atlanta Braves,Colorado Rockies,3,7
+20020518,Pittsburgh Pirates,Houston Colts,1,2
+20020518,Montreal Expos,Los Angeles Dodgers,3,1
+20020518,Chicago Cubs,Milwaukee Brewers,1,3
+20020518,New York Mets,San Diego Padres,5,2
+20020518,Florida Marlins,San  Francisco Giants,5,10
+20020518,Cincinnati Reds,St. Louis Cardinals,7,3
+20020519,Tampa Bay Devil Rays,Baltimore Orioles,4,0
+20020519,Seattle Mariners,Boston Red Sox,2,3
+20020519,Anaheim Angels,Chicago White Sox,6,1
+20020519,Kansas City Royals,Cleveland Indians,5,4
+20020519,Texas Rangers,Detroit Tigers,1,2
+20020519,Minensota Twins,New York Yankees,0,3
+20020519,Oakland Athletics,Toronto Blue Jays,0,11
+20020519,Philadelpia Phillies,Arizona Diamondbacks,4,3
+20020519,Atlanta Braves,Colorado Rockies,2,1
+20020519,Pittsburgh Pirates,Houston Colts,5,3
+20020519,Montreal Expos,Los Angeles Dodgers,1,10
+20020519,Chicago Cubs,Milwaukee Brewers,5,4
+20020519,New York Mets,San Diego Padres,3,4
+20020519,Florida Marlins,San  Francisco Giants,4,2
+20020519,Cincinnati Reds,St. Louis Cardinals,1,10
+20020520,Kansas City Royals,Anaheim Angels,3,6
+20020520,Chicago White Sox,Boston Red Sox,0,9
+20020520,Cleveland Indians,Detroit Tigers,3,4
+20020520,Toronto Blue Jays,New York Yankees,3,6
+20020520,Cincinnati Reds,St. Louis Cardinals,3,7
+20020521,Kansas City Royals,Anaheim Angels,1,5
+20020521,Chicago White Sox,Boston Red Sox,8,3
+20020521,Cleveland Indians,Detroit Tigers,1,5
+20020521,Texas Rangers,Minensota Twins,2,8
+20020521,Toronto Blue Jays,New York Yankees,1,4
+20020521,Baltimore Orioles,Oakland Athletics,6,4
+20020521,Tampa Bay Devil Rays,Seattle Mariners,1,0
+20020521,San  Francisco Giants,Arizona Diamondbacks,4,9
+20020521,Pittsburgh Pirates,Chicago Cubs,12,1
+20020521,Pittsburgh Pirates,Chicago Cubs,3,4
+20020521,Florida Marlins,Cincinnati Reds,1,6
+20020521,San Diego Padres,Colorado Rockies,6,7
+20020521,Los Angeles Dodgers,Milwaukee Brewers,6,8
+20020521,Atlanta Braves,Montreal Expos,4,5
+20020521,New York Mets,Philadelpia Phillies,0,4
+20020521,Houston Colts,St. Louis Cardinals,1,3
+20020522,Kansas City Royals,Anaheim Angels,6,7
+20020522,Chicago White Sox,Boston Red Sox,2,0
+20020522,Cleveland Indians,Detroit Tigers,0,2
+20020522,Texas Rangers,Minensota Twins,6,5
+20020522,Toronto Blue Jays,New York Yankees,8,3
+20020522,Baltimore Orioles,Oakland Athletics,6,7
+20020522,Tampa Bay Devil Rays,Seattle Mariners,3,2
+20020522,San  Francisco Giants,Arizona Diamondbacks,12,5
+20020522,Pittsburgh Pirates,Chicago Cubs,4,7
+20020522,Florida Marlins,Cincinnati Reds,2,6
+20020522,San Diego Padres,Colorado Rockies,3,5
+20020522,Los Angeles Dodgers,Milwaukee Brewers,1,0
+20020522,Atlanta Braves,Montreal Expos,2,0
+20020522,New York Mets,Philadelpia Phillies,2,5
+20020522,Houston Colts,St. Louis Cardinals,2,3
+20020523,New York Yankees,Boston Red Sox,1,3
+20020523,Baltimore Orioles,Oakland Athletics,11,3
+20020523,Tampa Bay Devil Rays,Seattle Mariners,3,7
+20020523,Pittsburgh Pirates,Chicago Cubs,6,11
+20020523,Florida Marlins,Cincinnati Reds,8,4
+20020523,San Diego Padres,Colorado Rockies,3,16
+20020523,Los Angeles Dodgers,Milwaukee Brewers,16,3
+20020523,New York Mets,Philadelpia Phillies,1,0
+20020523,Houston Colts,St. Louis Cardinals,4,5
+20020524,Minensota Twins,Anaheim Angels,5,1
+20020524,New York Yankees,Boston Red Sox,8,9
+20020524,Detroit Tigers,Chicago White Sox,1,12
+20020524,Tampa Bay Devil Rays,Oakland Athletics,8,9
+20020524,Baltimore Orioles,Seattle Mariners,2,6
+20020524,Cleveland Indians,Toronto Blue Jays,5,2
+20020524,Los Angeles Dodgers,Arizona Diamondbacks,3,14
+20020524,Cincinnati Reds,Atlanta Braves,2,11
+20020524,San  Francisco Giants,Colorado Rockies,5,8
+20020524,Chicago Cubs,Houston Colts,5,4
+20020524,San Diego Padres,Milwaukee Brewers,2,6
+20020524,Philadelpia Phillies,Montreal Expos,1,4
+20020524,Florida Marlins,New York Mets,4,5
+20020524,St. Louis Cardinals,Pittsburgh Pirates,2,5
+20020525,Minensota Twins,Anaheim Angels,3,4
+20020525,New York Yankees,Boston Red Sox,3,2
+20020525,Detroit Tigers,Chicago White Sox,4,6
+20020525,Texas Rangers,Kansas City Royals,3,6
+20020525,Tampa Bay Devil Rays,Oakland Athletics,0,6
+20020525,Baltimore Orioles,Seattle Mariners,3,2
+20020525,Cleveland Indians,Toronto Blue Jays,3,0
+20020525,Los Angeles Dodgers,Arizona Diamondbacks,10,5
+20020525,Cincinnati Reds,Atlanta Braves,6,4
+20020525,San  Francisco Giants,Colorado Rockies,3,6
+20020525,Chicago Cubs,Houston Colts,5,1
+20020525,San Diego Padres,Milwaukee Brewers,0,2
+20020525,Philadelpia Phillies,Montreal Expos,9,13
+20020525,Florida Marlins,New York Mets,6,5
+20020525,St. Louis Cardinals,Pittsburgh Pirates,6,3
+20020526,Minensota Twins,Anaheim Angels,5,2
+20020526,New York Yankees,Boston Red Sox,14,5
+20020526,Detroit Tigers,Chicago White Sox,9,2
+20020526,Texas Rangers,Kansas City Royals,5,7
+20020526,Texas Rangers,Kansas City Royals,8,9
+20020526,Tampa Bay Devil Rays,Oakland Athletics,0,7
+20020526,Baltimore Orioles,Seattle Mariners,1,8
+20020526,Cleveland Indians,Toronto Blue Jays,3,1
+20020526,Los Angeles Dodgers,Arizona Diamondbacks,9,10
+20020526,Cincinnati Reds,Atlanta Braves,5,7
+20020526,San  Francisco Giants,Colorado Rockies,6,10
+20020526,Chicago Cubs,Houston Colts,5,7
+20020526,San Diego Padres,Milwaukee Brewers,8,7
+20020526,Philadelpia Phillies,Montreal Expos,5,6
+20020526,Florida Marlins,New York Mets,0,3
+20020526,St. Louis Cardinals,Pittsburgh Pirates,7,3
+20020527,New York Yankees,Chicago White Sox,10,6
+20020527,Detroit Tigers,Cleveland Indians,4,1
+20020527,Minensota Twins,Texas Rangers,5,2
+20020527,Boston Red Sox,Toronto Blue Jays,8,6
+20020527,Montreal Expos,Atlanta Braves,1,5
+20020527,St. Louis Cardinals,Houston Colts,4,3
+20020527,Milwaukee Brewers,Los Angeles Dodgers,3,5
+20020527,Florida Marlins,New York Mets,5,3
+20020527,Chicago Cubs,Pittsburgh Pirates,2,3
+20020527,Colorado Rockies,San Diego Padres,5,8
+20020527,Arizona Diamondbacks,San  Francisco Giants,3,7
+20020528,Oakland Athletics,Baltimore Orioles,5,2
+20020528,New York Yankees,Chicago White Sox,4,2
+20020528,Detroit Tigers,Cleveland Indians,2,4
+20020528,Anaheim Angels,Kansas City Royals,4,7
+20020528,Seattle Mariners,Tampa Bay Devil Rays,1,5
+20020528,Minensota Twins,Texas Rangers,11,4
+20020528,Boston Red Sox,Toronto Blue Jays,6,4
+20020528,Montreal Expos,Atlanta Braves,2,5
+20020528,Cincinnati Reds,Florida Marlins,6,5
+20020528,St. Louis Cardinals,Houston Colts,4,1
+20020528,Milwaukee Brewers,Los Angeles Dodgers,4,8
+20020528,Philadelpia Phillies,New York Mets,5,3
+20020528,Chicago Cubs,Pittsburgh Pirates,3,0
+20020528,Colorado Rockies,San Diego Padres,3,2
+20020528,Arizona Diamondbacks,San  Francisco Giants,0,1
+20020529,Oakland Athletics,Baltimore Orioles,5,10
+20020529,New York Yankees,Chicago White Sox,6,3
+20020529,Detroit Tigers,Cleveland Indians,9,5
+20020529,Anaheim Angels,Kansas City Royals,12,2
+20020529,Seattle Mariners,Tampa Bay Devil Rays,5,2
+20020529,Minensota Twins,Texas Rangers,8,9
+20020529,Boston Red Sox,Toronto Blue Jays,7,4
+20020529,Montreal Expos,Atlanta Braves,4,3
+20020529,Cincinnati Reds,Florida Marlins,8,2
+20020529,St. Louis Cardinals,Houston Colts,5,10
+20020529,Milwaukee Brewers,Los Angeles Dodgers,3,4
+20020529,Philadelpia Phillies,New York Mets,3,4
+20020529,Chicago Cubs,Pittsburgh Pirates,0,5
+20020529,Colorado Rockies,San Diego Padres,3,11
+20020529,Arizona Diamondbacks,San  Francisco Giants,7,3
+20020530,Seattle Mariners,Baltimore Orioles,5,4
+20020530,Detroit Tigers,Cleveland Indians,7,11
+20020530,Anaheim Angels,Minensota Twins,6,7
+20020530,Oakland Athletics,Tampa Bay Devil Rays,3,4
+20020530,Montreal Expos,Atlanta Braves,2,5
+20020530,Cincinnati Reds,Florida Marlins,4,1
+20020530,Chicago Cubs,Pittsburgh Pirates,9,8
+20020530,Colorado Rockies,San Diego Padres,4,2
+20020530,Arizona Diamondbacks,San  Francisco Giants,1,0
+20020531,Seattle Mariners,Baltimore Orioles,7,8
+20020531,Chicago White Sox,Cleveland Indians,0,7
+20020531,Toronto Blue Jays,Detroit Tigers,4,2
+20020531,Anaheim Angels,Minensota Twins,11,3
+20020531,Boston Red Sox,New York Yankees,5,2
+20020531,Oakland Athletics,Tampa Bay Devil Rays,13,9
+20020531,Kansas City Royals,Texas Rangers,10,7
+20020531,Houston Colts,Chicago Cubs,4,1
+20020531,Atlanta Braves,Cincinnati Reds,7,0
+20020531,New York Mets,Florida Marlins,6,5
+20020531,Arizona Diamondbacks,Los Angeles Dodgers,6,3
+20020531,Montreal Expos,Philadelpia Phillies,8,7
+20020531,Milwaukee Brewers,San Diego Padres,12,1
+20020531,Colorado Rockies,San  Francisco Giants,6,2
+20020531,Pittsburgh Pirates,St. Louis Cardinals,3,1
+20020601,Seattle Mariners,Baltimore Orioles,3,4
+20020601,Chicago White Sox,Cleveland Indians,4,8
+20020601,Toronto Blue Jays,Detroit Tigers,4,1
+20020601,Anaheim Angels,Minensota Twins,2,4
+20020601,Boston Red Sox,New York Yankees,2,10
+20020601,Oakland Athletics,Tampa Bay Devil Rays,8,3
+20020601,Kansas City Royals,Texas Rangers,1,3
+20020601,Houston Colts,Chicago Cubs,7,3
+20020601,Atlanta Braves,Cincinnati Reds,7,1
+20020601,New York Mets,Florida Marlins,7,9
+20020601,Arizona Diamondbacks,Los Angeles Dodgers,0,2
+20020601,Montreal Expos,Philadelpia Phillies,4,8
+20020601,Milwaukee Brewers,San Diego Padres,4,3
+20020601,Colorado Rockies,San  Francisco Giants,5,4
+20020601,Pittsburgh Pirates,St. Louis Cardinals,4,9
+20020602,Seattle Mariners,Baltimore Orioles,11,8
+20020602,Chicago White Sox,Cleveland Indians,3,4
+20020602,Toronto Blue Jays,Detroit Tigers,7,6
+20020602,Anaheim Angels,Minensota Twins,5,4
+20020602,Boston Red Sox,New York Yankees,7,1
+20020602,Oakland Athletics,Tampa Bay Devil Rays,4,2
+20020602,Kansas City Royals,Texas Rangers,6,8
+20020602,Houston Colts,Chicago Cubs,2,4
+20020602,Atlanta Braves,Cincinnati Reds,1,5
+20020602,New York Mets,Florida Marlins,3,7
+20020602,Arizona Diamondbacks,Los Angeles Dodgers,3,6
+20020602,Montreal Expos,Philadelpia Phillies,3,18
+20020602,Milwaukee Brewers,San Diego Padres,4,3
+20020602,Colorado Rockies,San  Francisco Giants,2,9
+20020602,Pittsburgh Pirates,St. Louis Cardinals,5,2
+20020603,Texas Rangers,Anaheim Angels,2,5
+20020603,Kansas City Royals,Chicago White Sox,0,4
+20020603,Boston Red Sox,Detroit Tigers,6,7
+20020603,Baltimore Orioles,New York Yankees,4,3
+20020603,Seattle Mariners,Oakland Athletics,4,1
+20020603,Tampa Bay Devil Rays,Toronto Blue Jays,1,6
+20020603,Houston Colts,Arizona Diamondbacks,4,10
+20020603,New York Mets,Atlanta Braves,4,5
+20020603,Los Angeles Dodgers,Colorado Rockies,11,5
+20020603,Chicago Cubs,Milwaukee Brewers,6,7
+20020603,Pittsburgh Pirates,Montreal Expos,5,7
+20020603,San  Francisco Giants,San Diego Padres,11,3
+20020604,Texas Rangers,Anaheim Angels,0,3
+20020604,Kansas City Royals,Chicago White Sox,3,2
+20020604,Boston Red Sox,Detroit Tigers,10,5
+20020604,Cleveland Indians,Minensota Twins,2,23
+20020604,Baltimore Orioles,New York Yankees,5,13
+20020604,Seattle Mariners,Oakland Athletics,2,3
+20020604,Tampa Bay Devil Rays,Toronto Blue Jays,1,3
+20020604,Houston Colts,Arizona Diamondbacks,6,4
+20020604,St. Louis Cardinals,Cincinnati Reds,8,5
+20020604,Los Angeles Dodgers,Colorado Rockies,10,4
+20020604,Chicago Cubs,Milwaukee Brewers,5,6
+20020604,Pittsburgh Pirates,Montreal Expos,5,2
+20020604,Florida Marlins,Philadelpia Phillies,5,0
+20020604,San  Francisco Giants,San Diego Padres,3,1
+20020605,Texas Rangers,Anaheim Angels,5,7
+20020605,Kansas City Royals,Chicago White Sox,1,6
+20020605,Boston Red Sox,Detroit Tigers,11,0
+20020605,Cleveland Indians,Minensota Twins,6,4
+20020605,Baltimore Orioles,New York Yankees,4,3
+20020605,Seattle Mariners,Oakland Athletics,5,0
+20020605,Tampa Bay Devil Rays,Toronto Blue Jays,8,6
+20020605,Houston Colts,Arizona Diamondbacks,4,5
+20020605,New York Mets,Atlanta Braves,4,6
+20020605,Los Angeles Dodgers,Colorado Rockies,6,8
+20020605,Chicago Cubs,Milwaukee Brewers,5,1
+20020605,Pittsburgh Pirates,Montreal Expos,1,3
+20020605,Florida Marlins,Philadelpia Phillies,2,1
+20020605,San  Francisco Giants,San Diego Padres,12,2
+20020606,Texas Rangers,Anaheim Angels,9,8
+20020606,Kansas City Royals,Chicago White Sox,4,3
+20020606,Boston Red Sox,Detroit Tigers,4,3
+20020606,Cleveland Indians,Minensota Twins,3,8
+20020606,Seattle Mariners,Oakland Athletics,4,10
+20020606,Tampa Bay Devil Rays,Toronto Blue Jays,4,5
+20020606,New York Mets,Atlanta Braves,2,3
+20020606,St. Louis Cardinals,Cincinnati Reds,2,3
+20020607,Cincinnati Reds,Anaheim Angels,3,4
+20020607,Los Angeles Dodgers,Baltimore Orioles,2,4
+20020607,Arizona Diamondbacks,Boston Red Sox,7,5
+20020607,Montreal Expos,Chicago White Sox,4,3
+20020607,New York Mets,Cleveland Indians,4,3
+20020607,Philadelpia Phillies,Detroit Tigers,11,1
+20020607,St. Louis Cardinals,Kansas City Royals,12,6
+20020607,Florida Marlins,Minensota Twins,7,12
+20020607,San  Francisco Giants,New York Yankees,1,2
+20020607,Houston Colts,Oakland Athletics,3,5
+20020607,Chicago Cubs,Seattle Mariners,2,0
+20020607,San Diego Padres,Tampa Bay Devil Rays,8,4
+20020607,Atlanta Braves,Texas Rangers,13,7
+20020607,Colorado Rockies,Toronto Blue Jays,0,8
+20020607,Milwaukee Brewers,Pittsburgh Pirates,1,6
+20020608,Cincinnati Reds,Anaheim Angels,4,3
+20020608,Los Angeles Dodgers,Baltimore Orioles,8,4
+20020608,Arizona Diamondbacks,Boston Red Sox,3,2
+20020608,Montreal Expos,Chicago White Sox,2,1
+20020608,New York Mets,Cleveland Indians,8,6
+20020608,Philadelpia Phillies,Detroit Tigers,2,1
+20020608,St. Louis Cardinals,Kansas City Royals,11,3
+20020608,Florida Marlins,Minensota Twins,3,5
+20020608,San  Francisco Giants,New York Yankees,4,3
+20020608,Houston Colts,Oakland Athletics,1,5
+20020608,Chicago Cubs,Seattle Mariners,2,4
+20020608,San Diego Padres,Tampa Bay Devil Rays,2,3
+20020608,Atlanta Braves,Texas Rangers,6,3
+20020608,Colorado Rockies,Toronto Blue Jays,1,3
+20020608,Milwaukee Brewers,Pittsburgh Pirates,8,9
+20020609,Cincinnati Reds,Anaheim Angels,4,7
+20020609,Los Angeles Dodgers,Baltimore Orioles,2,1
+20020609,Arizona Diamondbacks,Boston Red Sox,7,3
+20020609,Montreal Expos,Chicago White Sox,2,13
+20020609,New York Mets,Cleveland Indians,3,8
+20020609,Philadelpia Phillies,Detroit Tigers,7,5
+20020609,St. Louis Cardinals,Kansas City Royals,2,3
+20020609,Florida Marlins,Minensota Twins,6,3
+20020609,San  Francisco Giants,New York Yankees,2,4
+20020609,Houston Colts,Oakland Athletics,6,7
+20020609,Chicago Cubs,Seattle Mariners,5,1
+20020609,San Diego Padres,Tampa Bay Devil Rays,9,6
+20020609,Atlanta Braves,Texas Rangers,9,3
+20020609,Colorado Rockies,Toronto Blue Jays,2,3
+20020609,Milwaukee Brewers,Pittsburgh Pirates,4,5
+20020610,Pittsburgh Pirates,Anaheim Angels,3,4
+20020610,San Diego Padres,Baltimore Orioles,6,8
+20020610,Colorado Rockies,Boston Red Sox,3,7
+20020610,New York Mets,Chicago White Sox,3,1
+20020610,Philadelpia Phillies,Cleveland Indians,3,1
+20020610,Montreal Expos,Detroit Tigers,4,6
+20020610,Florida Marlins,Kansas City Royals,15,8
+20020610,Atlanta Braves,Minensota Twins,5,6
+20020610,Arizona Diamondbacks,New York Yankees,5,7
+20020610,Milwaukee Brewers,Oakland Athletics,6,8
+20020610,St. Louis Cardinals,Seattle Mariners,0,10
+20020610,Los Angeles Dodgers,Tampa Bay Devil Rays,10,5
+20020610,Cincinnati Reds,Texas Rangers,2,8
+20020610,San  Francisco Giants,Toronto Blue Jays,5,6
+20020610,Chicago Cubs,Houston Colts,2,4
+20020611,Pittsburgh Pirates,Anaheim Angels,7,3
+20020611,San Diego Padres,Baltimore Orioles,5,6
+20020611,Colorado Rockies,Boston Red Sox,3,1
+20020611,New York Mets,Chicago White Sox,8,10
+20020611,Philadelpia Phillies,Cleveland Indians,1,5
+20020611,Montreal Expos,Detroit Tigers,1,2
+20020611,Florida Marlins,Kansas City Royals,0,6
+20020611,Atlanta Braves,Minensota Twins,11,0
+20020611,Arizona Diamondbacks,New York Yankees,4,6
+20020611,Milwaukee Brewers,Oakland Athletics,2,11
+20020611,St. Louis Cardinals,Seattle Mariners,7,4
+20020611,Los Angeles Dodgers,Tampa Bay Devil Rays,2,11
+20020611,Cincinnati Reds,Texas Rangers,8,5
+20020611,San  Francisco Giants,Toronto Blue Jays,9,2
+20020611,Chicago Cubs,Houston Colts,9,5
+20020612,Pittsburgh Pirates,Anaheim Angels,5,8
+20020612,San Diego Padres,Baltimore Orioles,2,0
+20020612,Colorado Rockies,Boston Red Sox,5,7
+20020612,New York Mets,Chicago White Sox,1,2
+20020612,Philadelpia Phillies,Cleveland Indians,7,3
+20020612,Montreal Expos,Detroit Tigers,2,1
+20020612,Florida Marlins,Kansas City Royals,13,5
+20020612,Atlanta Braves,Minensota Twins,3,2
+20020612,Arizona Diamondbacks,New York Yankees,9,5
+20020612,Milwaukee Brewers,Oakland Athletics,0,8
+20020612,St. Louis Cardinals,Seattle Mariners,0,5
+20020612,Los Angeles Dodgers,Tampa Bay Devil Rays,4,2
+20020612,Cincinnati Reds,Texas Rangers,4,10
+20020612,San  Francisco Giants,Toronto Blue Jays,6,3
+20020612,Chicago Cubs,Houston Colts,4,5
+20020613,Baltimore Orioles,Cleveland Indians,1,2
+20020614,Detroit Tigers,Arizona Diamondbacks,6,3
+20020614,Boston Red Sox,Atlanta Braves,1,2
+20020614,Chicago White Sox,Chicago Cubs,4,8
+20020614,Pittsburgh Pirates,Cincinnati Reds,3,4
+20020614,Cleveland Indians,Colorado Rockies,5,3
+20020614,Tampa Bay Devil Rays,Florida Marlins,4,3
+20020614,Texas Rangers,Houston Colts,9,6
+20020614,Anaheim Angels,Los Angeles Dodgers,8,4
+20020614,Minensota Twins,Milwaukee Brewers,5,7
+20020614,Toronto Blue Jays,Montreal Expos,2,8
+20020614,New York Yankees,New York Mets,4,2
+20020614,Baltimore Orioles,Philadelpia Phillies,7,3
+20020614,Seattle Mariners,San Diego Padres,6,3
+20020614,Oakland Athletics,San  Francisco Giants,3,2
+20020614,Kansas City Royals,St. Louis Cardinals,0,3
+20020615,Detroit Tigers,Arizona Diamondbacks,1,3
+20020615,Boston Red Sox,Atlanta Braves,2,4
+20020615,Chicago White Sox,Chicago Cubs,3,7
+20020615,Pittsburgh Pirates,Cincinnati Reds,3,4
+20020615,Cleveland Indians,Colorado Rockies,4,7
+20020615,Tampa Bay Devil Rays,Florida Marlins,0,3
+20020615,Texas Rangers,Houston Colts,0,4
+20020615,Anaheim Angels,Los Angeles Dodgers,5,10
+20020615,Minensota Twins,Milwaukee Brewers,5,2
+20020615,Toronto Blue Jays,Montreal Expos,3,9
+20020615,New York Yankees,New York Mets,0,8
+20020615,Baltimore Orioles,Philadelpia Phillies,3,4
+20020615,Seattle Mariners,San Diego Padres,1,3
+20020615,Oakland Athletics,San  Francisco Giants,2,6
+20020615,Kansas City Royals,St. Louis Cardinals,3,5
+20020616,Detroit Tigers,Arizona Diamondbacks,2,11
+20020616,Boston Red Sox,Atlanta Braves,6,1
+20020616,Chicago White Sox,Chicago Cubs,10,7
+20020616,Pittsburgh Pirates,Cincinnati Reds,5,1
+20020616,Cleveland Indians,Colorado Rockies,5,4
+20020616,Tampa Bay Devil Rays,Florida Marlins,4,1
+20020616,Texas Rangers,Houston Colts,6,7
+20020616,Anaheim Angels,Los Angeles Dodgers,4,5
+20020616,Minensota Twins,Milwaukee Brewers,7,6
+20020616,Toronto Blue Jays,Montreal Expos,5,6
+20020616,New York Yankees,New York Mets,2,3
+20020616,Baltimore Orioles,Philadelpia Phillies,4,2
+20020616,Seattle Mariners,San Diego Padres,3,5
+20020616,Oakland Athletics,San  Francisco Giants,2,1
+20020616,Kansas City Royals,St. Louis Cardinals,1,5
+20020617,Houston Colts,Milwaukee Brewers,2,5
+20020618,Baltimore Orioles,Arizona Diamondbacks,3,6
+20020618,Detroit Tigers,Atlanta Braves,6,0
+20020618,Texas Rangers,Chicago Cubs,3,4
+20020618,Seattle Mariners,Cincinnati Reds,8,1
+20020618,New York Yankees,Colorado Rockies,10,5
+20020618,Cleveland Indians,Florida Marlins,0,4
+20020618,Toronto Blue Jays,Los Angeles Dodgers,2,1
+20020618,Houston Colts,Milwaukee Brewers,1,7
+20020618,Kansas City Royals,Montreal Expos,4,5
+20020618,Minensota Twins,New York Mets,6,1
+20020618,Chicago White Sox,Philadelpia Phillies,6,3
+20020618,Oakland Athletics,Pittsburgh Pirates,4,2
+20020618,Boston Red Sox,San Diego Padres,4,2
+20020618,Tampa Bay Devil Rays,San  Francisco Giants,8,3
+20020618,Anaheim Angels,St. Louis Cardinals,2,7
+20020619,Baltimore Orioles,Arizona Diamondbacks,6,1
+20020619,Detroit Tigers,Atlanta Braves,1,4
+20020619,Texas Rangers,Chicago Cubs,7,4
+20020619,Seattle Mariners,Cincinnati Reds,2,0
+20020619,New York Yankees,Colorado Rockies,20,10
+20020619,Cleveland Indians,Florida Marlins,1,2
+20020619,Toronto Blue Jays,Los Angeles Dodgers,2,5
+20020619,Houston Colts,Milwaukee Brewers,1,8
+20020619,Kansas City Royals,Montreal Expos,3,6
+20020619,Minensota Twins,New York Mets,2,4
+20020619,Chicago White Sox,Philadelpia Phillies,3,4
+20020619,Oakland Athletics,Pittsburgh Pirates,3,2
+20020619,Boston Red Sox,San Diego Padres,2,3
+20020619,Tampa Bay Devil Rays,San  Francisco Giants,0,8
+20020619,Anaheim Angels,St. Louis Cardinals,2,6
+20020620,Baltimore Orioles,Arizona Diamondbacks,1,5
+20020620,Detroit Tigers,Atlanta Braves,2,3
+20020620,Texas Rangers,Chicago Cubs,7,4
+20020620,Seattle Mariners,Cincinnati Reds,3,2
+20020620,New York Yankees,Colorado Rockies,11,14
+20020620,Cleveland Indians,Florida Marlins,0,3
+20020620,Toronto Blue Jays,Los Angeles Dodgers,1,2
+20020620,Houston Colts,Milwaukee Brewers,9,3
+20020620,Kansas City Royals,Montreal Expos,4,5
+20020620,Minensota Twins,New York Mets,2,3
+20020620,Chicago White Sox,Philadelpia Phillies,6,1
+20020620,Oakland Athletics,Pittsburgh Pirates,5,3
+20020620,Boston Red Sox,San Diego Padres,5,0
+20020620,Tampa Bay Devil Rays,San  Francisco Giants,2,10
+20020620,Anaheim Angels,St. Louis Cardinals,3,2
+20020621,Toronto Blue Jays,Arizona Diamondbacks,3,4
+20020621,Chicago White Sox,Atlanta Braves,2,3
+20020621,St. Louis Cardinals,Chicago Cubs,1,2
+20020621,Oakland Athletics,Cincinnati Reds,5,3
+20020621,Tampa Bay Devil Rays,Colorado Rockies,7,8
+20020621,Detroit Tigers,Florida Marlins,1,4
+20020621,Seattle Mariners,Houston Colts,8,0
+20020621,Boston Red Sox,Los Angeles Dodgers,2,3
+20020621,Anaheim Angels,Milwaukee Brewers,11,4
+20020621,Cleveland Indians,Montreal Expos,1,3
+20020621,Kansas City Royals,New York Mets,3,4
+20020621,Minensota Twins,Philadelpia Phillies,0,3
+20020621,Texas Rangers,Pittsburgh Pirates,2,0
+20020621,New York Yankees,San Diego Padres,1,9
+20020621,Baltimore Orioles,San  Francisco Giants,3,4
+20020622,Toronto Blue Jays,Arizona Diamondbacks,6,3
+20020622,Chicago White Sox,Atlanta Braves,2,15
+20020622,Oakland Athletics,Cincinnati Reds,10,3
+20020622,Tampa Bay Devil Rays,Colorado Rockies,5,6
+20020622,Detroit Tigers,Florida Marlins,4,5
+20020622,Seattle Mariners,Houston Colts,2,3
+20020622,Boston Red Sox,Los Angeles Dodgers,4,5
+20020622,Anaheim Angels,Milwaukee Brewers,8,2
+20020622,Cleveland Indians,Montreal Expos,5,4
+20020622,Kansas City Royals,New York Mets,5,1
+20020622,Minensota Twins,Philadelpia Phillies,4,1
+20020622,Texas Rangers,Pittsburgh Pirates,3,2
+20020622,New York Yankees,San Diego Padres,1,0
+20020622,Baltimore Orioles,San  Francisco Giants,4,2
+20020623,Toronto Blue Jays,Arizona Diamondbacks,9,3
+20020623,Chicago White Sox,Atlanta Braves,1,9
+20020623,St. Louis Cardinals,Chicago Cubs,3,8
+20020623,Oakland Athletics,Cincinnati Reds,5,1
+20020623,Tampa Bay Devil Rays,Colorado Rockies,5,6
+20020623,Detroit Tigers,Florida Marlins,3,2
+20020623,Seattle Mariners,Houston Colts,10,5
+20020623,Boston Red Sox,Los Angeles Dodgers,6,9
+20020623,Anaheim Angels,Milwaukee Brewers,5,2
+20020623,Cleveland Indians,Montreal Expos,2,7
+20020623,Kansas City Royals,New York Mets,4,5
+20020623,Minensota Twins,Philadelpia Phillies,5,1
+20020623,Texas Rangers,Pittsburgh Pirates,10,4
+20020623,New York Yankees,San Diego Padres,3,2
+20020623,Baltimore Orioles,San  Francisco Giants,3,1
+20020624,Chicago White Sox,Minensota Twins,4,5
+20020624,Oakland Athletics,Seattle Mariners,13,2
+20020624,Anaheim Angels,Texas Rangers,5,8
+20020624,Anaheim Angels,Texas Rangers,2,3
+20020624,Cincinnati Reds,Chicago Cubs,4,6
+20020624,Philadelpia Phillies,Florida Marlins,15,4
+20020624,Colorado Rockies,Los Angeles Dodgers,4,1
+20020624,Atlanta Braves,New York Mets,3,2
+20020624,San  Francisco Giants,San Diego Padres,7,6
+20020625,New York Yankees,Baltimore Orioles,3,4
+20020625,Cleveland Indians,Boston Red Sox,4,2
+20020625,Detroit Tigers,Kansas City Royals,6,8
+20020625,Chicago White Sox,Minensota Twins,15,7
+20020625,Oakland Athletics,Seattle Mariners,1,7
+20020625,Toronto Blue Jays,Tampa Bay Devil Rays,20,11
+20020625,Anaheim Angels,Texas Rangers,5,11
+20020625,Cincinnati Reds,Chicago Cubs,5,2
+20020625,Philadelpia Phillies,Florida Marlins,7,6
+20020625,Arizona Diamondbacks,Houston Colts,3,7
+20020625,Colorado Rockies,Los Angeles Dodgers,0,4
+20020625,Atlanta Braves,New York Mets,4,7
+20020625,Montreal Expos,Pittsburgh Pirates,1,4
+20020625,San  Francisco Giants,San Diego Padres,7,10
+20020625,Milwaukee Brewers,St. Louis Cardinals,2,0
+20020626,New York Yankees,Baltimore Orioles,7,8
+20020626,Cleveland Indians,Boston Red Sox,4,7
+20020626,Detroit Tigers,Kansas City Royals,5,6
+20020626,Chicago White Sox,Minensota Twins,5,6
+20020626,Oakland Athletics,Seattle Mariners,0,1
+20020626,Toronto Blue Jays,Tampa Bay Devil Rays,2,4
+20020626,Anaheim Angels,Texas Rangers,7,6
+20020626,Cincinnati Reds,Chicago Cubs,8,6
+20020626,Philadelpia Phillies,Florida Marlins,2,6
+20020626,Arizona Diamondbacks,Houston Colts,9,1
+20020626,Colorado Rockies,Los Angeles Dodgers,3,5
+20020626,Atlanta Braves,New York Mets,6,3
+20020626,Montreal Expos,Pittsburgh Pirates,4,7
+20020626,San Diego Padres,San  Francisco Giants,5,6
+20020626,Milwaukee Brewers,St. Louis Cardinals,2,5
+20020627,New York Yankees,Baltimore Orioles,3,2
+20020627,Detroit Tigers,Kansas City Royals,2,5
+20020627,Chicago White Sox,Minensota Twins,7,4
+20020627,Oakland Athletics,Seattle Mariners,4,7
+20020627,Toronto Blue Jays,Tampa Bay Devil Rays,4,6
+20020627,Anaheim Angels,Texas Rangers,6,3
+20020627,Cincinnati Reds,Chicago Cubs,5,4
+20020627,Philadelpia Phillies,Florida Marlins,7,3
+20020627,Arizona Diamondbacks,Houston Colts,4,7
+20020627,Colorado Rockies,Los Angeles Dodgers,1,7
+20020627,Montreal Expos,Pittsburgh Pirates,7,2
+20020627,San Diego Padres,San  Francisco Giants,6,11
+20020627,Milwaukee Brewers,St. Louis Cardinals,7,2
+20020628,Los Angeles Dodgers,Anaheim Angels,7,5
+20020628,Philadelpia Phillies,Baltimore Orioles,6,2
+20020628,Atlanta Braves,Boston Red Sox,4,2
+20020628,Chicago Cubs,Chicago White Sox,9,13
+20020628,Arizona Diamondbacks,Cleveland Indians,2,8
+20020628,Pittsburgh Pirates,Detroit Tigers,3,1
+20020628,San Diego Padres,Kansas City Royals,10,14
+20020628,Milwaukee Brewers,Minensota Twins,1,5
+20020628,New York Mets,New York Yankees,5,11
+20020628,San  Francisco Giants,Oakland Athletics,6,10
+20020628,Colorado Rockies,Seattle Mariners,2,6
+20020628,Florida Marlins,Tampa Bay Devil Rays,0,4
+20020628,Houston Colts,Texas Rangers,6,5
+20020628,Montreal Expos,Toronto Blue Jays,2,1
+20020628,Cincinnati Reds,St. Louis Cardinals,2,3
+20020629,Los Angeles Dodgers,Anaheim Angels,0,7
+20020629,Philadelpia Phillies,Baltimore Orioles,1,11
+20020629,Atlanta Braves,Boston Red Sox,2,1
+20020629,Chicago Cubs,Chicago White Sox,4,5
+20020629,Arizona Diamondbacks,Cleveland Indians,4,2
+20020629,Pittsburgh Pirates,Detroit Tigers,1,2
+20020629,San Diego Padres,Kansas City Royals,8,4
+20020629,Milwaukee Brewers,Minensota Twins,10,2
+20020629,New York Mets,New York Yankees,11,2
+20020629,San  Francisco Giants,Oakland Athletics,5,3
+20020629,Colorado Rockies,Seattle Mariners,1,8
+20020629,Florida Marlins,Tampa Bay Devil Rays,3,2
+20020629,Houston Colts,Texas Rangers,8,5
+20020629,Montreal Expos,Toronto Blue Jays,4,5
+20020629,Cincinnati Reds,St. Louis Cardinals,4,2
+20020630,Los Angeles Dodgers,Anaheim Angels,1,5
+20020630,Philadelpia Phillies,Baltimore Orioles,8,5
+20020630,Atlanta Braves,Boston Red Sox,7,3
+20020630,Chicago Cubs,Chicago White Sox,9,2
+20020630,Arizona Diamondbacks,Cleveland Indians,5,2
+20020630,Pittsburgh Pirates,Detroit Tigers,6,2
+20020630,San Diego Padres,Kansas City Royals,1,13
+20020630,Milwaukee Brewers,Minensota Twins,3,4
+20020630,New York Mets,New York Yankees,0,8
+20020630,San  Francisco Giants,Oakland Athletics,0,7
+20020630,Colorado Rockies,Seattle Mariners,4,3
+20020630,Florida Marlins,Tampa Bay Devil Rays,5,6
+20020630,Montreal Expos,Toronto Blue Jays,5,7
+20020630,Cincinnati Reds,St. Louis Cardinals,12,8
+20020701,Toronto Blue Jays,Boston Red Sox,0,4
+20020701,Minensota Twins,Oakland Athletics,5,4
+20020701,Kansas City Royals,Seattle Mariners,0,7
+20020701,Los Angeles Dodgers,Arizona Diamondbacks,4,0
+20020701,Montreal Expos,Atlanta Braves,5,7
+20020701,Houston Colts,Cincinnati Reds,5,7
+20020701,San  Francisco Giants,Colorado Rockies,8,6
+20020701,Chicago Cubs,Florida Marlins,1,11
+20020701,New York Mets,Philadelpia Phillies,3,6
+20020701,Milwaukee Brewers,Pittsburgh Pirates,2,0
+20020701,San Diego Padres,St. Louis Cardinals,3,7
+20020702,Baltimore Orioles,Anaheim Angels,3,0
+20020702,Toronto Blue Jays,Boston Red Sox,1,2
+20020702,Toronto Blue Jays,Boston Red Sox,4,6
+20020702,Detroit Tigers,Chicago White Sox,9,17
+20020702,Cleveland Indians,New York Yankees,5,10
+20020702,Minensota Twins,Oakland Athletics,3,4
+20020702,Kansas City Royals,Seattle Mariners,7,5
+20020702,Tampa Bay Devil Rays,Texas Rangers,1,3
+20020702,Los Angeles Dodgers,Arizona Diamondbacks,8,0
+20020702,Montreal Expos,Atlanta Braves,5,2
+20020702,Houston Colts,Cincinnati Reds,6,5
+20020702,San  Francisco Giants,Colorado Rockies,18,5
+20020702,Chicago Cubs,Florida Marlins,7,9
+20020702,New York Mets,Philadelpia Phillies,12,6
+20020702,Milwaukee Brewers,Pittsburgh Pirates,12,6
+20020702,San Diego Padres,St. Louis Cardinals,5,11
+20020703,Baltimore Orioles,Anaheim Angels,0,1
+20020703,Toronto Blue Jays,Boston Red Sox,2,5
+20020703,Detroit Tigers,Chicago White Sox,5,4
+20020703,Cleveland Indians,New York Yankees,8,11
+20020703,Minensota Twins,Oakland Athletics,2,1
+20020703,Kansas City Royals,Seattle Mariners,0,3
+20020703,Tampa Bay Devil Rays,Texas Rangers,5,6
+20020703,Los Angeles Dodgers,Arizona Diamondbacks,3,5
+20020703,Montreal Expos,Atlanta Braves,5,6
+20020703,Houston Colts,Cincinnati Reds,11,4
+20020703,San  Francisco Giants,Colorado Rockies,4,14
+20020703,Chicago Cubs,Florida Marlins,6,2
+20020703,New York Mets,Philadelpia Phillies,7,8
+20020703,Milwaukee Brewers,Pittsburgh Pirates,1,3
+20020703,San Diego Padres,St. Louis Cardinals,1,4
+20020704,Baltimore Orioles,Anaheim Angels,7,2
+20020704,Toronto Blue Jays,Boston Red Sox,5,9
+20020704,Detroit Tigers,Chicago White Sox,6,5
+20020704,Cleveland Indians,New York Yankees,1,7
+20020704,Kansas City Royals,Oakland Athletics,2,3
+20020704,Minensota Twins,Seattle Mariners,1,2
+20020704,Tampa Bay Devil Rays,Texas Rangers,8,11
+20020704,San  Francisco Giants,Arizona Diamondbacks,3,6
+20020704,Chicago Cubs,Atlanta Braves,1,5
+20020704,Milwaukee Brewers,Cincinnati Reds,5,4
+20020704,New York Mets,Florida Marlins,7,9
+20020704,Montreal Expos,Philadelpia Phillies,2,1
+20020704,Houston Colts,Pittsburgh Pirates,8,6
+20020704,Los Angeles Dodgers,St. Louis Cardinals,2,3
+20020705,Tampa Bay Devil Rays,Anaheim Angels,5,6
+20020705,Detroit Tigers,Boston Red Sox,9,5
+20020705,Cleveland Indians,Chicago White Sox,4,2
+20020705,Toronto Blue Jays,New York Yankees,3,6
+20020705,Kansas City Royals,Oakland Athletics,3,4
+20020705,Minensota Twins,Seattle Mariners,8,4
+20020705,Baltimore Orioles,Texas Rangers,6,7
+20020705,San  Francisco Giants,Arizona Diamondbacks,1,2
+20020705,Chicago Cubs,Atlanta Braves,3,4
+20020705,Milwaukee Brewers,Cincinnati Reds,6,8
+20020705,San Diego Padres,Colorado Rockies,6,9
+20020705,New York Mets,Florida Marlins,5,3
+20020705,Montreal Expos,Philadelpia Phillies,8,3
+20020705,Houston Colts,Pittsburgh Pirates,3,4
+20020705,Los Angeles Dodgers,St. Louis Cardinals,6,5
+20020706,Tampa Bay Devil Rays,Anaheim Angels,3,4
+20020706,Detroit Tigers,Boston Red Sox,0,8
+20020706,Cleveland Indians,Chicago White Sox,3,7
+20020706,Toronto Blue Jays,New York Yankees,8,3
+20020706,Kansas City Royals,Oakland Athletics,4,3
+20020706,Minensota Twins,Seattle Mariners,7,2
+20020706,Baltimore Orioles,Texas Rangers,7,5
+20020706,San  Francisco Giants,Arizona Diamondbacks,3,2
+20020706,Chicago Cubs,Atlanta Braves,7,3
+20020706,Milwaukee Brewers,Cincinnati Reds,4,6
+20020706,San Diego Padres,Colorado Rockies,2,3
+20020706,New York Mets,Florida Marlins,2,5
+20020706,Montreal Expos,Philadelpia Phillies,5,3
+20020706,Houston Colts,Pittsburgh Pirates,10,2
+20020706,Los Angeles Dodgers,St. Louis Cardinals,4,2
+20020707,Tampa Bay Devil Rays,Anaheim Angels,1,2
+20020707,Detroit Tigers,Boston Red Sox,9,8
+20020707,Cleveland Indians,Chicago White Sox,9,3
+20020707,Toronto Blue Jays,New York Yankees,6,10
+20020707,Kansas City Royals,Oakland Athletics,2,3
+20020707,Minensota Twins,Seattle Mariners,2,8
+20020707,Baltimore Orioles,Texas Rangers,10,4
+20020707,San  Francisco Giants,Arizona Diamondbacks,5,2
+20020707,Chicago Cubs,Atlanta Braves,0,2
+20020707,Milwaukee Brewers,Cincinnati Reds,7,4
+20020707,San Diego Padres,Colorado Rockies,7,1
+20020707,New York Mets,Florida Marlins,9,3
+20020707,Montreal Expos,Philadelpia Phillies,8,10
+20020707,Houston Colts,Pittsburgh Pirates,6,1
+20020707,Los Angeles Dodgers,St. Louis Cardinals,6,12
+20020711,Oakland Athletics,Baltimore Orioles,4,1
+20020711,New York Yankees,Cleveland Indians,7,4
+20020711,Chicago White Sox,Detroit Tigers,9,2
+20020711,Anaheim Angels,Kansas City Royals,1,0
+20020711,Texas Rangers,Minensota Twins,3,4
+20020711,Seattle Mariners,Tampa Bay Devil Rays,4,0
+20020711,Boston Red Sox,Toronto Blue Jays,10,3
+20020711,Cincinnati Reds,Houston Colts,3,4
+20020711,Arizona Diamondbacks,Los Angeles Dodgers,4,3
+20020711,Pittsburgh Pirates,Milwaukee Brewers,3,2
+20020711,Atlanta Braves,Montreal Expos,8,5
+20020711,Philadelpia Phillies,New York Mets,1,9
+20020711,Colorado Rockies,San  Francisco Giants,2,3
+20020712,Oakland Athletics,Baltimore Orioles,1,0
+20020712,New York Yankees,Cleveland Indians,1,2
+20020712,Chicago White Sox,Detroit Tigers,1,2
+20020712,Anaheim Angels,Kansas City Royals,11,3
+20020712,Texas Rangers,Minensota Twins,3,4
+20020712,Seattle Mariners,Tampa Bay Devil Rays,2,1
+20020712,Boston Red Sox,Toronto Blue Jays,0,5
+20020712,Florida Marlins,Chicago Cubs,4,5
+20020712,Cincinnati Reds,Houston Colts,3,6
+20020712,Arizona Diamondbacks,Los Angeles Dodgers,3,2
+20020712,Pittsburgh Pirates,Milwaukee Brewers,9,2
+20020712,Atlanta Braves,Montreal Expos,8,3
+20020712,Philadelpia Phillies,New York Mets,9,8
+20020712,St. Louis Cardinals,San Diego Padres,3,4
+20020712,Colorado Rockies,San  Francisco Giants,0,9
+20020713,Oakland Athletics,Baltimore Orioles,6,0
+20020713,New York Yankees,Cleveland Indians,14,5
+20020713,Chicago White Sox,Detroit Tigers,3,5
+20020713,Chicago White Sox,Detroit Tigers,1,3
+20020713,Anaheim Angels,Kansas City Royals,0,4
+20020713,Texas Rangers,Minensota Twins,8,1
+20020713,Seattle Mariners,Tampa Bay Devil Rays,3,4
+20020713,Boston Red Sox,Toronto Blue Jays,1,4
+20020713,Florida Marlins,Chicago Cubs,2,9
+20020713,Cincinnati Reds,Houston Colts,1,2
+20020713,Arizona Diamondbacks,Los Angeles Dodgers,7,5
+20020713,Pittsburgh Pirates,Milwaukee Brewers,5,3
+20020713,Atlanta Braves,Montreal Expos,3,6
+20020713,Philadelpia Phillies,New York Mets,7,6
+20020713,St. Louis Cardinals,San Diego Padres,2,1
+20020713,Colorado Rockies,San  Francisco Giants,1,6
+20020714,Oakland Athletics,Baltimore Orioles,3,6
+20020714,New York Yankees,Cleveland Indians,7,10
+20020714,Chicago White Sox,Detroit Tigers,6,4
+20020714,Anaheim Angels,Kansas City Royals,3,12
+20020714,Texas Rangers,Minensota Twins,4,5
+20020714,Seattle Mariners,Tampa Bay Devil Rays,7,6
+20020714,Boston Red Sox,Toronto Blue Jays,5,6
+20020714,Florida Marlins,Chicago Cubs,3,10
+20020714,Cincinnati Reds,Houston Colts,8,3
+20020714,Arizona Diamondbacks,Los Angeles Dodgers,1,2
+20020714,Pittsburgh Pirates,Milwaukee Brewers,3,5
+20020714,Atlanta Braves,Montreal Expos,3,10
+20020714,Philadelpia Phillies,New York Mets,2,4
+20020714,St. Louis Cardinals,San Diego Padres,4,1
+20020714,Colorado Rockies,San  Francisco Giants,5,3
+20020715,Seattle Mariners,Baltimore Orioles,5,6
+20020715,Chicago White Sox,Cleveland Indians,1,7
+20020715,Boston Red Sox,Detroit Tigers,3,4
+20020715,Texas Rangers,Kansas City Royals,6,8
+20020715,Texas Rangers,Kansas City Royals,4,6
+20020715,Anaheim Angels,Minensota Twins,8,10
+20020715,Oakland Athletics,Tampa Bay Devil Rays,4,0
+20020715,New York Yankees,Toronto Blue Jays,5,8
+20020715,Atlanta Braves,Chicago Cubs,2,3
+20020715,Pittsburgh Pirates,Houston Colts,5,4
+20020715,St. Louis Cardinals,Los Angeles Dodgers,4,2
+20020715,Cincinnati Reds,Milwaukee Brewers,2,0
+20020715,Philadelpia Phillies,Montreal Expos,11,8
+20020715,Florida Marlins,New York Mets,3,8
+20020715,Colorado Rockies,San Diego Padres,5,0
+20020715,Arizona Diamondbacks,San  Francisco Giants,3,6
+20020716,Seattle Mariners,Baltimore Orioles,1,6
+20020716,Chicago White Sox,Cleveland Indians,5,4
+20020716,Boston Red Sox,Detroit Tigers,9,4
+20020716,Texas Rangers,Kansas City Royals,5,6
+20020716,Anaheim Angels,Minensota Twins,4,2
+20020716,Oakland Athletics,Tampa Bay Devil Rays,2,1
+20020716,New York Yankees,Toronto Blue Jays,7,6
+20020716,Atlanta Braves,Chicago Cubs,2,0
+20020716,Pittsburgh Pirates,Houston Colts,7,3
+20020716,St. Louis Cardinals,Los Angeles Dodgers,9,2
+20020716,Cincinnati Reds,Milwaukee Brewers,6,1
+20020716,Philadelpia Phillies,Montreal Expos,6,3
+20020716,Florida Marlins,New York Mets,5,10
+20020716,Colorado Rockies,San Diego Padres,1,5
+20020716,Arizona Diamondbacks,San  Francisco Giants,5,3
+20020717,Minensota Twins,Cleveland Indians,8,5
+20020717,Chicago White Sox,Kansas City Royals,6,8
+20020717,Detroit Tigers,New York Yankees,1,2
+20020717,Anaheim Angels,Oakland Athletics,10,4
+20020717,Boston Red Sox,Tampa Bay Devil Rays,6,1
+20020717,Seattle Mariners,Texas Rangers,6,3
+20020717,Baltimore Orioles,Toronto Blue Jays,1,7
+20020717,Florida Marlins,Atlanta Braves,0,10
+20020717,Arizona Diamondbacks,Colorado Rockies,12,3
+20020717,San Diego Padres,Los Angeles Dodgers,7,0
+20020717,Houston Colts,Milwaukee Brewers,7,3
+20020717,New York Mets,Montreal Expos,9,6
+20020717,Chicago Cubs,Philadelpia Phillies,3,4
+20020717,Cincinnati Reds,Pittsburgh Pirates,3,6
+20020717,San  Francisco Giants,St. Louis Cardinals,5,4
+20020718,Minensota Twins,Cleveland Indians,8,6
+20020718,Chicago White Sox,Kansas City Royals,3,5
+20020718,Detroit Tigers,New York Yankees,5,6
+20020718,Anaheim Angels,Oakland Athletics,0,2
+20020718,Boston Red Sox,Tampa Bay Devil Rays,4,3
+20020718,Seattle Mariners,Texas Rangers,5,3
+20020718,Baltimore Orioles,Toronto Blue Jays,4,5
+20020718,Florida Marlins,Atlanta Braves,1,3
+20020718,Arizona Diamondbacks,Colorado Rockies,4,6
+20020718,San Diego Padres,Los Angeles Dodgers,4,1
+20020718,Houston Colts,Milwaukee Brewers,4,2
+20020718,New York Mets,Montreal Expos,1,2
+20020718,Chicago Cubs,Philadelpia Phillies,6,4
+20020718,Cincinnati Reds,Pittsburgh Pirates,7,5
+20020718,San  Francisco Giants,St. Louis Cardinals,1,5
+20020719,Seattle Mariners,Anaheim Angels,3,15
+20020719,Chicago White Sox,Baltimore Orioles,4,10
+20020719,Minensota Twins,Detroit Tigers,5,1
+20020719,Cleveland Indians,Kansas City Royals,5,8
+20020719,Boston Red Sox,New York Yankees,4,2
+20020719,Texas Rangers,Oakland Athletics,0,10
+20020719,Tampa Bay Devil Rays,Toronto Blue Jays,8,11
+20020719,Houston Colts,Chicago Cubs,0,5
+20020719,New York Mets,Cincinnati Reds,4,2
+20020719,Milwaukee Brewers,Colorado Rockies,5,9
+20020719,Montreal Expos,Florida Marlins,2,4
+20020719,San  Francisco Giants,Los Angeles Dodgers,3,2
+20020719,Atlanta Braves,Philadelpia Phillies,4,1
+20020719,St. Louis Cardinals,Pittsburgh Pirates,9,12
+20020719,Arizona Diamondbacks,San Diego Padres,1,6
+20020720,Seattle Mariners,Anaheim Angels,6,7
+20020720,Chicago White Sox,Baltimore Orioles,3,4
+20020720,Minensota Twins,Detroit Tigers,14,4
+20020720,Cleveland Indians,Kansas City Royals,5,7
+20020720,Cleveland Indians,Kansas City Royals,5,3
+20020720,Boston Red Sox,New York Yankees,8,9
+20020720,Texas Rangers,Oakland Athletics,5,6
+20020720,Tampa Bay Devil Rays,Toronto Blue Jays,10,12
+20020720,Houston Colts,Chicago Cubs,3,2
+20020720,New York Mets,Cincinnati Reds,8,7
+20020720,Milwaukee Brewers,Colorado Rockies,5,6
+20020720,Montreal Expos,Florida Marlins,0,3
+20020720,San  Francisco Giants,Los Angeles Dodgers,2,4
+20020720,Atlanta Braves,Philadelpia Phillies,4,3
+20020720,St. Louis Cardinals,Pittsburgh Pirates,6,15
+20020720,Arizona Diamondbacks,San Diego Padres,7,1
+20020721,Seattle Mariners,Anaheim Angels,5,7
+20020721,Chicago White Sox,Baltimore Orioles,8,7
+20020721,Minensota Twins,Detroit Tigers,4,2
+20020721,Cleveland Indians,Kansas City Royals,12,13
+20020721,Boston Red Sox,New York Yankees,8,9
+20020721,Texas Rangers,Oakland Athletics,7,3
+20020721,Tampa Bay Devil Rays,Toronto Blue Jays,7,5
+20020721,Houston Colts,Chicago Cubs,2,3
+20020721,New York Mets,Cincinnati Reds,1,9
+20020721,Milwaukee Brewers,Colorado Rockies,4,6
+20020721,Montreal Expos,Florida Marlins,0,4
+20020721,San  Francisco Giants,Los Angeles Dodgers,6,4
+20020721,Atlanta Braves,Philadelpia Phillies,2,1
+20020721,St. Louis Cardinals,Pittsburgh Pirates,8,4
+20020721,Arizona Diamondbacks,San Diego Padres,9,11
+20020722,Toronto Blue Jays,Baltimore Orioles,6,3
+20020722,Minensota Twins,Chicago White Sox,11,6
+20020722,Colorado Rockies,Arizona Diamondbacks,1,5
+20020722,Philadelpia Phillies,Chicago Cubs,6,7
+20020722,Pittsburgh Pirates,Cincinnati Reds,6,5
+20020722,Atlanta Braves,Florida Marlins,1,2
+20020722,Milwaukee Brewers,Houston Colts,1,3
+20020722,Montreal Expos,New York Mets,2,5
+20020722,Los Angeles Dodgers,San Diego Padres,2,5
+20020722,St. Louis Cardinals,San  Francisco Giants,5,3
+20020723,Oakland Athletics,Anaheim Angels,2,1
+20020723,Tampa Bay Devil Rays,Boston Red Sox,4,22
+20020723,Tampa Bay Devil Rays,Boston Red Sox,5,4
+20020723,Minensota Twins,Chicago White Sox,7,8
+20020723,New York Yankees,Cleveland Indians,3,9
+20020723,Kansas City Royals,Detroit Tigers,1,10
+20020723,Texas Rangers,Seattle Mariners,1,4
+20020723,Colorado Rockies,Arizona Diamondbacks,5,8
+20020723,Philadelpia Phillies,Chicago Cubs,7,4
+20020723,Pittsburgh Pirates,Cincinnati Reds,2,7
+20020723,Atlanta Braves,Florida Marlins,5,3
+20020723,Milwaukee Brewers,Houston Colts,4,7
+20020723,Montreal Expos,New York Mets,3,4
+20020723,Los Angeles Dodgers,San Diego Padres,8,6
+20020723,St. Louis Cardinals,San  Francisco Giants,4,0
+20020724,Oakland Athletics,Anaheim Angels,1,5
+20020724,Toronto Blue Jays,Baltimore Orioles,5,2
+20020724,Tampa Bay Devil Rays,Boston Red Sox,9,5
+20020724,Minensota Twins,Chicago White Sox,8,1
+20020724,New York Yankees,Cleveland Indians,14,7
+20020724,Kansas City Royals,Detroit Tigers,0,3
+20020724,Texas Rangers,Seattle Mariners,4,3
+20020724,Colorado Rockies,Arizona Diamondbacks,1,7
+20020724,Philadelpia Phillies,Chicago Cubs,4,2
+20020724,Pittsburgh Pirates,Cincinnati Reds,5,10
+20020724,Atlanta Braves,Florida Marlins,10,0
+20020724,Milwaukee Brewers,Houston Colts,12,8
+20020724,Montreal Expos,New York Mets,2,1
+20020724,Los Angeles Dodgers,San Diego Padres,0,8
+20020724,St. Louis Cardinals,San  Francisco Giants,4,6
+20020725,Oakland Athletics,Anaheim Angels,4,5
+20020725,Tampa Bay Devil Rays,Boston Red Sox,0,6
+20020725,Kansas City Royals,Detroit Tigers,2,5
+20020725,Texas Rangers,Seattle Mariners,2,7
+20020725,San Diego Padres,Arizona Diamondbacks,0,10
+20020725,Philadelpia Phillies,Chicago Cubs,6,2
+20020725,Pittsburgh Pirates,Houston Colts,0,8
+20020725,Florida Marlins,Montreal Expos,3,2
+20020725,St. Louis Cardinals,San  Francisco Giants,4,3
+20020726,Baltimore Orioles,Boston Red Sox,9,2
+20020726,Kansas City Royals,Chicago White Sox,2,10
+20020726,Detroit Tigers,Cleveland Indians,8,5
+20020726,Toronto Blue Jays,Minensota Twins,5,10
+20020726,Anaheim Angels,Seattle Mariners,8,0
+20020726,New York Yankees,Tampa Bay Devil Rays,12,9
+20020726,Oakland Athletics,Texas Rangers,4,12
+20020726,San Diego Padres,Arizona Diamondbacks,0,12
+20020726,Philadelpia Phillies,Atlanta Braves,3,2
+20020726,Pittsburgh Pirates,Houston Colts,3,4
+20020726,Colorado Rockies,Milwaukee Brewers,3,10
+20020726,Florida Marlins,Montreal Expos,5,6
+20020726,Cincinnati Reds,New York Mets,2,3
+20020726,Los Angeles Dodgers,San  Francisco Giants,11,6
+20020726,Chicago Cubs,St. Louis Cardinals,4,8
+20020727,Baltimore Orioles,Boston Red Sox,0,4
+20020727,Kansas City Royals,Chicago White Sox,1,9
+20020727,Detroit Tigers,Cleveland Indians,5,1
+20020727,Toronto Blue Jays,Minensota Twins,4,5
+20020727,Anaheim Angels,Seattle Mariners,1,3
+20020727,New York Yankees,Tampa Bay Devil Rays,4,7
+20020727,Oakland Athletics,Texas Rangers,6,10
+20020727,San Diego Padres,Arizona Diamondbacks,3,4
+20020727,Philadelpia Phillies,Atlanta Braves,3,5
+20020727,Pittsburgh Pirates,Houston Colts,0,3
+20020727,Colorado Rockies,Milwaukee Brewers,5,6
+20020727,Florida Marlins,Montreal Expos,7,2
+20020727,Cincinnati Reds,New York Mets,2,1
+20020727,Los Angeles Dodgers,San  Francisco Giants,5,1
+20020727,Chicago Cubs,St. Louis Cardinals,7,3
+20020728,Baltimore Orioles,Boston Red Sox,3,12
+20020728,Kansas City Royals,Chicago White Sox,2,4
+20020728,Detroit Tigers,Cleveland Indians,6,9
+20020728,Toronto Blue Jays,Minensota Twins,0,4
+20020728,Anaheim Angels,Seattle Mariners,1,0
+20020728,New York Yankees,Tampa Bay Devil Rays,9,1
+20020728,Oakland Athletics,Texas Rangers,12,2
+20020728,San Diego Padres,Arizona Diamondbacks,4,5
+20020728,Philadelpia Phillies,Atlanta Braves,7,1
+20020728,Pittsburgh Pirates,Houston Colts,0,4
+20020728,Colorado Rockies,Milwaukee Brewers,3,5
+20020728,Florida Marlins,Montreal Expos,1,4
+20020728,Cincinnati Reds,New York Mets,5,6
+20020728,Los Angeles Dodgers,San  Francisco Giants,1,3
+20020728,Chicago Cubs,St. Louis Cardinals,9,10
+20020729,Boston Red Sox,Anaheim Angels,4,5
+20020729,Toronto Blue Jays,Kansas City Royals,1,4
+20020729,Cleveland Indians,Oakland Athletics,8,6
+20020729,Detroit Tigers,Seattle Mariners,3,4
+20020729,Baltimore Orioles,Tampa Bay Devil Rays,1,6
+20020729,New York Yankees,Texas Rangers,9,2
+20020730,Boston Red Sox,Anaheim Angels,6,0
+20020730,Toronto Blue Jays,Kansas City Royals,13,4
+20020730,Chicago White Sox,Minensota Twins,3,0
+20020730,Cleveland Indians,Oakland Athletics,5,4
+20020730,Detroit Tigers,Seattle Mariners,4,5
+20020730,Baltimore Orioles,Tampa Bay Devil Rays,3,10
+20020730,New York Yankees,Texas Rangers,9,6
+20020730,Milwaukee Brewers,Atlanta Braves,2,3
+20020730,San Diego Padres,Chicago Cubs,6,5
+20020730,Los Angeles Dodgers,Cincinnati Reds,4,12
+20020730,St. Louis Cardinals,Florida Marlins,5,0
+20020730,Arizona Diamondbacks,Montreal Expos,4,5
+20020730,Houston Colts,New York Mets,16,3
+20020730,San  Francisco Giants,Philadelpia Phillies,10,3
+20020730,Colorado Rockies,Pittsburgh Pirates,1,4
+20020731,Boston Red Sox,Anaheim Angels,2,1
+20020731,Toronto Blue Jays,Kansas City Royals,9,2
+20020731,Chicago White Sox,Minensota Twins,1,2
+20020731,Cleveland Indians,Oakland Athletics,4,6
+20020731,Detroit Tigers,Seattle Mariners,2,5
+20020731,Baltimore Orioles,Tampa Bay Devil Rays,12,2
+20020731,New York Yankees,Texas Rangers,6,17
+20020731,Milwaukee Brewers,Atlanta Braves,1,9
+20020731,San Diego Padres,Chicago Cubs,8,6
+20020731,Los Angeles Dodgers,Cincinnati Reds,11,5
+20020731,St. Louis Cardinals,Florida Marlins,5,8
+20020731,Arizona Diamondbacks,Montreal Expos,5,1
+20020731,Houston Colts,New York Mets,0,10
+20020731,San  Francisco Giants,Philadelpia Phillies,6,8
+20020731,Colorado Rockies,Pittsburgh Pirates,6,7
+20020801,New York Yankees,Anaheim Angels,1,2
+20020801,Toronto Blue Jays,Kansas City Royals,3,2
+20020801,Chicago White Sox,Minensota Twins,0,6
+20020801,Detroit Tigers,Oakland Athletics,3,5
+20020801,Cleveland Indians,Seattle Mariners,6,10
+20020801,Baltimore Orioles,Tampa Bay Devil Rays,4,3
+20020801,Boston Red Sox,Texas Rangers,7,19
+20020801,Milwaukee Brewers,Atlanta Braves,0,4
+20020801,San Diego Padres,Chicago Cubs,7,8
+20020801,Los Angeles Dodgers,Cincinnati Reds,4,6
+20020801,St. Louis Cardinals,Florida Marlins,0,4
+20020801,Arizona Diamondbacks,Montreal Expos,1,2
+20020801,Houston Colts,New York Mets,3,1
+20020801,San  Francisco Giants,Philadelpia Phillies,1,2
+20020801,Colorado Rockies,Pittsburgh Pirates,3,0
+20020802,New York Yankees,Anaheim Angels,4,0
+20020802,Kansas City Royals,Minensota Twins,1,2
+20020802,Detroit Tigers,Oakland Athletics,3,1
+20020802,Cleveland Indians,Seattle Mariners,1,3
+20020802,Chicago White Sox,Tampa Bay Devil Rays,8,5
+20020802,Boston Red Sox,Texas Rangers,13,0
+20020802,Baltimore Orioles,Toronto Blue Jays,9,8
+20020802,St. Louis Cardinals,Atlanta Braves,5,11
+20020802,Colorado Rockies,Chicago Cubs,4,6
+20020802,Milwaukee Brewers,Florida Marlins,1,0
+20020802,Houston Colts,Montreal Expos,1,3
+20020802,Los Angeles Dodgers,Philadelpia Phillies,1,3
+20020802,San  Francisco Giants,Pittsburgh Pirates,5,6
+20020802,Cincinnati Reds,San Diego Padres,2,5
+20020803,New York Yankees,Anaheim Angels,4,5
+20020803,Kansas City Royals,Minensota Twins,3,4
+20020803,Detroit Tigers,Oakland Athletics,4,8
+20020803,Cleveland Indians,Seattle Mariners,4,12
+20020803,Chicago White Sox,Tampa Bay Devil Rays,2,6
+20020803,Boston Red Sox,Texas Rangers,6,8
+20020803,Baltimore Orioles,Toronto Blue Jays,8,4
+20020803,St. Louis Cardinals,Atlanta Braves,1,6
+20020803,Colorado Rockies,Chicago Cubs,2,1
+20020803,Milwaukee Brewers,Florida Marlins,7,11
+20020803,Houston Colts,Montreal Expos,5,3
+20020803,Arizona Diamondbacks,New York Mets,8,5
+20020803,Arizona Diamondbacks,New York Mets,9,2
+20020803,Los Angeles Dodgers,Philadelpia Phillies,8,6
+20020803,San  Francisco Giants,Pittsburgh Pirates,11,6
+20020803,Cincinnati Reds,San Diego Padres,4,3
+20020804,New York Yankees,Anaheim Angels,7,5
+20020804,Kansas City Royals,Minensota Twins,4,5
+20020804,Detroit Tigers,Oakland Athletics,0,4
+20020804,Cleveland Indians,Seattle Mariners,10,8
+20020804,Chicago White Sox,Tampa Bay Devil Rays,3,10
+20020804,Boston Red Sox,Texas Rangers,11,3
+20020804,Baltimore Orioles,Toronto Blue Jays,4,5
+20020804,St. Louis Cardinals,Atlanta Braves,1,2
+20020804,Colorado Rockies,Chicago Cubs,1,4
+20020804,Milwaukee Brewers,Florida Marlins,2,7
+20020804,Houston Colts,Montreal Expos,5,4
+20020804,Arizona Diamondbacks,New York Mets,12,7
+20020804,Los Angeles Dodgers,Philadelpia Phillies,4,3
+20020804,San  Francisco Giants,Pittsburgh Pirates,10,5
+20020804,Cincinnati Reds,San Diego Padres,15,10
+20020805,Anaheim Angels,Detroit Tigers,6,3
+20020805,Kansas City Royals,Minensota Twins,12,4
+20020805,Chicago White Sox,Tampa Bay Devil Rays,4,3
+20020805,Baltimore Orioles,Toronto Blue Jays,1,7
+20020805,Arizona Diamondbacks,New York Mets,2,0
+20020805,Los Angeles Dodgers,Philadelpia Phillies,5,7
+20020806,Minensota Twins,Baltimore Orioles,2,9
+20020806,Oakland Athletics,Boston Red Sox,9,1
+20020806,Anaheim Angels,Chicago White Sox,11,2
+20020806,Tampa Bay Devil Rays,Cleveland Indians,2,4
+20020806,Texas Rangers,Detroit Tigers,2,8
+20020806,Kansas City Royals,New York Yankees,6,2
+20020806,Seattle Mariners,Toronto Blue Jays,12,14
+20020806,Atlanta Braves,Arizona Diamondbacks,4,3
+20020806,Cincinnati Reds,Colorado Rockies,6,7
+20020806,Florida Marlins,Houston Colts,0,2
+20020806,Pittsburgh Pirates,Los Angeles Dodgers,3,1
+20020806,New York Mets,Milwaukee Brewers,5,1
+20020806,Philadelpia Phillies,San Diego Padres,5,4
+20020806,Chicago Cubs,San  Francisco Giants,10,11
+20020806,Montreal Expos,St. Louis Cardinals,10,1
+20020807,Minensota Twins,Baltimore Orioles,4,6
+20020807,Oakland Athletics,Boston Red Sox,3,2
+20020807,Anaheim Angels,Chicago White Sox,6,7
+20020807,Tampa Bay Devil Rays,Cleveland Indians,2,6
+20020807,Texas Rangers,Detroit Tigers,7,2
+20020807,Kansas City Royals,New York Yankees,2,6
+20020807,Seattle Mariners,Toronto Blue Jays,5,4
+20020807,Atlanta Braves,Arizona Diamondbacks,3,6
+20020807,Cincinnati Reds,Colorado Rockies,2,7
+20020807,Florida Marlins,Houston Colts,2,7
+20020807,Pittsburgh Pirates,Los Angeles Dodgers,0,4
+20020807,New York Mets,Milwaukee Brewers,2,6
+20020807,Philadelpia Phillies,San Diego Padres,2,5
+20020807,Chicago Cubs,San  Francisco Giants,3,4
+20020807,Montreal Expos,St. Louis Cardinals,4,1
+20020808,Minensota Twins,Baltimore Orioles,1,4
+20020808,Oakland Athletics,Boston Red Sox,2,4
+20020808,Anaheim Angels,Chicago White Sox,2,3
+20020808,Tampa Bay Devil Rays,Cleveland Indians,4,2
+20020808,Texas Rangers,Detroit Tigers,1,2
+20020808,Kansas City Royals,New York Yankees,3,6
+20020808,Seattle Mariners,Toronto Blue Jays,3,1
+20020808,Atlanta Braves,Arizona Diamondbacks,4,1
+20020808,Cincinnati Reds,Colorado Rockies,3,10
+20020808,Florida Marlins,Houston Colts,4,3
+20020808,Pittsburgh Pirates,Los Angeles Dodgers,5,10
+20020808,New York Mets,Milwaukee Brewers,9,0
+20020808,Philadelpia Phillies,San Diego Padres,4,7
+20020808,Chicago Cubs,San  Francisco Giants,9,3
+20020808,Montreal Expos,St. Louis Cardinals,3,5
+20020809,Minensota Twins,Boston Red Sox,5,4
+20020809,Seattle Mariners,Chicago White Sox,2,10
+20020809,Texas Rangers,Cleveland Indians,3,2
+20020809,Baltimore Orioles,Detroit Tigers,0,3
+20020809,Tampa Bay Devil Rays,Kansas City Royals,4,5
+20020809,Oakland Athletics,New York Yankees,3,2
+20020809,Anaheim Angels,Toronto Blue Jays,4,5
+20020809,Florida Marlins,Arizona Diamondbacks,1,2
+20020809,San Diego Padres,Cincinnati Reds,10,12
+20020809,Chicago Cubs,Colorado Rockies,0,2
+20020809,Atlanta Braves,Houston Colts,6,5
+20020809,Philadelpia Phillies,Los Angeles Dodgers,6,7
+20020809,Montreal Expos,Milwaukee Brewers,11,4
+20020809,Pittsburgh Pirates,San  Francisco Giants,4,3
+20020809,New York Mets,St. Louis Cardinals,2,1
+20020810,Minensota Twins,Boston Red Sox,0,2
+20020810,Seattle Mariners,Chicago White Sox,7,3
+20020810,Texas Rangers,Cleveland Indians,3,4
+20020810,Baltimore Orioles,Detroit Tigers,3,2
+20020810,Tampa Bay Devil Rays,Kansas City Royals,13,6
+20020810,Oakland Athletics,New York Yankees,8,0
+20020810,Anaheim Angels,Toronto Blue Jays,11,4
+20020810,Florida Marlins,Arizona Diamondbacks,2,9
+20020810,San Diego Padres,Cincinnati Reds,0,9
+20020810,Chicago Cubs,Colorado Rockies,15,1
+20020810,Atlanta Braves,Houston Colts,5,8
+20020810,Philadelpia Phillies,Los Angeles Dodgers,8,10
+20020810,Montreal Expos,Milwaukee Brewers,2,5
+20020810,Pittsburgh Pirates,San  Francisco Giants,3,8
+20020810,New York Mets,St. Louis Cardinals,4,5
+20020811,Minensota Twins,Boston Red Sox,1,3
+20020811,Seattle Mariners,Chicago White Sox,5,6
+20020811,Texas Rangers,Cleveland Indians,11,5
+20020811,Baltimore Orioles,Detroit Tigers,1,2
+20020811,Tampa Bay Devil Rays,Kansas City Royals,0,10
+20020811,Oakland Athletics,New York Yankees,5,8
+20020811,Anaheim Angels,Toronto Blue Jays,1,0
+20020811,Florida Marlins,Arizona Diamondbacks,2,9
+20020811,San Diego Padres,Cincinnati Reds,7,9
+20020811,Chicago Cubs,Colorado Rockies,12,9
+20020811,Atlanta Braves,Houston Colts,13,3
+20020811,Philadelpia Phillies,Los Angeles Dodgers,6,3
+20020811,Montreal Expos,Milwaukee Brewers,2,6
+20020811,Pittsburgh Pirates,San  Francisco Giants,4,5
+20020811,New York Mets,St. Louis Cardinals,0,9
+20020812,Detroit Tigers,Anaheim Angels,0,7
+20020812,Toronto Blue Jays,Oakland Athletics,2,1
+20020812,Houston Colts,Chicago Cubs,9,6
+20020812,Colorado Rockies,Florida Marlins,1,0
+20020812,St. Louis Cardinals,Pittsburgh Pirates,10,6
+20020813,Detroit Tigers,Anaheim Angels,6,7
+20020813,New York Yankees,Kansas City Royals,10,5
+20020813,Baltimore Orioles,Minensota Twins,0,6
+20020813,Toronto Blue Jays,Oakland Athletics,4,5
+20020813,Boston Red Sox,Seattle Mariners,3,10
+20020813,Cleveland Indians,Tampa Bay Devil Rays,9,5
+20020813,Chicago White Sox,Texas Rangers,12,3
+20020813,San  Francisco Giants,Atlanta Braves,7,2
+20020813,Houston Colts,Chicago Cubs,5,4
+20020813,Arizona Diamondbacks,Cincinnati Reds,6,1
+20020813,Colorado Rockies,Florida Marlins,5,4
+20020813,Los Angeles Dodgers,Montreal Expos,3,4
+20020813,San Diego Padres,New York Mets,7,2
+20020813,Milwaukee Brewers,Philadelpia Phillies,1,3
+20020813,St. Louis Cardinals,Pittsburgh Pirates,9,5
+20020814,Detroit Tigers,Anaheim Angels,4,5
+20020814,New York Yankees,Kansas City Royals,3,2
+20020814,Baltimore Orioles,Minensota Twins,6,5
+20020814,Toronto Blue Jays,Oakland Athletics,2,4
+20020814,Boston Red Sox,Seattle Mariners,12,5
+20020814,Cleveland Indians,Tampa Bay Devil Rays,6,4
+20020814,Chicago White Sox,Texas Rangers,6,11
+20020814,San  Francisco Giants,Atlanta Braves,0,1
+20020814,Houston Colts,Chicago Cubs,4,3
+20020814,Arizona Diamondbacks,Cincinnati Reds,7,2
+20020814,Colorado Rockies,Florida Marlins,0,1
+20020814,Los Angeles Dodgers,Montreal Expos,5,2
+20020814,San Diego Padres,New York Mets,6,2
+20020814,Milwaukee Brewers,Philadelpia Phillies,1,4
+20020814,St. Louis Cardinals,Pittsburgh Pirates,7,3
+20020815,New York Yankees,Kansas City Royals,7,5
+20020815,Baltimore Orioles,Minensota Twins,3,1
+20020815,Boston Red Sox,Seattle Mariners,3,4
+20020815,Cleveland Indians,Tampa Bay Devil Rays,3,4
+20020815,San  Francisco Giants,Atlanta Braves,3,3
+20020815,Houston Colts,Chicago Cubs,4,6
+20020815,Arizona Diamondbacks,Cincinnati Reds,7,2
+20020815,Los Angeles Dodgers,Montreal Expos,1,0
+20020815,San Diego Padres,New York Mets,5,3
+20020815,Milwaukee Brewers,Philadelpia Phillies,0,5
+20020815,St. Louis Cardinals,Pittsburgh Pirates,11,5
+20020816,Cleveland Indians,Anaheim Angels,4,5
+20020816,Detroit Tigers,Baltimore Orioles,6,5
+20020816,Boston Red Sox,Minensota Twins,0,5
+20020816,Chicago White Sox,Oakland Athletics,0,1
+20020816,New York Yankees,Seattle Mariners,9,3
+20020816,Kansas City Royals,Tampa Bay Devil Rays,6,5
+20020816,Toronto Blue Jays,Texas Rangers,5,6
+20020816,Colorado Rockies,Atlanta Braves,1,4
+20020816,Arizona Diamondbacks,Chicago Cubs,2,1
+20020816,Houston Colts,Cincinnati Reds,3,9
+20020816,San  Francisco Giants,Florida Marlins,2,4
+20020816,San Diego Padres,Montreal Expos,6,11
+20020816,Los Angeles Dodgers,New York Mets,3,2
+20020816,St. Louis Cardinals,Philadelpia Phillies,0,4
+20020816,Milwaukee Brewers,Pittsburgh Pirates,10,3
+20020817,Cleveland Indians,Anaheim Angels,9,4
+20020817,Detroit Tigers,Baltimore Orioles,3,7
+20020817,Boston Red Sox,Minensota Twins,5,2
+20020817,Chicago White Sox,Oakland Athletics,2,9
+20020817,New York Yankees,Seattle Mariners,8,3
+20020817,Kansas City Royals,Tampa Bay Devil Rays,7,3
+20020817,Toronto Blue Jays,Texas Rangers,5,9
+20020817,Colorado Rockies,Atlanta Braves,10,3
+20020817,Arizona Diamondbacks,Chicago Cubs,6,2
+20020817,Houston Colts,Cincinnati Reds,6,1
+20020817,San  Francisco Giants,Florida Marlins,3,7
+20020817,San Diego Padres,Montreal Expos,6,5
+20020817,Los Angeles Dodgers,New York Mets,10,4
+20020817,St. Louis Cardinals,Philadelpia Phillies,5,1
+20020817,Milwaukee Brewers,Pittsburgh Pirates,0,5
+20020818,Cleveland Indians,Anaheim Angels,1,4
+20020818,Detroit Tigers,Baltimore Orioles,7,4
+20020818,Boston Red Sox,Minensota Twins,2,6
+20020818,Chicago White Sox,Oakland Athletics,4,7
+20020818,New York Yankees,Seattle Mariners,2,5
+20020818,Kansas City Royals,Tampa Bay Devil Rays,6,8
+20020818,Toronto Blue Jays,Texas Rangers,7,10
+20020818,Colorado Rockies,Atlanta Braves,6,3
+20020818,Arizona Diamondbacks,Chicago Cubs,2,3
+20020818,Houston Colts,Cincinnati Reds,1,2
+20020818,San  Francisco Giants,Florida Marlins,0,3
+20020818,San Diego Padres,Montreal Expos,2,9
+20020818,Los Angeles Dodgers,New York Mets,2,1
+20020818,St. Louis Cardinals,Philadelpia Phillies,5,1
+20020818,Milwaukee Brewers,Pittsburgh Pirates,2,3
+20020819,Tampa Bay Devil Rays,Baltimore Orioles,7,3
+20020819,Minensota Twins,Chicago White Sox,7,3
+20020819,Oakland Athletics,Cleveland Indians,8,1
+20020819,Seattle Mariners,Detroit Tigers,3,4
+20020819,Kansas City Royals,Toronto Blue Jays,0,2
+20020819,Colorado Rockies,Atlanta Braves,6,7
+20020819,Houston Colts,Cincinnati Reds,7,5
+20020819,San  Francisco Giants,Florida Marlins,3,0
+20020819,San Diego Padres,Montreal Expos,0,4
+20020819,Pittsburgh Pirates,St. Louis Cardinals,2,7
+20020820,Tampa Bay Devil Rays,Baltimore Orioles,4,7
+20020820,Texas Rangers,Boston Red Sox,3,2
+20020820,Minensota Twins,Chicago White Sox,5,0
+20020820,Oakland Athletics,Cleveland Indians,6,3
+20020820,Seattle Mariners,Detroit Tigers,3,6
+20020820,Anaheim Angels,New York Yankees,5,7
+20020820,Kansas City Royals,Toronto Blue Jays,6,5
+20020820,Cincinnati Reds,Arizona Diamondbacks,3,5
+20020820,Montreal Expos,Colorado Rockies,6,8
+20020820,Chicago Cubs,Houston Colts,14,12
+20020820,Florida Marlins,Los Angeles Dodgers,6,3
+20020820,Philadelpia Phillies,Milwaukee Brewers,1,2
+20020820,Atlanta Braves,San Diego Padres,2,6
+20020820,New York Mets,San  Francisco Giants,0,1
+20020820,Pittsburgh Pirates,St. Louis Cardinals,8,0
+20020821,Tampa Bay Devil Rays,Baltimore Orioles,1,2
+20020821,Texas Rangers,Boston Red Sox,3,5
+20020821,Minensota Twins,Chicago White Sox,1,10
+20020821,Oakland Athletics,Cleveland Indians,6,0
+20020821,Seattle Mariners,Detroit Tigers,8,2
+20020821,Anaheim Angels,New York Yankees,5,1
+20020821,Kansas City Royals,Toronto Blue Jays,7,4
+20020821,Cincinnati Reds,Arizona Diamondbacks,3,11
+20020821,Montreal Expos,Colorado Rockies,13,5
+20020821,Chicago Cubs,Houston Colts,0,4
+20020821,Florida Marlins,Los Angeles Dodgers,3,4
+20020821,Philadelpia Phillies,Milwaukee Brewers,13,3
+20020821,Atlanta Braves,San Diego Padres,6,3
+20020821,New York Mets,San  Francisco Giants,1,3
+20020821,Pittsburgh Pirates,St. Louis Cardinals,1,4
+20020822,Tampa Bay Devil Rays,Baltimore Orioles,2,3
+20020822,Texas Rangers,Boston Red Sox,3,12
+20020822,Oakland Athletics,Cleveland Indians,9,3
+20020822,Seattle Mariners,Detroit Tigers,4,2
+20020822,Minensota Twins,Kansas City Royals,8,6
+20020822,Anaheim Angels,New York Yankees,2,4
+20020822,Cincinnati Reds,Arizona Diamondbacks,3,6
+20020822,Montreal Expos,Colorado Rockies,6,14
+20020822,Chicago Cubs,Houston Colts,1,9
+20020822,Florida Marlins,Los Angeles Dodgers,2,6
+20020822,Philadelpia Phillies,Milwaukee Brewers,7,0
+20020822,Atlanta Braves,San Diego Padres,2,9
+20020822,New York Mets,San  Francisco Giants,1,3
+20020822,Pittsburgh Pirates,St. Louis Cardinals,4,5
+20020823,Toronto Blue Jays,Baltimore Orioles,7,11
+20020823,Anaheim Angels,Boston Red Sox,1,4
+20020823,Tampa Bay Devil Rays,Chicago White Sox,8,2
+20020823,Seattle Mariners,Cleveland Indians,2,4
+20020823,Oakland Athletics,Detroit Tigers,9,1
+20020823,Minensota Twins,Kansas City Royals,9,2
+20020823,Texas Rangers,New York Yankees,6,2
+20020823,Chicago Cubs,Arizona Diamondbacks,2,3
+20020823,New York Mets,Colorado Rockies,4,10
+20020823,Cincinnati Reds,Houston Colts,4,6
+20020823,Atlanta Braves,Los Angeles Dodgers,3,4
+20020823,Pittsburgh Pirates,Milwaukee Brewers,6,3
+20020823,Florida Marlins,San Diego Padres,2,18
+20020823,Montreal Expos,San  Francisco Giants,7,2
+20020823,Philadelpia Phillies,St. Louis Cardinals,5,4
+20020824,Toronto Blue Jays,Baltimore Orioles,4,1
+20020824,Toronto Blue Jays,Baltimore Orioles,8,3
+20020824,Anaheim Angels,Boston Red Sox,2,0
+20020824,Tampa Bay Devil Rays,Chicago White Sox,2,5
+20020824,Seattle Mariners,Cleveland Indians,3,5
+20020824,Oakland Athletics,Detroit Tigers,12,3
+20020824,Minensota Twins,Kansas City Royals,6,5
+20020824,Texas Rangers,New York Yankees,2,3
+20020824,Chicago Cubs,Arizona Diamondbacks,4,0
+20020824,New York Mets,Colorado Rockies,5,2
+20020824,Cincinnati Reds,Houston Colts,5,3
+20020824,Atlanta Braves,Los Angeles Dodgers,3,4
+20020824,Pittsburgh Pirates,Milwaukee Brewers,17,10
+20020824,Florida Marlins,San Diego Padres,8,4
+20020824,Montreal Expos,San  Francisco Giants,7,2
+20020824,Philadelpia Phillies,St. Louis Cardinals,4,0
+20020825,Toronto Blue Jays,Baltimore Orioles,5,2
+20020825,Anaheim Angels,Boston Red Sox,8,3
+20020825,Tampa Bay Devil Rays,Chicago White Sox,3,8
+20020825,Seattle Mariners,Cleveland Indians,12,4
+20020825,Oakland Athletics,Detroit Tigers,10,7
+20020825,Minensota Twins,Kansas City Royals,2,4
+20020825,Texas Rangers,New York Yankees,6,2
+20020825,Chicago Cubs,Arizona Diamondbacks,0,7
+20020825,New York Mets,Colorado Rockies,7,4
+20020825,Cincinnati Reds,Houston Colts,0,1
+20020825,Atlanta Braves,Los Angeles Dodgers,7,5
+20020825,Pittsburgh Pirates,Milwaukee Brewers,3,2
+20020825,Florida Marlins,San Diego Padres,7,6
+20020825,Montreal Expos,San  Francisco Giants,4,8
+20020825,Philadelpia Phillies,St. Louis Cardinals,5,3
+20020826,Anaheim Angels,Boston Red Sox,9,10
+20020826,Toronto Blue Jays,Chicago White Sox,8,4
+20020826,Detroit Tigers,Cleveland Indians,2,8
+20020826,Oakland Athletics,Kansas City Royals,6,3
+20020826,Texas Rangers,New York Yankees,3,10
+20020826,San  Francisco Giants,Colorado Rockies,4,3
+20020826,Arizona Diamondbacks,Los Angeles Dodgers,6,3
+20020826,Chicago Cubs,Milwaukee Brewers,1,2
+20020827,Tampa Bay Devil Rays,Anaheim Angels,3,7
+20020827,New York Yankees,Boston Red Sox,6,0
+20020827,Toronto Blue Jays,Chicago White Sox,4,8
+20020827,Detroit Tigers,Cleveland Indians,8,5
+20020827,Oakland Athletics,Kansas City Royals,6,4
+20020827,Seattle Mariners,Minensota Twins,2,5
+20020827,Baltimore Orioles,Texas Rangers,4,9
+20020827,St. Louis Cardinals,Cincinnati Reds,4,5
+20020827,St. Louis Cardinals,Cincinnati Reds,5,0
+20020827,San  Francisco Giants,Colorado Rockies,7,4
+20020827,New York Mets,Florida Marlins,10,5
+20020827,San Diego Padres,Houston Colts,11,6
+20020827,Arizona Diamondbacks,Los Angeles Dodgers,1,6
+20020827,Chicago Cubs,Milwaukee Brewers,6,2
+20020827,Montreal Expos,Philadelpia Phillies,2,4
+20020827,Atlanta Braves,Pittsburgh Pirates,5,4
+20020828,Tampa Bay Devil Rays,Anaheim Angels,8,5
+20020828,New York Yankees,Boston Red Sox,7,0
+20020828,Toronto Blue Jays,Chicago White Sox,0,8
+20020828,Detroit Tigers,Cleveland Indians,1,2
+20020828,Oakland Athletics,Kansas City Royals,7,1
+20020828,Seattle Mariners,Minensota Twins,1,2
+20020828,Baltimore Orioles,Texas Rangers,3,5
+20020828,St. Louis Cardinals,Cincinnati Reds,9,2
+20020828,San  Francisco Giants,Colorado Rockies,9,1
+20020828,New York Mets,Florida Marlins,3,7
+20020828,San Diego Padres,Houston Colts,1,2
+20020828,Arizona Diamondbacks,Los Angeles Dodgers,0,1
+20020828,Chicago Cubs,Milwaukee Brewers,1,5
+20020828,Montreal Expos,Philadelpia Phillies,6,3
+20020828,Atlanta Braves,Pittsburgh Pirates,0,1
+20020829,Tampa Bay Devil Rays,Anaheim Angels,1,6
+20020829,Seattle Mariners,Minensota Twins,2,0
+20020829,Baltimore Orioles,Texas Rangers,6,9
+20020829,New York Yankees,Toronto Blue Jays,4,7
+20020829,St. Louis Cardinals,Cincinnati Reds,0,7
+20020829,San  Francisco Giants,Colorado Rockies,10,6
+20020829,San Diego Padres,Houston Colts,0,5
+20020829,Chicago Cubs,Milwaukee Brewers,13,10
+20020829,Montreal Expos,Philadelpia Phillies,1,2
+20020829,Atlanta Braves,Pittsburgh Pirates,1,4
+20020830,Baltimore Orioles,Anaheim Angels,2,6
+20020830,Boston Red Sox,Cleveland Indians,15,5
+20020830,Chicago White Sox,Detroit Tigers,4,3
+20020830,Minensota Twins,Oakland Athletics,2,4
+20020830,Kansas City Royals,Seattle Mariners,5,1
+20020830,Tampa Bay Devil Rays,Texas Rangers,9,7
+20020830,New York Yankees,Toronto Blue Jays,9,7
+20020830,San  Francisco Giants,Arizona Diamondbacks,7,6
+20020830,St. Louis Cardinals,Chicago Cubs,6,3
+20020830,Milwaukee Brewers,Cincinnati Reds,9,4
+20020830,Pittsburgh Pirates,Florida Marlins,3,4
+20020830,Los Angeles Dodgers,Houston Colts,4,8
+20020830,Atlanta Braves,Montreal Expos,4,2
+20020830,Philadelpia Phillies,New York Mets,7,5
+20020830,Colorado Rockies,San Diego Padres,0,2
+20020831,Baltimore Orioles,Anaheim Angels,0,9
+20020831,Boston Red Sox,Cleveland Indians,7,8
+20020831,Chicago White Sox,Detroit Tigers,9,4
+20020831,Minensota Twins,Oakland Athletics,3,6
+20020831,Kansas City Royals,Seattle Mariners,4,2
+20020831,Tampa Bay Devil Rays,Texas Rangers,7,5
+20020831,New York Yankees,Toronto Blue Jays,1,5
+20020831,San  Francisco Giants,Arizona Diamondbacks,5,0
+20020831,St. Louis Cardinals,Chicago Cubs,8,1
+20020831,St. Louis Cardinals,Chicago Cubs,10,4
+20020831,Milwaukee Brewers,Cincinnati Reds,11,2
+20020831,Pittsburgh Pirates,Florida Marlins,2,3
+20020831,Los Angeles Dodgers,Houston Colts,4,0
+20020831,Atlanta Braves,Montreal Expos,5,3
+20020831,Philadelpia Phillies,New York Mets,1,0
+20020831,Colorado Rockies,San Diego Padres,0,3
+20020901,Baltimore Orioles,Anaheim Angels,3,9
+20020901,Boston Red Sox,Cleveland Indians,7,1
+20020901,Chicago White Sox,Detroit Tigers,7,0
+20020901,Minensota Twins,Oakland Athletics,5,7
+20020901,Kansas City Royals,Seattle Mariners,4,9
+20020901,Tampa Bay Devil Rays,Texas Rangers,8,3
+20020901,New York Yankees,Toronto Blue Jays,6,7
+20020901,San  Francisco Giants,Arizona Diamondbacks,6,7
+20020901,St. Louis Cardinals,Chicago Cubs,4,5
+20020901,Milwaukee Brewers,Cincinnati Reds,4,2
+20020901,Pittsburgh Pirates,Florida Marlins,4,8
+20020901,Los Angeles Dodgers,Houston Colts,2,1
+20020901,Atlanta Braves,Montreal Expos,6,4
+20020901,Philadelpia Phillies,New York Mets,9,5
+20020901,Colorado Rockies,San Diego Padres,5,9
+20020902,Cleveland Indians,Detroit Tigers,11,1
+20020902,Boston Red Sox,New York Yankees,8,4
+20020902,Kansas City Royals,Oakland Athletics,6,7
+20020902,Minensota Twins,Seattle Mariners,2,5
+20020902,Houston Colts,Texas Rangers,2,7
+20020902,Chicago White Sox,Toronto Blue Jays,5,3
+20020902,Los Angeles Dodgers,Arizona Diamondbacks,19,1
+20020902,Pittsburgh Pirates,Atlanta Braves,1,5
+20020902,Milwaukee Brewers,Chicago Cubs,4,2
+20020902,Milwaukee Brewers,Chicago Cubs,4,17
+20020902,Philadelpia Phillies,Montreal Expos,1,5
+20020902,Colorado Rockies,San Diego Padres,5,2
+20020902,Cincinnati Reds,St. Louis Cardinals,5,3
+20020903,Texas Rangers,Baltimore Orioles,7,1
+20020903,Cleveland Indians,Detroit Tigers,0,4
+20020903,Boston Red Sox,New York Yankees,2,4
+20020903,Anaheim Angels,Tampa Bay Devil Rays,10,2
+20020903,Chicago White Sox,Toronto Blue Jays,5,4
+20020903,Los Angeles Dodgers,Arizona Diamondbacks,3,2
+20020903,Pittsburgh Pirates,Atlanta Braves,3,0
+20020903,Milwaukee Brewers,Chicago Cubs,1,10
+20020903,Philadelpia Phillies,Montreal Expos,6,7
+20020903,Florida Marlins,New York Mets,3,2
+20020903,Florida Marlins,New York Mets,5,11
+20020903,Houston Colts,San Diego Padres,6,2
+20020903,Colorado Rockies,San  Francisco Giants,2,4
+20020903,Cincinnati Reds,St. Louis Cardinals,1,3
+20020904,Texas Rangers,Baltimore Orioles,3,8
+20020904,Cleveland Indians,Detroit Tigers,9,3
+20020904,Boston Red Sox,New York Yankees,1,3
+20020904,Kansas City Royals,Oakland Athletics,11,12
+20020904,Minensota Twins,Seattle Mariners,3,2
+20020904,Anaheim Angels,Tampa Bay Devil Rays,4,2
+20020904,Chicago White Sox,Toronto Blue Jays,2,6
+20020904,Los Angeles Dodgers,Arizona Diamondbacks,1,7
+20020904,Pittsburgh Pirates,Atlanta Braves,0,6
+20020904,Milwaukee Brewers,Chicago Cubs,0,3
+20020904,Philadelpia Phillies,Montreal Expos,5,8
+20020904,Florida Marlins,New York Mets,3,11
+20020904,Houston Colts,San Diego Padres,1,5
+20020904,Colorado Rockies,San  Francisco Giants,2,1
+20020904,Cincinnati Reds,St. Louis Cardinals,5,10
+20020905,Texas Rangers,Baltimore Orioles,11,2
+20020905,Toronto Blue Jays,Boston Red Sox,5,4
+20020905,Cleveland Indians,Chicago White Sox,11,6
+20020905,Detroit Tigers,New York Yankees,3,9
+20020905,Anaheim Angels,Tampa Bay Devil Rays,10,1
+20020905,Philadelpia Phillies,Montreal Expos,4,1
+20020905,Florida Marlins,New York Mets,1,4
+20020905,Houston Colts,San Diego Padres,5,0
+20020905,Arizona Diamondbacks,San  Francisco Giants,8,5
+20020906,Anaheim Angels,Baltimore Orioles,6,3
+20020906,Toronto Blue Jays,Boston Red Sox,2,7
+20020906,Cleveland Indians,Chicago White Sox,9,7
+20020906,Seattle Mariners,Kansas City Royals,14,7
+20020906,Oakland Athletics,Minensota Twins,0,6
+20020906,Detroit Tigers,New York Yankees,1,8
+20020906,Texas Rangers,Tampa Bay Devil Rays,9,3
+20020906,Montreal Expos,Atlanta Braves,0,5
+20020906,San Diego Padres,Colorado Rockies,3,7
+20020906,Houston Colts,Los Angeles Dodgers,2,3
+20020906,Cincinnati Reds,Milwaukee Brewers,5,3
+20020906,New York Mets,Philadelpia Phillies,7,2
+20020906,Florida Marlins,Pittsburgh Pirates,0,11
+20020906,Arizona Diamondbacks,San  Francisco Giants,0,1
+20020906,Chicago Cubs,St. Louis Cardinals,2,11
+20020907,Anaheim Angels,Baltimore Orioles,4,2
+20020907,Toronto Blue Jays,Boston Red Sox,1,4
+20020907,Cleveland Indians,Chicago White Sox,4,2
+20020907,Seattle Mariners,Kansas City Royals,9,2
+20020907,Oakland Athletics,Minensota Twins,2,0
+20020907,Detroit Tigers,New York Yankees,2,1
+20020907,Texas Rangers,Tampa Bay Devil Rays,11,2
+20020907,Montreal Expos,Atlanta Braves,0,4
+20020907,San Diego Padres,Colorado Rockies,3,5
+20020907,Houston Colts,Los Angeles Dodgers,6,1
+20020907,Cincinnati Reds,Milwaukee Brewers,6,9
+20020907,New York Mets,Philadelpia Phillies,5,4
+20020907,Florida Marlins,Pittsburgh Pirates,1,4
+20020907,Arizona Diamondbacks,San  Francisco Giants,3,4
+20020907,Chicago Cubs,St. Louis Cardinals,5,6
+20020908,Anaheim Angels,Baltimore Orioles,6,2
+20020908,Toronto Blue Jays,Boston Red Sox,9,4
+20020908,Cleveland Indians,Chicago White Sox,6,7
+20020908,Seattle Mariners,Kansas City Royals,16,9
+20020908,Oakland Athletics,Minensota Twins,6,0
+20020908,Detroit Tigers,New York Yankees,4,6
+20020908,Texas Rangers,Tampa Bay Devil Rays,3,6
+20020908,Montreal Expos,Atlanta Braves,7,0
+20020908,San Diego Padres,Colorado Rockies,9,4
+20020908,Houston Colts,Los Angeles Dodgers,6,2
+20020908,Cincinnati Reds,Milwaukee Brewers,5,4
+20020908,New York Mets,Philadelpia Phillies,11,3
+20020908,Florida Marlins,Pittsburgh Pirates,11,1
+20020908,Arizona Diamondbacks,San  Francisco Giants,1,3
+20020908,Chicago Cubs,St. Louis Cardinals,1,3
+20020909,Oakland Athletics,Anaheim Angels,2,1
+20020909,Toronto Blue Jays,Cleveland Indians,11,9
+20020909,Chicago White Sox,Kansas City Royals,10,6
+20020909,Detroit Tigers,Minensota Twins,2,5
+20020909,Boston Red Sox,Tampa Bay Devil Rays,6,3
+20020909,Seattle Mariners,Texas Rangers,7,12
+20020909,San Diego Padres,Arizona Diamondbacks,2,5
+20020909,Montreal Expos,Chicago Cubs,2,3
+20020909,Pittsburgh Pirates,Cincinnati Reds,8,9
+20020909,Colorado Rockies,Houston Colts,5,6
+20020909,St. Louis Cardinals,Milwaukee Brewers,3,0
+20020909,New York Mets,Philadelpia Phillies,6,4
+20020909,Los Angeles Dodgers,San  Francisco Giants,5,6
+20020910,Oakland Athletics,Anaheim Angels,2,5
+20020910,Toronto Blue Jays,Cleveland Indians,5,4
+20020910,Chicago White Sox,Kansas City Royals,12,4
+20020910,Detroit Tigers,Minensota Twins,4,11
+20020910,Baltimore Orioles,New York Yankees,2,5
+20020910,Baltimore Orioles,New York Yankees,1,3
+20020910,Boston Red Sox,Tampa Bay Devil Rays,12,1
+20020910,Seattle Mariners,Texas Rangers,2,3
+20020910,San Diego Padres,Arizona Diamondbacks,2,8
+20020910,New York Mets,Atlanta Braves,6,12
+20020910,Montreal Expos,Chicago Cubs,6,2
+20020910,Pittsburgh Pirates,Cincinnati Reds,0,3
+20020910,Colorado Rockies,Houston Colts,4,11
+20020910,St. Louis Cardinals,Milwaukee Brewers,8,3
+20020910,Florida Marlins,Philadelpia Phillies,6,4
+20020910,Florida Marlins,Philadelpia Phillies,2,1
+20020910,Los Angeles Dodgers,San  Francisco Giants,2,5
+20020911,Oakland Athletics,Anaheim Angels,5,6
+20020911,Toronto Blue Jays,Cleveland Indians,6,5
+20020911,Chicago White Sox,Kansas City Royals,6,9
+20020911,Detroit Tigers,Minensota Twins,2,8
+20020911,Baltimore Orioles,New York Yankees,4,5
+20020911,Boston Red Sox,Tampa Bay Devil Rays,6,3
+20020911,Seattle Mariners,Texas Rangers,3,4
+20020911,San Diego Padres,Arizona Diamondbacks,5,6
+20020911,New York Mets,Atlanta Braves,5,8
+20020911,New York Mets,Atlanta Braves,5,0
+20020911,Montreal Expos,Chicago Cubs,3,6
+20020911,Pittsburgh Pirates,Cincinnati Reds,4,1
+20020911,Colorado Rockies,Houston Colts,8,6
+20020911,St. Louis Cardinals,Milwaukee Brewers,4,3
+20020911,Florida Marlins,Philadelpia Phillies,2,9
+20020911,Los Angeles Dodgers,San  Francisco Giants,7,3
+20020912,Oakland Athletics,Anaheim Angels,6,7
+20020912,Minensota Twins,Cleveland Indians,4,5
+20020912,Chicago White Sox,Kansas City Royals,5,1
+20020912,Baltimore Orioles,New York Yankees,3,7
+20020912,Boston Red Sox,Tampa Bay Devil Rays,6,3
+20020912,Seattle Mariners,Texas Rangers,3,7
+20020912,Chicago Cubs,Cincinnati Reds,12,15
+20020912,Los Angeles Dodgers,Colorado Rockies,1,7
+20020912,St. Louis Cardinals,Houston Colts,3,6
+20020912,New York Mets,Montreal Expos,8,2
+20020912,Florida Marlins,Philadelpia Phillies,1,6
+20020912,San  Francisco Giants,San Diego Padres,2,3
+20020913,Texas Rangers,Anaheim Angels,2,3
+20020913,Baltimore Orioles,Boston Red Sox,8,3
+20020913,Minensota Twins,Cleveland Indians,5,12
+20020913,Kansas City Royals,Detroit Tigers,2,4
+20020913,Chicago White Sox,New York Yankees,13,2
+20020913,Seattle Mariners,Oakland Athletics,0,5
+20020913,Tampa Bay Devil Rays,Toronto Blue Jays,2,5
+20020913,Milwaukee Brewers,Arizona Diamondbacks,8,4
+20020913,Chicago Cubs,Cincinnati Reds,7,6
+20020913,Los Angeles Dodgers,Colorado Rockies,4,5
+20020913,Atlanta Braves,Florida Marlins,3,13
+20020913,St. Louis Cardinals,Houston Colts,3,2
+20020913,New York Mets,Montreal Expos,8,11
+20020913,Pittsburgh Pirates,Philadelpia Phillies,5,3
+20020913,San  Francisco Giants,San Diego Padres,10,3
+20020914,Texas Rangers,Anaheim Angels,6,8
+20020914,Baltimore Orioles,Boston Red Sox,4,6
+20020914,Minensota Twins,Cleveland Indians,3,2
+20020914,Kansas City Royals,Detroit Tigers,5,1
+20020914,Chicago White Sox,New York Yankees,8,1
+20020914,Seattle Mariners,Oakland Athletics,0,1
+20020914,Tampa Bay Devil Rays,Toronto Blue Jays,4,8
+20020914,Milwaukee Brewers,Arizona Diamondbacks,0,5
+20020914,Chicago Cubs,Cincinnati Reds,1,3
+20020914,Los Angeles Dodgers,Colorado Rockies,16,3
+20020914,Atlanta Braves,Florida Marlins,10,5
+20020914,St. Louis Cardinals,Houston Colts,2,1
+20020914,New York Mets,Montreal Expos,4,5
+20020914,Pittsburgh Pirates,Philadelpia Phillies,1,4
+20020914,San Diego Padres,San  Francisco Giants,4,12
+20020915,Texas Rangers,Anaheim Angels,4,13
+20020915,Baltimore Orioles,Boston Red Sox,8,3
+20020915,Minensota Twins,Cleveland Indians,5,0
+20020915,Kansas City Royals,Detroit Tigers,9,3
+20020915,Chicago White Sox,New York Yankees,4,8
+20020915,Seattle Mariners,Oakland Athletics,6,3
+20020915,Tampa Bay Devil Rays,Toronto Blue Jays,7,4
+20020915,Milwaukee Brewers,Arizona Diamondbacks,5,6
+20020915,Chicago Cubs,Cincinnati Reds,6,0
+20020915,Los Angeles Dodgers,Colorado Rockies,4,5
+20020915,Atlanta Braves,Florida Marlins,6,4
+20020915,St. Louis Cardinals,Houston Colts,0,8
+20020915,New York Mets,Montreal Expos,1,10
+20020915,Pittsburgh Pirates,Philadelpia Phillies,0,1
+20020915,San Diego Padres,San  Francisco Giants,4,1
+20020916,Toronto Blue Jays,Baltimore Orioles,2,0
+20020916,Cleveland Indians,Boston Red Sox,1,6
+20020916,Cleveland Indians,Boston Red Sox,7,1
+20020916,Kansas City Royals,Detroit Tigers,2,5
+20020916,Anaheim Angels,Oakland Athletics,3,4
+20020916,Texas Rangers,Seattle Mariners,5,6
+20020916,Atlanta Braves,Florida Marlins,1,5
+20020916,San  Francisco Giants,Los Angeles Dodgers,6,7
+20020916,Cincinnati Reds,Pittsburgh Pirates,4,3
+20020917,Toronto Blue Jays,Baltimore Orioles,4,10
+20020917,Cleveland Indians,Boston Red Sox,2,4
+20020917,Kansas City Royals,Chicago White Sox,1,6
+20020917,Minensota Twins,Detroit Tigers,7,4
+20020917,Anaheim Angels,Oakland Athletics,1,0
+20020917,Texas Rangers,Seattle Mariners,2,3
+20020917,New York Yankees,Tampa Bay Devil Rays,7,9
+20020917,Philadelpia Phillies,Atlanta Braves,1,2
+20020917,St. Louis Cardinals,Colorado Rockies,11,4
+20020917,Montreal Expos,Florida Marlins,8,5
+20020917,San  Francisco Giants,Los Angeles Dodgers,6,4
+20020917,Houston Colts,Milwaukee Brewers,4,5
+20020917,Chicago Cubs,New York Mets,1,3
+20020917,Cincinnati Reds,Pittsburgh Pirates,3,11
+20020917,Arizona Diamondbacks,San Diego Padres,2,3
+20020918,Toronto Blue Jays,Baltimore Orioles,2,1
+20020918,Cleveland Indians,Boston Red Sox,6,4
+20020918,Kansas City Royals,Chicago White Sox,1,3
+20020918,Minensota Twins,Detroit Tigers,2,0
+20020918,Anaheim Angels,Oakland Athletics,4,7
+20020918,Texas Rangers,Seattle Mariners,2,3
+20020918,New York Yankees,Tampa Bay Devil Rays,7,1
+20020918,Philadelpia Phillies,Atlanta Braves,6,5
+20020918,St. Louis Cardinals,Colorado Rockies,8,5
+20020918,Montreal Expos,Florida Marlins,4,2
+20020918,San  Francisco Giants,Los Angeles Dodgers,7,4
+20020918,Houston Colts,Milwaukee Brewers,3,1
+20020918,Chicago Cubs,New York Mets,1,2
+20020918,Cincinnati Reds,Pittsburgh Pirates,2,3
+20020918,Arizona Diamondbacks,San Diego Padres,10,3
+20020919,Toronto Blue Jays,Baltimore Orioles,9,3
+20020919,Kansas City Royals,Chicago White Sox,2,1
+20020919,Anaheim Angels,Oakland Athletics,3,5
+20020919,Texas Rangers,Seattle Mariners,12,7
+20020919,New York Yankees,Tampa Bay Devil Rays,2,3
+20020919,Philadelpia Phillies,Atlanta Braves,0,6
+20020919,St. Louis Cardinals,Colorado Rockies,12,6
+20020919,Montreal Expos,Florida Marlins,6,5
+20020919,San  Francisco Giants,Los Angeles Dodgers,3,6
+20020919,Houston Colts,Milwaukee Brewers,4,5
+20020919,Chicago Cubs,New York Mets,2,3
+20020919,Cincinnati Reds,Pittsburgh Pirates,5,4
+20020919,Arizona Diamondbacks,San Diego Padres,3,1
+20020920,Boston Red Sox,Baltimore Orioles,4,2
+20020920,Minensota Twins,Chicago White Sox,2,10
+20020920,New York Yankees,Detroit Tigers,5,1
+20020920,Cleveland Indians,Kansas City Royals,6,2
+20020920,Texas Rangers,Oakland Athletics,2,4
+20020920,Anaheim Angels,Seattle Mariners,8,1
+20020920,Toronto Blue Jays,Tampa Bay Devil Rays,7,11
+20020920,Florida Marlins,Atlanta Braves,6,2
+20020920,Arizona Diamondbacks,Colorado Rockies,4,9
+20020920,San  Francisco Giants,Milwaukee Brewers,5,1
+20020920,Montreal Expos,New York Mets,6,1
+20020920,Chicago Cubs,Pittsburgh Pirates,4,5
+20020920,Los Angeles Dodgers,San Diego Padres,4,8
+20020920,Houston Colts,St. Louis Cardinals,3,9
+20020921,Boston Red Sox,Baltimore Orioles,3,0
+20020921,Minensota Twins,Chicago White Sox,4,14
+20020921,New York Yankees,Detroit Tigers,3,2
+20020921,Cleveland Indians,Kansas City Royals,2,3
+20020921,Texas Rangers,Oakland Athletics,3,6
+20020921,Anaheim Angels,Seattle Mariners,4,6
+20020921,Toronto Blue Jays,Tampa Bay Devil Rays,3,4
+20020921,Florida Marlins,Atlanta Braves,6,4
+20020921,Philadelpia Phillies,Cincinnati Reds,5,3
+20020921,Philadelpia Phillies,Cincinnati Reds,5,4
+20020921,Arizona Diamondbacks,Colorado Rockies,8,15
+20020921,San  Francisco Giants,Milwaukee Brewers,3,1
+20020921,Montreal Expos,New York Mets,3,6
+20020921,Chicago Cubs,Pittsburgh Pirates,4,2
+20020921,Los Angeles Dodgers,San Diego Padres,5,3
+20020921,Houston Colts,St. Louis Cardinals,6,3
+20020922,Boston Red Sox,Baltimore Orioles,13,2
+20020922,Minensota Twins,Chicago White Sox,2,8
+20020922,New York Yankees,Detroit Tigers,4,3
+20020922,Cleveland Indians,Kansas City Royals,6,5
+20020922,Texas Rangers,Oakland Athletics,5,7
+20020922,Anaheim Angels,Seattle Mariners,2,3
+20020922,Toronto Blue Jays,Tampa Bay Devil Rays,12,6
+20020922,Florida Marlins,Atlanta Braves,1,4
+20020922,Philadelpia Phillies,Cincinnati Reds,4,3
+20020922,Arizona Diamondbacks,Colorado Rockies,7,11
+20020922,San  Francisco Giants,Milwaukee Brewers,3,1
+20020922,Montreal Expos,New York Mets,5,1
+20020922,Chicago Cubs,Pittsburgh Pirates,4,5
+20020922,Los Angeles Dodgers,San Diego Padres,4,3
+20020922,Houston Colts,St. Louis Cardinals,3,7
+20020923,Boston Red Sox,Baltimore Orioles,5,4
+20020923,Tampa Bay Devil Rays,New York Yankees,3,2
+20020923,Milwaukee Brewers,Houston Colts,6,8
+20020923,Arizona Diamondbacks,St. Louis Cardinals,1,13
+20020924,Boston Red Sox,Chicago White Sox,4,2
+20020924,Detroit Tigers,Kansas City Royals,2,17
+20020924,Cleveland Indians,Minensota Twins,3,4
+20020924,Tampa Bay Devil Rays,New York Yankees,0,6
+20020924,Oakland Athletics,Seattle Mariners,7,8
+20020924,Anaheim Angels,Texas Rangers,1,2
+20020924,Baltimore Orioles,Toronto Blue Jays,1,11
+20020924,Cincinnati Reds,Chicago Cubs,1,0
+20020924,Milwaukee Brewers,Houston Colts,3,1
+20020924,Colorado Rockies,Los Angeles Dodgers,1,0
+20020924,Florida Marlins,Montreal Expos,9,6
+20020924,Atlanta Braves,Philadelpia Phillies,3,5
+20020924,New York Mets,Pittsburgh Pirates,3,6
+20020924,San Diego Padres,San  Francisco Giants,3,12
+20020924,Arizona Diamondbacks,St. Louis Cardinals,2,3
+20020925,Boston Red Sox,Chicago White Sox,2,7
+20020925,Detroit Tigers,Kansas City Royals,7,6
+20020925,Cleveland Indians,Minensota Twins,5,7
+20020925,Tampa Bay Devil Rays,New York Yankees,3,4
+20020925,Oakland Athletics,Seattle Mariners,2,3
+20020925,Anaheim Angels,Texas Rangers,3,4
+20020925,Baltimore Orioles,Toronto Blue Jays,2,3
+20020925,Cincinnati Reds,Chicago Cubs,8,2
+20020925,Milwaukee Brewers,Houston Colts,5,7
+20020925,Colorado Rockies,Los Angeles Dodgers,2,3
+20020925,Florida Marlins,Montreal Expos,10,2
+20020925,Atlanta Braves,Philadelpia Phillies,7,1
+20020925,New York Mets,Pittsburgh Pirates,3,4
+20020925,San Diego Padres,San  Francisco Giants,0,6
+20020925,Arizona Diamondbacks,St. Louis Cardinals,1,6
+20020926,Boston Red Sox,Chicago White Sox,2,3
+20020926,Detroit Tigers,Kansas City Royals,2,7
+20020926,Cleveland Indians,Minensota Twins,8,4
+20020926,Oakland Athletics,Seattle Mariners,5,3
+20020926,Anaheim Angels,Texas Rangers,10,5
+20020926,Baltimore Orioles,Toronto Blue Jays,1,5
+20020926,Colorado Rockies,Arizona Diamondbacks,2,4
+20020926,Cincinnati Reds,Chicago Cubs,1,0
+20020926,San Diego Padres,Los Angeles Dodgers,5,6
+20020926,Florida Marlins,Montreal Expos,3,4
+20020926,Milwaukee Brewers,St. Louis Cardinals,1,9
+20020927,Seattle Mariners,Anaheim Angels,7,6
+20020927,New York Yankees,Baltimore Orioles,6,2
+20020927,Tampa Bay Devil Rays,Boston Red Sox,1,6
+20020927,Kansas City Royals,Cleveland Indians,3,8
+20020927,Chicago White Sox,Minensota Twins,1,3
+20020927,Oakland Athletics,Texas Rangers,3,2
+20020927,Detroit Tigers,Toronto Blue Jays,2,5
+20020927,Colorado Rockies,Arizona Diamondbacks,6,8
+20020927,Pittsburgh Pirates,Chicago Cubs,13,3
+20020927,Philadelpia Phillies,Florida Marlins,2,5
+20020927,San Diego Padres,Los Angeles Dodgers,0,1
+20020927,Cincinnati Reds,Montreal Expos,3,4
+20020927,Atlanta Braves,New York Mets,3,1
+20020927,Atlanta Braves,New York Mets,7,4
+20020927,Houston Colts,San  Francisco Giants,1,2
+20020927,Milwaukee Brewers,St. Louis Cardinals,2,1
+20020928,Seattle Mariners,Anaheim Angels,4,8
+20020928,New York Yankees,Baltimore Orioles,4,2
+20020928,Tampa Bay Devil Rays,Boston Red Sox,9,6
+20020928,Kansas City Royals,Cleveland Indians,5,6
+20020928,Chicago White Sox,Minensota Twins,2,3
+20020928,Oakland Athletics,Texas Rangers,10,8
+20020928,Detroit Tigers,Toronto Blue Jays,2,10
+20020928,Colorado Rockies,Arizona Diamondbacks,8,17
+20020928,Pittsburgh Pirates,Chicago Cubs,4,5
+20020928,Philadelpia Phillies,Florida Marlins,9,3
+20020928,San Diego Padres,Los Angeles Dodgers,2,14
+20020928,Cincinnati Reds,Montreal Expos,0,6
+20020928,Atlanta Braves,New York Mets,5,2
+20020928,Houston Colts,San  Francisco Giants,2,5
+20020928,Milwaukee Brewers,St. Louis Cardinals,1,3
+20020929,Seattle Mariners,Anaheim Angels,6,7
+20020929,New York Yankees,Baltimore Orioles,6,1
+20020929,Tampa Bay Devil Rays,Boston Red Sox,8,11
+20020929,Kansas City Royals,Cleveland Indians,3,7
+20020929,Chicago White Sox,Minensota Twins,1,3
+20020929,Oakland Athletics,Texas Rangers,8,7
+20020929,Detroit Tigers,Toronto Blue Jays,0,1
+20020929,Colorado Rockies,Arizona Diamondbacks,8,11
+20020929,Pittsburgh Pirates,Chicago Cubs,3,7
+20020929,Philadelpia Phillies,Florida Marlins,3,4
+20020929,San Diego Padres,Los Angeles Dodgers,2,0
+20020929,Cincinnati Reds,Montreal Expos,2,7
+20020929,Atlanta Braves,New York Mets,1,6
+20020929,Houston Colts,San  Francisco Giants,0,7
+20020929,Milwaukee Brewers,St. Louis Cardinals,0,4

@@ -1,0 +1,2431 @@
+Date,away_team,home_team,away_team_score,home_team_score
+20120328,Seattle Mariners,Oakland Athletics,3,1
+20120329,Seattle Mariners,Oakland Athletics,1,4
+20120404,St. Louis Cardinals,Miami Marlins,4,1
+20120405,Toronto Blue Jays,Cleveland Indians,7,4
+20120405,Boston Red Sox,Detroit Tigers,2,3
+20120405,Washington Nationals,Chicago Cubs,2,1
+20120405,Miami Marlins,Cincinnati Reds,0,4
+20120405,Atlanta Braves,New York Mets,0,1
+20120405,Philadelpia Phillies,Pittsburgh Pirates,1,0
+20120405,Los Angeles Dodgers,San Diego Padres,5,3
+20120406,Kansas City Royals,Anaheim Angels,0,5
+20120406,Minensota Twins,Baltimore Orioles,2,4
+20120406,Seattle Mariners,Oakland Athletics,7,3
+20120406,New York Yankees,Tampa Bay Devil Rays,6,7
+20120406,Chicago White Sox,Texas Rangers,2,3
+20120406,San  Francisco Giants,Arizona Diamondbacks,4,5
+20120406,Colorado Rockies,Houston Colts,5,3
+20120406,St. Louis Cardinals,Milwaukee Brewers,11,5
+20120406,Los Angeles Dodgers,San Diego Padres,6,0
+20120407,Kansas City Royals,Anaheim Angels,6,3
+20120407,Minensota Twins,Baltimore Orioles,2,8
+20120407,Toronto Blue Jays,Cleveland Indians,7,4
+20120407,Boston Red Sox,Detroit Tigers,0,10
+20120407,Seattle Mariners,Oakland Athletics,8,7
+20120407,New York Yankees,Tampa Bay Devil Rays,6,8
+20120407,Chicago White Sox,Texas Rangers,4,3
+20120407,San  Francisco Giants,Arizona Diamondbacks,4,5
+20120407,Washington Nationals,Chicago Cubs,7,4
+20120407,Miami Marlins,Cincinnati Reds,8,3
+20120407,Colorado Rockies,Houston Colts,3,7
+20120407,St. Louis Cardinals,Milwaukee Brewers,0,6
+20120407,Atlanta Braves,New York Mets,2,4
+20120407,Philadelpia Phillies,Pittsburgh Pirates,1,2
+20120407,Los Angeles Dodgers,San Diego Padres,6,5
+20120408,Kansas City Royals,Anaheim Angels,7,3
+20120408,Minensota Twins,Baltimore Orioles,1,3
+20120408,Toronto Blue Jays,Cleveland Indians,3,4
+20120408,Boston Red Sox,Detroit Tigers,12,13
+20120408,New York Yankees,Tampa Bay Devil Rays,0,3
+20120408,Chicago White Sox,Texas Rangers,0,5
+20120408,San  Francisco Giants,Arizona Diamondbacks,6,7
+20120408,Washington Nationals,Chicago Cubs,3,4
+20120408,Miami Marlins,Cincinnati Reds,5,6
+20120408,Colorado Rockies,Houston Colts,2,3
+20120408,St. Louis Cardinals,Milwaukee Brewers,9,3
+20120408,Atlanta Braves,New York Mets,5,7
+20120408,Philadelpia Phillies,Pittsburgh Pirates,4,5
+20120408,Los Angeles Dodgers,San Diego Padres,4,8
+20120409,New York Yankees,Baltimore Orioles,6,2
+20120409,Chicago White Sox,Cleveland Indians,4,2
+20120409,Anaheim Angels,Minensota Twins,5,1
+20120409,Kansas City Royals,Oakland Athletics,0,1
+20120409,Seattle Mariners,Texas Rangers,5,11
+20120409,Boston Red Sox,Toronto Blue Jays,4,2
+20120409,Milwaukee Brewers,Chicago Cubs,7,5
+20120409,St. Louis Cardinals,Cincinnati Reds,7,1
+20120409,San  Francisco Giants,Colorado Rockies,7,0
+20120409,Atlanta Braves,Houston Colts,3,8
+20120409,Washington Nationals,New York Mets,3,4
+20120409,Miami Marlins,Philadelpia Phillies,6,2
+20120410,New York Yankees,Baltimore Orioles,5,4
+20120410,Tampa Bay Devil Rays,Detroit Tigers,2,5
+20120410,Kansas City Royals,Oakland Athletics,3,0
+20120410,Seattle Mariners,Texas Rangers,0,1
+20120410,Boston Red Sox,Toronto Blue Jays,3,7
+20120410,Milwaukee Brewers,Chicago Cubs,7,4
+20120410,St. Louis Cardinals,Cincinnati Reds,3,1
+20120410,Atlanta Braves,Houston Colts,6,4
+20120410,Pittsburgh Pirates,Los Angeles Dodgers,1,2
+20120410,Washington Nationals,New York Mets,6,2
+20120410,Arizona Diamondbacks,San Diego Padres,4,2
+20120411,New York Yankees,Baltimore Orioles,6,4
+20120411,Chicago White Sox,Cleveland Indians,10,6
+20120411,Tampa Bay Devil Rays,Detroit Tigers,4,2
+20120411,Anaheim Angels,Minensota Twins,5,6
+20120411,Kansas City Royals,Oakland Athletics,4,5
+20120411,Seattle Mariners,Texas Rangers,4,3
+20120411,Boston Red Sox,Toronto Blue Jays,1,3
+20120411,Milwaukee Brewers,Chicago Cubs,2,1
+20120411,St. Louis Cardinals,Cincinnati Reds,3,4
+20120411,San  Francisco Giants,Colorado Rockies,8,17
+20120411,Atlanta Braves,Houston Colts,6,3
+20120411,Pittsburgh Pirates,Los Angeles Dodgers,1,4
+20120411,Washington Nationals,New York Mets,4,0
+20120411,Miami Marlins,Philadelpia Phillies,1,7
+20120411,Arizona Diamondbacks,San Diego Padres,1,2
+20120412,Tampa Bay Devil Rays,Detroit Tigers,2,7
+20120412,Anaheim Angels,Minensota Twins,9,10
+20120412,Seattle Mariners,Texas Rangers,3,5
+20120412,Milwaukee Brewers,Chicago Cubs,0,8
+20120412,San  Francisco Giants,Colorado Rockies,4,2
+20120412,Pittsburgh Pirates,Los Angeles Dodgers,2,3
+20120412,Miami Marlins,Philadelpia Phillies,1,3
+20120412,Arizona Diamondbacks,San Diego Padres,3,1
+20120412,Cincinnati Reds,Washington Nationals,2,3
+20120413,Tampa Bay Devil Rays,Boston Red Sox,2,12
+20120413,Detroit Tigers,Chicago White Sox,2,5
+20120413,Cleveland Indians,Kansas City Royals,8,3
+20120413,Texas Rangers,Minensota Twins,4,1
+20120413,Anaheim Angels,New York Yankees,0,5
+20120413,Oakland Athletics,Seattle Mariners,4,0
+20120413,Baltimore Orioles,Toronto Blue Jays,7,5
+20120413,Milwaukee Brewers,Atlanta Braves,8,10
+20120413,Arizona Diamondbacks,Colorado Rockies,6,7
+20120413,San Diego Padres,Los Angeles Dodgers,8,9
+20120413,Houston Colts,Miami Marlins,4,5
+20120413,New York Mets,Philadelpia Phillies,5,2
+20120413,Pittsburgh Pirates,San  Francisco Giants,0,5
+20120413,Chicago Cubs,St. Louis Cardinals,9,5
+20120413,Cincinnati Reds,Washington Nationals,1,2
+20120414,Tampa Bay Devil Rays,Boston Red Sox,5,13
+20120414,Detroit Tigers,Chicago White Sox,1,5
+20120414,Cleveland Indians,Kansas City Royals,11,9
+20120414,Texas Rangers,Minensota Twins,6,2
+20120414,Anaheim Angels,New York Yankees,7,1
+20120414,Oakland Athletics,Seattle Mariners,0,4
+20120414,Baltimore Orioles,Toronto Blue Jays,6,4
+20120414,Milwaukee Brewers,Atlanta Braves,1,2
+20120414,Arizona Diamondbacks,Colorado Rockies,7,8
+20120414,San Diego Padres,Los Angeles Dodgers,1,6
+20120414,Houston Colts,Miami Marlins,5,4
+20120414,New York Mets,Philadelpia Phillies,5,0
+20120414,Pittsburgh Pirates,San  Francisco Giants,3,4
+20120414,Chicago Cubs,St. Louis Cardinals,1,5
+20120414,Cincinnati Reds,Washington Nationals,1,4
+20120415,Tampa Bay Devil Rays,Boston Red Sox,4,6
+20120415,Detroit Tigers,Chicago White Sox,5,2
+20120415,Cleveland Indians,Kansas City Royals,13,7
+20120415,Texas Rangers,Minensota Twins,4,3
+20120415,Anaheim Angels,New York Yankees,5,11
+20120415,Oakland Athletics,Seattle Mariners,3,5
+20120415,Baltimore Orioles,Toronto Blue Jays,2,9
+20120415,Milwaukee Brewers,Atlanta Braves,4,7
+20120415,Arizona Diamondbacks,Colorado Rockies,5,2
+20120415,San Diego Padres,Los Angeles Dodgers,4,5
+20120415,Houston Colts,Miami Marlins,4,5
+20120415,New York Mets,Philadelpia Phillies,2,8
+20120415,Pittsburgh Pirates,San  Francisco Giants,4,1
+20120415,Chicago Cubs,St. Louis Cardinals,3,10
+20120415,Cincinnati Reds,Washington Nationals,8,5
+20120416,Oakland Athletics,Anaheim Angels,0,6
+20120416,Tampa Bay Devil Rays,Boston Red Sox,1,0
+20120416,Baltimore Orioles,Chicago White Sox,10,4
+20120416,Detroit Tigers,Kansas City Royals,3,2
+20120416,Minensota Twins,New York Yankees,7,3
+20120416,Pittsburgh Pirates,Arizona Diamondbacks,1,5
+20120416,New York Mets,Atlanta Braves,6,1
+20120416,San Diego Padres,Colorado Rockies,7,1
+20120416,Philadelpia Phillies,San  Francisco Giants,5,2
+20120416,Houston Colts,Washington Nationals,3,6
+20120417,Oakland Athletics,Anaheim Angels,5,3
+20120417,Texas Rangers,Boston Red Sox,18,3
+20120417,Baltimore Orioles,Chicago White Sox,3,2
+20120417,Detroit Tigers,Kansas City Royals,3,1
+20120417,Minensota Twins,New York Yankees,3,8
+20120417,Cleveland Indians,Seattle Mariners,9,8
+20120417,Tampa Bay Devil Rays,Toronto Blue Jays,3,7
+20120417,Pittsburgh Pirates,Arizona Diamondbacks,5,4
+20120417,New York Mets,Atlanta Braves,3,9
+20120417,San Diego Padres,Colorado Rockies,3,5
+20120417,Chicago Cubs,Miami Marlins,2,5
+20120417,Los Angeles Dodgers,Milwaukee Brewers,4,5
+20120417,Philadelpia Phillies,San  Francisco Giants,2,4
+20120417,Cincinnati Reds,St. Louis Cardinals,1,2
+20120417,Houston Colts,Washington Nationals,0,1
+20120418,Oakland Athletics,Anaheim Angels,6,0
+20120418,Texas Rangers,Boston Red Sox,6,3
+20120418,Baltimore Orioles,Chicago White Sox,1,8
+20120418,Detroit Tigers,Kansas City Royals,4,3
+20120418,Minensota Twins,New York Yankees,6,5
+20120418,Cleveland Indians,Seattle Mariners,1,4
+20120418,Tampa Bay Devil Rays,Toronto Blue Jays,12,2
+20120418,Pittsburgh Pirates,Arizona Diamondbacks,2,1
+20120418,New York Mets,Atlanta Braves,6,14
+20120418,San Diego Padres,Colorado Rockies,4,8
+20120418,Chicago Cubs,Miami Marlins,1,9
+20120418,Los Angeles Dodgers,Milwaukee Brewers,2,3
+20120418,Philadelpia Phillies,San  Francisco Giants,0,1
+20120418,Cincinnati Reds,St. Louis Cardinals,1,11
+20120418,Houston Colts,Washington Nationals,2,3
+20120419,Oakland Athletics,Anaheim Angels,4,2
+20120419,Baltimore Orioles,Chicago White Sox,5,3
+20120419,Texas Rangers,Detroit Tigers,10,3
+20120419,Minensota Twins,New York Yankees,6,7
+20120419,Cleveland Indians,Seattle Mariners,2,1
+20120419,Tampa Bay Devil Rays,Toronto Blue Jays,9,4
+20120419,Atlanta Braves,Arizona Diamondbacks,10,2
+20120419,Chicago Cubs,Miami Marlins,3,5
+20120419,Los Angeles Dodgers,Milwaukee Brewers,4,3
+20120419,Philadelpia Phillies,San Diego Padres,2,0
+20120419,Cincinnati Reds,St. Louis Cardinals,6,3
+20120419,Houston Colts,Washington Nationals,11,4
+20120420,Baltimore Orioles,Anaheim Angels,3,6
+20120420,New York Yankees,Boston Red Sox,6,2
+20120420,Toronto Blue Jays,Kansas City Royals,4,3
+20120420,Cleveland Indians,Oakland Athletics,4,3
+20120420,Chicago White Sox,Seattle Mariners,7,3
+20120420,Minensota Twins,Tampa Bay Devil Rays,5,4
+20120420,Atlanta Braves,Arizona Diamondbacks,9,1
+20120420,Cincinnati Reds,Chicago Cubs,9,4
+20120420,Los Angeles Dodgers,Houston Colts,3,1
+20120420,Colorado Rockies,Milwaukee Brewers,4,3
+20120420,San  Francisco Giants,New York Mets,4,3
+20120420,St. Louis Cardinals,Pittsburgh Pirates,4,1
+20120420,Philadelpia Phillies,San Diego Padres,4,1
+20120420,Miami Marlins,Washington Nationals,0,2
+20120421,Baltimore Orioles,Anaheim Angels,3,6
+20120421,New York Yankees,Boston Red Sox,15,9
+20120421,Texas Rangers,Detroit Tigers,10,4
+20120421,Texas Rangers,Detroit Tigers,2,3
+20120421,Toronto Blue Jays,Kansas City Royals,9,5
+20120421,Cleveland Indians,Oakland Athletics,5,1
+20120421,Chicago White Sox,Seattle Mariners,4,0
+20120421,Minensota Twins,Tampa Bay Devil Rays,1,4
+20120421,Atlanta Braves,Arizona Diamondbacks,3,2
+20120421,Cincinnati Reds,Chicago Cubs,1,6
+20120421,Los Angeles Dodgers,Houston Colts,5,1
+20120421,Colorado Rockies,Milwaukee Brewers,4,9
+20120421,San  Francisco Giants,New York Mets,4,5
+20120421,St. Louis Cardinals,Pittsburgh Pirates,0,2
+20120421,Philadelpia Phillies,San Diego Padres,1,5
+20120421,Miami Marlins,Washington Nationals,2,3
+20120422,Baltimore Orioles,Anaheim Angels,3,2
+20120422,Texas Rangers,Detroit Tigers,3,2
+20120422,Toronto Blue Jays,Kansas City Royals,5,3
+20120422,Cleveland Indians,Oakland Athletics,1,5
+20120422,Chicago White Sox,Seattle Mariners,7,4
+20120422,Minensota Twins,Tampa Bay Devil Rays,2,6
+20120422,Atlanta Braves,Arizona Diamondbacks,4,6
+20120422,Cincinnati Reds,Chicago Cubs,4,3
+20120422,Los Angeles Dodgers,Houston Colts,0,12
+20120422,Colorado Rockies,Milwaukee Brewers,4,1
+20120422,St. Louis Cardinals,Pittsburgh Pirates,5,1
+20120422,Philadelpia Phillies,San Diego Padres,1,6
+20120423,Toronto Blue Jays,Kansas City Royals,4,1
+20120423,Boston Red Sox,Minensota Twins,6,5
+20120423,Chicago White Sox,Oakland Athletics,4,0
+20120423,New York Yankees,Texas Rangers,7,4
+20120423,Philadelpia Phillies,Arizona Diamondbacks,5,9
+20120423,St. Louis Cardinals,Chicago Cubs,2,3
+20120423,Atlanta Braves,Los Angeles Dodgers,2,7
+20120423,Houston Colts,Milwaukee Brewers,5,6
+20120423,San  Francisco Giants,New York Mets,6,1
+20120423,San  Francisco Giants,New York Mets,7,2
+20120424,Toronto Blue Jays,Baltimore Orioles,1,2
+20120424,Kansas City Royals,Cleveland Indians,3,4
+20120424,Seattle Mariners,Detroit Tigers,7,4
+20120424,Boston Red Sox,Minensota Twins,11,2
+20120424,Chicago White Sox,Oakland Athletics,0,2
+20120424,Anaheim Angels,Tampa Bay Devil Rays,0,5
+20120424,New York Yankees,Texas Rangers,0,2
+20120424,Philadelpia Phillies,Arizona Diamondbacks,8,5
+20120424,St. Louis Cardinals,Chicago Cubs,2,3
+20120424,San  Francisco Giants,Cincinnati Reds,2,9
+20120424,Atlanta Braves,Los Angeles Dodgers,4,3
+20120424,Houston Colts,Milwaukee Brewers,6,9
+20120424,Miami Marlins,New York Mets,1,2
+20120424,Colorado Rockies,Pittsburgh Pirates,4,5
+20120424,Washington Nationals,San Diego Padres,3,1
+20120425,Toronto Blue Jays,Baltimore Orioles,0,3
+20120425,Kansas City Royals,Cleveland Indians,8,2
+20120425,Seattle Mariners,Detroit Tigers,9,1
+20120425,Boston Red Sox,Minensota Twins,7,6
+20120425,Chicago White Sox,Oakland Athletics,4,5
+20120425,Anaheim Angels,Tampa Bay Devil Rays,2,3
+20120425,New York Yankees,Texas Rangers,3,7
+20120425,Philadelpia Phillies,Arizona Diamondbacks,7,2
+20120425,St. Louis Cardinals,Chicago Cubs,5,1
+20120425,San  Francisco Giants,Cincinnati Reds,2,4
+20120425,Atlanta Braves,Los Angeles Dodgers,4,2
+20120425,Houston Colts,Milwaukee Brewers,7,5
+20120425,Miami Marlins,New York Mets,1,5
+20120425,Colorado Rockies,Pittsburgh Pirates,2,1
+20120425,Colorado Rockies,Pittsburgh Pirates,1,5
+20120425,Washington Nationals,San Diego Padres,7,2
+20120426,Toronto Blue Jays,Baltimore Orioles,2,5
+20120426,Boston Red Sox,Chicago White Sox,10,3
+20120426,Kansas City Royals,Cleveland Indians,4,2
+20120426,Seattle Mariners,Detroit Tigers,5,4
+20120426,Anaheim Angels,Tampa Bay Devil Rays,3,4
+20120426,San  Francisco Giants,Cincinnati Reds,6,5
+20120426,Miami Marlins,New York Mets,2,3
+20120426,Washington Nationals,San Diego Padres,1,2
+20120427,Oakland Athletics,Baltimore Orioles,5,2
+20120427,Boston Red Sox,Chicago White Sox,10,3
+20120427,Anaheim Angels,Cleveland Indians,2,3
+20120427,Kansas City Royals,Minensota Twins,7,6
+20120427,Detroit Tigers,New York Yankees,6,7
+20120427,Tampa Bay Devil Rays,Texas Rangers,8,4
+20120427,Seattle Mariners,Toronto Blue Jays,9,5
+20120427,Pittsburgh Pirates,Atlanta Braves,1,6
+20120427,Houston Colts,Cincinnati Reds,6,4
+20120427,New York Mets,Colorado Rockies,9,18
+20120427,Washington Nationals,Los Angeles Dodgers,2,3
+20120427,Arizona Diamondbacks,Miami Marlins,5,0
+20120427,Chicago Cubs,Philadelpia Phillies,5,1
+20120427,San Diego Padres,San  Francisco Giants,5,3
+20120427,Milwaukee Brewers,St. Louis Cardinals,1,13
+20120428,Oakland Athletics,Baltimore Orioles,1,10
+20120428,Boston Red Sox,Chicago White Sox,1,0
+20120428,Anaheim Angels,Cleveland Indians,2,1
+20120428,Detroit Tigers,New York Yankees,7,5
+20120428,Tampa Bay Devil Rays,Texas Rangers,2,7
+20120428,Seattle Mariners,Toronto Blue Jays,0,7
+20120428,Pittsburgh Pirates,Atlanta Braves,4,2
+20120428,Houston Colts,Cincinnati Reds,0,6
+20120428,New York Mets,Colorado Rockies,7,5
+20120428,Washington Nationals,Los Angeles Dodgers,3,4
+20120428,Arizona Diamondbacks,Miami Marlins,2,3
+20120428,Chicago Cubs,Philadelpia Phillies,2,5
+20120428,San Diego Padres,San  Francisco Giants,1,2
+20120428,Milwaukee Brewers,St. Louis Cardinals,3,7
+20120429,Oakland Athletics,Baltimore Orioles,2,5
+20120429,Boston Red Sox,Chicago White Sox,1,4
+20120429,Anaheim Angels,Cleveland Indians,0,4
+20120429,Kansas City Royals,Minensota Twins,4,7
+20120429,Detroit Tigers,New York Yankees,2,6
+20120429,Tampa Bay Devil Rays,Texas Rangers,5,2
+20120429,Seattle Mariners,Toronto Blue Jays,2,7
+20120429,Pittsburgh Pirates,Atlanta Braves,3,4
+20120429,Houston Colts,Cincinnati Reds,5,6
+20120429,New York Mets,Colorado Rockies,6,5
+20120429,Washington Nationals,Los Angeles Dodgers,0,2
+20120429,Arizona Diamondbacks,Miami Marlins,8,4
+20120429,Chicago Cubs,Philadelpia Phillies,5,1
+20120429,San Diego Padres,San  Francisco Giants,1,4
+20120429,Milwaukee Brewers,St. Louis Cardinals,3,2
+20120430,Minensota Twins,Anaheim Angels,3,4
+20120430,Oakland Athletics,Boston Red Sox,6,11
+20120430,Baltimore Orioles,New York Yankees,1,2
+20120430,Seattle Mariners,Tampa Bay Devil Rays,2,3
+20120430,Texas Rangers,Toronto Blue Jays,4,1
+20120430,Pittsburgh Pirates,Atlanta Braves,9,3
+20120430,Los Angeles Dodgers,Colorado Rockies,2,6
+20120430,New York Mets,Houston Colts,3,4
+20120430,Arizona Diamondbacks,Miami Marlins,9,5
+20120430,Chicago Cubs,Philadelpia Phillies,4,6
+20120430,Milwaukee Brewers,San Diego Padres,8,3
+20120501,Minensota Twins,Anaheim Angels,0,4
+20120501,Oakland Athletics,Boston Red Sox,5,3
+20120501,Cleveland Indians,Chicago White Sox,2,7
+20120501,Kansas City Royals,Detroit Tigers,3,9
+20120501,Baltimore Orioles,New York Yankees,7,1
+20120501,Seattle Mariners,Tampa Bay Devil Rays,1,3
+20120501,Texas Rangers,Toronto Blue Jays,7,8
+20120501,Philadelpia Phillies,Atlanta Braves,4,2
+20120501,Los Angeles Dodgers,Colorado Rockies,7,6
+20120501,New York Mets,Houston Colts,3,6
+20120501,Milwaukee Brewers,San Diego Padres,0,2
+20120501,Miami Marlins,San  Francisco Giants,2,1
+20120501,Pittsburgh Pirates,St. Louis Cardinals,7,10
+20120501,Arizona Diamondbacks,Washington Nationals,5,1
+20120502,Minensota Twins,Anaheim Angels,0,9
+20120502,Oakland Athletics,Boston Red Sox,4,2
+20120502,Cleveland Indians,Chicago White Sox,6,3
+20120502,Kansas City Royals,Detroit Tigers,3,2
+20120502,Baltimore Orioles,New York Yankees,5,0
+20120502,Seattle Mariners,Tampa Bay Devil Rays,4,5
+20120502,Texas Rangers,Toronto Blue Jays,5,11
+20120502,Philadelpia Phillies,Atlanta Braves,13,15
+20120502,Chicago Cubs,Cincinnati Reds,3,1
+20120502,Los Angeles Dodgers,Colorado Rockies,5,8
+20120502,New York Mets,Houston Colts,1,8
+20120502,Milwaukee Brewers,San Diego Padres,0,5
+20120502,Miami Marlins,San  Francisco Giants,3,2
+20120502,Pittsburgh Pirates,St. Louis Cardinals,3,12
+20120502,Arizona Diamondbacks,Washington Nationals,4,5
+20120503,Toronto Blue Jays,Anaheim Angels,5,0
+20120503,Cleveland Indians,Chicago White Sox,7,5
+20120503,New York Yankees,Kansas City Royals,3,4
+20120503,Seattle Mariners,Tampa Bay Devil Rays,3,4
+20120503,Philadelpia Phillies,Atlanta Braves,4,0
+20120503,Chicago Cubs,Cincinnati Reds,3,4
+20120503,Miami Marlins,San  Francisco Giants,3,2
+20120503,Pittsburgh Pirates,St. Louis Cardinals,6,3
+20120503,Arizona Diamondbacks,Washington Nationals,1,2
+20120504,Toronto Blue Jays,Anaheim Angels,4,0
+20120504,Baltimore Orioles,Boston Red Sox,6,4
+20120504,Texas Rangers,Cleveland Indians,3,6
+20120504,Chicago White Sox,Detroit Tigers,4,5
+20120504,New York Yankees,Kansas City Royals,6,2
+20120504,Minensota Twins,Seattle Mariners,3,2
+20120504,Oakland Athletics,Tampa Bay Devil Rays,2,7
+20120504,Los Angeles Dodgers,Chicago Cubs,4,5
+20120504,Atlanta Braves,Colorado Rockies,9,8
+20120504,St. Louis Cardinals,Houston Colts,4,5
+20120504,Arizona Diamondbacks,New York Mets,5,4
+20120504,Cincinnati Reds,Pittsburgh Pirates,6,1
+20120504,Miami Marlins,San Diego Padres,9,8
+20120504,Milwaukee Brewers,San  Francisco Giants,6,4
+20120504,Philadelpia Phillies,Washington Nationals,3,4
+20120505,Toronto Blue Jays,Anaheim Angels,2,6
+20120505,Baltimore Orioles,Boston Red Sox,8,2
+20120505,Texas Rangers,Cleveland Indians,5,2
+20120505,Chicago White Sox,Detroit Tigers,3,2
+20120505,New York Yankees,Kansas City Royals,1,5
+20120505,Minensota Twins,Seattle Mariners,0,7
+20120505,Oakland Athletics,Tampa Bay Devil Rays,4,3
+20120505,Los Angeles Dodgers,Chicago Cubs,5,1
+20120505,Atlanta Braves,Colorado Rockies,13,9
+20120505,St. Louis Cardinals,Houston Colts,2,8
+20120505,Arizona Diamondbacks,New York Mets,3,4
+20120505,Cincinnati Reds,Pittsburgh Pirates,2,3
+20120505,Miami Marlins,San Diego Padres,4,1
+20120505,Milwaukee Brewers,San  Francisco Giants,2,5
+20120505,Philadelpia Phillies,Washington Nationals,1,7
+20120506,Toronto Blue Jays,Anaheim Angels,3,4
+20120506,Baltimore Orioles,Boston Red Sox,9,6
+20120506,Texas Rangers,Cleveland Indians,2,4
+20120506,Chicago White Sox,Detroit Tigers,1,3
+20120506,New York Yankees,Kansas City Royals,10,4
+20120506,Minensota Twins,Seattle Mariners,2,5
+20120506,Oakland Athletics,Tampa Bay Devil Rays,9,5
+20120506,Los Angeles Dodgers,Chicago Cubs,3,4
+20120506,Atlanta Braves,Colorado Rockies,7,2
+20120506,St. Louis Cardinals,Houston Colts,8,1
+20120506,Arizona Diamondbacks,New York Mets,1,3
+20120506,Cincinnati Reds,Pittsburgh Pirates,5,0
+20120506,Miami Marlins,San Diego Padres,6,3
+20120506,Milwaukee Brewers,San  Francisco Giants,3,4
+20120506,Philadelpia Phillies,Washington Nationals,9,3
+20120507,Texas Rangers,Baltimore Orioles,14,3
+20120507,Chicago White Sox,Cleveland Indians,6,8
+20120507,Chicago White Sox,Cleveland Indians,2,3
+20120507,Boston Red Sox,Kansas City Royals,11,5
+20120507,Anaheim Angels,Minensota Twins,8,3
+20120507,Detroit Tigers,Seattle Mariners,2,3
+20120507,St. Louis Cardinals,Arizona Diamondbacks,9,6
+20120507,Atlanta Braves,Chicago Cubs,1,5
+20120507,Miami Marlins,Houston Colts,4,0
+20120507,San  Francisco Giants,Los Angeles Dodgers,1,9
+20120507,Cincinnati Reds,Milwaukee Brewers,6,1
+20120507,New York Mets,Philadelpia Phillies,5,2
+20120507,Colorado Rockies,San Diego Padres,2,3
+20120508,Texas Rangers,Baltimore Orioles,10,3
+20120508,Chicago White Sox,Cleveland Indians,5,3
+20120508,Boston Red Sox,Kansas City Royals,4,6
+20120508,Anaheim Angels,Minensota Twins,0,5
+20120508,Tampa Bay Devil Rays,New York Yankees,3,5
+20120508,Toronto Blue Jays,Oakland Athletics,3,7
+20120508,Detroit Tigers,Seattle Mariners,6,4
+20120508,St. Louis Cardinals,Arizona Diamondbacks,6,1
+20120508,Atlanta Braves,Chicago Cubs,3,1
+20120508,Miami Marlins,Houston Colts,2,3
+20120508,San  Francisco Giants,Los Angeles Dodgers,2,1
+20120508,Cincinnati Reds,Milwaukee Brewers,3,8
+20120508,New York Mets,Philadelpia Phillies,7,4
+20120508,Washington Nationals,Pittsburgh Pirates,4,5
+20120508,Colorado Rockies,San Diego Padres,1,3
+20120509,Chicago White Sox,Cleveland Indians,8,1
+20120509,Boston Red Sox,Kansas City Royals,3,4
+20120509,Anaheim Angels,Minensota Twins,6,2
+20120509,Tampa Bay Devil Rays,New York Yankees,4,1
+20120509,Toronto Blue Jays,Oakland Athletics,5,2
+20120509,Detroit Tigers,Seattle Mariners,1,2
+20120509,St. Louis Cardinals,Arizona Diamondbacks,7,2
+20120509,Atlanta Braves,Chicago Cubs,0,1
+20120509,Miami Marlins,Houston Colts,5,3
+20120509,San  Francisco Giants,Los Angeles Dodgers,2,6
+20120509,Cincinnati Reds,Milwaukee Brewers,2,1
+20120509,New York Mets,Philadelpia Phillies,10,6
+20120509,Washington Nationals,Pittsburgh Pirates,2,4
+20120509,Colorado Rockies,San Diego Padres,6,2
+20120510,Texas Rangers,Baltimore Orioles,5,6
+20120510,Texas Rangers,Baltimore Orioles,7,3
+20120510,Cleveland Indians,Boston Red Sox,8,3
+20120510,Toronto Blue Jays,Minensota Twins,6,2
+20120510,Tampa Bay Devil Rays,New York Yankees,3,5
+20120510,Detroit Tigers,Oakland Athletics,10,6
+20120510,Washington Nationals,Pittsburgh Pirates,4,2
+20120511,Tampa Bay Devil Rays,Baltimore Orioles,3,4
+20120511,Cleveland Indians,Boston Red Sox,5,7
+20120511,Kansas City Royals,Chicago White Sox,0,5
+20120511,Toronto Blue Jays,Minensota Twins,6,7
+20120511,Seattle Mariners,New York Yankees,2,6
+20120511,Detroit Tigers,Oakland Athletics,4,11
+20120511,Anaheim Angels,Texas Rangers,3,10
+20120511,San  Francisco Giants,Arizona Diamondbacks,1,5
+20120511,Washington Nationals,Cincinnati Reds,7,3
+20120511,Colorado Rockies,Los Angeles Dodgers,3,7
+20120511,New York Mets,Miami Marlins,5,6
+20120511,Chicago Cubs,Milwaukee Brewers,7,8
+20120511,San Diego Padres,Philadelpia Phillies,3,7
+20120511,Houston Colts,Pittsburgh Pirates,1,0
+20120511,Atlanta Braves,St. Louis Cardinals,9,7
+20120512,Tampa Bay Devil Rays,Baltimore Orioles,3,5
+20120512,Cleveland Indians,Boston Red Sox,1,4
+20120512,Kansas City Royals,Chicago White Sox,5,0
+20120512,Toronto Blue Jays,Minensota Twins,2,1
+20120512,Seattle Mariners,New York Yankees,2,6
+20120512,Detroit Tigers,Oakland Athletics,1,3
+20120512,Anaheim Angels,Texas Rangers,4,2
+20120512,San  Francisco Giants,Arizona Diamondbacks,5,2
+20120512,Washington Nationals,Cincinnati Reds,2,1
+20120512,Colorado Rockies,Los Angeles Dodgers,1,2
+20120512,New York Mets,Miami Marlins,9,3
+20120512,Chicago Cubs,Milwaukee Brewers,2,8
+20120512,San Diego Padres,Philadelpia Phillies,2,1
+20120512,Houston Colts,Pittsburgh Pirates,2,5
+20120512,Atlanta Braves,St. Louis Cardinals,7,2
+20120513,Tampa Bay Devil Rays,Baltimore Orioles,9,8
+20120513,Cleveland Indians,Boston Red Sox,1,12
+20120513,Kansas City Royals,Chicago White Sox,9,1
+20120513,Toronto Blue Jays,Minensota Twins,3,4
+20120513,Seattle Mariners,New York Yankees,6,2
+20120513,Detroit Tigers,Oakland Athletics,3,1
+20120513,Anaheim Angels,Texas Rangers,6,13
+20120513,San  Francisco Giants,Arizona Diamondbacks,7,3
+20120513,Washington Nationals,Cincinnati Reds,6,9
+20120513,Colorado Rockies,Los Angeles Dodgers,5,11
+20120513,New York Mets,Miami Marlins,4,8
+20120513,Chicago Cubs,Milwaukee Brewers,8,2
+20120513,San Diego Padres,Philadelpia Phillies,2,3
+20120513,Houston Colts,Pittsburgh Pirates,2,3
+20120513,Atlanta Braves,St. Louis Cardinals,7,4
+20120514,Oakland Athletics,Anaheim Angels,5,0
+20120514,New York Yankees,Baltimore Orioles,8,5
+20120514,Seattle Mariners,Boston Red Sox,1,6
+20120514,Detroit Tigers,Chicago White Sox,5,7
+20120514,Cleveland Indians,Minensota Twins,5,4
+20120514,Kansas City Royals,Texas Rangers,3,1
+20120514,Tampa Bay Devil Rays,Toronto Blue Jays,7,1
+20120514,Cincinnati Reds,Atlanta Braves,3,1
+20120514,Arizona Diamondbacks,Los Angeles Dodgers,1,3
+20120514,Pittsburgh Pirates,Miami Marlins,3,2
+20120514,Milwaukee Brewers,New York Mets,1,3
+20120514,Houston Colts,Philadelpia Phillies,1,5
+20120514,Colorado Rockies,San  Francisco Giants,2,3
+20120514,Chicago Cubs,St. Louis Cardinals,6,4
+20120514,San Diego Padres,Washington Nationals,5,8
+20120515,Oakland Athletics,Anaheim Angels,0,4
+20120515,New York Yankees,Baltimore Orioles,2,5
+20120515,Seattle Mariners,Boston Red Sox,0,5
+20120515,Detroit Tigers,Chicago White Sox,10,8
+20120515,Cleveland Indians,Minensota Twins,5,0
+20120515,Kansas City Royals,Texas Rangers,7,4
+20120515,Tampa Bay Devil Rays,Toronto Blue Jays,4,3
+20120515,Cincinnati Reds,Atlanta Braves,2,6
+20120515,Arizona Diamondbacks,Los Angeles Dodgers,5,1
+20120515,Pittsburgh Pirates,Miami Marlins,2,6
+20120515,Milwaukee Brewers,New York Mets,8,0
+20120515,Houston Colts,Philadelpia Phillies,3,4
+20120515,Colorado Rockies,San  Francisco Giants,5,4
+20120515,Chicago Cubs,St. Louis Cardinals,6,7
+20120515,San Diego Padres,Washington Nationals,6,1
+20120516,Chicago White Sox,Anaheim Angels,2,7
+20120516,Seattle Mariners,Cleveland Indians,3,9
+20120516,Minensota Twins,Detroit Tigers,11,7
+20120516,Baltimore Orioles,Kansas City Royals,4,3
+20120516,Boston Red Sox,Tampa Bay Devil Rays,1,2
+20120516,Oakland Athletics,Texas Rangers,1,4
+20120516,New York Yankees,Toronto Blue Jays,1,8
+20120516,Miami Marlins,Atlanta Braves,8,4
+20120516,Philadelpia Phillies,Chicago Cubs,9,2
+20120516,Arizona Diamondbacks,Colorado Rockies,1,6
+20120516,Milwaukee Brewers,Houston Colts,3,8
+20120516,Cincinnati Reds,New York Mets,6,3
+20120516,Los Angeles Dodgers,San Diego Padres,2,4
+20120516,St. Louis Cardinals,San  Francisco Giants,4,1
+20120516,Pittsburgh Pirates,Washington Nationals,4,7
+20120517,Chicago White Sox,Anaheim Angels,6,1
+20120517,Seattle Mariners,Cleveland Indians,5,6
+20120517,Minensota Twins,Detroit Tigers,4,3
+20120517,Baltimore Orioles,Kansas City Royals,5,3
+20120517,Boston Red Sox,Tampa Bay Devil Rays,5,3
+20120517,Oakland Athletics,Texas Rangers,5,4
+20120517,New York Yankees,Toronto Blue Jays,1,4
+20120517,Miami Marlins,Atlanta Braves,0,7
+20120517,Philadelpia Phillies,Chicago Cubs,8,7
+20120517,Arizona Diamondbacks,Colorado Rockies,9,7
+20120517,Milwaukee Brewers,Houston Colts,0,4
+20120517,Cincinnati Reds,New York Mets,4,9
+20120517,Los Angeles Dodgers,San Diego Padres,8,1
+20120517,St. Louis Cardinals,San  Francisco Giants,5,7
+20120517,Pittsburgh Pirates,Washington Nationals,5,3
+20120518,Miami Marlins,Cleveland Indians,3,2
+20120518,Pittsburgh Pirates,Detroit Tigers,0,6
+20120518,Arizona Diamondbacks,Kansas City Royals,6,4
+20120518,Cincinnati Reds,New York Yankees,0,4
+20120518,Atlanta Braves,Tampa Bay Devil Rays,5,3
+20120518,New York Mets,Toronto Blue Jays,5,14
+20120518,Chicago White Sox,Chicago Cubs,3,2
+20120518,Seattle Mariners,Colorado Rockies,4,0
+20120518,Texas Rangers,Houston Colts,4,1
+20120518,St. Louis Cardinals,Los Angeles Dodgers,5,6
+20120518,Minensota Twins,Milwaukee Brewers,11,3
+20120518,Boston Red Sox,Philadelpia Phillies,4,6
+20120518,Anaheim Angels,San Diego Padres,7,2
+20120518,Oakland Athletics,San  Francisco Giants,6,8
+20120518,Baltimore Orioles,Washington Nationals,2,1
+20120519,Miami Marlins,Cleveland Indians,0,2
+20120519,Pittsburgh Pirates,Detroit Tigers,4,3
+20120519,Arizona Diamondbacks,Kansas City Royals,3,7
+20120519,Cincinnati Reds,New York Yankees,6,5
+20120519,Atlanta Braves,Tampa Bay Devil Rays,2,5
+20120519,New York Mets,Toronto Blue Jays,0,2
+20120519,Chicago White Sox,Chicago Cubs,7,4
+20120519,Seattle Mariners,Colorado Rockies,10,3
+20120519,Texas Rangers,Houston Colts,5,6
+20120519,St. Louis Cardinals,Los Angeles Dodgers,0,6
+20120519,Minensota Twins,Milwaukee Brewers,5,4
+20120519,Boston Red Sox,Philadelpia Phillies,7,5
+20120519,Anaheim Angels,San Diego Padres,2,3
+20120519,Oakland Athletics,San  Francisco Giants,0,4
+20120519,Baltimore Orioles,Washington Nationals,6,5
+20120520,Miami Marlins,Cleveland Indians,5,3
+20120520,Pittsburgh Pirates,Detroit Tigers,3,4
+20120520,Arizona Diamondbacks,Kansas City Royals,2,0
+20120520,Cincinnati Reds,New York Yankees,5,2
+20120520,Atlanta Braves,Tampa Bay Devil Rays,2,0
+20120520,New York Mets,Toronto Blue Jays,6,5
+20120520,Chicago White Sox,Chicago Cubs,6,0
+20120520,Seattle Mariners,Colorado Rockies,6,4
+20120520,Texas Rangers,Houston Colts,6,1
+20120520,St. Louis Cardinals,Los Angeles Dodgers,5,6
+20120520,Minensota Twins,Milwaukee Brewers,4,16
+20120520,Boston Red Sox,Philadelpia Phillies,5,1
+20120520,Anaheim Angels,San Diego Padres,2,3
+20120520,Oakland Athletics,San  Francisco Giants,6,2
+20120520,Baltimore Orioles,Washington Nationals,3,9
+20120521,Boston Red Sox,Baltimore Orioles,8,6
+20120521,Kansas City Royals,New York Yankees,6,0
+20120521,Anaheim Angels,Oakland Athletics,1,2
+20120521,Texas Rangers,Seattle Mariners,1,6
+20120521,Toronto Blue Jays,Tampa Bay Devil Rays,6,2
+20120521,Los Angeles Dodgers,Arizona Diamondbacks,6,1
+20120521,Atlanta Braves,Cincinnati Reds,1,4
+20120521,Chicago Cubs,Houston Colts,4,8
+20120521,Colorado Rockies,Miami Marlins,4,7
+20120521,San  Francisco Giants,Milwaukee Brewers,4,3
+20120521,Washington Nationals,Philadelpia Phillies,2,1
+20120521,New York Mets,Pittsburgh Pirates,4,5
+20120521,San Diego Padres,St. Louis Cardinals,3,4
+20120522,Boston Red Sox,Baltimore Orioles,1,4
+20120522,Minensota Twins,Chicago White Sox,9,2
+20120522,Detroit Tigers,Cleveland Indians,3,5
+20120522,Kansas City Royals,New York Yankees,2,3
+20120522,Anaheim Angels,Oakland Athletics,5,0
+20120522,Texas Rangers,Seattle Mariners,3,1
+20120522,Toronto Blue Jays,Tampa Bay Devil Rays,5,8
+20120522,Los Angeles Dodgers,Arizona Diamondbacks,8,7
+20120522,Atlanta Braves,Cincinnati Reds,3,4
+20120522,Chicago Cubs,Houston Colts,1,2
+20120522,Colorado Rockies,Miami Marlins,6,7
+20120522,San  Francisco Giants,Milwaukee Brewers,6,4
+20120522,Washington Nationals,Philadelpia Phillies,5,2
+20120522,New York Mets,Pittsburgh Pirates,3,2
+20120522,San Diego Padres,St. Louis Cardinals,0,4
+20120523,Boston Red Sox,Baltimore Orioles,6,5
+20120523,Minensota Twins,Chicago White Sox,0,6
+20120523,Detroit Tigers,Cleveland Indians,2,4
+20120523,Kansas City Royals,New York Yankees,3,8
+20120523,Anaheim Angels,Oakland Athletics,3,1
+20120523,Texas Rangers,Seattle Mariners,3,5
+20120523,Toronto Blue Jays,Tampa Bay Devil Rays,4,5
+20120523,Los Angeles Dodgers,Arizona Diamondbacks,4,11
+20120523,Atlanta Braves,Cincinnati Reds,1,2
+20120523,Chicago Cubs,Houston Colts,1,5
+20120523,Colorado Rockies,Miami Marlins,8,4
+20120523,San  Francisco Giants,Milwaukee Brewers,5,8
+20120523,Washington Nationals,Philadelpia Phillies,1,4
+20120523,New York Mets,Pittsburgh Pirates,3,1
+20120523,San Diego Padres,St. Louis Cardinals,3,6
+20120524,Minensota Twins,Chicago White Sox,8,11
+20120524,Detroit Tigers,Cleveland Indians,1,2
+20120524,Anaheim Angels,Seattle Mariners,3,0
+20120524,Atlanta Braves,Cincinnati Reds,3,6
+20120524,San  Francisco Giants,Miami Marlins,14,7
+20120524,San Diego Padres,New York Mets,11,5
+20120524,Philadelpia Phillies,St. Louis Cardinals,10,9
+20120525,Kansas City Royals,Baltimore Orioles,2,8
+20120525,Tampa Bay Devil Rays,Boston Red Sox,7,4
+20120525,Cleveland Indians,Chicago White Sox,3,9
+20120525,Detroit Tigers,Minensota Twins,10,6
+20120525,New York Yankees,Oakland Athletics,6,3
+20120525,Anaheim Angels,Seattle Mariners,6,4
+20120525,Toronto Blue Jays,Texas Rangers,3,14
+20120525,Milwaukee Brewers,Arizona Diamondbacks,7,1
+20120525,Washington Nationals,Atlanta Braves,7,4
+20120525,Colorado Rockies,Cincinnati Reds,6,3
+20120525,Houston Colts,Los Angeles Dodgers,3,1
+20120525,San  Francisco Giants,Miami Marlins,6,7
+20120525,San Diego Padres,New York Mets,1,6
+20120525,Chicago Cubs,Pittsburgh Pirates,0,1
+20120525,Philadelpia Phillies,St. Louis Cardinals,5,3
+20120526,Kansas City Royals,Baltimore Orioles,4,3
+20120526,Tampa Bay Devil Rays,Boston Red Sox,2,3
+20120526,Cleveland Indians,Chicago White Sox,7,14
+20120526,Detroit Tigers,Minensota Twins,6,3
+20120526,New York Yankees,Oakland Athletics,9,2
+20120526,Anaheim Angels,Seattle Mariners,5,3
+20120526,Toronto Blue Jays,Texas Rangers,7,8
+20120526,Milwaukee Brewers,Arizona Diamondbacks,5,8
+20120526,Washington Nationals,Atlanta Braves,8,4
+20120526,Colorado Rockies,Cincinnati Reds,3,10
+20120526,Houston Colts,Los Angeles Dodgers,3,6
+20120526,San  Francisco Giants,Miami Marlins,3,5
+20120526,San Diego Padres,New York Mets,0,9
+20120526,Chicago Cubs,Pittsburgh Pirates,2,3
+20120526,Philadelpia Phillies,St. Louis Cardinals,4,0
+20120527,Kansas City Royals,Baltimore Orioles,4,2
+20120527,Tampa Bay Devil Rays,Boston Red Sox,4,3
+20120527,Cleveland Indians,Chicago White Sox,6,12
+20120527,Detroit Tigers,Minensota Twins,4,3
+20120527,New York Yankees,Oakland Athletics,2,0
+20120527,Anaheim Angels,Seattle Mariners,4,2
+20120527,Toronto Blue Jays,Texas Rangers,6,12
+20120527,Milwaukee Brewers,Arizona Diamondbacks,3,4
+20120527,Washington Nationals,Atlanta Braves,7,2
+20120527,Colorado Rockies,Cincinnati Reds,5,7
+20120527,Houston Colts,Los Angeles Dodgers,1,5
+20120527,San  Francisco Giants,Miami Marlins,3,2
+20120527,San Diego Padres,New York Mets,0,2
+20120527,Chicago Cubs,Pittsburgh Pirates,4,10
+20120527,Philadelpia Phillies,St. Louis Cardinals,3,8
+20120528,New York Yankees,Anaheim Angels,8,9
+20120528,Detroit Tigers,Boston Red Sox,4,7
+20120528,Kansas City Royals,Cleveland Indians,5,8
+20120528,Oakland Athletics,Minensota Twins,4,5
+20120528,Chicago White Sox,Tampa Bay Devil Rays,2,1
+20120528,Seattle Mariners,Texas Rangers,2,4
+20120528,Baltimore Orioles,Toronto Blue Jays,2,6
+20120528,St. Louis Cardinals,Atlanta Braves,8,2
+20120528,San Diego Padres,Chicago Cubs,7,11
+20120528,Houston Colts,Colorado Rockies,7,9
+20120528,Houston Colts,Colorado Rockies,6,7
+20120528,Milwaukee Brewers,Los Angeles Dodgers,3,2
+20120528,Washington Nationals,Miami Marlins,3,5
+20120528,Philadelpia Phillies,New York Mets,8,4
+20120528,Cincinnati Reds,Pittsburgh Pirates,1,4
+20120528,Arizona Diamondbacks,San  Francisco Giants,2,4
+20120529,New York Yankees,Anaheim Angels,1,5
+20120529,Detroit Tigers,Boston Red Sox,3,6
+20120529,Kansas City Royals,Cleveland Indians,8,2
+20120529,Oakland Athletics,Minensota Twins,2,3
+20120529,Chicago White Sox,Tampa Bay Devil Rays,7,2
+20120529,Seattle Mariners,Texas Rangers,10,3
+20120529,Baltimore Orioles,Toronto Blue Jays,6,8
+20120529,St. Louis Cardinals,Atlanta Braves,4,5
+20120529,San Diego Padres,Chicago Cubs,3,5
+20120529,Milwaukee Brewers,Los Angeles Dodgers,2,1
+20120529,Washington Nationals,Miami Marlins,1,3
+20120529,Philadelpia Phillies,New York Mets,3,6
+20120529,Cincinnati Reds,Pittsburgh Pirates,8,1
+20120529,Arizona Diamondbacks,San  Francisco Giants,1,3
+20120530,New York Yankees,Anaheim Angels,6,5
+20120530,Detroit Tigers,Boston Red Sox,4,6
+20120530,Kansas City Royals,Cleveland Indians,6,3
+20120530,Oakland Athletics,Minensota Twins,0,4
+20120530,Chicago White Sox,Tampa Bay Devil Rays,4,3
+20120530,Seattle Mariners,Texas Rangers,21,8
+20120530,Baltimore Orioles,Toronto Blue Jays,1,4
+20120530,St. Louis Cardinals,Atlanta Braves,7,10
+20120530,San Diego Padres,Chicago Cubs,6,8
+20120530,Houston Colts,Colorado Rockies,5,13
+20120530,Milwaukee Brewers,Los Angeles Dodgers,6,3
+20120530,Washington Nationals,Miami Marlins,3,5
+20120530,Philadelpia Phillies,New York Mets,10,6
+20120530,Cincinnati Reds,Pittsburgh Pirates,1,2
+20120530,Arizona Diamondbacks,San  Francisco Giants,4,1
+20120531,Detroit Tigers,Boston Red Sox,7,3
+20120531,Houston Colts,Colorado Rockies,5,11
+20120531,Milwaukee Brewers,Los Angeles Dodgers,6,2
+20120601,Texas Rangers,Anaheim Angels,2,4
+20120601,Seattle Mariners,Chicago White Sox,4,7
+20120601,Minensota Twins,Cleveland Indians,1,7
+20120601,New York Yankees,Detroit Tigers,9,4
+20120601,Oakland Athletics,Kansas City Royals,0,2
+20120601,Baltimore Orioles,Tampa Bay Devil Rays,0,5
+20120601,Boston Red Sox,Toronto Blue Jays,7,2
+20120601,Los Angeles Dodgers,Colorado Rockies,3,13
+20120601,Cincinnati Reds,Houston Colts,4,1
+20120601,Pittsburgh Pirates,Milwaukee Brewers,8,2
+20120601,St. Louis Cardinals,New York Mets,0,8
+20120601,Miami Marlins,Philadelpia Phillies,4,6
+20120601,Arizona Diamondbacks,San Diego Padres,1,7
+20120601,Chicago Cubs,San  Francisco Giants,3,4
+20120602,Texas Rangers,Anaheim Angels,2,3
+20120602,Seattle Mariners,Chicago White Sox,10,8
+20120602,Minensota Twins,Cleveland Indians,7,4
+20120602,New York Yankees,Detroit Tigers,3,4
+20120602,Oakland Athletics,Kansas City Royals,9,3
+20120602,Baltimore Orioles,Tampa Bay Devil Rays,2,1
+20120602,Boston Red Sox,Toronto Blue Jays,7,4
+20120602,Los Angeles Dodgers,Colorado Rockies,6,2
+20120602,Cincinnati Reds,Houston Colts,12,9
+20120602,Pittsburgh Pirates,Milwaukee Brewers,1,5
+20120602,St. Louis Cardinals,New York Mets,0,5
+20120602,Miami Marlins,Philadelpia Phillies,5,4
+20120602,Arizona Diamondbacks,San Diego Padres,4,2
+20120602,Chicago Cubs,San  Francisco Giants,1,2
+20120602,Atlanta Braves,Washington Nationals,0,2
+20120603,Texas Rangers,Anaheim Angels,7,3
+20120603,Seattle Mariners,Chicago White Sox,2,4
+20120603,Minensota Twins,Cleveland Indians,6,3
+20120603,New York Yankees,Detroit Tigers,5,1
+20120603,Oakland Athletics,Kansas City Royals,0,2
+20120603,Baltimore Orioles,Tampa Bay Devil Rays,4,8
+20120603,Boston Red Sox,Toronto Blue Jays,1,5
+20120603,Los Angeles Dodgers,Colorado Rockies,2,3
+20120603,Cincinnati Reds,Houston Colts,3,5
+20120603,Pittsburgh Pirates,Milwaukee Brewers,6,5
+20120603,St. Louis Cardinals,New York Mets,1,6
+20120603,Miami Marlins,Philadelpia Phillies,5,1
+20120603,Arizona Diamondbacks,San Diego Padres,6,0
+20120603,Chicago Cubs,San  Francisco Giants,0,2
+20120603,Atlanta Braves,Washington Nationals,3,2
+20120604,Seattle Mariners,Anaheim Angels,8,6
+20120604,Minensota Twins,Kansas City Royals,10,7
+20120604,Texas Rangers,Oakland Athletics,1,12
+20120604,Colorado Rockies,Arizona Diamondbacks,4,0
+20120604,St. Louis Cardinals,New York Mets,5,4
+20120604,Los Angeles Dodgers,Philadelpia Phillies,4,3
+20120604,Chicago Cubs,San  Francisco Giants,2,3
+20120605,Seattle Mariners,Anaheim Angels,1,6
+20120605,Baltimore Orioles,Boston Red Sox,8,6
+20120605,Toronto Blue Jays,Chicago White Sox,9,5
+20120605,Cleveland Indians,Detroit Tigers,4,2
+20120605,Minensota Twins,Kansas City Royals,0,1
+20120605,Tampa Bay Devil Rays,New York Yankees,0,7
+20120605,Texas Rangers,Oakland Athletics,6,3
+20120605,Colorado Rockies,Arizona Diamondbacks,0,10
+20120605,Pittsburgh Pirates,Cincinnati Reds,8,4
+20120605,St. Louis Cardinals,Houston Colts,8,9
+20120605,Atlanta Braves,Miami Marlins,11,0
+20120605,Chicago Cubs,Milwaukee Brewers,10,0
+20120605,Los Angeles Dodgers,Philadelpia Phillies,2,1
+20120605,San  Francisco Giants,San Diego Padres,5,6
+20120605,New York Mets,Washington Nationals,6,7
+20120606,Seattle Mariners,Anaheim Angels,8,6
+20120606,Baltimore Orioles,Boston Red Sox,2,1
+20120606,Toronto Blue Jays,Chicago White Sox,4,0
+20120606,Cleveland Indians,Detroit Tigers,9,6
+20120606,Minensota Twins,Kansas City Royals,4,2
+20120606,Tampa Bay Devil Rays,New York Yankees,1,4
+20120606,Texas Rangers,Oakland Athletics,0,2
+20120606,Colorado Rockies,Arizona Diamondbacks,1,6
+20120606,Pittsburgh Pirates,Cincinnati Reds,4,5
+20120606,St. Louis Cardinals,Houston Colts,4,3
+20120606,Atlanta Braves,Miami Marlins,2,1
+20120606,Chicago Cubs,Milwaukee Brewers,0,8
+20120606,Los Angeles Dodgers,Philadelpia Phillies,6,5
+20120606,San  Francisco Giants,San Diego Padres,6,5
+20120606,New York Mets,Washington Nationals,3,5
+20120607,Baltimore Orioles,Boston Red Sox,0,7
+20120607,Toronto Blue Jays,Chicago White Sox,3,4
+20120607,Cleveland Indians,Detroit Tigers,5,7
+20120607,Tampa Bay Devil Rays,New York Yankees,7,3
+20120607,Texas Rangers,Oakland Athletics,1,7
+20120607,Pittsburgh Pirates,Cincinnati Reds,5,4
+20120607,St. Louis Cardinals,Houston Colts,14,2
+20120607,Atlanta Braves,Miami Marlins,8,2
+20120607,Chicago Cubs,Milwaukee Brewers,3,4
+20120607,Los Angeles Dodgers,Philadelpia Phillies,8,3
+20120607,San  Francisco Giants,San Diego Padres,8,3
+20120607,New York Mets,Washington Nationals,3,1
+20120608,Philadelpia Phillies,Baltimore Orioles,9,6
+20120608,Washington Nationals,Boston Red Sox,7,4
+20120608,Houston Colts,Chicago White Sox,8,3
+20120608,Chicago Cubs,Minensota Twins,7,8
+20120608,New York Mets,New York Yankees,1,9
+20120608,Los Angeles Dodgers,Seattle Mariners,0,1
+20120608,Oakland Athletics,Arizona Diamondbacks,8,9
+20120608,Toronto Blue Jays,Atlanta Braves,3,4
+20120608,Detroit Tigers,Cincinnati Reds,5,6
+20120608,Anaheim Angels,Colorado Rockies,7,2
+20120608,Tampa Bay Devil Rays,Miami Marlins,5,1
+20120608,San Diego Padres,Milwaukee Brewers,5,9
+20120608,Kansas City Royals,Pittsburgh Pirates,2,4
+20120608,Texas Rangers,San  Francisco Giants,5,0
+20120608,Cleveland Indians,St. Louis Cardinals,6,2
+20120609,Philadelpia Phillies,Baltimore Orioles,4,6
+20120609,Washington Nationals,Boston Red Sox,4,2
+20120609,Houston Colts,Chicago White Sox,1,10
+20120609,Chicago Cubs,Minensota Twins,3,11
+20120609,New York Mets,New York Yankees,2,4
+20120609,Los Angeles Dodgers,Seattle Mariners,8,3
+20120609,Oakland Athletics,Arizona Diamondbacks,3,8
+20120609,Toronto Blue Jays,Atlanta Braves,2,5
+20120609,Detroit Tigers,Cincinnati Reds,3,2
+20120609,Anaheim Angels,Colorado Rockies,11,5
+20120609,Tampa Bay Devil Rays,Miami Marlins,13,4
+20120609,San Diego Padres,Milwaukee Brewers,5,2
+20120609,Kansas City Royals,Pittsburgh Pirates,3,5
+20120609,Texas Rangers,San  Francisco Giants,2,5
+20120609,Cleveland Indians,St. Louis Cardinals,0,2
+20120610,Philadelpia Phillies,Baltimore Orioles,4,5
+20120610,Washington Nationals,Boston Red Sox,4,3
+20120610,Houston Colts,Chicago White Sox,11,9
+20120610,Chicago Cubs,Minensota Twins,8,2
+20120610,New York Mets,New York Yankees,4,5
+20120610,Los Angeles Dodgers,Seattle Mariners,8,2
+20120610,Oakland Athletics,Arizona Diamondbacks,3,4
+20120610,Toronto Blue Jays,Atlanta Braves,12,4
+20120610,Detroit Tigers,Cincinnati Reds,7,6
+20120610,Anaheim Angels,Colorado Rockies,10,8
+20120610,Tampa Bay Devil Rays,Miami Marlins,4,2
+20120610,San Diego Padres,Milwaukee Brewers,5,6
+20120610,Kansas City Royals,Pittsburgh Pirates,2,3
+20120610,Texas Rangers,San  Francisco Giants,5,0
+20120610,Cleveland Indians,St. Louis Cardinals,4,1
+20120611,Washington Nationals,Toronto Blue Jays,6,3
+20120611,New York Yankees,Atlanta Braves,3,0
+20120611,Anaheim Angels,Los Angeles Dodgers,3,2
+20120611,Boston Red Sox,Miami Marlins,1,4
+20120612,Pittsburgh Pirates,Baltimore Orioles,6,8
+20120612,Milwaukee Brewers,Kansas City Royals,1,2
+20120612,Philadelpia Phillies,Minensota Twins,7,11
+20120612,San Diego Padres,Seattle Mariners,5,4
+20120612,New York Mets,Tampa Bay Devil Rays,11,2
+20120612,Arizona Diamondbacks,Texas Rangers,1,9
+20120612,Washington Nationals,Toronto Blue Jays,4,2
+20120612,New York Yankees,Atlanta Braves,6,4
+20120612,Detroit Tigers,Chicago Cubs,3,4
+20120612,Cleveland Indians,Cincinnati Reds,1,7
+20120612,Oakland Athletics,Colorado Rockies,8,5
+20120612,Anaheim Angels,Los Angeles Dodgers,2,5
+20120612,Boston Red Sox,Miami Marlins,2,1
+20120612,Houston Colts,San  Francisco Giants,3,6
+20120612,Chicago White Sox,St. Louis Cardinals,6,1
+20120613,Pittsburgh Pirates,Baltimore Orioles,1,7
+20120613,Milwaukee Brewers,Kansas City Royals,3,4
+20120613,Philadelpia Phillies,Minensota Twins,9,8
+20120613,San Diego Padres,Seattle Mariners,1,0
+20120613,New York Mets,Tampa Bay Devil Rays,9,1
+20120613,Arizona Diamondbacks,Texas Rangers,0,1
+20120613,Washington Nationals,Toronto Blue Jays,6,2
+20120613,New York Yankees,Atlanta Braves,3,2
+20120613,Detroit Tigers,Chicago Cubs,8,4
+20120613,Cleveland Indians,Cincinnati Reds,3,5
+20120613,Oakland Athletics,Colorado Rockies,10,8
+20120613,Anaheim Angels,Los Angeles Dodgers,2,1
+20120613,Boston Red Sox,Miami Marlins,10,2
+20120613,Houston Colts,San  Francisco Giants,0,10
+20120613,Chicago White Sox,St. Louis Cardinals,0,1
+20120614,Pittsburgh Pirates,Baltimore Orioles,6,12
+20120614,Milwaukee Brewers,Kansas City Royals,3,4
+20120614,Philadelpia Phillies,Minensota Twins,6,1
+20120614,San Diego Padres,Seattle Mariners,6,2
+20120614,New York Mets,Tampa Bay Devil Rays,9,6
+20120614,Arizona Diamondbacks,Texas Rangers,11,3
+20120614,Detroit Tigers,Chicago Cubs,5,3
+20120614,Cleveland Indians,Cincinnati Reds,5,12
+20120614,Oakland Athletics,Colorado Rockies,8,2
+20120614,Houston Colts,San  Francisco Giants,6,3
+20120614,Chicago White Sox,St. Louis Cardinals,3,5
+20120615,Arizona Diamondbacks,Anaheim Angels,5,0
+20120615,Pittsburgh Pirates,Cleveland Indians,0,2
+20120615,Colorado Rockies,Detroit Tigers,12,4
+20120615,Milwaukee Brewers,Minensota Twins,5,3
+20120615,San Diego Padres,Oakland Athletics,2,10
+20120615,San  Francisco Giants,Seattle Mariners,4,2
+20120615,Miami Marlins,Tampa Bay Devil Rays,0,11
+20120615,Houston Colts,Texas Rangers,2,6
+20120615,Philadelpia Phillies,Toronto Blue Jays,0,3
+20120615,Baltimore Orioles,Atlanta Braves,2,4
+20120615,Boston Red Sox,Chicago Cubs,0,3
+20120615,Chicago White Sox,Los Angeles Dodgers,6,7
+20120615,Cincinnati Reds,New York Mets,7,3
+20120615,Kansas City Royals,St. Louis Cardinals,3,2
+20120615,New York Yankees,Washington Nationals,7,2
+20120616,Arizona Diamondbacks,Anaheim Angels,0,2
+20120616,Pittsburgh Pirates,Cleveland Indians,9,2
+20120616,Colorado Rockies,Detroit Tigers,1,4
+20120616,Milwaukee Brewers,Minensota Twins,6,2
+20120616,San Diego Padres,Oakland Athletics,4,6
+20120616,San  Francisco Giants,Seattle Mariners,4,7
+20120616,Miami Marlins,Tampa Bay Devil Rays,4,3
+20120616,Houston Colts,Texas Rangers,3,8
+20120616,Philadelpia Phillies,Toronto Blue Jays,5,6
+20120616,Baltimore Orioles,Atlanta Braves,5,0
+20120616,Boston Red Sox,Chicago Cubs,4,3
+20120616,Chicago White Sox,Los Angeles Dodgers,5,4
+20120616,Cincinnati Reds,New York Mets,4,1
+20120616,Kansas City Royals,St. Louis Cardinals,7,10
+20120616,New York Yankees,Washington Nationals,5,3
+20120617,Arizona Diamondbacks,Anaheim Angels,0,2
+20120617,Pittsburgh Pirates,Cleveland Indians,9,5
+20120617,Colorado Rockies,Detroit Tigers,0,5
+20120617,Milwaukee Brewers,Minensota Twins,4,5
+20120617,San Diego Padres,Oakland Athletics,2,1
+20120617,San  Francisco Giants,Seattle Mariners,1,2
+20120617,Miami Marlins,Tampa Bay Devil Rays,0,3
+20120617,Houston Colts,Texas Rangers,3,9
+20120617,Philadelpia Phillies,Toronto Blue Jays,2,6
+20120617,Baltimore Orioles,Atlanta Braves,2,0
+20120617,Boston Red Sox,Chicago Cubs,7,4
+20120617,Chicago White Sox,Los Angeles Dodgers,1,2
+20120617,Cincinnati Reds,New York Mets,3,1
+20120617,Kansas City Royals,St. Louis Cardinals,5,3
+20120617,New York Yankees,Washington Nationals,4,1
+20120618,San  Francisco Giants,Anaheim Angels,5,3
+20120618,Chicago Cubs,Chicago White Sox,12,3
+20120618,Cincinnati Reds,Cleveland Indians,9,10
+20120618,Atlanta Braves,New York Yankees,2,6
+20120618,Seattle Mariners,Arizona Diamondbacks,1,7
+20120618,Kansas City Royals,Houston Colts,7,9
+20120618,Toronto Blue Jays,Milwaukee Brewers,6,7
+20120618,Baltimore Orioles,New York Mets,0,5
+20120618,Texas Rangers,San Diego Padres,2,1
+20120619,San  Francisco Giants,Anaheim Angels,5,12
+20120619,Miami Marlins,Boston Red Sox,5,7
+20120619,Chicago Cubs,Chicago White Sox,2,1
+20120619,Cincinnati Reds,Cleveland Indians,2,3
+20120619,St. Louis Cardinals,Detroit Tigers,3,6
+20120619,Atlanta Braves,New York Yankees,4,3
+20120619,Los Angeles Dodgers,Oakland Athletics,0,3
+20120619,Seattle Mariners,Arizona Diamondbacks,12,9
+20120619,Kansas City Royals,Houston Colts,2,0
+20120619,Toronto Blue Jays,Milwaukee Brewers,10,9
+20120619,Baltimore Orioles,New York Mets,0,5
+20120619,Colorado Rockies,Philadelpia Phillies,2,7
+20120619,Minensota Twins,Pittsburgh Pirates,2,7
+20120619,Texas Rangers,San Diego Padres,7,3
+20120619,Tampa Bay Devil Rays,Washington Nationals,5,4
+20120620,San  Francisco Giants,Anaheim Angels,0,6
+20120620,Miami Marlins,Boston Red Sox,5,15
+20120620,Chicago Cubs,Chicago White Sox,0,7
+20120620,Cincinnati Reds,Cleveland Indians,1,8
+20120620,St. Louis Cardinals,Detroit Tigers,3,1
+20120620,Atlanta Braves,New York Yankees,10,5
+20120620,Los Angeles Dodgers,Oakland Athletics,1,4
+20120620,Seattle Mariners,Arizona Diamondbacks,10,14
+20120620,Kansas City Royals,Houston Colts,2,1
+20120620,Toronto Blue Jays,Milwaukee Brewers,3,8
+20120620,Baltimore Orioles,New York Mets,3,4
+20120620,Colorado Rockies,Philadelpia Phillies,6,7
+20120620,Minensota Twins,Pittsburgh Pirates,2,1
+20120620,Texas Rangers,San Diego Padres,4,2
+20120620,Tampa Bay Devil Rays,Washington Nationals,2,3
+20120621,Miami Marlins,Boston Red Sox,5,6
+20120621,St. Louis Cardinals,Detroit Tigers,1,2
+20120621,Los Angeles Dodgers,Oakland Athletics,1,4
+20120621,Colorado Rockies,Philadelpia Phillies,4,1
+20120621,Minensota Twins,Pittsburgh Pirates,1,9
+20120621,Tampa Bay Devil Rays,Washington Nationals,2,5
+20120622,Los Angeles Dodgers,Anaheim Angels,5,8
+20120622,Washington Nationals,Baltimore Orioles,1,2
+20120622,Atlanta Braves,Boston Red Sox,4,1
+20120622,Milwaukee Brewers,Chicago White Sox,1,0
+20120622,St. Louis Cardinals,Kansas City Royals,11,4
+20120622,San  Francisco Giants,Oakland Athletics,5,4
+20120622,Colorado Rockies,Texas Rangers,1,4
+20120622,Chicago Cubs,Arizona Diamondbacks,1,6
+20120622,Minensota Twins,Cincinnati Reds,5,4
+20120622,Cleveland Indians,Houston Colts,2,0
+20120622,Toronto Blue Jays,Miami Marlins,12,5
+20120622,New York Yankees,New York Mets,4,6
+20120622,Detroit Tigers,Pittsburgh Pirates,1,4
+20120622,Seattle Mariners,San Diego Padres,5,9
+20120623,Los Angeles Dodgers,Anaheim Angels,3,1
+20120623,Washington Nationals,Baltimore Orioles,3,1
+20120623,Atlanta Braves,Boston Red Sox,4,8
+20120623,Milwaukee Brewers,Chicago White Sox,6,8
+20120623,St. Louis Cardinals,Kansas City Royals,8,2
+20120623,San  Francisco Giants,Oakland Athletics,9,8
+20120623,Colorado Rockies,Texas Rangers,11,7
+20120623,Chicago Cubs,Arizona Diamondbacks,5,10
+20120623,Minensota Twins,Cincinnati Reds,0,6
+20120623,Cleveland Indians,Houston Colts,1,8
+20120623,Toronto Blue Jays,Miami Marlins,7,1
+20120623,New York Yankees,New York Mets,4,3
+20120623,Tampa Bay Devil Rays,Philadelpia Phillies,6,7
+20120623,Detroit Tigers,Pittsburgh Pirates,1,4
+20120623,Seattle Mariners,San Diego Padres,5,1
+20120624,Los Angeles Dodgers,Anaheim Angels,3,5
+20120624,Washington Nationals,Baltimore Orioles,1,2
+20120624,Atlanta Braves,Boston Red Sox,4,9
+20120624,Milwaukee Brewers,Chicago White Sox,0,1
+20120624,St. Louis Cardinals,Kansas City Royals,11,8
+20120624,San  Francisco Giants,Oakland Athletics,2,4
+20120624,Colorado Rockies,Texas Rangers,2,4
+20120624,Chicago Cubs,Arizona Diamondbacks,1,5
+20120624,Minensota Twins,Cincinnati Reds,4,3
+20120624,Cleveland Indians,Houston Colts,1,7
+20120624,Toronto Blue Jays,Miami Marlins,0,9
+20120624,New York Yankees,New York Mets,6,5
+20120624,Tampa Bay Devil Rays,Philadelpia Phillies,3,2
+20120624,Tampa Bay Devil Rays,Philadelpia Phillies,7,3
+20120624,Detroit Tigers,Pittsburgh Pirates,3,2
+20120624,Seattle Mariners,San Diego Padres,0,2
+20120625,Toronto Blue Jays,Boston Red Sox,9,6
+20120625,Tampa Bay Devil Rays,Kansas City Royals,0,8
+20120625,Chicago White Sox,Minensota Twins,1,4
+20120625,Cleveland Indians,New York Yankees,1,7
+20120625,Oakland Athletics,Seattle Mariners,1,0
+20120625,Detroit Tigers,Texas Rangers,8,2
+20120625,New York Mets,Chicago Cubs,1,6
+20120625,Milwaukee Brewers,Cincinnati Reds,1,3
+20120625,Washington Nationals,Colorado Rockies,2,4
+20120625,San Diego Padres,Houston Colts,8,7
+20120625,St. Louis Cardinals,Miami Marlins,8,7
+20120625,Pittsburgh Pirates,Philadelpia Phillies,3,8
+20120625,Los Angeles Dodgers,San  Francisco Giants,0,8
+20120626,Anaheim Angels,Baltimore Orioles,7,3
+20120626,Toronto Blue Jays,Boston Red Sox,1,5
+20120626,Tampa Bay Devil Rays,Kansas City Royals,2,8
+20120626,Chicago White Sox,Minensota Twins,3,2
+20120626,Cleveland Indians,New York Yankees,4,6
+20120626,Oakland Athletics,Seattle Mariners,2,3
+20120626,Detroit Tigers,Texas Rangers,5,7
+20120626,Arizona Diamondbacks,Atlanta Braves,1,8
+20120626,New York Mets,Chicago Cubs,3,5
+20120626,Milwaukee Brewers,Cincinnati Reds,3,4
+20120626,Washington Nationals,Colorado Rockies,12,5
+20120626,San Diego Padres,Houston Colts,3,5
+20120626,St. Louis Cardinals,Miami Marlins,5,2
+20120626,Pittsburgh Pirates,Philadelpia Phillies,4,5
+20120626,Los Angeles Dodgers,San  Francisco Giants,0,2
+20120627,Anaheim Angels,Baltimore Orioles,13,1
+20120627,Toronto Blue Jays,Boston Red Sox,4,10
+20120627,Tampa Bay Devil Rays,Kansas City Royals,4,5
+20120627,Chicago White Sox,Minensota Twins,12,5
+20120627,Cleveland Indians,New York Yankees,4,5
+20120627,Oakland Athletics,Seattle Mariners,2,1
+20120627,Detroit Tigers,Texas Rangers,9,13
+20120627,Arizona Diamondbacks,Atlanta Braves,4,6
+20120627,New York Mets,Chicago Cubs,17,1
+20120627,Milwaukee Brewers,Cincinnati Reds,8,4
+20120627,Washington Nationals,Colorado Rockies,11,5
+20120627,San Diego Padres,Houston Colts,0,1
+20120627,St. Louis Cardinals,Miami Marlins,3,5
+20120627,Pittsburgh Pirates,Philadelpia Phillies,11,7
+20120627,Los Angeles Dodgers,San  Francisco Giants,0,3
+20120628,Cleveland Indians,Baltimore Orioles,7,2
+20120628,Chicago White Sox,New York Yankees,4,3
+20120628,Boston Red Sox,Seattle Mariners,0,1
+20120628,Detroit Tigers,Tampa Bay Devil Rays,5,2
+20120628,Oakland Athletics,Texas Rangers,6,7
+20120628,Anaheim Angels,Toronto Blue Jays,9,7
+20120628,Arizona Diamondbacks,Atlanta Braves,3,2
+20120628,Washington Nationals,Colorado Rockies,10,11
+20120628,San Diego Padres,Houston Colts,7,3
+20120628,New York Mets,Los Angeles Dodgers,3,2
+20120628,Pittsburgh Pirates,Philadelpia Phillies,5,4
+20120628,Cincinnati Reds,San  Francisco Giants,0,5
+20120629,Cleveland Indians,Baltimore Orioles,8,9
+20120629,Kansas City Royals,Minensota Twins,4,3
+20120629,Chicago White Sox,New York Yankees,14,7
+20120629,Boston Red Sox,Seattle Mariners,5,0
+20120629,Detroit Tigers,Tampa Bay Devil Rays,2,4
+20120629,Oakland Athletics,Texas Rangers,3,4
+20120629,Anaheim Angels,Toronto Blue Jays,5,7
+20120629,Washington Nationals,Atlanta Braves,5,4
+20120629,Houston Colts,Chicago Cubs,0,4
+20120629,San Diego Padres,Colorado Rockies,2,10
+20120629,New York Mets,Los Angeles Dodgers,9,0
+20120629,Philadelpia Phillies,Miami Marlins,2,6
+20120629,Arizona Diamondbacks,Milwaukee Brewers,9,3
+20120629,Cincinnati Reds,San  Francisco Giants,5,1
+20120629,Pittsburgh Pirates,St. Louis Cardinals,14,5
+20120630,Cleveland Indians,Baltimore Orioles,11,5
+20120630,Kansas City Royals,Minensota Twins,2,7
+20120630,Kansas City Royals,Minensota Twins,1,5
+20120630,Chicago White Sox,New York Yankees,0,4
+20120630,Boston Red Sox,Seattle Mariners,2,3
+20120630,Detroit Tigers,Tampa Bay Devil Rays,6,2
+20120630,Oakland Athletics,Texas Rangers,2,7
+20120630,Anaheim Angels,Toronto Blue Jays,2,11
+20120630,Washington Nationals,Atlanta Braves,5,7
+20120630,Houston Colts,Chicago Cubs,2,3
+20120630,San Diego Padres,Colorado Rockies,8,4
+20120630,New York Mets,Los Angeles Dodgers,5,0
+20120630,Philadelpia Phillies,Miami Marlins,2,3
+20120630,Arizona Diamondbacks,Milwaukee Brewers,2,10
+20120630,Cincinnati Reds,San  Francisco Giants,2,1
+20120630,Pittsburgh Pirates,St. Louis Cardinals,7,3
+20120701,Cleveland Indians,Baltimore Orioles,6,2
+20120701,Kansas City Royals,Minensota Twins,8,10
+20120701,Chicago White Sox,New York Yankees,2,4
+20120701,Boston Red Sox,Seattle Mariners,2,1
+20120701,Detroit Tigers,Tampa Bay Devil Rays,5,3
+20120701,Oakland Athletics,Texas Rangers,3,1
+20120701,Anaheim Angels,Toronto Blue Jays,10,6
+20120701,Washington Nationals,Atlanta Braves,8,4
+20120701,Houston Colts,Chicago Cubs,0,3
+20120701,San Diego Padres,Colorado Rockies,2,0
+20120701,New York Mets,Los Angeles Dodgers,3,8
+20120701,Philadelpia Phillies,Miami Marlins,2,5
+20120701,Arizona Diamondbacks,Milwaukee Brewers,1,2
+20120701,Cincinnati Reds,San  Francisco Giants,3,4
+20120701,Pittsburgh Pirates,St. Louis Cardinals,4,5
+20120702,Anaheim Angels,Cleveland Indians,3,0
+20120702,Minensota Twins,Detroit Tigers,6,4
+20120702,Boston Red Sox,Oakland Athletics,1,6
+20120702,Baltimore Orioles,Seattle Mariners,3,6
+20120702,New York Yankees,Tampa Bay Devil Rays,3,4
+20120702,Kansas City Royals,Toronto Blue Jays,11,3
+20120702,San Diego Padres,Arizona Diamondbacks,6,2
+20120702,Chicago Cubs,Atlanta Braves,4,1
+20120702,Cincinnati Reds,Los Angeles Dodgers,8,2
+20120702,Miami Marlins,Milwaukee Brewers,5,6
+20120702,Houston Colts,Pittsburgh Pirates,2,11
+20120702,Colorado Rockies,St. Louis Cardinals,3,9
+20120703,Texas Rangers,Chicago White Sox,2,19
+20120703,Anaheim Angels,Cleveland Indians,5,9
+20120703,Minensota Twins,Detroit Tigers,8,6
+20120703,Boston Red Sox,Oakland Athletics,2,3
+20120703,Baltimore Orioles,Seattle Mariners,5,4
+20120703,New York Yankees,Tampa Bay Devil Rays,4,7
+20120703,Kansas City Royals,Toronto Blue Jays,3,6
+20120703,San Diego Padres,Arizona Diamondbacks,9,5
+20120703,Chicago Cubs,Atlanta Braves,3,10
+20120703,Cincinnati Reds,Los Angeles Dodgers,1,3
+20120703,Miami Marlins,Milwaukee Brewers,12,13
+20120703,Philadelpia Phillies,New York Mets,1,11
+20120703,Houston Colts,Pittsburgh Pirates,7,8
+20120703,Colorado Rockies,St. Louis Cardinals,3,2
+20120703,San  Francisco Giants,Washington Nationals,3,9
+20120704,Texas Rangers,Chicago White Sox,4,5
+20120704,Anaheim Angels,Cleveland Indians,3,12
+20120704,Minensota Twins,Detroit Tigers,1,5
+20120704,Boston Red Sox,Oakland Athletics,2,3
+20120704,Baltimore Orioles,Seattle Mariners,4,2
+20120704,New York Yankees,Tampa Bay Devil Rays,4,3
+20120704,Kansas City Royals,Toronto Blue Jays,1,4
+20120704,San Diego Padres,Arizona Diamondbacks,8,6
+20120704,Chicago Cubs,Atlanta Braves,5,1
+20120704,Cincinnati Reds,Los Angeles Dodgers,1,4
+20120704,Miami Marlins,Milwaukee Brewers,7,6
+20120704,Philadelpia Phillies,New York Mets,9,2
+20120704,Houston Colts,Pittsburgh Pirates,4,6
+20120704,Colorado Rockies,St. Louis Cardinals,1,4
+20120704,San  Francisco Giants,Washington Nationals,4,9
+20120705,Baltimore Orioles,Anaheim Angels,7,9
+20120705,Texas Rangers,Chicago White Sox,1,2
+20120705,Tampa Bay Devil Rays,Cleveland Indians,1,3
+20120705,Minensota Twins,Detroit Tigers,3,7
+20120705,Kansas City Royals,Toronto Blue Jays,9,6
+20120705,Los Angeles Dodgers,Arizona Diamondbacks,4,1
+20120705,Chicago Cubs,Atlanta Braves,3,7
+20120705,Miami Marlins,Milwaukee Brewers,4,0
+20120705,Philadelpia Phillies,New York Mets,5,6
+20120705,Houston Colts,Pittsburgh Pirates,0,2
+20120705,Cincinnati Reds,San Diego Padres,1,2
+20120705,Colorado Rockies,St. Louis Cardinals,2,6
+20120705,San  Francisco Giants,Washington Nationals,5,6
+20120706,Baltimore Orioles,Anaheim Angels,3,2
+20120706,New York Yankees,Boston Red Sox,10,8
+20120706,Toronto Blue Jays,Chicago White Sox,2,4
+20120706,Tampa Bay Devil Rays,Cleveland Indians,10,3
+20120706,Kansas City Royals,Detroit Tigers,2,4
+20120706,Seattle Mariners,Oakland Athletics,1,4
+20120706,Minensota Twins,Texas Rangers,5,1
+20120706,Los Angeles Dodgers,Arizona Diamondbacks,3,5
+20120706,Milwaukee Brewers,Houston Colts,7,1
+20120706,Chicago Cubs,New York Mets,8,7
+20120706,Atlanta Braves,Philadelpia Phillies,5,0
+20120706,San  Francisco Giants,Pittsburgh Pirates,6,5
+20120706,Cincinnati Reds,San Diego Padres,6,0
+20120706,Miami Marlins,St. Louis Cardinals,3,2
+20120706,Colorado Rockies,Washington Nationals,5,1
+20120707,Baltimore Orioles,Anaheim Angels,0,3
+20120707,New York Yankees,Boston Red Sox,6,1
+20120707,New York Yankees,Boston Red Sox,5,9
+20120707,Toronto Blue Jays,Chicago White Sox,0,2
+20120707,Tampa Bay Devil Rays,Cleveland Indians,3,7
+20120707,Kansas City Royals,Detroit Tigers,7,8
+20120707,Seattle Mariners,Oakland Athletics,7,1
+20120707,Minensota Twins,Texas Rangers,3,4
+20120707,Los Angeles Dodgers,Arizona Diamondbacks,3,5
+20120707,Milwaukee Brewers,Houston Colts,3,6
+20120707,Chicago Cubs,New York Mets,1,3
+20120707,Atlanta Braves,Philadelpia Phillies,6,3
+20120707,San  Francisco Giants,Pittsburgh Pirates,1,3
+20120707,Cincinnati Reds,San Diego Padres,6,5
+20120707,Miami Marlins,St. Louis Cardinals,2,3
+20120707,Colorado Rockies,Washington Nationals,1,4
+20120708,Baltimore Orioles,Anaheim Angels,0,6
+20120708,New York Yankees,Boston Red Sox,7,3
+20120708,Toronto Blue Jays,Chicago White Sox,11,9
+20120708,Tampa Bay Devil Rays,Cleveland Indians,7,6
+20120708,Kansas City Royals,Detroit Tigers,1,7
+20120708,Seattle Mariners,Oakland Athletics,1,2
+20120708,Minensota Twins,Texas Rangers,3,4
+20120708,Los Angeles Dodgers,Arizona Diamondbacks,1,7
+20120708,Milwaukee Brewers,Houston Colts,5,3
+20120708,Chicago Cubs,New York Mets,7,0
+20120708,Atlanta Braves,Philadelpia Phillies,4,3
+20120708,San  Francisco Giants,Pittsburgh Pirates,2,13
+20120708,Cincinnati Reds,San Diego Padres,4,2
+20120708,Miami Marlins,St. Louis Cardinals,4,5
+20120708,Colorado Rockies,Washington Nationals,4,3
+20120713,Detroit Tigers,Baltimore Orioles,7,2
+20120713,Chicago White Sox,Kansas City Royals,9,8
+20120713,Oakland Athletics,Minensota Twins,6,3
+20120713,Anaheim Angels,New York Yankees,5,6
+20120713,Texas Rangers,Seattle Mariners,3,2
+20120713,Boston Red Sox,Tampa Bay Devil Rays,3,1
+20120713,Cleveland Indians,Toronto Blue Jays,1,0
+20120713,New York Mets,Atlanta Braves,5,7
+20120713,Arizona Diamondbacks,Chicago Cubs,1,8
+20120713,St. Louis Cardinals,Cincinnati Reds,3,5
+20120713,Philadelpia Phillies,Colorado Rockies,2,6
+20120713,San Diego Padres,Los Angeles Dodgers,1,2
+20120713,Washington Nationals,Miami Marlins,5,1
+20120713,Pittsburgh Pirates,Milwaukee Brewers,7,10
+20120713,Houston Colts,San  Francisco Giants,1,5
+20120714,Detroit Tigers,Baltimore Orioles,6,8
+20120714,Chicago White Sox,Kansas City Royals,3,6
+20120714,Oakland Athletics,Minensota Twins,9,3
+20120714,Anaheim Angels,New York Yankees,3,5
+20120714,Texas Rangers,Seattle Mariners,0,7
+20120714,Boston Red Sox,Tampa Bay Devil Rays,3,5
+20120714,Cleveland Indians,Toronto Blue Jays,9,11
+20120714,New York Mets,Atlanta Braves,7,8
+20120714,Arizona Diamondbacks,Chicago Cubs,1,4
+20120714,St. Louis Cardinals,Cincinnati Reds,2,3
+20120714,Philadelpia Phillies,Colorado Rockies,8,5
+20120714,San Diego Padres,Los Angeles Dodgers,7,6
+20120714,Washington Nationals,Miami Marlins,1,2
+20120714,Pittsburgh Pirates,Milwaukee Brewers,6,4
+20120714,Houston Colts,San  Francisco Giants,2,3
+20120715,Detroit Tigers,Baltimore Orioles,4,0
+20120715,Chicago White Sox,Kansas City Royals,2,1
+20120715,Oakland Athletics,Minensota Twins,9,4
+20120715,Anaheim Angels,New York Yankees,10,8
+20120715,Texas Rangers,Seattle Mariners,4,0
+20120715,Boston Red Sox,Tampa Bay Devil Rays,7,3
+20120715,Cleveland Indians,Toronto Blue Jays,0,3
+20120715,New York Mets,Atlanta Braves,1,6
+20120715,Arizona Diamondbacks,Chicago Cubs,1,3
+20120715,St. Louis Cardinals,Cincinnati Reds,2,4
+20120715,Philadelpia Phillies,Colorado Rockies,5,1
+20120715,San Diego Padres,Los Angeles Dodgers,7,2
+20120715,Washington Nationals,Miami Marlins,4,0
+20120715,Pittsburgh Pirates,Milwaukee Brewers,1,4
+20120715,Houston Colts,San  Francisco Giants,2,3
+20120716,Chicago White Sox,Boston Red Sox,1,5
+20120716,Anaheim Angels,Detroit Tigers,6,8
+20120716,Seattle Mariners,Kansas City Royals,9,4
+20120716,Baltimore Orioles,Minensota Twins,7,19
+20120716,Toronto Blue Jays,New York Yankees,3,6
+20120716,Cleveland Indians,Tampa Bay Devil Rays,3,2
+20120716,Arizona Diamondbacks,Cincinnati Reds,5,3
+20120716,Pittsburgh Pirates,Colorado Rockies,4,5
+20120716,Philadelpia Phillies,Los Angeles Dodgers,3,2
+20120716,Washington Nationals,Miami Marlins,3,5
+20120716,St. Louis Cardinals,Milwaukee Brewers,3,2
+20120716,Houston Colts,San Diego Padres,2,0
+20120717,Chicago White Sox,Boston Red Sox,7,5
+20120717,Anaheim Angels,Detroit Tigers,13,0
+20120717,Seattle Mariners,Kansas City Royals,9,6
+20120717,Baltimore Orioles,Minensota Twins,4,6
+20120717,Toronto Blue Jays,New York Yankees,1,6
+20120717,Texas Rangers,Oakland Athletics,6,1
+20120717,Cleveland Indians,Tampa Bay Devil Rays,2,4
+20120717,San  Francisco Giants,Atlanta Braves,9,0
+20120717,Miami Marlins,Chicago Cubs,9,5
+20120717,Arizona Diamondbacks,Cincinnati Reds,0,4
+20120717,Pittsburgh Pirates,Colorado Rockies,6,2
+20120717,Philadelpia Phillies,Los Angeles Dodgers,3,2
+20120717,St. Louis Cardinals,Milwaukee Brewers,2,3
+20120717,Houston Colts,San Diego Padres,2,8
+20120717,New York Mets,Washington Nationals,4,5
+20120718,Chicago White Sox,Boston Red Sox,1,10
+20120718,Anaheim Angels,Detroit Tigers,2,7
+20120718,Seattle Mariners,Kansas City Royals,7,8
+20120718,Baltimore Orioles,Minensota Twins,2,1
+20120718,Toronto Blue Jays,New York Yankees,0,6
+20120718,Texas Rangers,Oakland Athletics,3,4
+20120718,Cleveland Indians,Tampa Bay Devil Rays,10,6
+20120718,San  Francisco Giants,Atlanta Braves,9,4
+20120718,Miami Marlins,Chicago Cubs,1,5
+20120718,Arizona Diamondbacks,Cincinnati Reds,7,1
+20120718,Pittsburgh Pirates,Colorado Rockies,9,6
+20120718,Philadelpia Phillies,Los Angeles Dodgers,3,5
+20120718,St. Louis Cardinals,Milwaukee Brewers,3,4
+20120718,Houston Colts,San Diego Padres,4,8
+20120718,New York Mets,Washington Nationals,3,4
+20120719,Chicago White Sox,Boston Red Sox,1,3
+20120719,Anaheim Angels,Detroit Tigers,1,5
+20120719,Seattle Mariners,Kansas City Royals,6,1
+20120719,Baltimore Orioles,Minensota Twins,4,3
+20120719,New York Yankees,Oakland Athletics,3,4
+20120719,Cleveland Indians,Tampa Bay Devil Rays,0,6
+20120719,San  Francisco Giants,Atlanta Braves,2,3
+20120719,Miami Marlins,Chicago Cubs,2,4
+20120719,Arizona Diamondbacks,Cincinnati Reds,6,7
+20120719,Houston Colts,San Diego Padres,0,1
+20120719,New York Mets,Washington Nationals,9,5
+20120720,Texas Rangers,Anaheim Angels,1,6
+20120720,Toronto Blue Jays,Boston Red Sox,6,1
+20120720,Baltimore Orioles,Cleveland Indians,10,2
+20120720,Chicago White Sox,Detroit Tigers,2,4
+20120720,Minensota Twins,Kansas City Royals,2,1
+20120720,New York Yankees,Oakland Athletics,2,3
+20120720,Seattle Mariners,Tampa Bay Devil Rays,3,4
+20120720,Houston Colts,Arizona Diamondbacks,8,13
+20120720,Milwaukee Brewers,Cincinnati Reds,1,3
+20120720,Los Angeles Dodgers,New York Mets,7,6
+20120720,San  Francisco Giants,Philadelpia Phillies,7,2
+20120720,Miami Marlins,Pittsburgh Pirates,3,4
+20120720,Colorado Rockies,San Diego Padres,5,9
+20120720,Chicago Cubs,St. Louis Cardinals,1,4
+20120720,Atlanta Braves,Washington Nationals,11,10
+20120721,Texas Rangers,Anaheim Angels,9,2
+20120721,Toronto Blue Jays,Boston Red Sox,7,3
+20120721,Baltimore Orioles,Cleveland Indians,3,1
+20120721,Chicago White Sox,Detroit Tigers,1,7
+20120721,Minensota Twins,Kansas City Royals,3,7
+20120721,New York Yankees,Oakland Athletics,1,2
+20120721,Seattle Mariners,Tampa Bay Devil Rays,2,1
+20120721,Houston Colts,Arizona Diamondbacks,3,12
+20120721,Milwaukee Brewers,Cincinnati Reds,2,6
+20120721,Los Angeles Dodgers,New York Mets,8,5
+20120721,San  Francisco Giants,Philadelpia Phillies,6,5
+20120721,Miami Marlins,Pittsburgh Pirates,1,5
+20120721,Colorado Rockies,San Diego Padres,8,6
+20120721,Chicago Cubs,St. Louis Cardinals,0,12
+20120721,Atlanta Braves,Washington Nationals,4,0
+20120721,Atlanta Braves,Washington Nationals,2,5
+20120722,Texas Rangers,Anaheim Angels,4,7
+20120722,Toronto Blue Jays,Boston Red Sox,15,7
+20120722,Baltimore Orioles,Cleveland Indians,4,3
+20120722,Chicago White Sox,Detroit Tigers,4,6
+20120722,Minensota Twins,Kansas City Royals,7,5
+20120722,New York Yankees,Oakland Athletics,4,5
+20120722,Seattle Mariners,Tampa Bay Devil Rays,2,1
+20120722,Houston Colts,Arizona Diamondbacks,2,8
+20120722,Milwaukee Brewers,Cincinnati Reds,1,2
+20120722,Los Angeles Dodgers,New York Mets,8,3
+20120722,San  Francisco Giants,Philadelpia Phillies,3,4
+20120722,Miami Marlins,Pittsburgh Pirates,0,3
+20120722,Colorado Rockies,San Diego Padres,2,3
+20120722,Chicago Cubs,St. Louis Cardinals,0,7
+20120722,Atlanta Braves,Washington Nationals,2,9
+20120723,Kansas City Royals,Anaheim Angels,3,6
+20120723,Minensota Twins,Chicago White Sox,4,7
+20120723,Baltimore Orioles,Cleveland Indians,1,3
+20120723,New York Yankees,Seattle Mariners,4,1
+20120723,Boston Red Sox,Texas Rangers,1,9
+20120723,Colorado Rockies,Arizona Diamondbacks,3,6
+20120723,Cincinnati Reds,Houston Colts,8,3
+20120723,Atlanta Braves,Miami Marlins,1,2
+20120723,Washington Nationals,New York Mets,8,2
+20120723,Milwaukee Brewers,Philadelpia Phillies,6,7
+20120723,Chicago Cubs,Pittsburgh Pirates,2,0
+20120723,San Diego Padres,San  Francisco Giants,1,7
+20120723,Los Angeles Dodgers,St. Louis Cardinals,5,3
+20120724,Kansas City Royals,Anaheim Angels,4,1
+20120724,Tampa Bay Devil Rays,Baltimore Orioles,3,1
+20120724,Minensota Twins,Chicago White Sox,4,11
+20120724,Detroit Tigers,Cleveland Indians,2,3
+20120724,New York Yankees,Seattle Mariners,2,4
+20120724,Boston Red Sox,Texas Rangers,2,1
+20120724,Oakland Athletics,Toronto Blue Jays,7,2
+20120724,Colorado Rockies,Arizona Diamondbacks,2,6
+20120724,Cincinnati Reds,Houston Colts,4,2
+20120724,Atlanta Braves,Miami Marlins,4,3
+20120724,Washington Nationals,New York Mets,5,2
+20120724,Milwaukee Brewers,Philadelpia Phillies,6,7
+20120724,Chicago Cubs,Pittsburgh Pirates,5,1
+20120724,San Diego Padres,San  Francisco Giants,2,3
+20120724,Los Angeles Dodgers,St. Louis Cardinals,2,8
+20120725,Kansas City Royals,Anaheim Angels,6,11
+20120725,Tampa Bay Devil Rays,Baltimore Orioles,10,1
+20120725,Minensota Twins,Chicago White Sox,2,8
+20120725,Detroit Tigers,Cleveland Indians,5,3
+20120725,New York Yankees,Seattle Mariners,5,2
+20120725,Boston Red Sox,Texas Rangers,3,5
+20120725,Oakland Athletics,Toronto Blue Jays,16,0
+20120725,Colorado Rockies,Arizona Diamondbacks,4,2
+20120725,Cincinnati Reds,Houston Colts,5,3
+20120725,Atlanta Braves,Miami Marlins,7,1
+20120725,Washington Nationals,New York Mets,5,2
+20120725,Milwaukee Brewers,Philadelpia Phillies,6,7
+20120725,Chicago Cubs,Pittsburgh Pirates,2,3
+20120725,San Diego Padres,San  Francisco Giants,6,3
+20120725,Los Angeles Dodgers,St. Louis Cardinals,2,3
+20120726,Tampa Bay Devil Rays,Baltimore Orioles,2,6
+20120726,Detroit Tigers,Cleveland Indians,3,5
+20120726,Kansas City Royals,Seattle Mariners,1,4
+20120726,Oakland Athletics,Toronto Blue Jays,4,10
+20120726,New York Mets,Arizona Diamondbacks,3,1
+20120726,Pittsburgh Pirates,Houston Colts,5,3
+20120726,Washington Nationals,Milwaukee Brewers,8,2
+20120726,Los Angeles Dodgers,St. Louis Cardinals,4,7
+20120727,Tampa Bay Devil Rays,Anaheim Angels,1,3
+20120727,Oakland Athletics,Baltimore Orioles,14,9
+20120727,Cleveland Indians,Minensota Twins,0,11
+20120727,Boston Red Sox,New York Yankees,3,10
+20120727,Kansas City Royals,Seattle Mariners,1,6
+20120727,Chicago White Sox,Texas Rangers,9,5
+20120727,Detroit Tigers,Toronto Blue Jays,3,8
+20120727,New York Mets,Arizona Diamondbacks,5,11
+20120727,Philadelpia Phillies,Atlanta Braves,1,6
+20120727,St. Louis Cardinals,Chicago Cubs,9,6
+20120727,Cincinnati Reds,Colorado Rockies,3,0
+20120727,Pittsburgh Pirates,Houston Colts,6,5
+20120727,San Diego Padres,Miami Marlins,7,2
+20120727,Washington Nationals,Milwaukee Brewers,0,6
+20120727,Los Angeles Dodgers,San  Francisco Giants,5,3
+20120728,Tampa Bay Devil Rays,Anaheim Angels,3,0
+20120728,Oakland Athletics,Baltimore Orioles,6,1
+20120728,Cleveland Indians,Minensota Twins,5,12
+20120728,Boston Red Sox,New York Yankees,8,6
+20120728,Kansas City Royals,Seattle Mariners,3,4
+20120728,Chicago White Sox,Texas Rangers,5,2
+20120728,Detroit Tigers,Toronto Blue Jays,1,5
+20120728,New York Mets,Arizona Diamondbacks,3,6
+20120728,Philadelpia Phillies,Atlanta Braves,1,2
+20120728,St. Louis Cardinals,Chicago Cubs,2,3
+20120728,Cincinnati Reds,Colorado Rockies,9,7
+20120728,Pittsburgh Pirates,Houston Colts,4,3
+20120728,San Diego Padres,Miami Marlins,2,4
+20120728,Washington Nationals,Milwaukee Brewers,4,1
+20120728,Los Angeles Dodgers,San  Francisco Giants,10,0
+20120729,Tampa Bay Devil Rays,Anaheim Angels,2,0
+20120729,Oakland Athletics,Baltimore Orioles,1,6
+20120729,Cleveland Indians,Minensota Twins,1,5
+20120729,Boston Red Sox,New York Yankees,3,2
+20120729,Kansas City Royals,Seattle Mariners,6,7
+20120729,Chicago White Sox,Texas Rangers,0,2
+20120729,Detroit Tigers,Toronto Blue Jays,4,1
+20120729,New York Mets,Arizona Diamondbacks,5,1
+20120729,Philadelpia Phillies,Atlanta Braves,2,6
+20120729,St. Louis Cardinals,Chicago Cubs,2,4
+20120729,Cincinnati Reds,Colorado Rockies,7,2
+20120729,Pittsburgh Pirates,Houston Colts,5,9
+20120729,San Diego Padres,Miami Marlins,4,5
+20120729,Washington Nationals,Milwaukee Brewers,11,10
+20120729,Los Angeles Dodgers,San  Francisco Giants,4,0
+20120730,Detroit Tigers,Boston Red Sox,3,7
+20120730,Chicago White Sox,Minensota Twins,6,7
+20120730,Baltimore Orioles,New York Yankees,5,4
+20120730,Tampa Bay Devil Rays,Oakland Athletics,3,4
+20120730,Toronto Blue Jays,Seattle Mariners,1,4
+20120730,Anaheim Angels,Texas Rangers,15,8
+20120730,Miami Marlins,Atlanta Braves,2,8
+20120730,Pittsburgh Pirates,Chicago Cubs,4,14
+20120730,San Diego Padres,Cincinnati Reds,11,5
+20120730,Arizona Diamondbacks,Los Angeles Dodgers,7,2
+20120730,Houston Colts,Milwaukee Brewers,7,8
+20120730,New York Mets,San  Francisco Giants,8,7
+20120731,Detroit Tigers,Boston Red Sox,1,4
+20120731,Cleveland Indians,Kansas City Royals,3,8
+20120731,Chicago White Sox,Minensota Twins,4,3
+20120731,Baltimore Orioles,New York Yankees,11,5
+20120731,Tampa Bay Devil Rays,Oakland Athletics,8,0
+20120731,Toronto Blue Jays,Seattle Mariners,2,7
+20120731,Anaheim Angels,Texas Rangers,6,2
+20120731,Miami Marlins,Atlanta Braves,1,7
+20120731,Pittsburgh Pirates,Chicago Cubs,5,0
+20120731,San Diego Padres,Cincinnati Reds,6,7
+20120731,St. Louis Cardinals,Colorado Rockies,11,6
+20120731,Arizona Diamondbacks,Los Angeles Dodgers,8,2
+20120731,Houston Colts,Milwaukee Brewers,1,10
+20120731,New York Mets,San  Francisco Giants,1,4
+20120731,Philadelpia Phillies,Washington Nationals,8,0
+20120801,Detroit Tigers,Boston Red Sox,7,5
+20120801,Cleveland Indians,Kansas City Royals,2,5
+20120801,Chicago White Sox,Minensota Twins,3,2
+20120801,Baltimore Orioles,New York Yankees,3,12
+20120801,Tampa Bay Devil Rays,Oakland Athletics,4,1
+20120801,Toronto Blue Jays,Seattle Mariners,3,5
+20120801,Anaheim Angels,Texas Rangers,10,11
+20120801,Miami Marlins,Atlanta Braves,4,2
+20120801,Pittsburgh Pirates,Chicago Cubs,8,4
+20120801,San Diego Padres,Cincinnati Reds,4,6
+20120801,St. Louis Cardinals,Colorado Rockies,9,6
+20120801,Arizona Diamondbacks,Los Angeles Dodgers,4,0
+20120801,Houston Colts,Milwaukee Brewers,4,13
+20120801,New York Mets,San  Francisco Giants,2,1
+20120801,Philadelpia Phillies,Washington Nationals,3,2
+20120802,Minensota Twins,Boston Red Sox,5,0
+20120802,Cleveland Indians,Kansas City Royals,6,7
+20120802,Toronto Blue Jays,Oakland Athletics,1,4
+20120802,Anaheim Angels,Texas Rangers,9,15
+20120802,Miami Marlins,Atlanta Braves,1,6
+20120802,San Diego Padres,Cincinnati Reds,4,9
+20120802,St. Louis Cardinals,Colorado Rockies,2,8
+20120802,New York Mets,San  Francisco Giants,9,1
+20120802,Philadelpia Phillies,Washington Nationals,0,3
+20120803,Minensota Twins,Boston Red Sox,6,5
+20120803,Anaheim Angels,Chicago White Sox,6,8
+20120803,Cleveland Indians,Detroit Tigers,2,10
+20120803,Texas Rangers,Kansas City Royals,5,3
+20120803,Seattle Mariners,New York Yankees,3,6
+20120803,Toronto Blue Jays,Oakland Athletics,4,5
+20120803,Baltimore Orioles,Tampa Bay Devil Rays,0,2
+20120803,Houston Colts,Atlanta Braves,1,4
+20120803,Pittsburgh Pirates,Cincinnati Reds,0,3
+20120803,San  Francisco Giants,Colorado Rockies,16,4
+20120803,Chicago Cubs,Los Angeles Dodgers,1,6
+20120803,Arizona Diamondbacks,Philadelpia Phillies,4,2
+20120803,New York Mets,San Diego Padres,1,3
+20120803,Milwaukee Brewers,St. Louis Cardinals,3,9
+20120803,Miami Marlins,Washington Nationals,4,7
+20120803,Miami Marlins,Washington Nationals,5,2
+20120804,Minensota Twins,Boston Red Sox,6,4
+20120804,Anaheim Angels,Chicago White Sox,6,5
+20120804,Cleveland Indians,Detroit Tigers,1,6
+20120804,Texas Rangers,Kansas City Royals,4,2
+20120804,Seattle Mariners,New York Yankees,1,0
+20120804,Toronto Blue Jays,Oakland Athletics,3,1
+20120804,Baltimore Orioles,Tampa Bay Devil Rays,4,0
+20120804,Houston Colts,Atlanta Braves,3,2
+20120804,Pittsburgh Pirates,Cincinnati Reds,4,5
+20120804,San  Francisco Giants,Colorado Rockies,11,6
+20120804,Chicago Cubs,Los Angeles Dodgers,1,3
+20120804,Arizona Diamondbacks,Philadelpia Phillies,0,3
+20120804,New York Mets,San Diego Padres,6,2
+20120804,Milwaukee Brewers,St. Louis Cardinals,1,6
+20120804,Miami Marlins,Washington Nationals,7,10
+20120805,Minensota Twins,Boston Red Sox,4,6
+20120805,Anaheim Angels,Chicago White Sox,2,4
+20120805,Cleveland Indians,Detroit Tigers,8,10
+20120805,Texas Rangers,Kansas City Royals,6,7
+20120805,Seattle Mariners,New York Yankees,2,6
+20120805,Toronto Blue Jays,Oakland Athletics,6,5
+20120805,Baltimore Orioles,Tampa Bay Devil Rays,1,0
+20120805,Houston Colts,Atlanta Braves,1,6
+20120805,Pittsburgh Pirates,Cincinnati Reds,6,2
+20120805,San  Francisco Giants,Colorado Rockies,8,3
+20120805,Chicago Cubs,Los Angeles Dodgers,6,7
+20120805,Arizona Diamondbacks,Philadelpia Phillies,4,5
+20120805,New York Mets,San Diego Padres,3,7
+20120805,Milwaukee Brewers,St. Louis Cardinals,0,3
+20120805,Miami Marlins,Washington Nationals,1,4
+20120806,Seattle Mariners,Baltimore Orioles,1,3
+20120806,Texas Rangers,Boston Red Sox,2,9
+20120806,Kansas City Royals,Chicago White Sox,2,4
+20120806,Minensota Twins,Cleveland Indians,14,3
+20120806,New York Yankees,Detroit Tigers,2,7
+20120806,Anaheim Angels,Oakland Athletics,4,0
+20120806,Washington Nationals,Houston Colts,5,4
+20120806,Colorado Rockies,Los Angeles Dodgers,2,0
+20120806,Cincinnati Reds,Milwaukee Brewers,3,6
+20120806,Atlanta Braves,Philadelpia Phillies,6,1
+20120806,Arizona Diamondbacks,Pittsburgh Pirates,0,4
+20120806,Chicago Cubs,San Diego Padres,0,2
+20120806,San  Francisco Giants,St. Louis Cardinals,2,8
+20120807,Seattle Mariners,Baltimore Orioles,7,8
+20120807,Texas Rangers,Boston Red Sox,6,3
+20120807,Kansas City Royals,Chicago White Sox,5,2
+20120807,Minensota Twins,Cleveland Indians,7,5
+20120807,New York Yankees,Detroit Tigers,5,6
+20120807,Anaheim Angels,Oakland Athletics,4,10
+20120807,Toronto Blue Jays,Tampa Bay Devil Rays,1,4
+20120807,Washington Nationals,Houston Colts,3,2
+20120807,Colorado Rockies,Los Angeles Dodgers,3,1
+20120807,Cincinnati Reds,Milwaukee Brewers,1,3
+20120807,Miami Marlins,New York Mets,4,2
+20120807,Atlanta Braves,Philadelpia Phillies,0,3
+20120807,Arizona Diamondbacks,Pittsburgh Pirates,10,4
+20120807,Chicago Cubs,San Diego Padres,4,7
+20120807,San  Francisco Giants,St. Louis Cardinals,4,2
+20120808,Seattle Mariners,Baltimore Orioles,2,9
+20120808,Texas Rangers,Boston Red Sox,10,9
+20120808,Kansas City Royals,Chicago White Sox,2,1
+20120808,Minensota Twins,Cleveland Indians,2,6
+20120808,New York Yankees,Detroit Tigers,12,8
+20120808,Anaheim Angels,Oakland Athletics,8,9
+20120808,Toronto Blue Jays,Tampa Bay Devil Rays,2,3
+20120808,Washington Nationals,Houston Colts,4,3
+20120808,Colorado Rockies,Los Angeles Dodgers,4,6
+20120808,Cincinnati Reds,Milwaukee Brewers,2,3
+20120808,Miami Marlins,New York Mets,13,0
+20120808,Atlanta Braves,Philadelpia Phillies,12,6
+20120808,Arizona Diamondbacks,Pittsburgh Pirates,6,7
+20120808,Chicago Cubs,San Diego Padres,0,2
+20120808,San  Francisco Giants,St. Louis Cardinals,15,0
+20120809,Kansas City Royals,Baltimore Orioles,8,2
+20120809,Boston Red Sox,Cleveland Indians,3,5
+20120809,New York Yankees,Detroit Tigers,4,3
+20120809,Toronto Blue Jays,Tampa Bay Devil Rays,1,7
+20120809,Cincinnati Reds,Chicago Cubs,3,5
+20120809,Washington Nationals,Houston Colts,5,0
+20120809,Miami Marlins,New York Mets,1,6
+20120809,Arizona Diamondbacks,Pittsburgh Pirates,6,3
+20120809,San  Francisco Giants,St. Louis Cardinals,1,3
+20120810,Seattle Mariners,Anaheim Angels,5,6
+20120810,Kansas City Royals,Baltimore Orioles,1,7
+20120810,Oakland Athletics,Chicago White Sox,3,4
+20120810,Boston Red Sox,Cleveland Indians,3,2
+20120810,Tampa Bay Devil Rays,Minensota Twins,12,6
+20120810,Detroit Tigers,Texas Rangers,6,2
+20120810,New York Yankees,Toronto Blue Jays,10,4
+20120810,Washington Nationals,Arizona Diamondbacks,9,1
+20120810,Cincinnati Reds,Chicago Cubs,10,8
+20120810,Milwaukee Brewers,Houston Colts,3,4
+20120810,Los Angeles Dodgers,Miami Marlins,5,2
+20120810,Atlanta Braves,New York Mets,4,0
+20120810,St. Louis Cardinals,Philadelpia Phillies,1,3
+20120810,San Diego Padres,Pittsburgh Pirates,9,8
+20120810,Colorado Rockies,San  Francisco Giants,3,0
+20120811,Seattle Mariners,Anaheim Angels,7,4
+20120811,Kansas City Royals,Baltimore Orioles,7,3
+20120811,Oakland Athletics,Chicago White Sox,9,7
+20120811,Boston Red Sox,Cleveland Indians,2,5
+20120811,Tampa Bay Devil Rays,Minensota Twins,4,2
+20120811,Detroit Tigers,Texas Rangers,1,2
+20120811,New York Yankees,Toronto Blue Jays,5,2
+20120811,Washington Nationals,Arizona Diamondbacks,6,5
+20120811,Cincinnati Reds,Chicago Cubs,4,2
+20120811,Milwaukee Brewers,Houston Colts,5,6
+20120811,Los Angeles Dodgers,Miami Marlins,3,7
+20120811,Atlanta Braves,New York Mets,9,3
+20120811,St. Louis Cardinals,Philadelpia Phillies,4,1
+20120811,San Diego Padres,Pittsburgh Pirates,5,0
+20120811,Colorado Rockies,San  Francisco Giants,3,9
+20120812,Seattle Mariners,Anaheim Angels,4,1
+20120812,Kansas City Royals,Baltimore Orioles,3,5
+20120812,Oakland Athletics,Chicago White Sox,3,7
+20120812,Boston Red Sox,Cleveland Indians,14,1
+20120812,Tampa Bay Devil Rays,Minensota Twins,7,3
+20120812,Detroit Tigers,Texas Rangers,3,8
+20120812,New York Yankees,Toronto Blue Jays,7,10
+20120812,Washington Nationals,Arizona Diamondbacks,4,7
+20120812,Cincinnati Reds,Chicago Cubs,3,0
+20120812,Milwaukee Brewers,Houston Colts,5,3
+20120812,Los Angeles Dodgers,Miami Marlins,5,0
+20120812,Atlanta Braves,New York Mets,5,6
+20120812,St. Louis Cardinals,Philadelpia Phillies,7,8
+20120812,San Diego Padres,Pittsburgh Pirates,5,11
+20120812,Colorado Rockies,San  Francisco Giants,6,9
+20120813,Cleveland Indians,Anaheim Angels,6,2
+20120813,Detroit Tigers,Minensota Twins,3,9
+20120813,Texas Rangers,New York Yankees,2,8
+20120813,Tampa Bay Devil Rays,Seattle Mariners,4,1
+20120813,Chicago White Sox,Toronto Blue Jays,2,3
+20120813,San Diego Padres,Atlanta Braves,4,1
+20120813,Houston Colts,Chicago Cubs,1,7
+20120813,Milwaukee Brewers,Colorado Rockies,6,9
+20120813,Philadelpia Phillies,Miami Marlins,4,0
+20120813,Los Angeles Dodgers,Pittsburgh Pirates,5,4
+20120813,Washington Nationals,San  Francisco Giants,14,2
+20120814,Cleveland Indians,Anaheim Angels,6,9
+20120814,Boston Red Sox,Baltimore Orioles,1,7
+20120814,Oakland Athletics,Kansas City Royals,0,5
+20120814,Detroit Tigers,Minensota Twins,8,4
+20120814,Texas Rangers,New York Yankees,0,3
+20120814,Tampa Bay Devil Rays,Seattle Mariners,2,3
+20120814,Chicago White Sox,Toronto Blue Jays,3,2
+20120814,San Diego Padres,Atlanta Braves,0,6
+20120814,Houston Colts,Chicago Cubs,10,1
+20120814,New York Mets,Cincinnati Reds,0,3
+20120814,Milwaukee Brewers,Colorado Rockies,6,8
+20120814,Philadelpia Phillies,Miami Marlins,1,0
+20120814,Los Angeles Dodgers,Pittsburgh Pirates,11,0
+20120814,Washington Nationals,San  Francisco Giants,1,6
+20120814,Arizona Diamondbacks,St. Louis Cardinals,2,8
+20120815,Cleveland Indians,Anaheim Angels,4,8
+20120815,Boston Red Sox,Baltimore Orioles,3,5
+20120815,Oakland Athletics,Kansas City Royals,2,3
+20120815,Detroit Tigers,Minensota Twins,5,1
+20120815,Texas Rangers,New York Yankees,2,3
+20120815,Tampa Bay Devil Rays,Seattle Mariners,0,1
+20120815,Chicago White Sox,Toronto Blue Jays,9,5
+20120815,San Diego Padres,Atlanta Braves,1,6
+20120815,Houston Colts,Chicago Cubs,2,7
+20120815,New York Mets,Cincinnati Reds,1,6
+20120815,Milwaukee Brewers,Colorado Rockies,6,7
+20120815,Philadelpia Phillies,Miami Marlins,2,9
+20120815,Los Angeles Dodgers,Pittsburgh Pirates,9,3
+20120815,Washington Nationals,San  Francisco Giants,6,4
+20120815,Arizona Diamondbacks,St. Louis Cardinals,2,5
+20120816,Tampa Bay Devil Rays,Anaheim Angels,7,0
+20120816,Boston Red Sox,Baltimore Orioles,6,3
+20120816,Oakland Athletics,Kansas City Royals,3,0
+20120816,Texas Rangers,New York Yankees,10,6
+20120816,Chicago White Sox,Toronto Blue Jays,7,2
+20120816,San Diego Padres,Atlanta Braves,0,6
+20120816,New York Mets,Cincinnati Reds,8,4
+20120816,Miami Marlins,Colorado Rockies,3,5
+20120816,Philadelpia Phillies,Milwaukee Brewers,4,7
+20120816,Los Angeles Dodgers,Pittsburgh Pirates,6,10
+20120816,Arizona Diamondbacks,St. Louis Cardinals,2,1
+20120817,Tampa Bay Devil Rays,Anaheim Angels,12,3
+20120817,Baltimore Orioles,Detroit Tigers,3,5
+20120817,Chicago White Sox,Kansas City Royals,2,4
+20120817,Boston Red Sox,New York Yankees,4,6
+20120817,Cleveland Indians,Oakland Athletics,4,6
+20120817,Minensota Twins,Seattle Mariners,3,5
+20120817,Texas Rangers,Toronto Blue Jays,2,3
+20120817,Los Angeles Dodgers,Atlanta Braves,3,4
+20120817,Chicago Cubs,Cincinnati Reds,3,7
+20120817,Miami Marlins,Colorado Rockies,6,5
+20120817,Arizona Diamondbacks,Houston Colts,3,1
+20120817,Philadelpia Phillies,Milwaukee Brewers,2,6
+20120817,San  Francisco Giants,San Diego Padres,10,1
+20120817,Pittsburgh Pirates,St. Louis Cardinals,2,1
+20120817,New York Mets,Washington Nationals,4,6
+20120818,Tampa Bay Devil Rays,Anaheim Angels,10,8
+20120818,Baltimore Orioles,Detroit Tigers,3,2
+20120818,Chicago White Sox,Kansas City Royals,4,9
+20120818,Boston Red Sox,New York Yankees,4,1
+20120818,Cleveland Indians,Oakland Athletics,5,8
+20120818,Minensota Twins,Seattle Mariners,2,3
+20120818,Texas Rangers,Toronto Blue Jays,2,1
+20120818,Los Angeles Dodgers,Atlanta Braves,6,2
+20120818,Chicago Cubs,Cincinnati Reds,3,5
+20120818,Chicago Cubs,Cincinnati Reds,9,7
+20120818,Miami Marlins,Colorado Rockies,6,5
+20120818,Arizona Diamondbacks,Houston Colts,12,4
+20120818,Philadelpia Phillies,Milwaukee Brewers,4,3
+20120818,San  Francisco Giants,San Diego Padres,8,7
+20120818,Pittsburgh Pirates,St. Louis Cardinals,4,5
+20120818,New York Mets,Washington Nationals,2,0
+20120819,Tampa Bay Devil Rays,Anaheim Angels,8,3
+20120819,Baltimore Orioles,Detroit Tigers,7,5
+20120819,Chicago White Sox,Kansas City Royals,2,5
+20120819,Boston Red Sox,New York Yankees,1,4
+20120819,Cleveland Indians,Oakland Athletics,0,7
+20120819,Minensota Twins,Seattle Mariners,1,5
+20120819,Texas Rangers,Toronto Blue Jays,11,2
+20120819,Los Angeles Dodgers,Atlanta Braves,5,0
+20120819,Chicago Cubs,Cincinnati Reds,4,5
+20120819,Miami Marlins,Colorado Rockies,2,3
+20120819,Arizona Diamondbacks,Houston Colts,8,1
+20120819,Philadelpia Phillies,Milwaukee Brewers,8,0
+20120819,San  Francisco Giants,San Diego Padres,1,7
+20120819,Pittsburgh Pirates,St. Louis Cardinals,6,3
+20120819,New York Mets,Washington Nationals,2,5
+20120820,New York Yankees,Chicago White Sox,6,9
+20120820,Minensota Twins,Oakland Athletics,7,2
+20120820,Cleveland Indians,Seattle Mariners,3,5
+20120820,Kansas City Royals,Tampa Bay Devil Rays,1,5
+20120820,Baltimore Orioles,Texas Rangers,1,5
+20120820,Miami Marlins,Arizona Diamondbacks,12,3
+20120820,San  Francisco Giants,Los Angeles Dodgers,2,1
+20120820,Chicago Cubs,Milwaukee Brewers,5,9
+20120820,Colorado Rockies,New York Mets,3,1
+20120820,Cincinnati Reds,Philadelpia Phillies,5,12
+20120820,Pittsburgh Pirates,San Diego Padres,1,3
+20120820,Atlanta Braves,Washington Nationals,4,5
+20120821,Anaheim Angels,Boston Red Sox,5,3
+20120821,New York Yankees,Chicago White Sox,3,7
+20120821,Toronto Blue Jays,Detroit Tigers,3,5
+20120821,Minensota Twins,Oakland Athletics,1,4
+20120821,Cleveland Indians,Seattle Mariners,1,5
+20120821,Kansas City Royals,Tampa Bay Devil Rays,1,0
+20120821,Baltimore Orioles,Texas Rangers,5,3
+20120821,Miami Marlins,Arizona Diamondbacks,6,5
+20120821,San  Francisco Giants,Los Angeles Dodgers,4,1
+20120821,Chicago Cubs,Milwaukee Brewers,2,5
+20120821,Colorado Rockies,New York Mets,6,2
+20120821,Cincinnati Reds,Philadelpia Phillies,5,4
+20120821,Pittsburgh Pirates,San Diego Padres,5,7
+20120821,Houston Colts,St. Louis Cardinals,0,7
+20120821,Atlanta Braves,Washington Nationals,1,4
+20120822,Anaheim Angels,Boston Red Sox,7,3
+20120822,New York Yankees,Chicago White Sox,1,2
+20120822,Toronto Blue Jays,Detroit Tigers,2,3
+20120822,Minensota Twins,Oakland Athletics,1,5
+20120822,Cleveland Indians,Seattle Mariners,1,3
+20120822,Kansas City Royals,Tampa Bay Devil Rays,3,5
+20120822,Baltimore Orioles,Texas Rangers,3,12
+20120822,Miami Marlins,Arizona Diamondbacks,2,3
+20120822,Miami Marlins,Arizona Diamondbacks,0,3
+20120822,San  Francisco Giants,Los Angeles Dodgers,8,4
+20120822,Chicago Cubs,Milwaukee Brewers,2,3
+20120822,Colorado Rockies,New York Mets,5,2
+20120822,Cincinnati Reds,Philadelpia Phillies,3,2
+20120822,Pittsburgh Pirates,San Diego Padres,2,4
+20120822,Houston Colts,St. Louis Cardinals,2,4
+20120822,Atlanta Braves,Washington Nationals,5,1
+20120823,Anaheim Angels,Boston Red Sox,14,13
+20120823,Toronto Blue Jays,Detroit Tigers,2,3
+20120823,Oakland Athletics,Tampa Bay Devil Rays,0,5
+20120823,Minensota Twins,Texas Rangers,6,10
+20120823,Colorado Rockies,New York Mets,1,0
+20120823,Cincinnati Reds,Philadelpia Phillies,3,4
+20120823,Atlanta Braves,San  Francisco Giants,2,5
+20120823,Houston Colts,St. Louis Cardinals,5,13
+20120824,Toronto Blue Jays,Baltimore Orioles,4,6
+20120824,Kansas City Royals,Boston Red Sox,3,4
+20120824,Seattle Mariners,Chicago White Sox,8,9
+20120824,New York Yankees,Cleveland Indians,3,1
+20120824,Anaheim Angels,Detroit Tigers,2,1
+20120824,Oakland Athletics,Tampa Bay Devil Rays,5,4
+20120824,Minensota Twins,Texas Rangers,0,8
+20120824,San Diego Padres,Arizona Diamondbacks,5,0
+20120824,Colorado Rockies,Chicago Cubs,3,5
+20120824,St. Louis Cardinals,Cincinnati Reds,8,5
+20120824,Miami Marlins,Los Angeles Dodgers,4,11
+20120824,Houston Colts,New York Mets,3,1
+20120824,Washington Nationals,Philadelpia Phillies,2,4
+20120824,Milwaukee Brewers,Pittsburgh Pirates,6,5
+20120824,Atlanta Braves,San  Francisco Giants,3,5
+20120825,Toronto Blue Jays,Baltimore Orioles,2,8
+20120825,Kansas City Royals,Boston Red Sox,10,9
+20120825,Seattle Mariners,Chicago White Sox,4,5
+20120825,New York Yankees,Cleveland Indians,1,3
+20120825,Anaheim Angels,Detroit Tigers,3,5
+20120825,Oakland Athletics,Tampa Bay Devil Rays,4,2
+20120825,Minensota Twins,Texas Rangers,3,9
+20120825,San Diego Padres,Arizona Diamondbacks,9,3
+20120825,Colorado Rockies,Chicago Cubs,4,3
+20120825,St. Louis Cardinals,Cincinnati Reds,2,8
+20120825,Miami Marlins,Los Angeles Dodgers,2,8
+20120825,Houston Colts,New York Mets,1,3
+20120825,Washington Nationals,Philadelpia Phillies,2,4
+20120825,Milwaukee Brewers,Pittsburgh Pirates,0,4
+20120825,Atlanta Braves,San  Francisco Giants,7,3
+20120826,Kansas City Royals,Boston Red Sox,6,8
+20120826,Seattle Mariners,Chicago White Sox,3,4
+20120826,New York Yankees,Cleveland Indians,4,2
+20120826,Anaheim Angels,Detroit Tigers,2,5
+20120826,Minensota Twins,Texas Rangers,6,5
+20120826,San Diego Padres,Arizona Diamondbacks,5,4
+20120826,Colorado Rockies,Chicago Cubs,0,5
+20120826,St. Louis Cardinals,Cincinnati Reds,8,2
+20120826,Miami Marlins,Los Angeles Dodgers,6,2
+20120826,Houston Colts,New York Mets,1,2
+20120826,Washington Nationals,Philadelpia Phillies,1,4
+20120826,Milwaukee Brewers,Pittsburgh Pirates,7,0
+20120826,Atlanta Braves,San  Francisco Giants,7,1
+20120827,Chicago White Sox,Baltimore Orioles,3,4
+20120827,Kansas City Royals,Boston Red Sox,1,5
+20120827,Oakland Athletics,Cleveland Indians,3,0
+20120827,Seattle Mariners,Minensota Twins,1,0
+20120827,Toronto Blue Jays,New York Yankees,8,7
+20120827,Tampa Bay Devil Rays,Texas Rangers,5,6
+20120827,Cincinnati Reds,Arizona Diamondbacks,3,2
+20120827,Milwaukee Brewers,Chicago Cubs,15,4
+20120827,Los Angeles Dodgers,Colorado Rockies,0,10
+20120827,St. Louis Cardinals,Pittsburgh Pirates,4,3
+20120827,Atlanta Braves,San Diego Padres,0,3
+20120828,Boston Red Sox,Anaheim Angels,5,6
+20120828,Chicago White Sox,Baltimore Orioles,0,6
+20120828,Oakland Athletics,Cleveland Indians,7,0
+20120828,Detroit Tigers,Kansas City Royals,8,9
+20120828,Seattle Mariners,Minensota Twins,5,2
+20120828,Toronto Blue Jays,New York Yankees,1,2
+20120828,Tampa Bay Devil Rays,Texas Rangers,0,1
+20120828,Cincinnati Reds,Arizona Diamondbacks,5,2
+20120828,Milwaukee Brewers,Chicago Cubs,4,1
+20120828,Los Angeles Dodgers,Colorado Rockies,4,8
+20120828,San  Francisco Giants,Houston Colts,3,2
+20120828,Washington Nationals,Miami Marlins,0,9
+20120828,New York Mets,Philadelpia Phillies,9,5
+20120828,St. Louis Cardinals,Pittsburgh Pirates,0,9
+20120828,Atlanta Braves,San Diego Padres,2,0
+20120829,Boston Red Sox,Anaheim Angels,3,10
+20120829,Chicago White Sox,Baltimore Orioles,8,1
+20120829,Oakland Athletics,Cleveland Indians,8,4
+20120829,Detroit Tigers,Kansas City Royals,0,1
+20120829,Seattle Mariners,Minensota Twins,0,10
+20120829,Toronto Blue Jays,New York Yankees,8,5
+20120829,Tampa Bay Devil Rays,Texas Rangers,8,4
+20120829,Cincinnati Reds,Arizona Diamondbacks,6,2
+20120829,Milwaukee Brewers,Chicago Cubs,3,1
+20120829,Los Angeles Dodgers,Colorado Rockies,10,8
+20120829,San  Francisco Giants,Houston Colts,6,4
+20120829,Washington Nationals,Miami Marlins,8,4
+20120829,New York Mets,Philadelpia Phillies,3,2
+20120829,St. Louis Cardinals,Pittsburgh Pirates,0,5
+20120829,Atlanta Braves,San Diego Padres,2,8
+20120830,Boston Red Sox,Anaheim Angels,2,5
+20120830,Chicago White Sox,Baltimore Orioles,3,5
+20120830,Oakland Athletics,Cleveland Indians,12,7
+20120830,Detroit Tigers,Kansas City Royals,1,2
+20120830,Seattle Mariners,Minensota Twins,5,4
+20120830,Tampa Bay Devil Rays,Toronto Blue Jays,0,2
+20120830,Milwaukee Brewers,Chicago Cubs,11,12
+20120830,San  Francisco Giants,Houston Colts,8,4
+20120830,Arizona Diamondbacks,Los Angeles Dodgers,2,0
+20120830,New York Mets,Philadelpia Phillies,2,3
+20120830,St. Louis Cardinals,Washington Nationals,1,8
+20120831,Texas Rangers,Cleveland Indians,5,3
+20120831,Chicago White Sox,Detroit Tigers,4,7
+20120831,Baltimore Orioles,New York Yankees,6,1
+20120831,Boston Red Sox,Oakland Athletics,2,20
+20120831,Anaheim Angels,Seattle Mariners,9,1
+20120831,Tampa Bay Devil Rays,Toronto Blue Jays,1,2
+20120831,Philadelpia Phillies,Atlanta Braves,8,5
+20120831,San  Francisco Giants,Chicago Cubs,4,6
+20120831,San Diego Padres,Colorado Rockies,5,4
+20120831,Cincinnati Reds,Houston Colts,9,3
+20120831,Arizona Diamondbacks,Los Angeles Dodgers,4,3
+20120831,New York Mets,Miami Marlins,3,0
+20120831,Pittsburgh Pirates,Milwaukee Brewers,3,9
+20120831,St. Louis Cardinals,Washington Nationals,0,10
+20120901,Texas Rangers,Cleveland Indians,3,4
+20120901,Chicago White Sox,Detroit Tigers,1,5
+20120901,Minensota Twins,Kansas City Royals,3,1
+20120901,Minensota Twins,Kansas City Royals,8,7
+20120901,Baltimore Orioles,New York Yankees,3,4
+20120901,Boston Red Sox,Oakland Athletics,1,7
+20120901,Anaheim Angels,Seattle Mariners,5,2
+20120901,Tampa Bay Devil Rays,Toronto Blue Jays,5,4
+20120901,Philadelpia Phillies,Atlanta Braves,5,1
+20120901,San  Francisco Giants,Chicago Cubs,5,2
+20120901,San Diego Padres,Colorado Rockies,1,9
+20120901,Cincinnati Reds,Houston Colts,1,2
+20120901,Arizona Diamondbacks,Los Angeles Dodgers,1,2
+20120901,New York Mets,Miami Marlins,5,3
+20120901,Pittsburgh Pirates,Milwaukee Brewers,2,3
+20120901,St. Louis Cardinals,Washington Nationals,10,9
+20120902,Texas Rangers,Cleveland Indians,8,3
+20120902,Chicago White Sox,Detroit Tigers,2,4
+20120902,Minensota Twins,Kansas City Royals,4,6
+20120902,Baltimore Orioles,New York Yankees,8,3
+20120902,Boston Red Sox,Oakland Athletics,2,6
+20120902,Anaheim Angels,Seattle Mariners,1,2
+20120902,Tampa Bay Devil Rays,Toronto Blue Jays,9,4
+20120902,Philadelpia Phillies,Atlanta Braves,7,8
+20120902,San  Francisco Giants,Chicago Cubs,7,5
+20120902,San Diego Padres,Colorado Rockies,10,11
+20120902,Cincinnati Reds,Houston Colts,5,3
+20120902,Arizona Diamondbacks,Los Angeles Dodgers,4,5
+20120902,New York Mets,Miami Marlins,5,1
+20120902,Pittsburgh Pirates,Milwaukee Brewers,8,12
+20120902,St. Louis Cardinals,Washington Nationals,3,4
+20120903,Minensota Twins,Chicago White Sox,2,4
+20120903,Cleveland Indians,Detroit Tigers,3,2
+20120903,Texas Rangers,Kansas City Royals,8,4
+20120903,Anaheim Angels,Oakland Athletics,8,3
+20120903,Boston Red Sox,Seattle Mariners,1,4
+20120903,New York Yankees,Tampa Bay Devil Rays,3,4
+20120903,Baltimore Orioles,Toronto Blue Jays,4,0
+20120903,Colorado Rockies,Atlanta Braves,1,6
+20120903,Philadelpia Phillies,Cincinnati Reds,4,2
+20120903,San Diego Padres,Los Angeles Dodgers,3,4
+20120903,Milwaukee Brewers,Miami Marlins,3,7
+20120903,Houston Colts,Pittsburgh Pirates,5,1
+20120903,Arizona Diamondbacks,San  Francisco Giants,8,9
+20120903,New York Mets,St. Louis Cardinals,4,5
+20120903,Chicago Cubs,Washington Nationals,1,2
+20120904,Minensota Twins,Chicago White Sox,18,9
+20120904,Cleveland Indians,Detroit Tigers,3,2
+20120904,Texas Rangers,Kansas City Royals,3,6
+20120904,Anaheim Angels,Oakland Athletics,6,1
+20120904,Boston Red Sox,Seattle Mariners,4,3
+20120904,New York Yankees,Tampa Bay Devil Rays,2,5
+20120904,Baltimore Orioles,Toronto Blue Jays,12,0
+20120904,Colorado Rockies,Atlanta Braves,6,0
+20120904,Philadelpia Phillies,Cincinnati Reds,1,2
+20120904,San Diego Padres,Los Angeles Dodgers,6,3
+20120904,Milwaukee Brewers,Miami Marlins,8,4
+20120904,Houston Colts,Pittsburgh Pirates,2,6
+20120904,Arizona Diamondbacks,San  Francisco Giants,8,6
+20120904,New York Mets,St. Louis Cardinals,1,5
+20120904,Chicago Cubs,Washington Nationals,5,11
+20120905,Minensota Twins,Chicago White Sox,2,6
+20120905,Cleveland Indians,Detroit Tigers,1,7
+20120905,Texas Rangers,Kansas City Royals,7,6
+20120905,Anaheim Angels,Oakland Athletics,7,1
+20120905,Boston Red Sox,Seattle Mariners,1,2
+20120905,New York Yankees,Tampa Bay Devil Rays,6,4
+20120905,Baltimore Orioles,Toronto Blue Jays,4,6
+20120905,Colorado Rockies,Atlanta Braves,0,1
+20120905,Philadelpia Phillies,Cincinnati Reds,6,2
+20120905,San Diego Padres,Los Angeles Dodgers,4,3
+20120905,Milwaukee Brewers,Miami Marlins,8,5
+20120905,Houston Colts,Pittsburgh Pirates,3,6
+20120905,Arizona Diamondbacks,San  Francisco Giants,6,2
+20120905,New York Mets,St. Louis Cardinals,6,2
+20120905,Chicago Cubs,Washington Nationals,1,9
+20120906,New York Yankees,Baltimore Orioles,6,10
+20120906,Texas Rangers,Kansas City Royals,5,4
+20120906,Colorado Rockies,Atlanta Braves,0,1
+20120906,Milwaukee Brewers,Miami Marlins,2,6
+20120906,Chicago Cubs,Washington Nationals,2,9
+20120907,Detroit Tigers,Anaheim Angels,2,3
+20120907,New York Yankees,Baltimore Orioles,8,5
+20120907,Toronto Blue Jays,Boston Red Sox,7,5
+20120907,Kansas City Royals,Chicago White Sox,7,5
+20120907,Cleveland Indians,Minensota Twins,7,6
+20120907,Oakland Athletics,Seattle Mariners,6,1
+20120907,Texas Rangers,Tampa Bay Devil Rays,1,3
+20120907,Houston Colts,Cincinnati Reds,5,3
+20120907,Atlanta Braves,New York Mets,3,0
+20120907,Colorado Rockies,Philadelpia Phillies,2,3
+20120907,Chicago Cubs,Pittsburgh Pirates,12,2
+20120907,Arizona Diamondbacks,San Diego Padres,5,6
+20120907,Los Angeles Dodgers,San  Francisco Giants,2,5
+20120907,Milwaukee Brewers,St. Louis Cardinals,5,4
+20120907,Miami Marlins,Washington Nationals,9,7
+20120908,Detroit Tigers,Anaheim Angels,1,6
+20120908,New York Yankees,Baltimore Orioles,4,5
+20120908,Toronto Blue Jays,Boston Red Sox,9,2
+20120908,Kansas City Royals,Chicago White Sox,4,5
+20120908,Cleveland Indians,Minensota Twins,0,3
+20120908,Oakland Athletics,Seattle Mariners,6,1
+20120908,Texas Rangers,Tampa Bay Devil Rays,4,2
+20120908,Houston Colts,Cincinnati Reds,1,5
+20120908,Atlanta Braves,New York Mets,11,3
+20120908,Chicago Cubs,Pittsburgh Pirates,4,3
+20120908,Arizona Diamondbacks,San Diego Padres,8,5
+20120908,Los Angeles Dodgers,San  Francisco Giants,3,2
+20120908,Milwaukee Brewers,St. Louis Cardinals,6,3
+20120908,Miami Marlins,Washington Nationals,6,7
+20120909,Detroit Tigers,Anaheim Angels,2,3
+20120909,New York Yankees,Baltimore Orioles,13,3
+20120909,Toronto Blue Jays,Boston Red Sox,4,3
+20120909,Kansas City Royals,Chicago White Sox,2,1
+20120909,Cleveland Indians,Minensota Twins,7,8
+20120909,Oakland Athletics,Seattle Mariners,4,2
+20120909,Texas Rangers,Tampa Bay Devil Rays,0,6
+20120909,Houston Colts,Cincinnati Reds,5,1
+20120909,Atlanta Braves,New York Mets,3,2
+20120909,Colorado Rockies,Philadelpia Phillies,2,3
+20120909,Colorado Rockies,Philadelpia Phillies,4,7
+20120909,Chicago Cubs,Pittsburgh Pirates,4,2
+20120909,Arizona Diamondbacks,San Diego Padres,2,8
+20120909,Los Angeles Dodgers,San  Francisco Giants,0,4
+20120909,Milwaukee Brewers,St. Louis Cardinals,4,5
+20120909,Miami Marlins,Washington Nationals,8,0
+20120910,Oakland Athletics,Anaheim Angels,3,1
+20120910,Detroit Tigers,Chicago White Sox,1,6
+20120910,Cleveland Indians,Minensota Twins,2,7
+20120910,Pittsburgh Pirates,Cincinnati Reds,3,4
+20120910,San  Francisco Giants,Colorado Rockies,5,6
+20120910,Chicago Cubs,Houston Colts,4,1
+20120910,Atlanta Braves,Milwaukee Brewers,1,4
+20120910,Washington Nationals,New York Mets,5,1
+20120910,Miami Marlins,Philadelpia Phillies,1,3
+20120910,St. Louis Cardinals,San Diego Padres,3,11
+20120911,Oakland Athletics,Anaheim Angels,6,5
+20120911,Tampa Bay Devil Rays,Baltimore Orioles,2,9
+20120911,New York Yankees,Boston Red Sox,3,4
+20120911,Detroit Tigers,Chicago White Sox,5,3
+20120911,Kansas City Royals,Minensota Twins,9,1
+20120911,Cleveland Indians,Texas Rangers,4,6
+20120911,Seattle Mariners,Toronto Blue Jays,4,3
+20120911,Los Angeles Dodgers,Arizona Diamondbacks,0,1
+20120911,Pittsburgh Pirates,Cincinnati Reds,3,5
+20120911,San  Francisco Giants,Colorado Rockies,9,8
+20120911,Chicago Cubs,Houston Colts,0,1
+20120911,Atlanta Braves,Milwaukee Brewers,0,5
+20120911,Washington Nationals,New York Mets,5,3
+20120911,Miami Marlins,Philadelpia Phillies,7,9
+20120911,St. Louis Cardinals,San Diego Padres,4,6
+20120912,Oakland Athletics,Anaheim Angels,4,1
+20120912,Tampa Bay Devil Rays,Baltimore Orioles,2,3
+20120912,New York Yankees,Boston Red Sox,5,4
+20120912,Detroit Tigers,Chicago White Sox,8,6
+20120912,Kansas City Royals,Minensota Twins,10,5
+20120912,Cleveland Indians,Texas Rangers,2,5
+20120912,Seattle Mariners,Toronto Blue Jays,3,2
+20120912,Los Angeles Dodgers,Arizona Diamondbacks,2,3
+20120912,Pittsburgh Pirates,Cincinnati Reds,1,2
+20120912,San  Francisco Giants,Colorado Rockies,8,3
+20120912,Chicago Cubs,Houston Colts,5,1
+20120912,Atlanta Braves,Milwaukee Brewers,2,8
+20120912,Washington Nationals,New York Mets,2,0
+20120912,Miami Marlins,Philadelpia Phillies,1,3
+20120912,St. Louis Cardinals,San Diego Padres,2,3
+20120913,Oakland Athletics,Anaheim Angels,0,6
+20120913,Tampa Bay Devil Rays,Baltimore Orioles,2,3
+20120913,New York Yankees,Boston Red Sox,2,0
+20120913,Kansas City Royals,Minensota Twins,3,4
+20120913,Cleveland Indians,Texas Rangers,5,4
+20120913,Seattle Mariners,Toronto Blue Jays,3,8
+20120913,Philadelpia Phillies,Houston Colts,4,6
+20120913,St. Louis Cardinals,Los Angeles Dodgers,2,1
+20120914,Detroit Tigers,Cleveland Indians,4,0
+20120914,Anaheim Angels,Kansas City Royals,9,7
+20120914,Chicago White Sox,Minensota Twins,6,0
+20120914,Tampa Bay Devil Rays,New York Yankees,6,4
+20120914,Baltimore Orioles,Oakland Athletics,2,3
+20120914,Seattle Mariners,Texas Rangers,3,9
+20120914,Boston Red Sox,Toronto Blue Jays,8,5
+20120914,San  Francisco Giants,Arizona Diamondbacks,6,2
+20120914,Washington Nationals,Atlanta Braves,1,2
+20120914,Pittsburgh Pirates,Chicago Cubs,4,7
+20120914,Philadelpia Phillies,Houston Colts,12,6
+20120914,St. Louis Cardinals,Los Angeles Dodgers,5,8
+20120914,Cincinnati Reds,Miami Marlins,0,4
+20120914,New York Mets,Milwaukee Brewers,7,3
+20120914,Colorado Rockies,San Diego Padres,7,4
+20120915,Detroit Tigers,Cleveland Indians,5,3
+20120915,Anaheim Angels,Kansas City Royals,2,3
+20120915,Chicago White Sox,Minensota Twins,5,3
+20120915,Tampa Bay Devil Rays,New York Yankees,3,5
+20120915,Baltimore Orioles,Oakland Athletics,2,5
+20120915,Seattle Mariners,Texas Rangers,8,6
+20120915,Boston Red Sox,Toronto Blue Jays,3,2
+20120915,San  Francisco Giants,Arizona Diamondbacks,3,2
+20120915,Washington Nationals,Atlanta Braves,4,5
+20120915,Pittsburgh Pirates,Chicago Cubs,7,6
+20120915,Philadelpia Phillies,Houston Colts,0,5
+20120915,St. Louis Cardinals,Los Angeles Dodgers,3,4
+20120915,Cincinnati Reds,Miami Marlins,4,6
+20120915,New York Mets,Milwaukee Brewers,6,9
+20120915,Colorado Rockies,San Diego Padres,3,4
+20120916,Detroit Tigers,Cleveland Indians,6,7
+20120916,Anaheim Angels,Kansas City Royals,4,3
+20120916,Chicago White Sox,Minensota Twins,9,2
+20120916,Tampa Bay Devil Rays,New York Yankees,4,6
+20120916,Baltimore Orioles,Oakland Athletics,9,5
+20120916,Seattle Mariners,Texas Rangers,1,2
+20120916,Boston Red Sox,Toronto Blue Jays,0,5
+20120916,San  Francisco Giants,Arizona Diamondbacks,2,10
+20120916,Washington Nationals,Atlanta Braves,1,5
+20120916,Pittsburgh Pirates,Chicago Cubs,9,13
+20120916,Philadelpia Phillies,Houston Colts,6,7
+20120916,St. Louis Cardinals,Los Angeles Dodgers,5,2
+20120916,Cincinnati Reds,Miami Marlins,5,4
+20120916,New York Mets,Milwaukee Brewers,0,3
+20120916,Colorado Rockies,San Diego Padres,11,12
+20120917,Detroit Tigers,Chicago White Sox,4,5
+20120917,Baltimore Orioles,Seattle Mariners,10,4
+20120917,Boston Red Sox,Tampa Bay Devil Rays,5,2
+20120917,Pittsburgh Pirates,Chicago Cubs,3,0
+20120917,Atlanta Braves,Miami Marlins,7,5
+20120917,Philadelpia Phillies,New York Mets,3,1
+20120917,Colorado Rockies,San  Francisco Giants,1,2
+20120918,Texas Rangers,Anaheim Angels,3,11
+20120918,Minensota Twins,Cleveland Indians,6,5
+20120918,Oakland Athletics,Detroit Tigers,2,12
+20120918,Chicago White Sox,Kansas City Royals,3,2
+20120918,Baltimore Orioles,Seattle Mariners,4,2
+20120918,Boston Red Sox,Tampa Bay Devil Rays,7,5
+20120918,San Diego Padres,Arizona Diamondbacks,2,3
+20120918,Cincinnati Reds,Chicago Cubs,3,1
+20120918,Atlanta Braves,Miami Marlins,3,4
+20120918,Milwaukee Brewers,Pittsburgh Pirates,6,0
+20120918,Colorado Rockies,San  Francisco Giants,3,6
+20120918,Houston Colts,St. Louis Cardinals,1,4
+20120919,Texas Rangers,Anaheim Angels,6,2
+20120919,Minensota Twins,Cleveland Indians,6,4
+20120919,Oakland Athletics,Detroit Tigers,2,6
+20120919,Chicago White Sox,Kansas City Royals,0,3
+20120919,Toronto Blue Jays,New York Yankees,2,4
+20120919,Toronto Blue Jays,New York Yankees,1,2
+20120919,Baltimore Orioles,Seattle Mariners,3,1
+20120919,Boston Red Sox,Tampa Bay Devil Rays,3,13
+20120919,San Diego Padres,Arizona Diamondbacks,2,6
+20120919,Cincinnati Reds,Chicago Cubs,6,5
+20120919,Atlanta Braves,Miami Marlins,3,0
+20120919,Philadelpia Phillies,New York Mets,3,2
+20120919,Milwaukee Brewers,Pittsburgh Pirates,3,1
+20120919,Colorado Rockies,San  Francisco Giants,1,7
+20120919,Houston Colts,St. Louis Cardinals,0,5
+20120919,Los Angeles Dodgers,Washington Nationals,1,3
+20120919,Los Angeles Dodgers,Washington Nationals,7,6
+20120920,Texas Rangers,Anaheim Angels,3,1
+20120920,Minensota Twins,Cleveland Indians,3,4
+20120920,Oakland Athletics,Detroit Tigers,12,4
+20120920,Chicago White Sox,Kansas City Royals,3,4
+20120920,Toronto Blue Jays,New York Yankees,7,10
+20120920,Boston Red Sox,Tampa Bay Devil Rays,4,7
+20120920,San Diego Padres,Arizona Diamondbacks,6,5
+20120920,Cincinnati Reds,Chicago Cubs,5,3
+20120920,Philadelpia Phillies,New York Mets,16,1
+20120920,Milwaukee Brewers,Pittsburgh Pirates,9,7
+20120920,Colorado Rockies,San  Francisco Giants,2,9
+20120920,Houston Colts,St. Louis Cardinals,4,5
+20120920,Los Angeles Dodgers,Washington Nationals,1,4
+20120921,Chicago White Sox,Anaheim Angels,2,6
+20120921,Baltimore Orioles,Boston Red Sox,4,2
+20120921,Cleveland Indians,Kansas City Royals,3,6
+20120921,Oakland Athletics,New York Yankees,1,2
+20120921,Texas Rangers,Seattle Mariners,3,6
+20120921,Toronto Blue Jays,Tampa Bay Devil Rays,1,12
+20120921,St. Louis Cardinals,Chicago Cubs,4,5
+20120921,Los Angeles Dodgers,Cincinnati Reds,3,1
+20120921,Arizona Diamondbacks,Colorado Rockies,15,5
+20120921,Pittsburgh Pirates,Houston Colts,1,7
+20120921,Miami Marlins,New York Mets,3,7
+20120921,Atlanta Braves,Philadelpia Phillies,2,6
+20120921,San Diego Padres,San  Francisco Giants,1,5
+20120921,Milwaukee Brewers,Washington Nationals,4,2
+20120922,Chicago White Sox,Anaheim Angels,2,4
+20120922,Baltimore Orioles,Boston Red Sox,9,6
+20120922,Minensota Twins,Detroit Tigers,0,8
+20120922,Cleveland Indians,Kansas City Royals,3,5
+20120922,Oakland Athletics,New York Yankees,9,10
+20120922,Texas Rangers,Seattle Mariners,0,1
+20120922,Toronto Blue Jays,Tampa Bay Devil Rays,5,11
+20120922,St. Louis Cardinals,Chicago Cubs,5,4
+20120922,Los Angeles Dodgers,Cincinnati Reds,0,6
+20120922,Arizona Diamondbacks,Colorado Rockies,8,7
+20120922,Pittsburgh Pirates,Houston Colts,1,4
+20120922,Miami Marlins,New York Mets,3,4
+20120922,Atlanta Braves,Philadelpia Phillies,8,2
+20120922,San Diego Padres,San  Francisco Giants,4,8
+20120922,Milwaukee Brewers,Washington Nationals,4,10
+20120923,Chicago White Sox,Anaheim Angels,1,4
+20120923,Baltimore Orioles,Boston Red Sox,1,2
+20120923,Minensota Twins,Detroit Tigers,10,4
+20120923,Minensota Twins,Detroit Tigers,2,1
+20120923,Cleveland Indians,Kansas City Royals,15,4
+20120923,Oakland Athletics,New York Yankees,5,4
+20120923,Texas Rangers,Seattle Mariners,3,2
+20120923,Toronto Blue Jays,Tampa Bay Devil Rays,0,3
+20120923,St. Louis Cardinals,Chicago Cubs,6,3
+20120923,Los Angeles Dodgers,Cincinnati Reds,5,3
+20120923,Arizona Diamondbacks,Colorado Rockies,10,7
+20120923,Pittsburgh Pirates,Houston Colts,8,1
+20120923,Miami Marlins,New York Mets,2,3
+20120923,Atlanta Braves,Philadelpia Phillies,2,1
+20120923,San Diego Padres,San  Francisco Giants,6,4
+20120923,Milwaukee Brewers,Washington Nationals,6,2
+20120924,Toronto Blue Jays,Baltimore Orioles,1,4
+20120924,Toronto Blue Jays,Baltimore Orioles,9,5
+20120924,Cleveland Indians,Chicago White Sox,4,5
+20120924,Kansas City Royals,Detroit Tigers,2,6
+20120924,New York Yankees,Minensota Twins,6,3
+20120924,Oakland Athletics,Texas Rangers,4,5
+20120924,Arizona Diamondbacks,Colorado Rockies,2,4
+20120924,St. Louis Cardinals,Houston Colts,6,1
+20120924,Pittsburgh Pirates,New York Mets,2,6
+20120924,Milwaukee Brewers,Washington Nationals,2,12
+20120925,Seattle Mariners,Anaheim Angels,4,5
+20120925,Toronto Blue Jays,Baltimore Orioles,4,0
+20120925,Tampa Bay Devil Rays,Boston Red Sox,5,2
+20120925,Cleveland Indians,Chicago White Sox,4,3
+20120925,Kansas City Royals,Detroit Tigers,0,2
+20120925,New York Yankees,Minensota Twins,4,5
+20120925,Oakland Athletics,Texas Rangers,3,2
+20120925,Miami Marlins,Atlanta Braves,3,4
+20120925,Milwaukee Brewers,Cincinnati Reds,2,4
+20120925,Chicago Cubs,Colorado Rockies,5,10
+20120925,St. Louis Cardinals,Houston Colts,4,0
+20120925,Pittsburgh Pirates,New York Mets,10,6
+20120925,Washington Nationals,Philadelpia Phillies,3,6
+20120925,Los Angeles Dodgers,San Diego Padres,1,2
+20120925,Arizona Diamondbacks,San  Francisco Giants,7,2
+20120926,Seattle Mariners,Anaheim Angels,3,4
+20120926,Toronto Blue Jays,Baltimore Orioles,2,12
+20120926,Tampa Bay Devil Rays,Boston Red Sox,4,2
+20120926,Cleveland Indians,Chicago White Sox,6,4
+20120926,Kansas City Royals,Detroit Tigers,4,5
+20120926,New York Yankees,Minensota Twins,8,2
+20120926,Oakland Athletics,Texas Rangers,9,3
+20120926,Miami Marlins,Atlanta Braves,0,3
+20120926,Milwaukee Brewers,Cincinnati Reds,8,1
+20120926,Chicago Cubs,Colorado Rockies,0,6
+20120926,St. Louis Cardinals,Houston Colts,0,2
+20120926,Pittsburgh Pirates,New York Mets,0,6
+20120926,Washington Nationals,Philadelpia Phillies,8,4
+20120926,Los Angeles Dodgers,San Diego Padres,8,2
+20120926,Arizona Diamondbacks,San  Francisco Giants,0,6
+20120927,Seattle Mariners,Anaheim Angels,9,4
+20120927,Tampa Bay Devil Rays,Chicago White Sox,3,2
+20120927,Kansas City Royals,Detroit Tigers,4,5
+20120927,Oakland Athletics,Texas Rangers,7,9
+20120927,New York Yankees,Toronto Blue Jays,0,6
+20120927,Miami Marlins,Atlanta Braves,2,6
+20120927,Milwaukee Brewers,Cincinnati Reds,1,2
+20120927,Chicago Cubs,Colorado Rockies,5,7
+20120927,Pittsburgh Pirates,New York Mets,5,6
+20120927,Washington Nationals,Philadelpia Phillies,7,3
+20120927,Los Angeles Dodgers,San Diego Padres,8,4
+20120927,Arizona Diamondbacks,San  Francisco Giants,3,7
+20120928,Boston Red Sox,Baltimore Orioles,1,9
+20120928,Tampa Bay Devil Rays,Chicago White Sox,1,3
+20120928,Kansas City Royals,Cleveland Indians,5,8
+20120928,Detroit Tigers,Minensota Twins,2,4
+20120928,Seattle Mariners,Oakland Athletics,2,8
+20120928,Anaheim Angels,Texas Rangers,7,4
+20120928,New York Yankees,Toronto Blue Jays,11,4
+20120928,Chicago Cubs,Arizona Diamondbacks,3,8
+20120928,New York Mets,Atlanta Braves,3,1
+20120928,Colorado Rockies,Los Angeles Dodgers,0,8
+20120928,Philadelpia Phillies,Miami Marlins,1,2
+20120928,Houston Colts,Milwaukee Brewers,7,6
+20120928,Cincinnati Reds,Pittsburgh Pirates,1,0
+20120928,San  Francisco Giants,San Diego Padres,3,1
+20120928,Washington Nationals,St. Louis Cardinals,2,12
+20120929,Boston Red Sox,Baltimore Orioles,3,4
+20120929,Tampa Bay Devil Rays,Chicago White Sox,10,4
+20120929,Kansas City Royals,Cleveland Indians,7,6
+20120929,Detroit Tigers,Minensota Twins,6,4
+20120929,Seattle Mariners,Oakland Athletics,4,7
+20120929,New York Yankees,Toronto Blue Jays,2,3
+20120929,Chicago Cubs,Arizona Diamondbacks,2,8
+20120929,New York Mets,Atlanta Braves,0,2
+20120929,Colorado Rockies,Los Angeles Dodgers,0,3
+20120929,Philadelpia Phillies,Miami Marlins,9,5
+20120929,Houston Colts,Milwaukee Brewers,5,9
+20120929,Cincinnati Reds,Pittsburgh Pirates,1,2
+20120929,San  Francisco Giants,San Diego Padres,3,7
+20120929,Washington Nationals,St. Louis Cardinals,6,4
+20120930,Boston Red Sox,Baltimore Orioles,3,6
+20120930,Tampa Bay Devil Rays,Chicago White Sox,6,2
+20120930,Kansas City Royals,Cleveland Indians,3,15
+20120930,Detroit Tigers,Minensota Twins,2,1
+20120930,Seattle Mariners,Oakland Athletics,2,5
+20120930,Anaheim Angels,Texas Rangers,5,4
+20120930,Anaheim Angels,Texas Rangers,7,8
+20120930,New York Yankees,Toronto Blue Jays,9,6
+20120930,Chicago Cubs,Arizona Diamondbacks,7,2
+20120930,New York Mets,Atlanta Braves,2,6
+20120930,Colorado Rockies,Los Angeles Dodgers,1,7
+20120930,Philadelpia Phillies,Miami Marlins,4,1
+20120930,Houston Colts,Milwaukee Brewers,7,0
+20120930,Cincinnati Reds,Pittsburgh Pirates,4,3
+20120930,San  Francisco Giants,San Diego Padres,7,5
+20120930,Washington Nationals,St. Louis Cardinals,4,10
+20121001,Chicago White Sox,Cleveland Indians,11,0
+20121001,Detroit Tigers,Kansas City Royals,6,3
+20121001,Boston Red Sox,New York Yankees,2,10
+20121001,Texas Rangers,Oakland Athletics,3,4
+20121001,Anaheim Angels,Seattle Mariners,8,4
+20121001,Baltimore Orioles,Tampa Bay Devil Rays,3,5
+20121001,Minensota Twins,Toronto Blue Jays,5,6
+20121001,Colorado Rockies,Arizona Diamondbacks,7,5
+20121001,Houston Colts,Chicago Cubs,3,0
+20121001,San  Francisco Giants,Los Angeles Dodgers,2,3
+20121001,New York Mets,Miami Marlins,2,3
+20121001,San Diego Padres,Milwaukee Brewers,3,5
+20121001,Atlanta Braves,Pittsburgh Pirates,1,2
+20121001,Cincinnati Reds,St. Louis Cardinals,2,4
+20121001,Philadelpia Phillies,Washington Nationals,2,0
+20121002,Chicago White Sox,Cleveland Indians,3,4
+20121002,Detroit Tigers,Kansas City Royals,2,4
+20121002,Boston Red Sox,New York Yankees,3,4
+20121002,Texas Rangers,Oakland Athletics,1,3
+20121002,Anaheim Angels,Seattle Mariners,1,6
+20121002,Baltimore Orioles,Tampa Bay Devil Rays,1,0
+20121002,Minensota Twins,Toronto Blue Jays,3,4
+20121002,Colorado Rockies,Arizona Diamondbacks,3,5
+20121002,Houston Colts,Chicago Cubs,3,0
+20121002,San  Francisco Giants,Los Angeles Dodgers,4,3
+20121002,New York Mets,Miami Marlins,3,4
+20121002,San Diego Padres,Milwaukee Brewers,3,4
+20121002,Atlanta Braves,Pittsburgh Pirates,1,5
+20121002,Cincinnati Reds,St. Louis Cardinals,3,1
+20121002,Philadelpia Phillies,Washington Nationals,2,4
+20121003,Chicago White Sox,Cleveland Indians,9,0
+20121003,Detroit Tigers,Kansas City Royals,1,0
+20121003,Boston Red Sox,New York Yankees,2,14
+20121003,Texas Rangers,Oakland Athletics,5,12
+20121003,Anaheim Angels,Seattle Mariners,0,12
+20121003,Baltimore Orioles,Tampa Bay Devil Rays,1,4
+20121003,Minensota Twins,Toronto Blue Jays,1,2
+20121003,Colorado Rockies,Arizona Diamondbacks,2,1
+20121003,Houston Colts,Chicago Cubs,4,5
+20121003,San  Francisco Giants,Los Angeles Dodgers,1,5
+20121003,New York Mets,Miami Marlins,4,2
+20121003,San Diego Padres,Milwaukee Brewers,7,6
+20121003,Atlanta Braves,Pittsburgh Pirates,4,0
+20121003,Cincinnati Reds,St. Louis Cardinals,0,1
+20121003,Philadelpia Phillies,Washington Nationals,1,5

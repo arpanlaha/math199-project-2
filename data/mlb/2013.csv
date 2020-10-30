@@ -1,0 +1,2432 @@
+Date,away_team,home_team,away_team_score,home_team_score
+20130331,Texas Rangers,Houston Colts,2,8
+20130401,Kansas City Royals,Chicago White Sox,0,1
+20130401,Detroit Tigers,Minensota Twins,4,2
+20130401,Boston Red Sox,New York Yankees,8,2
+20130401,Seattle Mariners,Oakland Athletics,2,0
+20130401,St. Louis Cardinals,Arizona Diamondbacks,2,6
+20130401,Philadelpia Phillies,Atlanta Braves,5,7
+20130401,Anaheim Angels,Cincinnati Reds,3,1
+20130401,San  Francisco Giants,Los Angeles Dodgers,0,4
+20130401,Colorado Rockies,Milwaukee Brewers,4,5
+20130401,San Diego Padres,New York Mets,2,11
+20130401,Chicago Cubs,Pittsburgh Pirates,3,1
+20130401,Miami Marlins,Washington Nationals,0,2
+20130402,Texas Rangers,Houston Colts,7,0
+20130402,Seattle Mariners,Oakland Athletics,7,1
+20130402,Baltimore Orioles,Tampa Bay Devil Rays,7,4
+20130402,Cleveland Indians,Toronto Blue Jays,4,1
+20130402,St. Louis Cardinals,Arizona Diamondbacks,6,1
+20130402,San  Francisco Giants,Los Angeles Dodgers,3,0
+20130402,Colorado Rockies,Milwaukee Brewers,8,4
+20130403,Kansas City Royals,Chicago White Sox,2,5
+20130403,Texas Rangers,Houston Colts,4,0
+20130403,Detroit Tigers,Minensota Twins,2,3
+20130403,Boston Red Sox,New York Yankees,7,4
+20130403,Seattle Mariners,Oakland Athletics,2,6
+20130403,Baltimore Orioles,Tampa Bay Devil Rays,7,8
+20130403,Cleveland Indians,Toronto Blue Jays,3,2
+20130403,St. Louis Cardinals,Arizona Diamondbacks,9,10
+20130403,Philadelpia Phillies,Atlanta Braves,2,9
+20130403,Anaheim Angels,Cincinnati Reds,4,5
+20130403,San  Francisco Giants,Los Angeles Dodgers,5,3
+20130403,Colorado Rockies,Milwaukee Brewers,7,3
+20130403,San Diego Padres,New York Mets,4,8
+20130403,Chicago Cubs,Pittsburgh Pirates,0,3
+20130403,Miami Marlins,Washington Nationals,0,3
+20130404,Kansas City Royals,Chicago White Sox,3,1
+20130404,Detroit Tigers,Minensota Twins,2,8
+20130404,Boston Red Sox,New York Yankees,2,4
+20130404,Seattle Mariners,Oakland Athletics,2,8
+20130404,Baltimore Orioles,Tampa Bay Devil Rays,6,3
+20130404,Cleveland Indians,Toronto Blue Jays,8,10
+20130404,Philadelpia Phillies,Atlanta Braves,2,0
+20130404,Anaheim Angels,Cincinnati Reds,4,5
+20130404,San Diego Padres,New York Mets,2,1
+20130404,Chicago Cubs,Pittsburgh Pirates,3,2
+20130404,Miami Marlins,Washington Nationals,1,6
+20130405,Minensota Twins,Baltimore Orioles,5,9
+20130405,Seattle Mariners,Chicago White Sox,8,7
+20130405,New York Yankees,Detroit Tigers,3,8
+20130405,Oakland Athletics,Houston Colts,8,3
+20130405,Cleveland Indians,Tampa Bay Devil Rays,0,4
+20130405,Anaheim Angels,Texas Rangers,2,3
+20130405,Boston Red Sox,Toronto Blue Jays,6,4
+20130405,Chicago Cubs,Atlanta Braves,1,4
+20130405,Washington Nationals,Cincinnati Reds,0,15
+20130405,San Diego Padres,Colorado Rockies,2,5
+20130405,Pittsburgh Pirates,Los Angeles Dodgers,0,3
+20130405,Arizona Diamondbacks,Milwaukee Brewers,3,1
+20130405,Miami Marlins,New York Mets,7,5
+20130405,Kansas City Royals,Philadelpia Phillies,13,4
+20130405,St. Louis Cardinals,San  Francisco Giants,0,1
+20130406,Minensota Twins,Baltimore Orioles,6,5
+20130406,Seattle Mariners,Chicago White Sox,3,4
+20130406,New York Yankees,Detroit Tigers,4,8
+20130406,Oakland Athletics,Houston Colts,6,3
+20130406,Cleveland Indians,Tampa Bay Devil Rays,0,6
+20130406,Anaheim Angels,Texas Rangers,8,4
+20130406,Boston Red Sox,Toronto Blue Jays,0,5
+20130406,Chicago Cubs,Atlanta Braves,5,6
+20130406,Washington Nationals,Cincinnati Reds,7,6
+20130406,San Diego Padres,Colorado Rockies,3,6
+20130406,Pittsburgh Pirates,Los Angeles Dodgers,0,1
+20130406,Arizona Diamondbacks,Milwaukee Brewers,9,2
+20130406,Miami Marlins,New York Mets,3,7
+20130406,Kansas City Royals,Philadelpia Phillies,3,4
+20130406,St. Louis Cardinals,San  Francisco Giants,6,3
+20130407,Minensota Twins,Baltimore Orioles,4,3
+20130407,Seattle Mariners,Chicago White Sox,3,4
+20130407,New York Yankees,Detroit Tigers,7,0
+20130407,Oakland Athletics,Houston Colts,9,3
+20130407,Cleveland Indians,Tampa Bay Devil Rays,13,0
+20130407,Anaheim Angels,Texas Rangers,3,7
+20130407,Boston Red Sox,Toronto Blue Jays,13,0
+20130407,Chicago Cubs,Atlanta Braves,1,5
+20130407,Washington Nationals,Cincinnati Reds,3,6
+20130407,San Diego Padres,Colorado Rockies,1,9
+20130407,Pittsburgh Pirates,Los Angeles Dodgers,2,6
+20130407,Arizona Diamondbacks,Milwaukee Brewers,8,7
+20130407,Miami Marlins,New York Mets,3,4
+20130407,Kansas City Royals,Philadelpia Phillies,9,8
+20130407,St. Louis Cardinals,San  Francisco Giants,14,3
+20130408,Baltimore Orioles,Boston Red Sox,1,3
+20130408,New York Yankees,Cleveland Indians,11,6
+20130408,Minensota Twins,Kansas City Royals,1,3
+20130408,Houston Colts,Seattle Mariners,0,3
+20130408,Tampa Bay Devil Rays,Texas Rangers,4,5
+20130408,Pittsburgh Pirates,Arizona Diamondbacks,5,3
+20130408,Milwaukee Brewers,Chicago Cubs,7,4
+20130408,Atlanta Braves,Miami Marlins,2,0
+20130408,New York Mets,Philadelpia Phillies,7,2
+20130408,Colorado Rockies,San  Francisco Giants,2,4
+20130408,Cincinnati Reds,St. Louis Cardinals,13,4
+20130409,Oakland Athletics,Anaheim Angels,9,5
+20130409,New York Yankees,Cleveland Indians,14,1
+20130409,Toronto Blue Jays,Detroit Tigers,3,7
+20130409,Minensota Twins,Kansas City Royals,4,7
+20130409,Houston Colts,Seattle Mariners,16,9
+20130409,Tampa Bay Devil Rays,Texas Rangers,1,6
+20130409,Pittsburgh Pirates,Arizona Diamondbacks,6,5
+20130409,Milwaukee Brewers,Chicago Cubs,3,6
+20130409,Atlanta Braves,Miami Marlins,3,2
+20130409,New York Mets,Philadelpia Phillies,3,8
+20130409,Los Angeles Dodgers,San Diego Padres,3,9
+20130409,Colorado Rockies,San  Francisco Giants,6,9
+20130409,Cincinnati Reds,St. Louis Cardinals,1,5
+20130409,Chicago White Sox,Washington Nationals,7,8
+20130410,Oakland Athletics,Anaheim Angels,11,5
+20130410,Baltimore Orioles,Boston Red Sox,8,5
+20130410,Toronto Blue Jays,Detroit Tigers,8,6
+20130410,Minensota Twins,Kansas City Royals,0,3
+20130410,Houston Colts,Seattle Mariners,8,3
+20130410,Tampa Bay Devil Rays,Texas Rangers,2,0
+20130410,Pittsburgh Pirates,Arizona Diamondbacks,2,10
+20130410,Atlanta Braves,Miami Marlins,8,0
+20130410,New York Mets,Philadelpia Phillies,3,7
+20130410,Los Angeles Dodgers,San Diego Padres,4,3
+20130410,Colorado Rockies,San  Francisco Giants,0,10
+20130410,Cincinnati Reds,St. Louis Cardinals,0,10
+20130410,Chicago White Sox,Washington Nationals,2,5
+20130411,Oakland Athletics,Anaheim Angels,8,1
+20130411,Baltimore Orioles,Boston Red Sox,3,2
+20130411,Toronto Blue Jays,Detroit Tigers,1,11
+20130411,Texas Rangers,Seattle Mariners,4,3
+20130411,San  Francisco Giants,Chicago Cubs,7,6
+20130411,Los Angeles Dodgers,San Diego Padres,3,2
+20130411,Chicago White Sox,Washington Nationals,4,7
+20130412,Houston Colts,Anaheim Angels,5,0
+20130412,Chicago White Sox,Cleveland Indians,0,1
+20130412,Toronto Blue Jays,Kansas City Royals,8,4
+20130412,New York Mets,Minensota Twins,16,5
+20130412,Baltimore Orioles,New York Yankees,2,5
+20130412,Detroit Tigers,Oakland Athletics,3,4
+20130412,Texas Rangers,Seattle Mariners,1,3
+20130412,Los Angeles Dodgers,Arizona Diamondbacks,0,3
+20130412,San  Francisco Giants,Chicago Cubs,3,4
+20130412,Philadelpia Phillies,Miami Marlins,3,1
+20130412,Cincinnati Reds,Pittsburgh Pirates,5,6
+20130412,Colorado Rockies,San Diego Padres,7,5
+20130412,Milwaukee Brewers,St. Louis Cardinals,0,2
+20130412,Atlanta Braves,Washington Nationals,6,4
+20130413,Houston Colts,Anaheim Angels,4,5
+20130413,Tampa Bay Devil Rays,Boston Red Sox,1,2
+20130413,Chicago White Sox,Cleveland Indians,4,9
+20130413,Toronto Blue Jays,Kansas City Royals,3,2
+20130413,New York Mets,Minensota Twins,4,2
+20130413,Baltimore Orioles,New York Yankees,5,3
+20130413,Detroit Tigers,Oakland Athletics,7,3
+20130413,Texas Rangers,Seattle Mariners,3,1
+20130413,Los Angeles Dodgers,Arizona Diamondbacks,7,5
+20130413,San  Francisco Giants,Chicago Cubs,3,2
+20130413,Philadelpia Phillies,Miami Marlins,1,2
+20130413,Cincinnati Reds,Pittsburgh Pirates,1,3
+20130413,Colorado Rockies,San Diego Padres,9,5
+20130413,Milwaukee Brewers,St. Louis Cardinals,0,8
+20130413,Atlanta Braves,Washington Nationals,3,1
+20130414,Houston Colts,Anaheim Angels,1,4
+20130414,Tampa Bay Devil Rays,Boston Red Sox,0,5
+20130414,Chicago White Sox,Cleveland Indians,3,1
+20130414,Toronto Blue Jays,Kansas City Royals,2,3
+20130414,Baltimore Orioles,New York Yankees,0,3
+20130414,Detroit Tigers,Oakland Athletics,10,1
+20130414,Texas Rangers,Seattle Mariners,3,4
+20130414,Los Angeles Dodgers,Arizona Diamondbacks,0,1
+20130414,San  Francisco Giants,Chicago Cubs,10,7
+20130414,Philadelpia Phillies,Miami Marlins,2,1
+20130414,Cincinnati Reds,Pittsburgh Pirates,7,10
+20130414,Colorado Rockies,San Diego Padres,2,1
+20130414,Milwaukee Brewers,St. Louis Cardinals,4,3
+20130414,Atlanta Braves,Washington Nationals,9,0
+20130415,Tampa Bay Devil Rays,Boston Red Sox,2,3
+20130415,Anaheim Angels,Minensota Twins,2,8
+20130415,Houston Colts,Oakland Athletics,2,11
+20130415,Chicago White Sox,Toronto Blue Jays,3,4
+20130415,Philadelpia Phillies,Cincinnati Reds,2,4
+20130415,San Diego Padres,Los Angeles Dodgers,6,3
+20130415,Washington Nationals,Miami Marlins,10,3
+20130415,St. Louis Cardinals,Pittsburgh Pirates,10,6
+20130416,Tampa Bay Devil Rays,Baltimore Orioles,4,5
+20130416,Boston Red Sox,Cleveland Indians,7,2
+20130416,Anaheim Angels,Minensota Twins,6,8
+20130416,Arizona Diamondbacks,New York Yankees,2,4
+20130416,Houston Colts,Oakland Athletics,3,4
+20130416,Detroit Tigers,Seattle Mariners,6,2
+20130416,Chicago White Sox,Toronto Blue Jays,4,3
+20130416,Kansas City Royals,Atlanta Braves,3,6
+20130416,Texas Rangers,Chicago Cubs,4,2
+20130416,Philadelpia Phillies,Cincinnati Reds,0,1
+20130416,New York Mets,Colorado Rockies,4,8
+20130416,New York Mets,Colorado Rockies,8,9
+20130416,San Diego Padres,Los Angeles Dodgers,9,2
+20130416,Washington Nationals,Miami Marlins,2,8
+20130416,San  Francisco Giants,Milwaukee Brewers,8,10
+20130417,Tampa Bay Devil Rays,Baltimore Orioles,6,2
+20130417,Boston Red Sox,Cleveland Indians,6,3
+20130417,Arizona Diamondbacks,New York Yankees,3,4
+20130417,Houston Colts,Oakland Athletics,5,7
+20130417,Detroit Tigers,Seattle Mariners,2,1
+20130417,Chicago White Sox,Toronto Blue Jays,7,0
+20130417,Kansas City Royals,Atlanta Braves,1,0
+20130417,Philadelpia Phillies,Cincinnati Reds,2,11
+20130417,San Diego Padres,Los Angeles Dodgers,7,2
+20130417,Washington Nationals,Miami Marlins,6,1
+20130417,San  Francisco Giants,Milwaukee Brewers,3,4
+20130417,St. Louis Cardinals,Pittsburgh Pirates,0,5
+20130418,Tampa Bay Devil Rays,Baltimore Orioles,6,10
+20130418,Boston Red Sox,Cleveland Indians,6,3
+20130418,Arizona Diamondbacks,New York Yankees,6,2
+20130418,Detroit Tigers,Seattle Mariners,0,2
+20130418,Chicago White Sox,Toronto Blue Jays,1,3
+20130418,Texas Rangers,Chicago Cubs,2,6
+20130418,Miami Marlins,Cincinnati Reds,1,11
+20130418,New York Mets,Colorado Rockies,3,11
+20130418,San  Francisco Giants,Milwaukee Brewers,2,7
+20130418,St. Louis Cardinals,Philadelpia Phillies,4,3
+20130418,Atlanta Braves,Pittsburgh Pirates,6,4
+20130419,Detroit Tigers,Anaheim Angels,1,8
+20130419,Cleveland Indians,Houston Colts,2,3
+20130419,Oakland Athletics,Tampa Bay Devil Rays,3,8
+20130419,Seattle Mariners,Texas Rangers,0,7
+20130419,New York Yankees,Toronto Blue Jays,9,4
+20130419,Miami Marlins,Cincinnati Reds,2,1
+20130419,Arizona Diamondbacks,Colorado Rockies,1,3
+20130419,Chicago Cubs,Milwaukee Brewers,4,5
+20130419,Washington Nationals,New York Mets,1,7
+20130419,St. Louis Cardinals,Philadelpia Phillies,2,8
+20130419,Atlanta Braves,Pittsburgh Pirates,0,6
+20130419,San Diego Padres,San  Francisco Giants,2,3
+20130420,Detroit Tigers,Anaheim Angels,0,10
+20130420,Los Angeles Dodgers,Baltimore Orioles,5,7
+20130420,Los Angeles Dodgers,Baltimore Orioles,1,6
+20130420,Kansas City Royals,Boston Red Sox,3,4
+20130420,Minensota Twins,Chicago White Sox,2,1
+20130420,Cleveland Indians,Houston Colts,19,6
+20130420,Oakland Athletics,Tampa Bay Devil Rays,0,1
+20130420,Seattle Mariners,Texas Rangers,0,5
+20130420,New York Yankees,Toronto Blue Jays,5,3
+20130420,Miami Marlins,Cincinnati Reds,2,3
+20130420,Arizona Diamondbacks,Colorado Rockies,3,4
+20130420,Chicago Cubs,Milwaukee Brewers,1,5
+20130420,Washington Nationals,New York Mets,7,6
+20130420,St. Louis Cardinals,Philadelpia Phillies,5,0
+20130420,Atlanta Braves,Pittsburgh Pirates,1,3
+20130420,San Diego Padres,San  Francisco Giants,0,2
+20130421,Detroit Tigers,Anaheim Angels,3,4
+20130421,Los Angeles Dodgers,Baltimore Orioles,7,4
+20130421,Kansas City Royals,Boston Red Sox,4,2
+20130421,Kansas City Royals,Boston Red Sox,5,4
+20130421,Minensota Twins,Chicago White Sox,5,3
+20130421,Cleveland Indians,Houston Colts,5,4
+20130421,Oakland Athletics,Tampa Bay Devil Rays,1,8
+20130421,Seattle Mariners,Texas Rangers,3,11
+20130421,New York Yankees,Toronto Blue Jays,4,8
+20130421,Miami Marlins,Cincinnati Reds,6,10
+20130421,Arizona Diamondbacks,Colorado Rockies,5,4
+20130421,Chicago Cubs,Milwaukee Brewers,2,4
+20130421,Washington Nationals,New York Mets,0,2
+20130421,St. Louis Cardinals,Philadelpia Phillies,3,7
+20130421,Atlanta Braves,Pittsburgh Pirates,2,4
+20130421,San Diego Padres,San  Francisco Giants,0,5
+20130422,Texas Rangers,Anaheim Angels,7,6
+20130422,Toronto Blue Jays,Baltimore Orioles,1,2
+20130422,Oakland Athletics,Boston Red Sox,6,9
+20130422,Cleveland Indians,Chicago White Sox,3,2
+20130422,Seattle Mariners,Houston Colts,7,1
+20130422,New York Yankees,Tampa Bay Devil Rays,1,5
+20130422,Chicago Cubs,Cincinnati Reds,4,5
+20130422,Pittsburgh Pirates,Philadelpia Phillies,2,3
+20130422,Milwaukee Brewers,San Diego Padres,7,1
+20130422,Arizona Diamondbacks,San  Francisco Giants,4,5
+20130422,St. Louis Cardinals,Washington Nationals,3,2
+20130423,Texas Rangers,Anaheim Angels,4,5
+20130423,Toronto Blue Jays,Baltimore Orioles,3,4
+20130423,Oakland Athletics,Boston Red Sox,13,0
+20130423,Seattle Mariners,Houston Colts,2,3
+20130423,Miami Marlins,Minensota Twins,3,4
+20130423,Miami Marlins,Minensota Twins,8,5
+20130423,New York Yankees,Tampa Bay Devil Rays,4,3
+20130423,Chicago Cubs,Cincinnati Reds,4,2
+20130423,Atlanta Braves,Colorado Rockies,4,3
+20130423,Atlanta Braves,Colorado Rockies,10,2
+20130423,Los Angeles Dodgers,New York Mets,7,2
+20130423,Pittsburgh Pirates,Philadelpia Phillies,2,0
+20130423,Milwaukee Brewers,San Diego Padres,6,3
+20130423,Arizona Diamondbacks,San  Francisco Giants,6,4
+20130423,St. Louis Cardinals,Washington Nationals,2,0
+20130424,Texas Rangers,Anaheim Angels,11,3
+20130424,Toronto Blue Jays,Baltimore Orioles,6,5
+20130424,Oakland Athletics,Boston Red Sox,5,6
+20130424,Cleveland Indians,Chicago White Sox,2,3
+20130424,Kansas City Royals,Detroit Tigers,5,7
+20130424,Seattle Mariners,Houston Colts,3,10
+20130424,New York Yankees,Tampa Bay Devil Rays,0,3
+20130424,Chicago Cubs,Cincinnati Reds,0,1
+20130424,Atlanta Braves,Colorado Rockies,5,6
+20130424,Los Angeles Dodgers,New York Mets,3,7
+20130424,Pittsburgh Pirates,Philadelpia Phillies,5,3
+20130424,Milwaukee Brewers,San Diego Padres,1,2
+20130424,Arizona Diamondbacks,San  Francisco Giants,3,2
+20130424,St. Louis Cardinals,Washington Nationals,4,2
+20130425,Houston Colts,Boston Red Sox,2,7
+20130425,Tampa Bay Devil Rays,Chicago White Sox,2,5
+20130425,Kansas City Royals,Detroit Tigers,8,3
+20130425,Texas Rangers,Minensota Twins,2,1
+20130425,Toronto Blue Jays,New York Yankees,3,5
+20130425,Baltimore Orioles,Oakland Athletics,10,2
+20130425,Anaheim Angels,Seattle Mariners,0,6
+20130425,Colorado Rockies,Arizona Diamondbacks,2,3
+20130425,Chicago Cubs,Miami Marlins,4,3
+20130425,Los Angeles Dodgers,New York Mets,3,2
+20130425,Pittsburgh Pirates,Philadelpia Phillies,6,4
+20130425,Cincinnati Reds,Washington Nationals,1,8
+20130426,Houston Colts,Boston Red Sox,3,7
+20130426,Tampa Bay Devil Rays,Chicago White Sox,4,5
+20130426,Atlanta Braves,Detroit Tigers,0,10
+20130426,Texas Rangers,Minensota Twins,4,3
+20130426,Toronto Blue Jays,New York Yankees,4,6
+20130426,Baltimore Orioles,Oakland Athletics,3,0
+20130426,Anaheim Angels,Seattle Mariners,6,3
+20130426,Colorado Rockies,Arizona Diamondbacks,6,3
+20130426,Milwaukee Brewers,Los Angeles Dodgers,5,7
+20130426,Chicago Cubs,Miami Marlins,4,2
+20130426,Philadelpia Phillies,New York Mets,4,0
+20130426,San  Francisco Giants,San Diego Padres,1,2
+20130426,Pittsburgh Pirates,St. Louis Cardinals,1,9
+20130426,Cincinnati Reds,Washington Nationals,0,1
+20130427,Houston Colts,Boston Red Sox,4,8
+20130427,Tampa Bay Devil Rays,Chicago White Sox,10,4
+20130427,Atlanta Braves,Detroit Tigers,4,7
+20130427,Cleveland Indians,Kansas City Royals,2,3
+20130427,Texas Rangers,Minensota Twins,2,7
+20130427,Toronto Blue Jays,New York Yankees,4,5
+20130427,Baltimore Orioles,Oakland Athletics,7,3
+20130427,Anaheim Angels,Seattle Mariners,2,3
+20130427,Colorado Rockies,Arizona Diamondbacks,2,3
+20130427,Milwaukee Brewers,Los Angeles Dodgers,6,4
+20130427,Chicago Cubs,Miami Marlins,3,2
+20130427,Philadelpia Phillies,New York Mets,9,4
+20130427,San  Francisco Giants,San Diego Padres,7,8
+20130427,Pittsburgh Pirates,St. Louis Cardinals,5,3
+20130427,Cincinnati Reds,Washington Nationals,3,6
+20130428,Houston Colts,Boston Red Sox,1,6
+20130428,Tampa Bay Devil Rays,Chicago White Sox,8,3
+20130428,Atlanta Braves,Detroit Tigers,3,8
+20130428,Cleveland Indians,Kansas City Royals,0,9
+20130428,Cleveland Indians,Kansas City Royals,10,3
+20130428,Texas Rangers,Minensota Twins,0,5
+20130428,Toronto Blue Jays,New York Yankees,2,3
+20130428,Baltimore Orioles,Oakland Athletics,8,9
+20130428,Anaheim Angels,Seattle Mariners,1,2
+20130428,Colorado Rockies,Arizona Diamondbacks,2,4
+20130428,Milwaukee Brewers,Los Angeles Dodgers,0,2
+20130428,Chicago Cubs,Miami Marlins,4,6
+20130428,Philadelpia Phillies,New York Mets,5,1
+20130428,San  Francisco Giants,San Diego Padres,4,6
+20130428,Pittsburgh Pirates,St. Louis Cardinals,9,0
+20130428,Cincinnati Reds,Washington Nationals,5,2
+20130429,Minensota Twins,Detroit Tigers,3,4
+20130429,Cleveland Indians,Kansas City Royals,9,0
+20130429,Houston Colts,New York Yankees,9,1
+20130429,Anaheim Angels,Oakland Athletics,8,10
+20130429,Baltimore Orioles,Seattle Mariners,2,6
+20130429,San  Francisco Giants,Arizona Diamondbacks,6,4
+20130429,Washington Nationals,Atlanta Braves,2,3
+20130429,San Diego Padres,Chicago Cubs,3,5
+20130429,Colorado Rockies,Los Angeles Dodgers,12,2
+20130429,New York Mets,Miami Marlins,3,4
+20130429,Pittsburgh Pirates,Milwaukee Brewers,4,10
+20130429,Cincinnati Reds,St. Louis Cardinals,2,1
+20130430,Philadelpia Phillies,Cleveland Indians,2,14
+20130430,Minensota Twins,Detroit Tigers,1,6
+20130430,Tampa Bay Devil Rays,Kansas City Royals,2,8
+20130430,Houston Colts,New York Yankees,4,7
+20130430,Anaheim Angels,Oakland Athletics,6,10
+20130430,Baltimore Orioles,Seattle Mariners,7,2
+20130430,Chicago White Sox,Texas Rangers,6,10
+20130430,Boston Red Sox,Toronto Blue Jays,7,9
+20130430,San  Francisco Giants,Arizona Diamondbacks,2,1
+20130430,Washington Nationals,Atlanta Braves,1,8
+20130430,San Diego Padres,Chicago Cubs,13,7
+20130430,Colorado Rockies,Los Angeles Dodgers,2,6
+20130430,New York Mets,Miami Marlins,1,2
+20130430,Pittsburgh Pirates,Milwaukee Brewers,8,12
+20130430,Cincinnati Reds,St. Louis Cardinals,1,2
+20130501,Philadelpia Phillies,Cleveland Indians,0,6
+20130501,Minensota Twins,Detroit Tigers,6,2
+20130501,Tampa Bay Devil Rays,Kansas City Royals,8,9
+20130501,Houston Colts,New York Yankees,4,5
+20130501,Anaheim Angels,Oakland Athletics,5,4
+20130501,Baltimore Orioles,Seattle Mariners,3,8
+20130501,Chicago White Sox,Texas Rangers,5,2
+20130501,Boston Red Sox,Toronto Blue Jays,10,1
+20130501,San  Francisco Giants,Arizona Diamondbacks,9,6
+20130501,Washington Nationals,Atlanta Braves,2,0
+20130501,San Diego Padres,Chicago Cubs,2,6
+20130501,Colorado Rockies,Los Angeles Dodgers,7,3
+20130501,New York Mets,Miami Marlins,7,6
+20130501,Pittsburgh Pirates,Milwaukee Brewers,6,4
+20130501,Cincinnati Reds,St. Louis Cardinals,2,4
+20130502,Baltimore Orioles,Anaheim Angels,5,1
+20130502,Detroit Tigers,Houston Colts,7,3
+20130502,Chicago White Sox,Texas Rangers,3,1
+20130502,Boston Red Sox,Toronto Blue Jays,3,1
+20130502,Washington Nationals,Atlanta Braves,3,1
+20130502,San Diego Padres,Chicago Cubs,4,2
+20130502,St. Louis Cardinals,Milwaukee Brewers,6,5
+20130502,Miami Marlins,Philadelpia Phillies,2,7
+20130503,Baltimore Orioles,Anaheim Angels,0,4
+20130503,Minensota Twins,Cleveland Indians,6,7
+20130503,Detroit Tigers,Houston Colts,4,3
+20130503,Oakland Athletics,New York Yankees,2,0
+20130503,Boston Red Sox,Texas Rangers,0,7
+20130503,Seattle Mariners,Toronto Blue Jays,4,0
+20130503,New York Mets,Atlanta Braves,7,5
+20130503,Cincinnati Reds,Chicago Cubs,6,5
+20130503,Tampa Bay Devil Rays,Colorado Rockies,7,4
+20130503,St. Louis Cardinals,Milwaukee Brewers,6,1
+20130503,Miami Marlins,Philadelpia Phillies,1,4
+20130503,Washington Nationals,Pittsburgh Pirates,1,3
+20130503,Arizona Diamondbacks,San Diego Padres,6,7
+20130503,Los Angeles Dodgers,San  Francisco Giants,1,2
+20130504,Baltimore Orioles,Anaheim Angels,5,4
+20130504,Minensota Twins,Cleveland Indians,3,7
+20130504,Detroit Tigers,Houston Colts,17,2
+20130504,Chicago White Sox,Kansas City Royals,0,2
+20130504,Oakland Athletics,New York Yankees,2,4
+20130504,Boston Red Sox,Texas Rangers,1,5
+20130504,Seattle Mariners,Toronto Blue Jays,8,1
+20130504,Cincinnati Reds,Chicago Cubs,6,4
+20130504,Tampa Bay Devil Rays,Colorado Rockies,3,9
+20130504,St. Louis Cardinals,Milwaukee Brewers,7,6
+20130504,Miami Marlins,Philadelpia Phillies,2,0
+20130504,Washington Nationals,Pittsburgh Pirates,5,4
+20130504,Arizona Diamondbacks,San Diego Padres,8,1
+20130504,Los Angeles Dodgers,San  Francisco Giants,9,10
+20130505,Baltimore Orioles,Anaheim Angels,8,4
+20130505,Minensota Twins,Cleveland Indians,4,2
+20130505,Detroit Tigers,Houston Colts,9,0
+20130505,Chicago White Sox,Kansas City Royals,5,6
+20130505,Oakland Athletics,New York Yankees,5,4
+20130505,Boston Red Sox,Texas Rangers,3,4
+20130505,Seattle Mariners,Toronto Blue Jays,2,10
+20130505,New York Mets,Atlanta Braves,4,9
+20130505,Cincinnati Reds,Chicago Cubs,7,4
+20130505,Tampa Bay Devil Rays,Colorado Rockies,8,3
+20130505,St. Louis Cardinals,Milwaukee Brewers,10,1
+20130505,Miami Marlins,Philadelpia Phillies,14,2
+20130505,Washington Nationals,Pittsburgh Pirates,6,2
+20130505,Arizona Diamondbacks,San Diego Padres,1,5
+20130505,Los Angeles Dodgers,San  Francisco Giants,3,4
+20130506,Minensota Twins,Boston Red Sox,5,6
+20130506,Oakland Athletics,Cleveland Indians,3,7
+20130506,Chicago White Sox,Kansas City Royals,2,1
+20130506,Toronto Blue Jays,Tampa Bay Devil Rays,8,7
+20130506,Texas Rangers,Chicago Cubs,2,9
+20130506,Atlanta Braves,Cincinnati Reds,7,4
+20130506,Arizona Diamondbacks,Los Angeles Dodgers,9,2
+20130506,Miami Marlins,San Diego Padres,0,5
+20130506,Philadelpia Phillies,San  Francisco Giants,6,2
+20130507,Kansas City Royals,Baltimore Orioles,3,4
+20130507,Minensota Twins,Boston Red Sox,6,1
+20130507,Oakland Athletics,Cleveland Indians,0,1
+20130507,Anaheim Angels,Houston Colts,6,7
+20130507,Toronto Blue Jays,Tampa Bay Devil Rays,6,4
+20130507,St. Louis Cardinals,Chicago Cubs,1,2
+20130507,Atlanta Braves,Cincinnati Reds,4,5
+20130507,New York Yankees,Colorado Rockies,0,2
+20130507,Arizona Diamondbacks,Los Angeles Dodgers,5,3
+20130507,Texas Rangers,Milwaukee Brewers,3,6
+20130507,Chicago White Sox,New York Mets,0,1
+20130507,Seattle Mariners,Pittsburgh Pirates,1,4
+20130507,Miami Marlins,San Diego Padres,1,5
+20130507,Philadelpia Phillies,San  Francisco Giants,6,2
+20130508,Kansas City Royals,Baltimore Orioles,3,5
+20130508,Minensota Twins,Boston Red Sox,15,8
+20130508,Oakland Athletics,Cleveland Indians,3,4
+20130508,Anaheim Angels,Houston Colts,1,3
+20130508,Toronto Blue Jays,Tampa Bay Devil Rays,4,10
+20130508,St. Louis Cardinals,Chicago Cubs,5,4
+20130508,Atlanta Braves,Cincinnati Reds,7,2
+20130508,New York Yankees,Colorado Rockies,3,2
+20130508,Arizona Diamondbacks,Los Angeles Dodgers,3,2
+20130508,Texas Rangers,Milwaukee Brewers,4,1
+20130508,Chicago White Sox,New York Mets,6,3
+20130508,Seattle Mariners,Pittsburgh Pirates,2,1
+20130508,Miami Marlins,San Diego Padres,0,1
+20130508,Philadelpia Phillies,San  Francisco Giants,3,4
+20130508,Detroit Tigers,Washington Nationals,1,3
+20130509,Kansas City Royals,Baltimore Orioles,6,2
+20130509,Minensota Twins,Boston Red Sox,5,3
+20130509,Oakland Athletics,Cleveland Indians,2,9
+20130509,Anaheim Angels,Houston Colts,6,5
+20130509,Toronto Blue Jays,Tampa Bay Devil Rays,4,5
+20130509,Philadelpia Phillies,Arizona Diamondbacks,1,2
+20130509,New York Yankees,Colorado Rockies,3,1
+20130509,Pittsburgh Pirates,New York Mets,2,3
+20130509,Atlanta Braves,San  Francisco Giants,6,3
+20130509,Detroit Tigers,Washington Nationals,4,5
+20130510,Toronto Blue Jays,Boston Red Sox,0,5
+20130510,Anaheim Angels,Chicago White Sox,7,5
+20130510,Cleveland Indians,Detroit Tigers,4,10
+20130510,Texas Rangers,Houston Colts,4,2
+20130510,New York Yankees,Kansas City Royals,11,6
+20130510,Baltimore Orioles,Minensota Twins,9,6
+20130510,Oakland Athletics,Seattle Mariners,3,6
+20130510,San Diego Padres,Tampa Bay Devil Rays,3,6
+20130510,Philadelpia Phillies,Arizona Diamondbacks,2,3
+20130510,Milwaukee Brewers,Cincinnati Reds,3,4
+20130510,Miami Marlins,Los Angeles Dodgers,5,4
+20130510,Pittsburgh Pirates,New York Mets,7,3
+20130510,Atlanta Braves,San  Francisco Giants,2,8
+20130510,Colorado Rockies,St. Louis Cardinals,0,3
+20130510,Chicago Cubs,Washington Nationals,3,7
+20130511,Toronto Blue Jays,Boston Red Sox,3,2
+20130511,Anaheim Angels,Chicago White Sox,3,2
+20130511,Cleveland Indians,Detroit Tigers,7,6
+20130511,Texas Rangers,Houston Colts,8,7
+20130511,New York Yankees,Kansas City Royals,3,2
+20130511,Baltimore Orioles,Minensota Twins,5,8
+20130511,Oakland Athletics,Seattle Mariners,4,3
+20130511,San Diego Padres,Tampa Bay Devil Rays,7,8
+20130511,Philadelpia Phillies,Arizona Diamondbacks,3,1
+20130511,Milwaukee Brewers,Cincinnati Reds,7,13
+20130511,Miami Marlins,Los Angeles Dodgers,1,7
+20130511,Pittsburgh Pirates,New York Mets,11,2
+20130511,Atlanta Braves,San  Francisco Giants,1,10
+20130511,Colorado Rockies,St. Louis Cardinals,0,3
+20130511,Chicago Cubs,Washington Nationals,8,2
+20130512,Toronto Blue Jays,Boston Red Sox,12,4
+20130512,Anaheim Angels,Chicago White Sox,0,3
+20130512,Cleveland Indians,Detroit Tigers,4,3
+20130512,Texas Rangers,Houston Colts,12,7
+20130512,New York Yankees,Kansas City Royals,4,2
+20130512,Baltimore Orioles,Minensota Twins,6,0
+20130512,Oakland Athletics,Seattle Mariners,1,6
+20130512,San Diego Padres,Tampa Bay Devil Rays,2,4
+20130512,Philadelpia Phillies,Arizona Diamondbacks,4,2
+20130512,Milwaukee Brewers,Cincinnati Reds,1,5
+20130512,Miami Marlins,Los Angeles Dodgers,3,5
+20130512,Pittsburgh Pirates,New York Mets,3,2
+20130512,Atlanta Braves,San  Francisco Giants,1,5
+20130512,Colorado Rockies,St. Louis Cardinals,8,2
+20130512,Chicago Cubs,Washington Nationals,2,1
+20130513,Kansas City Royals,Anaheim Angels,11,4
+20130513,New York Yankees,Cleveland Indians,0,1
+20130513,New York Yankees,Cleveland Indians,7,0
+20130513,Houston Colts,Detroit Tigers,2,7
+20130513,Chicago White Sox,Minensota Twins,3,10
+20130513,Texas Rangers,Oakland Athletics,1,5
+20130513,Atlanta Braves,Arizona Diamondbacks,10,1
+20130513,Colorado Rockies,Chicago Cubs,1,9
+20130513,Washington Nationals,Los Angeles Dodgers,6,2
+20130513,Milwaukee Brewers,Pittsburgh Pirates,5,1
+20130513,New York Mets,St. Louis Cardinals,3,6
+20130514,Kansas City Royals,Anaheim Angels,2,6
+20130514,San Diego Padres,Baltimore Orioles,3,2
+20130514,Houston Colts,Detroit Tigers,2,6
+20130514,Chicago White Sox,Minensota Twins,4,2
+20130514,Seattle Mariners,New York Yankees,3,4
+20130514,Texas Rangers,Oakland Athletics,6,5
+20130514,Boston Red Sox,Tampa Bay Devil Rays,3,5
+20130514,San  Francisco Giants,Toronto Blue Jays,6,10
+20130514,Atlanta Braves,Arizona Diamondbacks,0,2
+20130514,Colorado Rockies,Chicago Cubs,9,4
+20130514,Washington Nationals,Los Angeles Dodgers,0,2
+20130514,Cincinnati Reds,Miami Marlins,6,2
+20130514,Cleveland Indians,Philadelpia Phillies,2,6
+20130514,Milwaukee Brewers,Pittsburgh Pirates,3,4
+20130514,New York Mets,St. Louis Cardinals,4,10
+20130515,Kansas City Royals,Anaheim Angels,9,5
+20130515,San Diego Padres,Baltimore Orioles,8,4
+20130515,Houston Colts,Detroit Tigers,7,5
+20130515,Chicago White Sox,Minensota Twins,9,4
+20130515,Seattle Mariners,New York Yankees,12,2
+20130515,Texas Rangers,Oakland Athletics,6,2
+20130515,Boston Red Sox,Tampa Bay Devil Rays,9,2
+20130515,San  Francisco Giants,Toronto Blue Jays,3,11
+20130515,Atlanta Braves,Arizona Diamondbacks,3,5
+20130515,Colorado Rockies,Chicago Cubs,3,6
+20130515,Washington Nationals,Los Angeles Dodgers,1,3
+20130515,Cincinnati Reds,Miami Marlins,4,0
+20130515,Cleveland Indians,Philadelpia Phillies,10,4
+20130515,Milwaukee Brewers,Pittsburgh Pirates,1,3
+20130515,New York Mets,St. Louis Cardinals,2,4
+20130516,Chicago White Sox,Anaheim Angels,5,4
+20130516,Seattle Mariners,New York Yankees,3,2
+20130516,Boston Red Sox,Tampa Bay Devil Rays,4,3
+20130516,Detroit Tigers,Texas Rangers,4,10
+20130516,San  Francisco Giants,Colorado Rockies,8,6
+20130516,Cincinnati Reds,Miami Marlins,5,3
+20130516,Milwaukee Brewers,Pittsburgh Pirates,1,7
+20130516,Washington Nationals,San Diego Padres,6,2
+20130516,New York Mets,St. Louis Cardinals,5,2
+20130517,Chicago White Sox,Anaheim Angels,3,0
+20130517,Tampa Bay Devil Rays,Baltimore Orioles,12,10
+20130517,Seattle Mariners,Cleveland Indians,3,6
+20130517,Boston Red Sox,Minensota Twins,3,2
+20130517,Toronto Blue Jays,New York Yankees,0,5
+20130517,Kansas City Royals,Oakland Athletics,1,2
+20130517,Detroit Tigers,Texas Rangers,2,1
+20130517,Los Angeles Dodgers,Atlanta Braves,5,8
+20130517,New York Mets,Chicago Cubs,3,2
+20130517,San  Francisco Giants,Colorado Rockies,9,10
+20130517,Arizona Diamondbacks,Miami Marlins,9,2
+20130517,Cincinnati Reds,Philadelpia Phillies,3,5
+20130517,Houston Colts,Pittsburgh Pirates,4,5
+20130517,Washington Nationals,San Diego Padres,6,5
+20130517,Milwaukee Brewers,St. Louis Cardinals,6,7
+20130518,Chicago White Sox,Anaheim Angels,9,12
+20130518,Tampa Bay Devil Rays,Baltimore Orioles,10,6
+20130518,Seattle Mariners,Cleveland Indians,4,5
+20130518,Boston Red Sox,Minensota Twins,12,5
+20130518,Toronto Blue Jays,New York Yankees,2,7
+20130518,Kansas City Royals,Oakland Athletics,1,2
+20130518,Detroit Tigers,Texas Rangers,2,7
+20130518,Los Angeles Dodgers,Atlanta Braves,1,3
+20130518,New York Mets,Chicago Cubs,2,8
+20130518,San  Francisco Giants,Colorado Rockies,2,10
+20130518,Arizona Diamondbacks,Miami Marlins,1,0
+20130518,Cincinnati Reds,Philadelpia Phillies,10,0
+20130518,Houston Colts,Pittsburgh Pirates,4,2
+20130518,Washington Nationals,San Diego Padres,1,2
+20130518,Milwaukee Brewers,St. Louis Cardinals,6,4
+20130519,Chicago White Sox,Anaheim Angels,2,6
+20130519,Tampa Bay Devil Rays,Baltimore Orioles,3,1
+20130519,Seattle Mariners,Cleveland Indians,0,6
+20130519,Boston Red Sox,Minensota Twins,5,1
+20130519,Kansas City Royals,Oakland Athletics,3,4
+20130519,Detroit Tigers,Texas Rangers,8,11
+20130519,Los Angeles Dodgers,Atlanta Braves,2,5
+20130519,New York Mets,Chicago Cubs,4,3
+20130519,San  Francisco Giants,Colorado Rockies,0,5
+20130519,Arizona Diamondbacks,Miami Marlins,1,2
+20130519,Cincinnati Reds,Philadelpia Phillies,2,3
+20130519,Houston Colts,Pittsburgh Pirates,0,1
+20130519,Washington Nationals,San Diego Padres,4,13
+20130519,Milwaukee Brewers,St. Louis Cardinals,2,4
+20130520,New York Yankees,Baltimore Orioles,6,4
+20130520,Boston Red Sox,Chicago White Sox,4,6
+20130520,Seattle Mariners,Cleveland Indians,8,10
+20130520,Kansas City Royals,Houston Colts,5,6
+20130520,Oakland Athletics,Texas Rangers,9,2
+20130520,Tampa Bay Devil Rays,Toronto Blue Jays,5,7
+20130520,Minensota Twins,Atlanta Braves,1,5
+20130520,Arizona Diamondbacks,Colorado Rockies,5,1
+20130520,Philadelpia Phillies,Miami Marlins,1,5
+20130520,Los Angeles Dodgers,Milwaukee Brewers,3,1
+20130520,Cincinnati Reds,New York Mets,4,3
+20130520,St. Louis Cardinals,San Diego Padres,2,4
+20130520,Washington Nationals,San  Francisco Giants,0,8
+20130521,Seattle Mariners,Anaheim Angels,0,12
+20130521,New York Yankees,Baltimore Orioles,2,3
+20130521,Boston Red Sox,Chicago White Sox,1,3
+20130521,Detroit Tigers,Cleveland Indians,5,1
+20130521,Kansas City Royals,Houston Colts,7,3
+20130521,Oakland Athletics,Texas Rangers,1,0
+20130521,Tampa Bay Devil Rays,Toronto Blue Jays,4,3
+20130521,Minensota Twins,Atlanta Braves,4,5
+20130521,Arizona Diamondbacks,Colorado Rockies,4,5
+20130521,Philadelpia Phillies,Miami Marlins,7,3
+20130521,Los Angeles Dodgers,Milwaukee Brewers,2,5
+20130521,Cincinnati Reds,New York Mets,4,0
+20130521,Chicago Cubs,Pittsburgh Pirates,4,5
+20130521,St. Louis Cardinals,San Diego Padres,10,2
+20130521,Washington Nationals,San  Francisco Giants,2,4
+20130522,Seattle Mariners,Anaheim Angels,1,7
+20130522,New York Yankees,Baltimore Orioles,3,6
+20130522,Boston Red Sox,Chicago White Sox,6,2
+20130522,Detroit Tigers,Cleveland Indians,11,7
+20130522,Kansas City Royals,Houston Colts,1,3
+20130522,Oakland Athletics,Texas Rangers,1,3
+20130522,Tampa Bay Devil Rays,Toronto Blue Jays,3,4
+20130522,Minensota Twins,Atlanta Braves,3,8
+20130522,Arizona Diamondbacks,Colorado Rockies,1,4
+20130522,Philadelpia Phillies,Miami Marlins,3,0
+20130522,Los Angeles Dodgers,Milwaukee Brewers,9,2
+20130522,Cincinnati Reds,New York Mets,7,4
+20130522,Chicago Cubs,Pittsburgh Pirates,0,1
+20130522,St. Louis Cardinals,San Diego Padres,5,3
+20130522,Washington Nationals,San  Francisco Giants,2,1
+20130523,Cleveland Indians,Boston Red Sox,12,3
+20130523,Minensota Twins,Detroit Tigers,6,7
+20130523,Anaheim Angels,Kansas City Royals,5,4
+20130523,Baltimore Orioles,Toronto Blue Jays,6,12
+20130523,Chicago Cubs,Pittsburgh Pirates,2,4
+20130524,Cleveland Indians,Boston Red Sox,1,8
+20130524,Miami Marlins,Chicago White Sox,3,4
+20130524,Minensota Twins,Detroit Tigers,0,6
+20130524,Oakland Athletics,Houston Colts,6,5
+20130524,Anaheim Angels,Kansas City Royals,5,2
+20130524,Texas Rangers,Seattle Mariners,9,5
+20130524,New York Yankees,Tampa Bay Devil Rays,9,4
+20130524,Baltimore Orioles,Toronto Blue Jays,10,6
+20130524,San Diego Padres,Arizona Diamondbacks,2,5
+20130524,Chicago Cubs,Cincinnati Reds,4,7
+20130524,St. Louis Cardinals,Los Angeles Dodgers,7,0
+20130524,Pittsburgh Pirates,Milwaukee Brewers,1,2
+20130524,Atlanta Braves,New York Mets,7,5
+20130524,Colorado Rockies,San  Francisco Giants,5,0
+20130524,Philadelpia Phillies,Washington Nationals,2,5
+20130525,Cleveland Indians,Boston Red Sox,4,7
+20130525,Miami Marlins,Chicago White Sox,1,2
+20130525,Minensota Twins,Detroit Tigers,3,2
+20130525,Oakland Athletics,Houston Colts,11,5
+20130525,Anaheim Angels,Kansas City Royals,7,0
+20130525,Texas Rangers,Seattle Mariners,5,2
+20130525,New York Yankees,Tampa Bay Devil Rays,4,3
+20130525,Baltimore Orioles,Toronto Blue Jays,6,5
+20130525,San Diego Padres,Arizona Diamondbacks,10,4
+20130525,Chicago Cubs,Cincinnati Reds,2,5
+20130525,St. Louis Cardinals,Los Angeles Dodgers,3,5
+20130525,Pittsburgh Pirates,Milwaukee Brewers,5,2
+20130525,Atlanta Braves,New York Mets,6,0
+20130525,Colorado Rockies,San  Francisco Giants,5,6
+20130525,Philadelpia Phillies,Washington Nationals,5,3
+20130526,Cleveland Indians,Boston Red Sox,5,6
+20130526,Miami Marlins,Chicago White Sox,3,5
+20130526,Minensota Twins,Detroit Tigers,1,6
+20130526,Oakland Athletics,Houston Colts,6,2
+20130526,Anaheim Angels,Kansas City Royals,5,2
+20130526,Texas Rangers,Seattle Mariners,3,4
+20130526,New York Yankees,Tampa Bay Devil Rays,3,8
+20130526,Baltimore Orioles,Toronto Blue Jays,5,6
+20130526,San Diego Padres,Arizona Diamondbacks,5,6
+20130526,Chicago Cubs,Cincinnati Reds,5,4
+20130526,St. Louis Cardinals,Los Angeles Dodgers,5,3
+20130526,Pittsburgh Pirates,Milwaukee Brewers,5,4
+20130526,Atlanta Braves,New York Mets,2,4
+20130526,Colorado Rockies,San  Francisco Giants,3,7
+20130526,Philadelpia Phillies,Washington Nationals,1,6
+20130527,Philadelpia Phillies,Boston Red Sox,3,9
+20130527,Chicago Cubs,Chicago White Sox,7,0
+20130527,Pittsburgh Pirates,Detroit Tigers,5,6
+20130527,Colorado Rockies,Houston Colts,2,3
+20130527,St. Louis Cardinals,Kansas City Royals,6,3
+20130527,San  Francisco Giants,Oakland Athletics,1,4
+20130527,San Diego Padres,Seattle Mariners,0,9
+20130527,Miami Marlins,Tampa Bay Devil Rays,6,10
+20130527,Atlanta Braves,Toronto Blue Jays,3,9
+20130527,Texas Rangers,Arizona Diamondbacks,3,5
+20130527,Texas Rangers,Arizona Diamondbacks,4,5
+20130527,Cleveland Indians,Cincinnati Reds,2,4
+20130527,Anaheim Angels,Los Angeles Dodgers,7,8
+20130527,Minensota Twins,Milwaukee Brewers,6,3
+20130527,New York Yankees,New York Mets,1,2
+20130527,Baltimore Orioles,Washington Nationals,6,2
+20130528,Philadelpia Phillies,Boston Red Sox,3,1
+20130528,Pittsburgh Pirates,Detroit Tigers,1,0
+20130528,Colorado Rockies,Houston Colts,2,1
+20130528,St. Louis Cardinals,Kansas City Royals,4,1
+20130528,San  Francisco Giants,Oakland Athletics,3,6
+20130528,San Diego Padres,Seattle Mariners,6,1
+20130528,Miami Marlins,Tampa Bay Devil Rays,6,7
+20130528,Atlanta Braves,Toronto Blue Jays,7,6
+20130528,Cleveland Indians,Cincinnati Reds,2,8
+20130528,Anaheim Angels,Los Angeles Dodgers,0,3
+20130528,Minensota Twins,Milwaukee Brewers,6,5
+20130528,New York Yankees,New York Mets,1,2
+20130528,Baltimore Orioles,Washington Nationals,3,9
+20130529,Los Angeles Dodgers,Anaheim Angels,3,4
+20130529,Washington Nationals,Baltimore Orioles,6,9
+20130529,Cincinnati Reds,Cleveland Indians,2,5
+20130529,Milwaukee Brewers,Minensota Twins,1,4
+20130529,New York Mets,New York Yankees,9,4
+20130529,Toronto Blue Jays,Atlanta Braves,3,0
+20130529,Chicago White Sox,Chicago Cubs,3,9
+20130529,Houston Colts,Colorado Rockies,6,3
+20130529,Tampa Bay Devil Rays,Miami Marlins,3,1
+20130529,Boston Red Sox,Philadelpia Phillies,3,4
+20130529,Detroit Tigers,Pittsburgh Pirates,3,5
+20130529,Seattle Mariners,San Diego Padres,2,3
+20130529,Oakland Athletics,San  Francisco Giants,9,6
+20130529,Kansas City Royals,St. Louis Cardinals,3,5
+20130530,Los Angeles Dodgers,Anaheim Angels,2,3
+20130530,Washington Nationals,Baltimore Orioles,0,2
+20130530,Cincinnati Reds,Cleveland Indians,1,7
+20130530,Milwaukee Brewers,Minensota Twins,6,8
+20130530,New York Mets,New York Yankees,3,1
+20130530,Arizona Diamondbacks,Texas Rangers,5,9
+20130530,Toronto Blue Jays,Atlanta Braves,3,11
+20130530,Chicago White Sox,Chicago Cubs,3,8
+20130530,Houston Colts,Colorado Rockies,7,5
+20130530,Tampa Bay Devil Rays,Miami Marlins,5,2
+20130530,Boston Red Sox,Philadelpia Phillies,9,2
+20130530,Detroit Tigers,Pittsburgh Pirates,0,1
+20130530,Seattle Mariners,San Diego Padres,7,1
+20130530,Oakland Athletics,San  Francisco Giants,2,5
+20130530,Kansas City Royals,St. Louis Cardinals,4,2
+20130531,Houston Colts,Anaheim Angels,6,3
+20130531,Detroit Tigers,Baltimore Orioles,5,7
+20130531,Tampa Bay Devil Rays,Cleveland Indians,9,2
+20130531,Seattle Mariners,Minensota Twins,3,0
+20130531,Boston Red Sox,New York Yankees,1,4
+20130531,Chicago White Sox,Oakland Athletics,0,3
+20130531,Kansas City Royals,Texas Rangers,2,7
+20130531,Washington Nationals,Atlanta Braves,3,2
+20130531,Arizona Diamondbacks,Chicago Cubs,2,7
+20130531,Los Angeles Dodgers,Colorado Rockies,7,5
+20130531,New York Mets,Miami Marlins,1,5
+20130531,Milwaukee Brewers,Philadelpia Phillies,8,5
+20130531,Cincinnati Reds,Pittsburgh Pirates,6,0
+20130531,Toronto Blue Jays,San Diego Padres,3,4
+20130601,Houston Colts,Anaheim Angels,2,0
+20130601,Detroit Tigers,Baltimore Orioles,10,3
+20130601,Tampa Bay Devil Rays,Cleveland Indians,0,5
+20130601,Seattle Mariners,Minensota Twins,4,5
+20130601,Boston Red Sox,New York Yankees,11,1
+20130601,Chicago White Sox,Oakland Athletics,3,4
+20130601,Kansas City Royals,Texas Rangers,4,1
+20130601,Washington Nationals,Atlanta Braves,1,2
+20130601,Arizona Diamondbacks,Chicago Cubs,12,4
+20130601,Los Angeles Dodgers,Colorado Rockies,6,7
+20130601,New York Mets,Miami Marlins,1,8
+20130601,Milwaukee Brewers,Philadelpia Phillies,4,3
+20130601,Cincinnati Reds,Pittsburgh Pirates,2,0
+20130601,Toronto Blue Jays,San Diego Padres,3,4
+20130601,San  Francisco Giants,St. Louis Cardinals,0,8
+20130601,San  Francisco Giants,St. Louis Cardinals,1,7
+20130602,Houston Colts,Anaheim Angels,5,4
+20130602,Detroit Tigers,Baltimore Orioles,2,4
+20130602,Tampa Bay Devil Rays,Cleveland Indians,11,3
+20130602,Seattle Mariners,Minensota Twins,0,10
+20130602,Boston Red Sox,New York Yankees,3,0
+20130602,Chicago White Sox,Oakland Athletics,0,2
+20130602,Kansas City Royals,Texas Rangers,1,3
+20130602,Washington Nationals,Atlanta Braves,3,6
+20130602,Arizona Diamondbacks,Chicago Cubs,8,4
+20130602,Los Angeles Dodgers,Colorado Rockies,2,7
+20130602,New York Mets,Miami Marlins,6,11
+20130602,Milwaukee Brewers,Philadelpia Phillies,5,7
+20130602,Cincinnati Reds,Pittsburgh Pirates,4,5
+20130602,Toronto Blue Jays,San Diego Padres,7,4
+20130602,San  Francisco Giants,St. Louis Cardinals,4,2
+20130603,Houston Colts,Anaheim Angels,2,1
+20130603,Cleveland Indians,New York Yankees,4,7
+20130603,Chicago White Sox,Seattle Mariners,2,4
+20130603,Pittsburgh Pirates,Atlanta Braves,2,7
+20130603,Colorado Rockies,Cincinnati Reds,0,3
+20130603,San Diego Padres,Los Angeles Dodgers,1,2
+20130603,Oakland Athletics,Milwaukee Brewers,10,2
+20130603,Miami Marlins,Philadelpia Phillies,2,7
+20130603,Arizona Diamondbacks,St. Louis Cardinals,1,7
+20130604,Chicago Cubs,Anaheim Angels,3,4
+20130604,Texas Rangers,Boston Red Sox,5,17
+20130604,Tampa Bay Devil Rays,Detroit Tigers,1,10
+20130604,Baltimore Orioles,Houston Colts,4,1
+20130604,Minensota Twins,Kansas City Royals,3,0
+20130604,Cleveland Indians,New York Yankees,3,4
+20130604,Chicago White Sox,Seattle Mariners,4,7
+20130604,Pittsburgh Pirates,Atlanta Braves,4,5
+20130604,Colorado Rockies,Cincinnati Reds,5,4
+20130604,San Diego Padres,Los Angeles Dodgers,7,9
+20130604,Oakland Athletics,Milwaukee Brewers,3,4
+20130604,Miami Marlins,Philadelpia Phillies,3,7
+20130604,Toronto Blue Jays,San  Francisco Giants,1,2
+20130604,Arizona Diamondbacks,St. Louis Cardinals,7,6
+20130604,New York Mets,Washington Nationals,2,3
+20130605,Chicago Cubs,Anaheim Angels,8,6
+20130605,Texas Rangers,Boston Red Sox,3,2
+20130605,Tampa Bay Devil Rays,Detroit Tigers,3,0
+20130605,Baltimore Orioles,Houston Colts,7,11
+20130605,Minensota Twins,Kansas City Royals,1,4
+20130605,Cleveland Indians,New York Yankees,4,6
+20130605,Chicago White Sox,Seattle Mariners,7,5
+20130605,Pittsburgh Pirates,Atlanta Braves,0,5
+20130605,Colorado Rockies,Cincinnati Reds,12,4
+20130605,San Diego Padres,Los Angeles Dodgers,6,2
+20130605,Oakland Athletics,Milwaukee Brewers,6,1
+20130605,Miami Marlins,Philadelpia Phillies,1,6
+20130605,Toronto Blue Jays,San  Francisco Giants,4,0
+20130605,Arizona Diamondbacks,St. Louis Cardinals,10,3
+20130605,New York Mets,Washington Nationals,10,1
+20130606,Texas Rangers,Boston Red Sox,3,6
+20130606,Oakland Athletics,Chicago White Sox,5,4
+20130606,Tampa Bay Devil Rays,Detroit Tigers,2,5
+20130606,Baltimore Orioles,Houston Colts,3,1
+20130606,Minensota Twins,Kansas City Royals,3,7
+20130606,New York Yankees,Seattle Mariners,6,1
+20130606,San Diego Padres,Colorado Rockies,6,5
+20130606,Atlanta Braves,Los Angeles Dodgers,0,5
+20130606,Philadelpia Phillies,Milwaukee Brewers,5,1
+20130606,Arizona Diamondbacks,St. Louis Cardinals,8,12
+20130607,Oakland Athletics,Chicago White Sox,4,3
+20130607,Cleveland Indians,Detroit Tigers,5,7
+20130607,Houston Colts,Kansas City Royals,2,4
+20130607,New York Yankees,Seattle Mariners,1,4
+20130607,Baltimore Orioles,Tampa Bay Devil Rays,1,2
+20130607,Texas Rangers,Toronto Blue Jays,1,6
+20130607,San  Francisco Giants,Arizona Diamondbacks,1,3
+20130607,Pittsburgh Pirates,Chicago Cubs,2,0
+20130607,St. Louis Cardinals,Cincinnati Reds,9,2
+20130607,San Diego Padres,Colorado Rockies,9,10
+20130607,Atlanta Braves,Los Angeles Dodgers,1,2
+20130607,Philadelpia Phillies,Milwaukee Brewers,4,5
+20130608,Anaheim Angels,Boston Red Sox,9,5
+20130608,Anaheim Angels,Boston Red Sox,2,7
+20130608,Oakland Athletics,Chicago White Sox,1,4
+20130608,Cleveland Indians,Detroit Tigers,4,6
+20130608,Houston Colts,Kansas City Royals,2,7
+20130608,New York Yankees,Seattle Mariners,3,1
+20130608,Baltimore Orioles,Tampa Bay Devil Rays,0,8
+20130608,Texas Rangers,Toronto Blue Jays,3,4
+20130608,San  Francisco Giants,Arizona Diamondbacks,10,5
+20130608,Pittsburgh Pirates,Chicago Cubs,6,2
+20130608,St. Louis Cardinals,Cincinnati Reds,2,4
+20130608,San Diego Padres,Colorado Rockies,4,2
+20130608,Atlanta Braves,Los Angeles Dodgers,2,1
+20130608,Philadelpia Phillies,Milwaukee Brewers,3,4
+20130608,Miami Marlins,New York Mets,2,1
+20130608,Minensota Twins,Washington Nationals,4,3
+20130609,Anaheim Angels,Boston Red Sox,5,10
+20130609,Oakland Athletics,Chicago White Sox,2,4
+20130609,Cleveland Indians,Detroit Tigers,1,4
+20130609,Houston Colts,Kansas City Royals,0,2
+20130609,New York Yankees,Seattle Mariners,2,1
+20130609,Baltimore Orioles,Tampa Bay Devil Rays,10,7
+20130609,Texas Rangers,Toronto Blue Jays,6,4
+20130609,San  Francisco Giants,Arizona Diamondbacks,6,2
+20130609,Pittsburgh Pirates,Chicago Cubs,1,4
+20130609,St. Louis Cardinals,Cincinnati Reds,11,4
+20130609,San Diego Padres,Colorado Rockies,7,8
+20130609,Atlanta Braves,Los Angeles Dodgers,8,1
+20130609,Philadelpia Phillies,Milwaukee Brewers,1,9
+20130609,Miami Marlins,New York Mets,8,4
+20130609,Minensota Twins,Washington Nationals,0,7
+20130609,Minensota Twins,Washington Nationals,4,5
+20130610,Anaheim Angels,Baltimore Orioles,3,4
+20130610,Toronto Blue Jays,Chicago White Sox,6,10
+20130610,Detroit Tigers,Kansas City Royals,2,3
+20130610,Houston Colts,Seattle Mariners,2,3
+20130610,Boston Red Sox,Tampa Bay Devil Rays,10,8
+20130610,Cleveland Indians,Texas Rangers,3,6
+20130610,Cincinnati Reds,Chicago Cubs,6,2
+20130610,Arizona Diamondbacks,Los Angeles Dodgers,5,4
+20130610,Milwaukee Brewers,Miami Marlins,6,1
+20130610,Atlanta Braves,San Diego Padres,6,7
+20130611,Anaheim Angels,Baltimore Orioles,2,3
+20130611,Toronto Blue Jays,Chicago White Sox,7,5
+20130611,Detroit Tigers,Kansas City Royals,3,2
+20130611,Philadelpia Phillies,Minensota Twins,2,3
+20130611,New York Yankees,Oakland Athletics,4,6
+20130611,Houston Colts,Seattle Mariners,0,4
+20130611,Boston Red Sox,Tampa Bay Devil Rays,3,8
+20130611,Cleveland Indians,Texas Rangers,5,2
+20130611,Cincinnati Reds,Chicago Cubs,12,2
+20130611,Washington Nationals,Colorado Rockies,3,8
+20130611,Arizona Diamondbacks,Los Angeles Dodgers,3,5
+20130611,Milwaukee Brewers,Miami Marlins,4,5
+20130611,St. Louis Cardinals,New York Mets,9,2
+20130611,San  Francisco Giants,Pittsburgh Pirates,2,8
+20130611,Atlanta Braves,San Diego Padres,2,3
+20130612,Anaheim Angels,Baltimore Orioles,9,5
+20130612,Detroit Tigers,Kansas City Royals,2,3
+20130612,Philadelpia Phillies,Minensota Twins,3,4
+20130612,New York Yankees,Oakland Athletics,2,5
+20130612,Houston Colts,Seattle Mariners,6,1
+20130612,Boston Red Sox,Tampa Bay Devil Rays,2,1
+20130612,Cleveland Indians,Texas Rangers,5,2
+20130612,Cincinnati Reds,Chicago Cubs,2,1
+20130612,Washington Nationals,Colorado Rockies,5,1
+20130612,Arizona Diamondbacks,Los Angeles Dodgers,8,6
+20130612,Milwaukee Brewers,Miami Marlins,10,1
+20130612,St. Louis Cardinals,New York Mets,1,5
+20130612,San  Francisco Giants,Pittsburgh Pirates,8,12
+20130612,Atlanta Braves,San Diego Padres,3,5
+20130613,Boston Red Sox,Baltimore Orioles,4,5
+20130613,Philadelpia Phillies,Minensota Twins,3,2
+20130613,New York Yankees,Oakland Athletics,2,3
+20130613,Kansas City Royals,Tampa Bay Devil Rays,10,1
+20130613,Toronto Blue Jays,Texas Rangers,3,1
+20130613,Cincinnati Reds,Chicago Cubs,5,6
+20130613,Washington Nationals,Colorado Rockies,5,4
+20130613,St. Louis Cardinals,New York Mets,2,1
+20130613,San  Francisco Giants,Pittsburgh Pirates,10,0
+20130614,New York Yankees,Anaheim Angels,2,5
+20130614,Boston Red Sox,Baltimore Orioles,0,2
+20130614,Washington Nationals,Cleveland Indians,1,2
+20130614,Chicago White Sox,Houston Colts,1,2
+20130614,Detroit Tigers,Minensota Twins,4,0
+20130614,Seattle Mariners,Oakland Athletics,3,2
+20130614,Kansas City Royals,Tampa Bay Devil Rays,7,2
+20130614,Toronto Blue Jays,Texas Rangers,8,0
+20130614,San  Francisco Giants,Atlanta Braves,6,0
+20130614,Milwaukee Brewers,Cincinnati Reds,3,4
+20130614,Philadelpia Phillies,Colorado Rockies,8,7
+20130614,St. Louis Cardinals,Miami Marlins,4,5
+20130614,Chicago Cubs,New York Mets,6,3
+20130614,Los Angeles Dodgers,Pittsburgh Pirates,0,3
+20130614,Arizona Diamondbacks,San Diego Padres,1,2
+20130615,New York Yankees,Anaheim Angels,2,6
+20130615,Boston Red Sox,Baltimore Orioles,5,4
+20130615,Washington Nationals,Cleveland Indians,7,6
+20130615,Chicago White Sox,Houston Colts,3,4
+20130615,Detroit Tigers,Minensota Twins,3,6
+20130615,Seattle Mariners,Oakland Athletics,4,0
+20130615,Kansas City Royals,Tampa Bay Devil Rays,3,5
+20130615,Toronto Blue Jays,Texas Rangers,6,1
+20130615,San  Francisco Giants,Atlanta Braves,5,6
+20130615,Milwaukee Brewers,Cincinnati Reds,6,0
+20130615,Philadelpia Phillies,Colorado Rockies,5,10
+20130615,St. Louis Cardinals,Miami Marlins,13,7
+20130615,Chicago Cubs,New York Mets,5,2
+20130615,Los Angeles Dodgers,Pittsburgh Pirates,5,3
+20130615,Arizona Diamondbacks,San Diego Padres,4,6
+20130616,New York Yankees,Anaheim Angels,6,5
+20130616,Boston Red Sox,Baltimore Orioles,3,6
+20130616,Washington Nationals,Cleveland Indians,0,2
+20130616,Chicago White Sox,Houston Colts,4,5
+20130616,Detroit Tigers,Minensota Twins,5,2
+20130616,Seattle Mariners,Oakland Athletics,2,10
+20130616,Kansas City Royals,Tampa Bay Devil Rays,5,3
+20130616,Toronto Blue Jays,Texas Rangers,7,2
+20130616,San  Francisco Giants,Atlanta Braves,0,3
+20130616,Milwaukee Brewers,Cincinnati Reds,1,5
+20130616,Philadelpia Phillies,Colorado Rockies,2,5
+20130616,St. Louis Cardinals,Miami Marlins,2,7
+20130616,Chicago Cubs,New York Mets,3,4
+20130616,Los Angeles Dodgers,Pittsburgh Pirates,3,6
+20130616,Arizona Diamondbacks,San Diego Padres,1,4
+20130617,Seattle Mariners,Anaheim Angels,3,11
+20130617,Kansas City Royals,Cleveland Indians,2,1
+20130617,Baltimore Orioles,Detroit Tigers,1,5
+20130617,Chicago White Sox,Houston Colts,4,2
+20130617,Oakland Athletics,Texas Rangers,7,8
+20130617,Colorado Rockies,Toronto Blue Jays,0,2
+20130617,Miami Marlins,Arizona Diamondbacks,3,2
+20130617,New York Mets,Atlanta Braves,1,2
+20130617,Pittsburgh Pirates,Cincinnati Reds,1,4
+20130617,Washington Nationals,Philadelpia Phillies,4,5
+20130617,San Diego Padres,San  Francisco Giants,5,3
+20130617,Chicago Cubs,St. Louis Cardinals,2,5
+20130618,Seattle Mariners,Anaheim Angels,3,2
+20130618,Tampa Bay Devil Rays,Boston Red Sox,1,5
+20130618,Tampa Bay Devil Rays,Boston Red Sox,1,3
+20130618,Kansas City Royals,Cleveland Indians,3,4
+20130618,Baltimore Orioles,Detroit Tigers,5,2
+20130618,Milwaukee Brewers,Houston Colts,1,10
+20130618,Chicago White Sox,Minensota Twins,5,7
+20130618,Oakland Athletics,Texas Rangers,6,2
+20130618,Colorado Rockies,Toronto Blue Jays,3,8
+20130618,Miami Marlins,Arizona Diamondbacks,2,3
+20130618,New York Mets,Atlanta Braves,4,3
+20130618,New York Mets,Atlanta Braves,6,1
+20130618,Pittsburgh Pirates,Cincinnati Reds,4,0
+20130618,Washington Nationals,Philadelpia Phillies,2,4
+20130618,San Diego Padres,San  Francisco Giants,4,5
+20130618,Chicago Cubs,St. Louis Cardinals,4,2
+20130619,Seattle Mariners,Anaheim Angels,0,1
+20130619,Tampa Bay Devil Rays,Boston Red Sox,6,2
+20130619,Kansas City Royals,Cleveland Indians,3,6
+20130619,Baltimore Orioles,Detroit Tigers,13,3
+20130619,Milwaukee Brewers,Houston Colts,3,1
+20130619,Chicago White Sox,Minensota Twins,4,7
+20130619,Los Angeles Dodgers,New York Yankees,4,6
+20130619,Los Angeles Dodgers,New York Yankees,6,0
+20130619,Oakland Athletics,Texas Rangers,4,9
+20130619,Colorado Rockies,Toronto Blue Jays,2,5
+20130619,Miami Marlins,Arizona Diamondbacks,1,3
+20130619,New York Mets,Atlanta Braves,3,5
+20130619,Pittsburgh Pirates,Cincinnati Reds,1,2
+20130619,Washington Nationals,Philadelpia Phillies,6,2
+20130619,San Diego Padres,San  Francisco Giants,2,4
+20130619,Chicago Cubs,St. Louis Cardinals,1,4
+20130620,Seattle Mariners,Anaheim Angels,9,10
+20130620,Boston Red Sox,Detroit Tigers,3,4
+20130620,Milwaukee Brewers,Houston Colts,4,7
+20130620,Chicago White Sox,Minensota Twins,4,8
+20130620,Tampa Bay Devil Rays,New York Yankees,8,3
+20130620,Oakland Athletics,Texas Rangers,3,4
+20130620,New York Mets,Atlanta Braves,4,3
+20130620,Pittsburgh Pirates,Cincinnati Reds,5,3
+20130620,Los Angeles Dodgers,San Diego Padres,3,6
+20130620,Miami Marlins,San  Francisco Giants,2,1
+20130620,Chicago Cubs,St. Louis Cardinals,1,6
+20130620,Colorado Rockies,Washington Nationals,1,5
+20130621,Pittsburgh Pirates,Anaheim Angels,5,2
+20130621,Minensota Twins,Cleveland Indians,1,5
+20130621,Boston Red Sox,Detroit Tigers,10,6
+20130621,Chicago White Sox,Kansas City Royals,9,1
+20130621,Tampa Bay Devil Rays,New York Yankees,2,6
+20130621,Oakland Athletics,Seattle Mariners,6,3
+20130621,Baltimore Orioles,Toronto Blue Jays,6,7
+20130621,Cincinnati Reds,Arizona Diamondbacks,5,11
+20130621,Houston Colts,Chicago Cubs,1,3
+20130621,Atlanta Braves,Milwaukee Brewers,0,2
+20130621,New York Mets,Philadelpia Phillies,4,3
+20130621,Los Angeles Dodgers,San Diego Padres,2,5
+20130621,Miami Marlins,San  Francisco Giants,6,3
+20130621,Texas Rangers,St. Louis Cardinals,6,4
+20130621,Colorado Rockies,Washington Nationals,1,2
+20130622,Pittsburgh Pirates,Anaheim Angels,6,1
+20130622,Minensota Twins,Cleveland Indians,7,8
+20130622,Boston Red Sox,Detroit Tigers,3,10
+20130622,Chicago White Sox,Kansas City Royals,3,2
+20130622,Tampa Bay Devil Rays,New York Yankees,5,7
+20130622,Oakland Athletics,Seattle Mariners,5,7
+20130622,Baltimore Orioles,Toronto Blue Jays,2,4
+20130622,Cincinnati Reds,Arizona Diamondbacks,3,4
+20130622,Houston Colts,Chicago Cubs,4,3
+20130622,Atlanta Braves,Milwaukee Brewers,0,2
+20130622,New York Mets,Philadelpia Phillies,7,8
+20130622,Los Angeles Dodgers,San Diego Padres,6,1
+20130622,Miami Marlins,San  Francisco Giants,1,2
+20130622,Texas Rangers,St. Louis Cardinals,4,2
+20130622,Colorado Rockies,Washington Nationals,7,1
+20130623,Pittsburgh Pirates,Anaheim Angels,10,9
+20130623,Minensota Twins,Cleveland Indians,5,3
+20130623,Boston Red Sox,Detroit Tigers,5,7
+20130623,Chicago White Sox,Kansas City Royals,6,7
+20130623,Tampa Bay Devil Rays,New York Yankees,3,1
+20130623,Oakland Athletics,Seattle Mariners,3,6
+20130623,Baltimore Orioles,Toronto Blue Jays,5,13
+20130623,Cincinnati Reds,Arizona Diamondbacks,4,2
+20130623,Houston Colts,Chicago Cubs,6,14
+20130623,Atlanta Braves,Milwaukee Brewers,7,4
+20130623,New York Mets,Philadelpia Phillies,8,0
+20130623,Los Angeles Dodgers,San Diego Padres,3,1
+20130623,Miami Marlins,San  Francisco Giants,7,2
+20130623,Texas Rangers,St. Louis Cardinals,2,1
+20130623,Colorado Rockies,Washington Nationals,7,6
+20130624,Cleveland Indians,Baltimore Orioles,5,2
+20130624,Toronto Blue Jays,Tampa Bay Devil Rays,1,4
+20130624,San  Francisco Giants,Los Angeles Dodgers,1,3
+20130624,Philadelpia Phillies,San Diego Padres,3,4
+20130625,Cleveland Indians,Baltimore Orioles,3,6
+20130625,Colorado Rockies,Boston Red Sox,4,11
+20130625,New York Mets,Chicago White Sox,4,5
+20130625,Anaheim Angels,Detroit Tigers,14,8
+20130625,St. Louis Cardinals,Houston Colts,13,5
+20130625,Atlanta Braves,Kansas City Royals,4,3
+20130625,Texas Rangers,New York Yankees,3,4
+20130625,Cincinnati Reds,Oakland Athletics,3,7
+20130625,Pittsburgh Pirates,Seattle Mariners,9,4
+20130625,Toronto Blue Jays,Tampa Bay Devil Rays,1,5
+20130625,San  Francisco Giants,Los Angeles Dodgers,5,6
+20130625,Minensota Twins,Miami Marlins,2,4
+20130625,Chicago Cubs,Milwaukee Brewers,3,9
+20130625,Philadelpia Phillies,San Diego Padres,6,2
+20130625,Arizona Diamondbacks,Washington Nationals,5,7
+20130626,Cleveland Indians,Baltimore Orioles,4,3
+20130626,Colorado Rockies,Boston Red Sox,3,5
+20130626,New York Mets,Chicago White Sox,3,0
+20130626,Anaheim Angels,Detroit Tigers,7,4
+20130626,St. Louis Cardinals,Houston Colts,3,4
+20130626,Atlanta Braves,Kansas City Royals,3,4
+20130626,Texas Rangers,New York Yankees,8,5
+20130626,Cincinnati Reds,Oakland Athletics,0,5
+20130626,Pittsburgh Pirates,Seattle Mariners,4,2
+20130626,Toronto Blue Jays,Tampa Bay Devil Rays,3,0
+20130626,San  Francisco Giants,Los Angeles Dodgers,2,4
+20130626,Minensota Twins,Miami Marlins,3,5
+20130626,Chicago Cubs,Milwaukee Brewers,5,4
+20130626,Philadelpia Phillies,San Diego Padres,7,5
+20130626,Arizona Diamondbacks,Washington Nationals,2,3
+20130627,Cleveland Indians,Baltimore Orioles,3,7
+20130627,Toronto Blue Jays,Boston Red Sox,4,7
+20130627,Anaheim Angels,Detroit Tigers,3,1
+20130627,Kansas City Royals,Minensota Twins,1,3
+20130627,Texas Rangers,New York Yankees,2,0
+20130627,New York Mets,Colorado Rockies,3,2
+20130627,Philadelpia Phillies,Los Angeles Dodgers,4,6
+20130627,Chicago Cubs,Milwaukee Brewers,7,2
+20130627,Arizona Diamondbacks,Washington Nationals,3,2
+20130628,New York Yankees,Baltimore Orioles,3,4
+20130628,Toronto Blue Jays,Boston Red Sox,5,7
+20130628,Cleveland Indians,Chicago White Sox,19,10
+20130628,Cleveland Indians,Chicago White Sox,9,8
+20130628,Anaheim Angels,Houston Colts,4,2
+20130628,Kansas City Royals,Minensota Twins,9,3
+20130628,St. Louis Cardinals,Oakland Athletics,1,6
+20130628,Chicago Cubs,Seattle Mariners,4,5
+20130628,Detroit Tigers,Tampa Bay Devil Rays,6,3
+20130628,Cincinnati Reds,Texas Rangers,0,4
+20130628,Arizona Diamondbacks,Atlanta Braves,0,3
+20130628,San  Francisco Giants,Colorado Rockies,1,4
+20130628,Philadelpia Phillies,Los Angeles Dodgers,16,1
+20130628,San Diego Padres,Miami Marlins,9,2
+20130628,Washington Nationals,New York Mets,6,4
+20130628,Milwaukee Brewers,Pittsburgh Pirates,3,10
+20130629,New York Yankees,Baltimore Orioles,3,11
+20130629,Toronto Blue Jays,Boston Red Sox,6,2
+20130629,Cleveland Indians,Chicago White Sox,4,3
+20130629,Anaheim Angels,Houston Colts,7,2
+20130629,Kansas City Royals,Minensota Twins,2,6
+20130629,St. Louis Cardinals,Oakland Athletics,7,1
+20130629,Chicago Cubs,Seattle Mariners,5,3
+20130629,Detroit Tigers,Tampa Bay Devil Rays,3,4
+20130629,Cincinnati Reds,Texas Rangers,6,4
+20130629,Arizona Diamondbacks,Atlanta Braves,5,11
+20130629,San  Francisco Giants,Colorado Rockies,1,2
+20130629,Philadelpia Phillies,Los Angeles Dodgers,3,4
+20130629,San Diego Padres,Miami Marlins,1,7
+20130629,Washington Nationals,New York Mets,1,5
+20130629,Milwaukee Brewers,Pittsburgh Pirates,1,2
+20130630,New York Yankees,Baltimore Orioles,2,4
+20130630,Toronto Blue Jays,Boston Red Sox,4,5
+20130630,Cleveland Indians,Chicago White Sox,4,0
+20130630,Anaheim Angels,Houston Colts,3,1
+20130630,Kansas City Royals,Minensota Twins,9,8
+20130630,St. Louis Cardinals,Oakland Athletics,5,7
+20130630,Chicago Cubs,Seattle Mariners,7,6
+20130630,Detroit Tigers,Tampa Bay Devil Rays,1,3
+20130630,Cincinnati Reds,Texas Rangers,2,3
+20130630,Arizona Diamondbacks,Atlanta Braves,2,6
+20130630,San  Francisco Giants,Colorado Rockies,5,2
+20130630,Philadelpia Phillies,Los Angeles Dodgers,1,6
+20130630,San Diego Padres,Miami Marlins,2,6
+20130630,Washington Nationals,New York Mets,13,2
+20130630,Milwaukee Brewers,Pittsburgh Pirates,1,2
+20130701,Tampa Bay Devil Rays,Houston Colts,12,0
+20130701,New York Yankees,Minensota Twins,10,4
+20130701,Detroit Tigers,Toronto Blue Jays,3,8
+20130701,San  Francisco Giants,Cincinnati Reds,1,8
+20130701,San Diego Padres,Miami Marlins,0,4
+20130701,Arizona Diamondbacks,New York Mets,4,5
+20130701,Milwaukee Brewers,Washington Nationals,5,10
+20130702,St. Louis Cardinals,Anaheim Angels,1,5
+20130702,San Diego Padres,Boston Red Sox,1,4
+20130702,Baltimore Orioles,Chicago White Sox,2,5
+20130702,Tampa Bay Devil Rays,Houston Colts,8,0
+20130702,Cleveland Indians,Kansas City Royals,6,5
+20130702,New York Yankees,Minensota Twins,7,3
+20130702,Chicago Cubs,Oakland Athletics,7,8
+20130702,Seattle Mariners,Texas Rangers,9,2
+20130702,Detroit Tigers,Toronto Blue Jays,7,6
+20130702,Miami Marlins,Atlanta Braves,3,11
+20130702,San  Francisco Giants,Cincinnati Reds,0,3
+20130702,Los Angeles Dodgers,Colorado Rockies,8,0
+20130702,Arizona Diamondbacks,New York Mets,1,9
+20130702,Philadelpia Phillies,Pittsburgh Pirates,3,1
+20130702,Milwaukee Brewers,Washington Nationals,4,0
+20130703,St. Louis Cardinals,Anaheim Angels,12,2
+20130703,San Diego Padres,Boston Red Sox,1,2
+20130703,Baltimore Orioles,Chicago White Sox,4,2
+20130703,Tampa Bay Devil Rays,Houston Colts,1,4
+20130703,Cleveland Indians,Kansas City Royals,5,6
+20130703,New York Yankees,Minensota Twins,3,2
+20130703,Chicago Cubs,Oakland Athletics,3,1
+20130703,Seattle Mariners,Texas Rangers,4,2
+20130703,Detroit Tigers,Toronto Blue Jays,6,2
+20130703,Miami Marlins,Atlanta Braves,6,3
+20130703,San  Francisco Giants,Cincinnati Reds,2,3
+20130703,Los Angeles Dodgers,Colorado Rockies,10,8
+20130703,Arizona Diamondbacks,New York Mets,5,3
+20130703,Philadelpia Phillies,Pittsburgh Pirates,5,6
+20130703,Milwaukee Brewers,Washington Nationals,4,1
+20130704,St. Louis Cardinals,Anaheim Angels,5,6
+20130704,San Diego Padres,Boston Red Sox,2,8
+20130704,Baltimore Orioles,Chicago White Sox,2,3
+20130704,Tampa Bay Devil Rays,Houston Colts,7,5
+20130704,Cleveland Indians,Kansas City Royals,7,10
+20130704,New York Yankees,Minensota Twins,9,5
+20130704,Chicago Cubs,Oakland Athletics,0,1
+20130704,Seattle Mariners,Texas Rangers,4,5
+20130704,Detroit Tigers,Toronto Blue Jays,11,1
+20130704,Miami Marlins,Atlanta Braves,4,3
+20130704,Los Angeles Dodgers,Colorado Rockies,5,9
+20130704,Arizona Diamondbacks,New York Mets,5,4
+20130704,Philadelpia Phillies,Pittsburgh Pirates,6,4
+20130704,Milwaukee Brewers,Washington Nationals,5,8
+20130705,Boston Red Sox,Anaheim Angels,6,2
+20130705,Detroit Tigers,Cleveland Indians,7,0
+20130705,Oakland Athletics,Kansas City Royals,6,3
+20130705,Baltimore Orioles,New York Yankees,2,3
+20130705,Chicago White Sox,Tampa Bay Devil Rays,3,8
+20130705,Houston Colts,Texas Rangers,5,10
+20130705,Minensota Twins,Toronto Blue Jays,0,4
+20130705,Colorado Rockies,Arizona Diamondbacks,0,5
+20130705,Pittsburgh Pirates,Chicago Cubs,6,2
+20130705,Seattle Mariners,Cincinnati Reds,4,2
+20130705,New York Mets,Milwaukee Brewers,12,5
+20130705,Atlanta Braves,Philadelpia Phillies,4,5
+20130705,Los Angeles Dodgers,San  Francisco Giants,10,2
+20130705,Miami Marlins,St. Louis Cardinals,1,4
+20130705,San Diego Padres,Washington Nationals,5,8
+20130706,Boston Red Sox,Anaheim Angels,7,9
+20130706,Detroit Tigers,Cleveland Indians,9,4
+20130706,Oakland Athletics,Kansas City Royals,3,4
+20130706,Baltimore Orioles,New York Yankees,4,5
+20130706,Chicago White Sox,Tampa Bay Devil Rays,0,3
+20130706,Houston Colts,Texas Rangers,9,5
+20130706,Minensota Twins,Toronto Blue Jays,6,0
+20130706,Colorado Rockies,Arizona Diamondbacks,1,11
+20130706,Pittsburgh Pirates,Chicago Cubs,1,4
+20130706,Seattle Mariners,Cincinnati Reds,4,13
+20130706,New York Mets,Milwaukee Brewers,6,7
+20130706,Atlanta Braves,Philadelpia Phillies,13,4
+20130706,Los Angeles Dodgers,San  Francisco Giants,2,4
+20130706,Miami Marlins,St. Louis Cardinals,4,5
+20130706,San Diego Padres,Washington Nationals,4,5
+20130707,Boston Red Sox,Anaheim Angels,0,3
+20130707,Detroit Tigers,Cleveland Indians,6,9
+20130707,Oakland Athletics,Kansas City Royals,10,4
+20130707,Baltimore Orioles,New York Yankees,2,1
+20130707,Chicago White Sox,Tampa Bay Devil Rays,1,3
+20130707,Houston Colts,Texas Rangers,4,5
+20130707,Minensota Twins,Toronto Blue Jays,5,11
+20130707,Colorado Rockies,Arizona Diamondbacks,1,6
+20130707,Pittsburgh Pirates,Chicago Cubs,3,4
+20130707,Seattle Mariners,Cincinnati Reds,3,1
+20130707,New York Mets,Milwaukee Brewers,2,1
+20130707,Atlanta Braves,Philadelpia Phillies,3,7
+20130707,Los Angeles Dodgers,San  Francisco Giants,4,1
+20130707,Miami Marlins,St. Louis Cardinals,2,3
+20130707,San Diego Padres,Washington Nationals,7,11
+20130708,Texas Rangers,Baltimore Orioles,8,5
+20130708,Chicago Cubs,Chicago White Sox,8,2
+20130708,Detroit Tigers,Cleveland Indians,4,2
+20130708,Kansas City Royals,New York Yankees,5,1
+20130708,Boston Red Sox,Seattle Mariners,4,11
+20130708,Minensota Twins,Tampa Bay Devil Rays,4,7
+20130708,Los Angeles Dodgers,Arizona Diamondbacks,6,1
+20130708,Atlanta Braves,Miami Marlins,7,1
+20130708,Cincinnati Reds,Milwaukee Brewers,3,4
+20130708,Washington Nationals,Philadelpia Phillies,2,3
+20130708,Oakland Athletics,Pittsburgh Pirates,2,1
+20130708,Colorado Rockies,San Diego Padres,4,2
+20130708,New York Mets,San  Francisco Giants,4,3
+20130709,Texas Rangers,Baltimore Orioles,8,4
+20130709,Toronto Blue Jays,Cleveland Indians,0,3
+20130709,Chicago White Sox,Detroit Tigers,11,4
+20130709,Kansas City Royals,New York Yankees,3,1
+20130709,Boston Red Sox,Seattle Mariners,11,8
+20130709,Minensota Twins,Tampa Bay Devil Rays,1,4
+20130709,Los Angeles Dodgers,Arizona Diamondbacks,6,1
+20130709,Anaheim Angels,Chicago Cubs,2,7
+20130709,Atlanta Braves,Miami Marlins,6,4
+20130709,Cincinnati Reds,Milwaukee Brewers,0,2
+20130709,Washington Nationals,Philadelpia Phillies,2,4
+20130709,Oakland Athletics,Pittsburgh Pirates,2,1
+20130709,Colorado Rockies,San Diego Padres,1,2
+20130709,New York Mets,San  Francisco Giants,10,6
+20130709,Houston Colts,St. Louis Cardinals,5,9
+20130710,Texas Rangers,Baltimore Orioles,1,6
+20130710,Toronto Blue Jays,Cleveland Indians,5,4
+20130710,Chicago White Sox,Detroit Tigers,5,8
+20130710,Kansas City Royals,New York Yankees,1,8
+20130710,Boston Red Sox,Seattle Mariners,11,4
+20130710,Minensota Twins,Tampa Bay Devil Rays,3,4
+20130710,Los Angeles Dodgers,Arizona Diamondbacks,7,5
+20130710,Anaheim Angels,Chicago Cubs,13,2
+20130710,Atlanta Braves,Miami Marlins,2,6
+20130710,Cincinnati Reds,Milwaukee Brewers,6,2
+20130710,Washington Nationals,Philadelpia Phillies,5,1
+20130710,Oakland Athletics,Pittsburgh Pirates,0,5
+20130710,Colorado Rockies,San Diego Padres,5,4
+20130710,New York Mets,San  Francisco Giants,7,2
+20130710,Houston Colts,St. Louis Cardinals,4,5
+20130711,Texas Rangers,Baltimore Orioles,1,3
+20130711,Toronto Blue Jays,Cleveland Indians,2,4
+20130711,Chicago White Sox,Detroit Tigers,6,3
+20130711,Kansas City Royals,New York Yankees,4,8
+20130711,Boston Red Sox,Seattle Mariners,8,7
+20130711,Minensota Twins,Tampa Bay Devil Rays,3,4
+20130711,Milwaukee Brewers,Arizona Diamondbacks,3,5
+20130711,Cincinnati Reds,Atlanta Braves,5,6
+20130711,St. Louis Cardinals,Chicago Cubs,0,3
+20130711,Colorado Rockies,Los Angeles Dodgers,1,6
+20130711,Washington Nationals,Philadelpia Phillies,1,3
+20130711,San  Francisco Giants,San Diego Padres,4,2
+20130712,Toronto Blue Jays,Baltimore Orioles,5,8
+20130712,Kansas City Royals,Cleveland Indians,0,3
+20130712,Texas Rangers,Detroit Tigers,2,7
+20130712,Minensota Twins,New York Yankees,0,2
+20130712,Boston Red Sox,Oakland Athletics,4,2
+20130712,Anaheim Angels,Seattle Mariners,3,8
+20130712,Houston Colts,Tampa Bay Devil Rays,2,1
+20130712,Milwaukee Brewers,Arizona Diamondbacks,1,2
+20130712,Cincinnati Reds,Atlanta Braves,4,2
+20130712,St. Louis Cardinals,Chicago Cubs,3,2
+20130712,Colorado Rockies,Los Angeles Dodgers,3,0
+20130712,Washington Nationals,Miami Marlins,3,8
+20130712,New York Mets,Pittsburgh Pirates,2,3
+20130712,San  Francisco Giants,San Diego Padres,10,1
+20130713,Toronto Blue Jays,Baltimore Orioles,7,3
+20130713,Kansas City Royals,Cleveland Indians,3,5
+20130713,Texas Rangers,Detroit Tigers,7,1
+20130713,Minensota Twins,New York Yankees,4,1
+20130713,Boston Red Sox,Oakland Athletics,0,3
+20130713,Anaheim Angels,Seattle Mariners,0,6
+20130713,Houston Colts,Tampa Bay Devil Rays,3,4
+20130713,Milwaukee Brewers,Arizona Diamondbacks,4,5
+20130713,Cincinnati Reds,Atlanta Braves,2,5
+20130713,St. Louis Cardinals,Chicago Cubs,4,6
+20130713,Colorado Rockies,Los Angeles Dodgers,0,1
+20130713,Washington Nationals,Miami Marlins,1,2
+20130713,Chicago White Sox,Philadelpia Phillies,5,4
+20130713,Chicago White Sox,Philadelpia Phillies,1,2
+20130713,New York Mets,Pittsburgh Pirates,2,4
+20130713,San  Francisco Giants,San Diego Padres,9,0
+20130714,Toronto Blue Jays,Baltimore Orioles,4,7
+20130714,Kansas City Royals,Cleveland Indians,4,6
+20130714,Texas Rangers,Detroit Tigers,0,5
+20130714,Minensota Twins,New York Yankees,10,4
+20130714,Boston Red Sox,Oakland Athletics,2,3
+20130714,Anaheim Angels,Seattle Mariners,3,4
+20130714,Houston Colts,Tampa Bay Devil Rays,0,5
+20130714,Milwaukee Brewers,Arizona Diamondbacks,5,1
+20130714,Cincinnati Reds,Atlanta Braves,8,4
+20130714,St. Louis Cardinals,Chicago Cubs,10,6
+20130714,Colorado Rockies,Los Angeles Dodgers,3,1
+20130714,Washington Nationals,Miami Marlins,5,2
+20130714,Chicago White Sox,Philadelpia Phillies,3,4
+20130714,New York Mets,Pittsburgh Pirates,4,2
+20130714,San  Francisco Giants,San Diego Padres,1,10
+20130719,Oakland Athletics,Anaheim Angels,1,4
+20130719,New York Yankees,Boston Red Sox,2,4
+20130719,Atlanta Braves,Chicago White Sox,6,4
+20130719,Seattle Mariners,Houston Colts,10,7
+20130719,Detroit Tigers,Kansas City Royals,0,1
+20130719,Cleveland Indians,Minensota Twins,2,3
+20130719,Baltimore Orioles,Texas Rangers,3,1
+20130719,Tampa Bay Devil Rays,Toronto Blue Jays,8,5
+20130719,Pittsburgh Pirates,Cincinnati Reds,3,5
+20130719,Chicago Cubs,Colorado Rockies,3,1
+20130719,Miami Marlins,Milwaukee Brewers,0,2
+20130719,Philadelpia Phillies,New York Mets,13,8
+20130719,Arizona Diamondbacks,San  Francisco Giants,0,2
+20130719,San Diego Padres,St. Louis Cardinals,6,9
+20130719,Los Angeles Dodgers,Washington Nationals,3,2
+20130720,Oakland Athletics,Anaheim Angels,0,2
+20130720,New York Yankees,Boston Red Sox,5,2
+20130720,Atlanta Braves,Chicago White Sox,6,10
+20130720,Seattle Mariners,Houston Colts,4,2
+20130720,Detroit Tigers,Kansas City Royals,5,6
+20130720,Cleveland Indians,Minensota Twins,2,3
+20130720,Baltimore Orioles,Texas Rangers,7,4
+20130720,Tampa Bay Devil Rays,Toronto Blue Jays,4,3
+20130720,Pittsburgh Pirates,Cincinnati Reds,4,5
+20130720,Chicago Cubs,Colorado Rockies,3,9
+20130720,Miami Marlins,Milwaukee Brewers,0,6
+20130720,Philadelpia Phillies,New York Mets,4,5
+20130720,Arizona Diamondbacks,San  Francisco Giants,3,4
+20130720,San Diego Padres,St. Louis Cardinals,5,3
+20130720,Los Angeles Dodgers,Washington Nationals,3,1
+20130721,Oakland Athletics,Anaheim Angels,6,0
+20130721,New York Yankees,Boston Red Sox,7,8
+20130721,Atlanta Braves,Chicago White Sox,1,3
+20130721,Seattle Mariners,Houston Colts,12,5
+20130721,Detroit Tigers,Kansas City Royals,4,1
+20130721,Cleveland Indians,Minensota Twins,7,1
+20130721,Baltimore Orioles,Texas Rangers,4,2
+20130721,Tampa Bay Devil Rays,Toronto Blue Jays,4,3
+20130721,Pittsburgh Pirates,Cincinnati Reds,3,2
+20130721,Chicago Cubs,Colorado Rockies,3,4
+20130721,Miami Marlins,Milwaukee Brewers,0,1
+20130721,Philadelpia Phillies,New York Mets,0,5
+20130721,Arizona Diamondbacks,San  Francisco Giants,3,1
+20130721,San Diego Padres,St. Louis Cardinals,2,3
+20130721,Los Angeles Dodgers,Washington Nationals,9,2
+20130722,Minensota Twins,Anaheim Angels,4,3
+20130722,Tampa Bay Devil Rays,Boston Red Sox,3,0
+20130722,Detroit Tigers,Chicago White Sox,7,3
+20130722,Oakland Athletics,Houston Colts,4,3
+20130722,Baltimore Orioles,Kansas City Royals,9,2
+20130722,Cleveland Indians,Seattle Mariners,1,2
+20130722,New York Yankees,Texas Rangers,0,3
+20130722,Los Angeles Dodgers,Toronto Blue Jays,14,5
+20130722,Chicago Cubs,Arizona Diamondbacks,4,2
+20130722,Miami Marlins,Colorado Rockies,3,1
+20130722,San Diego Padres,Milwaukee Brewers,5,3
+20130722,Atlanta Braves,New York Mets,2,1
+20130722,Cincinnati Reds,San  Francisco Giants,11,0
+20130722,Pittsburgh Pirates,Washington Nationals,6,5
+20130723,Minensota Twins,Anaheim Angels,10,3
+20130723,Tampa Bay Devil Rays,Boston Red Sox,2,6
+20130723,Detroit Tigers,Chicago White Sox,6,2
+20130723,Oakland Athletics,Houston Colts,4,5
+20130723,Baltimore Orioles,Kansas City Royals,2,3
+20130723,Cleveland Indians,Seattle Mariners,3,4
+20130723,New York Yankees,Texas Rangers,5,4
+20130723,Los Angeles Dodgers,Toronto Blue Jays,10,9
+20130723,Chicago Cubs,Arizona Diamondbacks,4,10
+20130723,Cincinnati Reds,San  Francisco Giants,9,3
+20130723,Miami Marlins,Colorado Rockies,4,2
+20130723,San Diego Padres,Milwaukee Brewers,6,2
+20130723,Atlanta Braves,New York Mets,1,4
+20130723,San  Francisco Giants,Cincinnati Reds,5,3
+20130723,Philadelpia Phillies,St. Louis Cardinals,1,4
+20130723,Pittsburgh Pirates,Washington Nationals,5,1
+20130724,Minensota Twins,Anaheim Angels,0,1
+20130724,Tampa Bay Devil Rays,Boston Red Sox,5,1
+20130724,Detroit Tigers,Chicago White Sox,6,2
+20130724,Oakland Athletics,Houston Colts,4,3
+20130724,Baltimore Orioles,Kansas City Royals,3,4
+20130724,Cleveland Indians,Seattle Mariners,10,1
+20130724,New York Yankees,Texas Rangers,1,3
+20130724,Los Angeles Dodgers,Toronto Blue Jays,8,3
+20130724,Chicago Cubs,Arizona Diamondbacks,7,6
+20130724,Miami Marlins,Colorado Rockies,1,2
+20130724,San Diego Padres,Milwaukee Brewers,1,3
+20130724,Atlanta Braves,New York Mets,8,2
+20130724,Cincinnati Reds,San  Francisco Giants,8,3
+20130724,Philadelpia Phillies,St. Louis Cardinals,3,11
+20130724,Pittsburgh Pirates,Washington Nationals,4,2
+20130725,Detroit Tigers,Chicago White Sox,4,7
+20130725,Baltimore Orioles,Kansas City Royals,1,7
+20130725,Anaheim Angels,Oakland Athletics,8,3
+20130725,Minensota Twins,Seattle Mariners,2,8
+20130725,New York Yankees,Texas Rangers,2,0
+20130725,Houston Colts,Toronto Blue Jays,0,4
+20130725,Chicago Cubs,Arizona Diamondbacks,1,3
+20130725,Miami Marlins,Colorado Rockies,5,3
+20130725,Cincinnati Reds,Los Angeles Dodgers,5,2
+20130725,San Diego Padres,Milwaukee Brewers,10,8
+20130725,Atlanta Braves,New York Mets,4,7
+20130725,Philadelpia Phillies,St. Louis Cardinals,1,3
+20130725,Pittsburgh Pirates,Washington Nationals,7,9
+20130726,Boston Red Sox,Baltimore Orioles,0,6
+20130726,Kansas City Royals,Chicago White Sox,5,1
+20130726,Texas Rangers,Cleveland Indians,8,11
+20130726,Philadelpia Phillies,Detroit Tigers,1,2
+20130726,Tampa Bay Devil Rays,New York Yankees,10,6
+20130726,Anaheim Angels,Oakland Athletics,4,6
+20130726,Minensota Twins,Seattle Mariners,3,2
+20130726,Houston Colts,Toronto Blue Jays,6,12
+20130726,San Diego Padres,Arizona Diamondbacks,0,10
+20130726,St. Louis Cardinals,Atlanta Braves,1,4
+20130726,Milwaukee Brewers,Colorado Rockies,3,8
+20130726,Cincinnati Reds,Los Angeles Dodgers,1,2
+20130726,Pittsburgh Pirates,Miami Marlins,0,2
+20130726,Chicago Cubs,San  Francisco Giants,3,2
+20130726,New York Mets,Washington Nationals,11,0
+20130726,New York Mets,Washington Nationals,1,2
+20130727,Boston Red Sox,Baltimore Orioles,7,3
+20130727,Kansas City Royals,Chicago White Sox,1,0
+20130727,Texas Rangers,Cleveland Indians,0,1
+20130727,Philadelpia Phillies,Detroit Tigers,0,10
+20130727,Tampa Bay Devil Rays,New York Yankees,1,0
+20130727,Anaheim Angels,Oakland Athletics,1,3
+20130727,Minensota Twins,Seattle Mariners,4,0
+20130727,Houston Colts,Toronto Blue Jays,8,6
+20130727,San Diego Padres,Arizona Diamondbacks,12,3
+20130727,St. Louis Cardinals,Atlanta Braves,0,2
+20130727,Milwaukee Brewers,Colorado Rockies,7,5
+20130727,Cincinnati Reds,Los Angeles Dodgers,1,4
+20130727,Pittsburgh Pirates,Miami Marlins,7,4
+20130727,Chicago Cubs,San  Francisco Giants,1,0
+20130727,New York Mets,Washington Nationals,1,4
+20130728,Boston Red Sox,Baltimore Orioles,5,0
+20130728,Kansas City Royals,Chicago White Sox,4,2
+20130728,Texas Rangers,Cleveland Indians,0,6
+20130728,Philadelpia Phillies,Detroit Tigers,4,12
+20130728,Tampa Bay Devil Rays,New York Yankees,5,6
+20130728,Anaheim Angels,Oakland Athletics,6,10
+20130728,Minensota Twins,Seattle Mariners,4,6
+20130728,Houston Colts,Toronto Blue Jays,1,2
+20130728,San Diego Padres,Arizona Diamondbacks,1,0
+20130728,St. Louis Cardinals,Atlanta Braves,2,5
+20130728,Milwaukee Brewers,Colorado Rockies,5,6
+20130728,Cincinnati Reds,Los Angeles Dodgers,0,1
+20130728,Pittsburgh Pirates,Miami Marlins,2,3
+20130728,Chicago Cubs,San  Francisco Giants,2,1
+20130728,New York Mets,Washington Nationals,1,14
+20130729,Tampa Bay Devil Rays,Boston Red Sox,2,1
+20130729,Chicago White Sox,Cleveland Indians,2,3
+20130729,Toronto Blue Jays,Oakland Athletics,4,9
+20130729,Anaheim Angels,Texas Rangers,3,4
+20130729,Colorado Rockies,Atlanta Braves,8,9
+20130729,Milwaukee Brewers,Chicago Cubs,5,0
+20130729,New York Mets,Miami Marlins,6,5
+20130729,St. Louis Cardinals,Pittsburgh Pirates,2,9
+20130729,Cincinnati Reds,San Diego Padres,1,2
+20130730,Houston Colts,Baltimore Orioles,3,4
+20130730,Seattle Mariners,Boston Red Sox,2,8
+20130730,Chicago White Sox,Cleveland Indians,4,7
+20130730,Washington Nationals,Detroit Tigers,1,5
+20130730,Kansas City Royals,Minensota Twins,7,2
+20130730,Toronto Blue Jays,Oakland Athletics,5,0
+20130730,Arizona Diamondbacks,Tampa Bay Devil Rays,2,5
+20130730,Anaheim Angels,Texas Rangers,11,14
+20130730,Colorado Rockies,Atlanta Braves,3,11
+20130730,Milwaukee Brewers,Chicago Cubs,6,5
+20130730,Milwaukee Brewers,Chicago Cubs,3,2
+20130730,New York Yankees,Los Angeles Dodgers,2,3
+20130730,New York Mets,Miami Marlins,4,2
+20130730,San  Francisco Giants,Philadelpia Phillies,3,7
+20130730,St. Louis Cardinals,Pittsburgh Pirates,1,2
+20130730,St. Louis Cardinals,Pittsburgh Pirates,0,6
+20130730,Cincinnati Reds,San Diego Padres,2,4
+20130731,Houston Colts,Baltimore Orioles,11,0
+20130731,Seattle Mariners,Boston Red Sox,4,5
+20130731,Chicago White Sox,Cleveland Indians,5,6
+20130731,Washington Nationals,Detroit Tigers,1,11
+20130731,Kansas City Royals,Minensota Twins,4,3
+20130731,Toronto Blue Jays,Oakland Athletics,5,2
+20130731,Arizona Diamondbacks,Tampa Bay Devil Rays,7,0
+20130731,Anaheim Angels,Texas Rangers,1,2
+20130731,Colorado Rockies,Atlanta Braves,0,9
+20130731,Milwaukee Brewers,Chicago Cubs,1,6
+20130731,New York Yankees,Los Angeles Dodgers,3,0
+20130731,New York Mets,Miami Marlins,2,3
+20130731,San  Francisco Giants,Philadelpia Phillies,9,2
+20130731,St. Louis Cardinals,Pittsburgh Pirates,4,5
+20130731,Cincinnati Reds,San Diego Padres,4,1
+20130801,Toronto Blue Jays,Anaheim Angels,2,8
+20130801,Houston Colts,Baltimore Orioles,3,6
+20130801,Seattle Mariners,Boston Red Sox,7,8
+20130801,Chicago White Sox,Cleveland Indians,1,6
+20130801,Kansas City Royals,Minensota Twins,7,2
+20130801,Arizona Diamondbacks,Texas Rangers,1,7
+20130801,Colorado Rockies,Atlanta Braves,2,11
+20130801,Los Angeles Dodgers,Chicago Cubs,6,4
+20130801,New York Mets,Miami Marlins,0,3
+20130801,San  Francisco Giants,Philadelpia Phillies,2,1
+20130801,St. Louis Cardinals,Pittsburgh Pirates,13,0
+20130802,Toronto Blue Jays,Anaheim Angels,5,7
+20130802,Seattle Mariners,Baltimore Orioles,8,11
+20130802,Arizona Diamondbacks,Boston Red Sox,7,6
+20130802,Chicago White Sox,Detroit Tigers,1,2
+20130802,Houston Colts,Minensota Twins,3,4
+20130802,Texas Rangers,Oakland Athletics,8,3
+20130802,San  Francisco Giants,Tampa Bay Devil Rays,4,1
+20130802,Los Angeles Dodgers,Chicago Cubs,6,2
+20130802,St. Louis Cardinals,Cincinnati Reds,13,3
+20130802,Cleveland Indians,Miami Marlins,0,10
+20130802,Washington Nationals,Milwaukee Brewers,4,1
+20130802,Kansas City Royals,New York Mets,2,4
+20130802,Atlanta Braves,Philadelpia Phillies,6,4
+20130802,Colorado Rockies,Pittsburgh Pirates,4,2
+20130802,New York Yankees,San Diego Padres,2,7
+20130803,Toronto Blue Jays,Anaheim Angels,3,7
+20130803,Seattle Mariners,Baltimore Orioles,8,4
+20130803,Arizona Diamondbacks,Boston Red Sox,2,5
+20130803,Chicago White Sox,Detroit Tigers,0,3
+20130803,Houston Colts,Minensota Twins,4,6
+20130803,Texas Rangers,Oakland Athletics,2,4
+20130803,San  Francisco Giants,Tampa Bay Devil Rays,1,2
+20130803,Los Angeles Dodgers,Chicago Cubs,3,0
+20130803,St. Louis Cardinals,Cincinnati Reds,3,8
+20130803,Cleveland Indians,Miami Marlins,4,3
+20130803,Washington Nationals,Milwaukee Brewers,3,0
+20130803,Kansas City Royals,New York Mets,4,3
+20130803,Atlanta Braves,Philadelpia Phillies,5,4
+20130803,Colorado Rockies,Pittsburgh Pirates,2,5
+20130803,New York Yankees,San Diego Padres,3,0
+20130804,Toronto Blue Jays,Anaheim Angels,6,5
+20130804,Seattle Mariners,Baltimore Orioles,3,2
+20130804,Arizona Diamondbacks,Boston Red Sox,0,4
+20130804,Chicago White Sox,Detroit Tigers,2,3
+20130804,Houston Colts,Minensota Twins,2,3
+20130804,Texas Rangers,Oakland Athletics,4,0
+20130804,San  Francisco Giants,Tampa Bay Devil Rays,3,4
+20130804,Los Angeles Dodgers,Chicago Cubs,1,0
+20130804,St. Louis Cardinals,Cincinnati Reds,15,2
+20130804,Cleveland Indians,Miami Marlins,2,0
+20130804,Washington Nationals,Milwaukee Brewers,5,8
+20130804,Kansas City Royals,New York Mets,6,2
+20130804,Atlanta Braves,Philadelpia Phillies,4,1
+20130804,Colorado Rockies,Pittsburgh Pirates,1,5
+20130804,New York Yankees,San Diego Padres,3,6
+20130805,Texas Rangers,Anaheim Angels,5,2
+20130805,New York Yankees,Chicago White Sox,1,8
+20130805,Detroit Tigers,Cleveland Indians,4,2
+20130805,Boston Red Sox,Houston Colts,0,2
+20130805,Minensota Twins,Kansas City Royals,0,13
+20130805,Toronto Blue Jays,Seattle Mariners,3,1
+20130805,Milwaukee Brewers,San  Francisco Giants,2,4
+20130805,Los Angeles Dodgers,St. Louis Cardinals,3,2
+20130805,Atlanta Braves,Washington Nationals,3,2
+20130806,Texas Rangers,Anaheim Angels,8,3
+20130806,New York Yankees,Chicago White Sox,2,3
+20130806,Detroit Tigers,Cleveland Indians,5,1
+20130806,Boston Red Sox,Houston Colts,15,10
+20130806,Minensota Twins,Kansas City Royals,7,0
+20130806,Toronto Blue Jays,Seattle Mariners,7,2
+20130806,Tampa Bay Devil Rays,Arizona Diamondbacks,1,6
+20130806,Oakland Athletics,Cincinnati Reds,1,3
+20130806,Colorado Rockies,New York Mets,2,3
+20130806,Chicago Cubs,Philadelpia Phillies,8,9
+20130806,Miami Marlins,Pittsburgh Pirates,3,4
+20130806,Baltimore Orioles,San Diego Padres,4,1
+20130806,Milwaukee Brewers,San  Francisco Giants,3,1
+20130806,Los Angeles Dodgers,St. Louis Cardinals,1,5
+20130806,Atlanta Braves,Washington Nationals,2,1
+20130807,Texas Rangers,Anaheim Angels,10,3
+20130807,New York Yankees,Chicago White Sox,5,6
+20130807,Detroit Tigers,Cleveland Indians,6,5
+20130807,Boston Red Sox,Houston Colts,7,5
+20130807,Minensota Twins,Kansas City Royals,2,5
+20130807,Toronto Blue Jays,Seattle Mariners,7,9
+20130807,Tampa Bay Devil Rays,Arizona Diamondbacks,8,9
+20130807,Oakland Athletics,Cincinnati Reds,5,6
+20130807,Colorado Rockies,New York Mets,0,5
+20130807,Chicago Cubs,Philadelpia Phillies,5,2
+20130807,Miami Marlins,Pittsburgh Pirates,2,4
+20130807,Baltimore Orioles,San Diego Padres,10,3
+20130807,Milwaukee Brewers,San  Francisco Giants,6,1
+20130807,Los Angeles Dodgers,St. Louis Cardinals,13,4
+20130807,Atlanta Braves,Washington Nationals,6,3
+20130808,Detroit Tigers,Cleveland Indians,10,3
+20130808,Boston Red Sox,Kansas City Royals,1,5
+20130808,Colorado Rockies,New York Mets,1,2
+20130808,Chicago Cubs,Philadelpia Phillies,1,12
+20130808,Miami Marlins,Pittsburgh Pirates,4,5
+20130808,Milwaukee Brewers,San  Francisco Giants,1,4
+20130808,Los Angeles Dodgers,St. Louis Cardinals,5,1
+20130809,Minensota Twins,Chicago White Sox,7,5
+20130809,Minensota Twins,Chicago White Sox,3,2
+20130809,Anaheim Angels,Cleveland Indians,5,2
+20130809,Texas Rangers,Houston Colts,9,5
+20130809,Boston Red Sox,Kansas City Royals,6,9
+20130809,Detroit Tigers,New York Yankees,3,4
+20130809,Milwaukee Brewers,Seattle Mariners,10,5
+20130809,Oakland Athletics,Toronto Blue Jays,14,6
+20130809,New York Mets,Arizona Diamondbacks,4,5
+20130809,Miami Marlins,Atlanta Braves,0,5
+20130809,San Diego Padres,Cincinnati Reds,2,7
+20130809,Pittsburgh Pirates,Colorado Rockies,1,10
+20130809,Tampa Bay Devil Rays,Los Angeles Dodgers,6,7
+20130809,Baltimore Orioles,San  Francisco Giants,5,2
+20130809,Chicago Cubs,St. Louis Cardinals,3,0
+20130809,Philadelpia Phillies,Washington Nationals,2,9
+20130810,Minensota Twins,Chicago White Sox,4,5
+20130810,Anaheim Angels,Cleveland Indians,7,2
+20130810,Texas Rangers,Houston Colts,5,4
+20130810,Boston Red Sox,Kansas City Royals,5,3
+20130810,Detroit Tigers,New York Yankees,9,3
+20130810,Milwaukee Brewers,Seattle Mariners,10,0
+20130810,Oakland Athletics,Toronto Blue Jays,4,5
+20130810,New York Mets,Arizona Diamondbacks,4,1
+20130810,Miami Marlins,Atlanta Braves,1,0
+20130810,San Diego Padres,Cincinnati Reds,3,1
+20130810,Pittsburgh Pirates,Colorado Rockies,4,6
+20130810,Tampa Bay Devil Rays,Los Angeles Dodgers,0,5
+20130810,Baltimore Orioles,San  Francisco Giants,2,3
+20130810,Chicago Cubs,St. Louis Cardinals,6,5
+20130810,Philadelpia Phillies,Washington Nationals,5,8
+20130811,Minensota Twins,Chicago White Sox,5,2
+20130811,Anaheim Angels,Cleveland Indians,5,6
+20130811,Texas Rangers,Houston Colts,6,1
+20130811,Boston Red Sox,Kansas City Royals,3,4
+20130811,Detroit Tigers,New York Yankees,4,5
+20130811,Milwaukee Brewers,Seattle Mariners,0,2
+20130811,Oakland Athletics,Toronto Blue Jays,6,4
+20130811,New York Mets,Arizona Diamondbacks,9,5
+20130811,Miami Marlins,Atlanta Braves,4,9
+20130811,San Diego Padres,Cincinnati Reds,2,3
+20130811,Pittsburgh Pirates,Colorado Rockies,2,3
+20130811,Tampa Bay Devil Rays,Los Angeles Dodgers,2,8
+20130811,Baltimore Orioles,San  Francisco Giants,10,2
+20130811,Chicago Cubs,St. Louis Cardinals,4,8
+20130811,Philadelpia Phillies,Washington Nationals,0,6
+20130812,Detroit Tigers,Chicago White Sox,2,6
+20130812,Texas Rangers,Houston Colts,2,1
+20130812,Miami Marlins,Kansas City Royals,2,6
+20130812,Cleveland Indians,Minensota Twins,0,3
+20130812,Anaheim Angels,New York Yankees,1,2
+20130812,Oakland Athletics,Toronto Blue Jays,5,1
+20130812,Baltimore Orioles,Arizona Diamondbacks,6,7
+20130812,Philadelpia Phillies,Atlanta Braves,5,1
+20130812,Cincinnati Reds,Chicago Cubs,2,0
+20130812,San Diego Padres,Colorado Rockies,2,14
+20130812,New York Mets,Los Angeles Dodgers,2,4
+20130813,Detroit Tigers,Chicago White Sox,3,4
+20130813,Miami Marlins,Kansas City Royals,1,0
+20130813,Cleveland Indians,Minensota Twins,5,2
+20130813,Anaheim Angels,New York Yankees,7,14
+20130813,Houston Colts,Oakland Athletics,5,4
+20130813,Seattle Mariners,Tampa Bay Devil Rays,5,4
+20130813,Milwaukee Brewers,Texas Rangers,5,1
+20130813,Boston Red Sox,Toronto Blue Jays,4,2
+20130813,Baltimore Orioles,Arizona Diamondbacks,3,4
+20130813,Philadelpia Phillies,Atlanta Braves,1,3
+20130813,Cincinnati Reds,Chicago Cubs,6,4
+20130813,San Diego Padres,Colorado Rockies,7,5
+20130813,New York Mets,Los Angeles Dodgers,2,4
+20130813,Pittsburgh Pirates,St. Louis Cardinals,3,4
+20130813,San  Francisco Giants,Washington Nationals,2,4
+20130814,Detroit Tigers,Chicago White Sox,6,4
+20130814,Miami Marlins,Kansas City Royals,5,2
+20130814,Cleveland Indians,Minensota Twins,9,8
+20130814,Anaheim Angels,New York Yankees,3,11
+20130814,Houston Colts,Oakland Athletics,2,1
+20130814,Seattle Mariners,Tampa Bay Devil Rays,4,5
+20130814,Milwaukee Brewers,Texas Rangers,4,5
+20130814,Boston Red Sox,Toronto Blue Jays,3,4
+20130814,Baltimore Orioles,Arizona Diamondbacks,4,5
+20130814,Philadelpia Phillies,Atlanta Braves,3,6
+20130814,Cincinnati Reds,Chicago Cubs,5,0
+20130814,San Diego Padres,Colorado Rockies,2,4
+20130814,New York Mets,Los Angeles Dodgers,4,5
+20130814,Pittsburgh Pirates,St. Louis Cardinals,5,1
+20130814,San  Francisco Giants,Washington Nationals,5,6
+20130815,Kansas City Royals,Detroit Tigers,1,4
+20130815,Chicago White Sox,Minensota Twins,3,4
+20130815,Anaheim Angels,New York Yankees,8,4
+20130815,Houston Colts,Oakland Athletics,0,5
+20130815,Seattle Mariners,Tampa Bay Devil Rays,1,7
+20130815,Boston Red Sox,Toronto Blue Jays,1,2
+20130815,Cincinnati Reds,Milwaukee Brewers,2,1
+20130815,New York Mets,San Diego Padres,4,1
+20130815,Pittsburgh Pirates,St. Louis Cardinals,5,6
+20130815,San  Francisco Giants,Washington Nationals,4,3
+20130816,Houston Colts,Anaheim Angels,8,2
+20130816,Colorado Rockies,Baltimore Orioles,6,3
+20130816,New York Yankees,Boston Red Sox,10,3
+20130816,Kansas City Royals,Detroit Tigers,2,1
+20130816,Kansas City Royals,Detroit Tigers,3,0
+20130816,Chicago White Sox,Minensota Twins,5,2
+20130816,Cleveland Indians,Oakland Athletics,2,3
+20130816,Toronto Blue Jays,Tampa Bay Devil Rays,4,5
+20130816,Seattle Mariners,Texas Rangers,3,1
+20130816,Washington Nationals,Atlanta Braves,2,3
+20130816,St. Louis Cardinals,Chicago Cubs,0,7
+20130816,San  Francisco Giants,Miami Marlins,14,10
+20130816,Cincinnati Reds,Milwaukee Brewers,6,7
+20130816,Los Angeles Dodgers,Philadelpia Phillies,4,0
+20130816,Arizona Diamondbacks,Pittsburgh Pirates,2,6
+20130816,New York Mets,San Diego Padres,5,2
+20130817,Houston Colts,Anaheim Angels,5,6
+20130817,Colorado Rockies,Baltimore Orioles,4,8
+20130817,New York Yankees,Boston Red Sox,1,6
+20130817,Kansas City Royals,Detroit Tigers,5,6
+20130817,Chicago White Sox,Minensota Twins,8,5
+20130817,Cleveland Indians,Oakland Athletics,7,1
+20130817,Toronto Blue Jays,Tampa Bay Devil Rays,6,2
+20130817,Seattle Mariners,Texas Rangers,3,15
+20130817,Washington Nationals,Atlanta Braves,8,7
+20130817,St. Louis Cardinals,Chicago Cubs,4,0
+20130817,San  Francisco Giants,Miami Marlins,6,4
+20130817,Cincinnati Reds,Milwaukee Brewers,0,2
+20130817,Los Angeles Dodgers,Philadelpia Phillies,5,0
+20130817,Arizona Diamondbacks,Pittsburgh Pirates,15,5
+20130817,New York Mets,San Diego Padres,2,8
+20130818,Houston Colts,Anaheim Angels,7,5
+20130818,Colorado Rockies,Baltimore Orioles,2,7
+20130818,New York Yankees,Boston Red Sox,9,6
+20130818,Kansas City Royals,Detroit Tigers,3,6
+20130818,Chicago White Sox,Minensota Twins,5,2
+20130818,Cleveland Indians,Oakland Athletics,3,7
+20130818,Toronto Blue Jays,Tampa Bay Devil Rays,1,2
+20130818,Seattle Mariners,Texas Rangers,4,3
+20130818,Washington Nationals,Atlanta Braves,1,2
+20130818,St. Louis Cardinals,Chicago Cubs,6,1
+20130818,San  Francisco Giants,Miami Marlins,5,6
+20130818,Cincinnati Reds,Milwaukee Brewers,9,1
+20130818,Los Angeles Dodgers,Philadelpia Phillies,2,3
+20130818,Arizona Diamondbacks,Pittsburgh Pirates,4,2
+20130818,New York Mets,San Diego Padres,3,4
+20130819,Cleveland Indians,Anaheim Angels,5,2
+20130819,Tampa Bay Devil Rays,Baltimore Orioles,4,3
+20130819,New York Mets,Minensota Twins,6,1
+20130819,Seattle Mariners,Oakland Athletics,1,2
+20130819,Houston Colts,Texas Rangers,5,16
+20130819,Washington Nationals,Chicago Cubs,1,11
+20130819,Arizona Diamondbacks,Cincinnati Reds,3,5
+20130819,Los Angeles Dodgers,Miami Marlins,2,6
+20130819,St. Louis Cardinals,Milwaukee Brewers,8,5
+20130819,Colorado Rockies,Philadelpia Phillies,4,5
+20130819,Pittsburgh Pirates,San Diego Padres,3,1
+20130819,Boston Red Sox,San  Francisco Giants,7,0
+20130820,Cleveland Indians,Anaheim Angels,4,1
+20130820,Tampa Bay Devil Rays,Baltimore Orioles,7,4
+20130820,Minensota Twins,Detroit Tigers,6,3
+20130820,Chicago White Sox,Kansas City Royals,2,0
+20130820,Toronto Blue Jays,New York Yankees,4,8
+20130820,Toronto Blue Jays,New York Yankees,2,3
+20130820,Seattle Mariners,Oakland Athletics,7,4
+20130820,Houston Colts,Texas Rangers,2,4
+20130820,Washington Nationals,Chicago Cubs,4,2
+20130820,Arizona Diamondbacks,Cincinnati Reds,5,2
+20130820,Los Angeles Dodgers,Miami Marlins,6,4
+20130820,St. Louis Cardinals,Milwaukee Brewers,3,6
+20130820,Atlanta Braves,New York Mets,3,5
+20130820,Colorado Rockies,Philadelpia Phillies,5,3
+20130820,Pittsburgh Pirates,San Diego Padres,8,1
+20130820,Boston Red Sox,San  Francisco Giants,2,3
+20130821,Cleveland Indians,Anaheim Angels,3,1
+20130821,Tampa Bay Devil Rays,Baltimore Orioles,2,4
+20130821,Minensota Twins,Detroit Tigers,1,7
+20130821,Chicago White Sox,Kansas City Royals,5,2
+20130821,Toronto Blue Jays,New York Yankees,2,4
+20130821,Seattle Mariners,Oakland Athletics,5,3
+20130821,Houston Colts,Texas Rangers,4,5
+20130821,Washington Nationals,Chicago Cubs,11,6
+20130821,Arizona Diamondbacks,Cincinnati Reds,7,10
+20130821,Los Angeles Dodgers,Miami Marlins,4,1
+20130821,St. Louis Cardinals,Milwaukee Brewers,8,6
+20130821,Atlanta Braves,New York Mets,4,1
+20130821,Colorado Rockies,Philadelpia Phillies,3,4
+20130821,Pittsburgh Pirates,San Diego Padres,1,2
+20130821,Boston Red Sox,San  Francisco Giants,12,1
+20130822,Minensota Twins,Detroit Tigers,7,6
+20130822,Chicago White Sox,Kansas City Royals,4,3
+20130822,Toronto Blue Jays,New York Yankees,3,5
+20130822,Washington Nationals,Chicago Cubs,5,4
+20130822,Arizona Diamondbacks,Cincinnati Reds,1,2
+20130822,Los Angeles Dodgers,Miami Marlins,6,0
+20130822,Colorado Rockies,Philadelpia Phillies,4,5
+20130822,Pittsburgh Pirates,San  Francisco Giants,10,5
+20130822,Atlanta Braves,St. Louis Cardinals,2,6
+20130823,Oakland Athletics,Baltimore Orioles,7,9
+20130823,Texas Rangers,Chicago White Sox,11,5
+20130823,Minensota Twins,Cleveland Indians,5,1
+20130823,Toronto Blue Jays,Houston Colts,4,12
+20130823,Washington Nationals,Kansas City Royals,11,10
+20130823,Anaheim Angels,Seattle Mariners,2,0
+20130823,New York Yankees,Tampa Bay Devil Rays,2,7
+20130823,Milwaukee Brewers,Cincinnati Reds,6,4
+20130823,Boston Red Sox,Los Angeles Dodgers,0,2
+20130823,Colorado Rockies,Miami Marlins,3,2
+20130823,Detroit Tigers,New York Mets,6,1
+20130823,Arizona Diamondbacks,Philadelpia Phillies,3,4
+20130823,Chicago Cubs,San Diego Padres,6,8
+20130823,Pittsburgh Pirates,San  Francisco Giants,3,1
+20130823,Atlanta Braves,St. Louis Cardinals,1,3
+20130824,Oakland Athletics,Baltimore Orioles,2,1
+20130824,Texas Rangers,Chicago White Sox,2,3
+20130824,Minensota Twins,Cleveland Indians,2,7
+20130824,Toronto Blue Jays,Houston Colts,5,8
+20130824,Washington Nationals,Kansas City Royals,7,2
+20130824,Anaheim Angels,Seattle Mariners,5,1
+20130824,New York Yankees,Tampa Bay Devil Rays,2,4
+20130824,Milwaukee Brewers,Cincinnati Reds,3,6
+20130824,Boston Red Sox,Los Angeles Dodgers,4,2
+20130824,Colorado Rockies,Miami Marlins,0,3
+20130824,Detroit Tigers,New York Mets,3,0
+20130824,Arizona Diamondbacks,Philadelpia Phillies,12,7
+20130824,Chicago Cubs,San Diego Padres,3,2
+20130824,Pittsburgh Pirates,San  Francisco Giants,3,6
+20130824,Atlanta Braves,St. Louis Cardinals,2,6
+20130825,Oakland Athletics,Baltimore Orioles,3,10
+20130825,Texas Rangers,Chicago White Sox,2,5
+20130825,Minensota Twins,Cleveland Indians,1,3
+20130825,Toronto Blue Jays,Houston Colts,2,1
+20130825,Washington Nationals,Kansas City Royals,4,6
+20130825,Anaheim Angels,Seattle Mariners,7,1
+20130825,New York Yankees,Tampa Bay Devil Rays,3,2
+20130825,Milwaukee Brewers,Cincinnati Reds,3,1
+20130825,Boston Red Sox,Los Angeles Dodgers,8,1
+20130825,Colorado Rockies,Miami Marlins,4,3
+20130825,Detroit Tigers,New York Mets,11,3
+20130825,Arizona Diamondbacks,Philadelpia Phillies,5,9
+20130825,Chicago Cubs,San Diego Padres,2,3
+20130825,Pittsburgh Pirates,San  Francisco Giants,0,4
+20130825,Atlanta Braves,St. Louis Cardinals,5,2
+20130826,Houston Colts,Chicago White Sox,10,8
+20130826,Oakland Athletics,Detroit Tigers,8,6
+20130826,Tampa Bay Devil Rays,Kansas City Royals,1,11
+20130826,Texas Rangers,Seattle Mariners,8,3
+20130826,New York Yankees,Toronto Blue Jays,2,5
+20130826,San Diego Padres,Arizona Diamondbacks,1,6
+20130826,San  Francisco Giants,Colorado Rockies,1,6
+20130826,Chicago Cubs,Los Angeles Dodgers,2,6
+20130826,Philadelpia Phillies,New York Mets,2,1
+20130826,Cincinnati Reds,St. Louis Cardinals,6,8
+20130827,Baltimore Orioles,Boston Red Sox,2,13
+20130827,Houston Colts,Chicago White Sox,3,4
+20130827,Oakland Athletics,Detroit Tigers,6,3
+20130827,Kansas City Royals,Minensota Twins,6,1
+20130827,Texas Rangers,Seattle Mariners,4,3
+20130827,Anaheim Angels,Tampa Bay Devil Rays,6,5
+20130827,New York Yankees,Toronto Blue Jays,7,1
+20130827,San Diego Padres,Arizona Diamondbacks,9,10
+20130827,Cleveland Indians,Atlanta Braves,0,2
+20130827,San  Francisco Giants,Colorado Rockies,5,3
+20130827,Chicago Cubs,Los Angeles Dodgers,3,2
+20130827,Philadelpia Phillies,New York Mets,0,5
+20130827,Milwaukee Brewers,Pittsburgh Pirates,7,6
+20130827,Cincinnati Reds,St. Louis Cardinals,1,6
+20130827,Miami Marlins,Washington Nationals,1,2
+20130828,Baltimore Orioles,Boston Red Sox,3,4
+20130828,Houston Colts,Chicago White Sox,1,6
+20130828,Oakland Athletics,Detroit Tigers,14,4
+20130828,Kansas City Royals,Minensota Twins,8,1
+20130828,Texas Rangers,Seattle Mariners,12,4
+20130828,Anaheim Angels,Tampa Bay Devil Rays,1,4
+20130828,New York Yankees,Toronto Blue Jays,2,7
+20130828,San Diego Padres,Arizona Diamondbacks,5,1
+20130828,Cleveland Indians,Atlanta Braves,2,3
+20130828,San  Francisco Giants,Colorado Rockies,4,5
+20130828,Chicago Cubs,Los Angeles Dodgers,0,4
+20130828,Philadelpia Phillies,New York Mets,6,2
+20130828,Milwaukee Brewers,Pittsburgh Pirates,1,7
+20130828,Cincinnati Reds,St. Louis Cardinals,10,0
+20130828,Miami Marlins,Washington Nationals,3,4
+20130829,Baltimore Orioles,Boston Red Sox,3,2
+20130829,Oakland Athletics,Detroit Tigers,6,7
+20130829,Seattle Mariners,Houston Colts,3,2
+20130829,Kansas City Royals,Minensota Twins,3,1
+20130829,Anaheim Angels,Tampa Bay Devil Rays,2,0
+20130829,Cleveland Indians,Atlanta Braves,1,3
+20130829,Philadelpia Phillies,New York Mets,3,11
+20130829,Milwaukee Brewers,Pittsburgh Pirates,4,0
+20130829,Miami Marlins,Washington Nationals,0,9
+20130830,Chicago White Sox,Boston Red Sox,3,4
+20130830,Cleveland Indians,Detroit Tigers,2,7
+20130830,Seattle Mariners,Houston Colts,7,1
+20130830,Baltimore Orioles,New York Yankees,5,8
+20130830,Tampa Bay Devil Rays,Oakland Athletics,3,4
+20130830,Minensota Twins,Texas Rangers,3,2
+20130830,Kansas City Royals,Toronto Blue Jays,2,3
+20130830,San  Francisco Giants,Arizona Diamondbacks,1,0
+20130830,Miami Marlins,Atlanta Braves,1,2
+20130830,Philadelpia Phillies,Chicago Cubs,6,5
+20130830,Cincinnati Reds,Colorado Rockies,6,9
+20130830,San Diego Padres,Los Angeles Dodgers,2,9
+20130830,Anaheim Angels,Milwaukee Brewers,5,0
+20130830,St. Louis Cardinals,Pittsburgh Pirates,0,5
+20130830,New York Mets,Washington Nationals,3,2
+20130831,Chicago White Sox,Boston Red Sox,2,7
+20130831,Cleveland Indians,Detroit Tigers,5,10
+20130831,Seattle Mariners,Houston Colts,3,1
+20130831,Baltimore Orioles,New York Yankees,0,2
+20130831,Tampa Bay Devil Rays,Oakland Athletics,1,2
+20130831,Minensota Twins,Texas Rangers,1,2
+20130831,Kansas City Royals,Toronto Blue Jays,2,4
+20130831,San  Francisco Giants,Arizona Diamondbacks,3,4
+20130831,Miami Marlins,Atlanta Braves,4,5
+20130831,Philadelpia Phillies,Chicago Cubs,3,4
+20130831,Cincinnati Reds,Colorado Rockies,8,3
+20130831,San Diego Padres,Los Angeles Dodgers,1,2
+20130831,Anaheim Angels,Milwaukee Brewers,6,5
+20130831,St. Louis Cardinals,Pittsburgh Pirates,1,7
+20130831,New York Mets,Washington Nationals,11,3
+20130901,Chicago White Sox,Boston Red Sox,6,7
+20130901,Cleveland Indians,Detroit Tigers,4,0
+20130901,Seattle Mariners,Houston Colts,0,2
+20130901,Baltimore Orioles,New York Yankees,7,3
+20130901,Tampa Bay Devil Rays,Oakland Athletics,1,5
+20130901,Minensota Twins,Texas Rangers,4,2
+20130901,Kansas City Royals,Toronto Blue Jays,5,0
+20130901,San  Francisco Giants,Arizona Diamondbacks,8,2
+20130901,Miami Marlins,Atlanta Braves,7,0
+20130901,Philadelpia Phillies,Chicago Cubs,1,7
+20130901,Cincinnati Reds,Colorado Rockies,4,7
+20130901,San Diego Padres,Los Angeles Dodgers,1,2
+20130901,Anaheim Angels,Milwaukee Brewers,5,3
+20130901,St. Louis Cardinals,Pittsburgh Pirates,7,2
+20130901,New York Mets,Washington Nationals,5,6
+20130902,Tampa Bay Devil Rays,Anaheim Angels,2,11
+20130902,Detroit Tigers,Boston Red Sox,3,0
+20130902,Baltimore Orioles,Cleveland Indians,7,2
+20130902,Minensota Twins,Houston Colts,10,6
+20130902,Seattle Mariners,Kansas City Royals,1,3
+20130902,Chicago White Sox,New York Yankees,1,9
+20130902,Texas Rangers,Oakland Athletics,2,4
+20130902,Toronto Blue Jays,Arizona Diamondbacks,4,1
+20130902,New York Mets,Atlanta Braves,5,13
+20130902,Miami Marlins,Chicago Cubs,4,3
+20130902,St. Louis Cardinals,Cincinnati Reds,2,7
+20130902,Los Angeles Dodgers,Colorado Rockies,10,8
+20130902,Pittsburgh Pirates,Milwaukee Brewers,5,2
+20130902,Washington Nationals,Philadelpia Phillies,2,3
+20130902,San  Francisco Giants,San Diego Padres,1,4
+20130903,Tampa Bay Devil Rays,Anaheim Angels,7,1
+20130903,Detroit Tigers,Boston Red Sox,1,2
+20130903,Baltimore Orioles,Cleveland Indians,3,4
+20130903,Minensota Twins,Houston Colts,9,6
+20130903,Seattle Mariners,Kansas City Royals,3,4
+20130903,Chicago White Sox,New York Yankees,4,6
+20130903,Texas Rangers,Oakland Athletics,5,1
+20130903,Toronto Blue Jays,Arizona Diamondbacks,10,4
+20130903,New York Mets,Atlanta Braves,1,3
+20130903,Miami Marlins,Chicago Cubs,6,2
+20130903,St. Louis Cardinals,Cincinnati Reds,0,1
+20130903,Los Angeles Dodgers,Colorado Rockies,7,4
+20130903,Pittsburgh Pirates,Milwaukee Brewers,4,3
+20130903,Washington Nationals,Philadelpia Phillies,9,6
+20130903,San  Francisco Giants,San Diego Padres,2,3
+20130904,Tampa Bay Devil Rays,Anaheim Angels,3,1
+20130904,Detroit Tigers,Boston Red Sox,4,20
+20130904,Baltimore Orioles,Cleveland Indians,4,6
+20130904,Minensota Twins,Houston Colts,5,6
+20130904,Seattle Mariners,Kansas City Royals,6,4
+20130904,Chicago White Sox,New York Yankees,5,6
+20130904,Texas Rangers,Oakland Athletics,4,11
+20130904,Toronto Blue Jays,Arizona Diamondbacks,3,4
+20130904,New York Mets,Atlanta Braves,5,2
+20130904,Miami Marlins,Chicago Cubs,7,9
+20130904,St. Louis Cardinals,Cincinnati Reds,5,4
+20130904,Los Angeles Dodgers,Colorado Rockies,5,7
+20130904,Pittsburgh Pirates,Milwaukee Brewers,3,9
+20130904,Washington Nationals,Philadelpia Phillies,3,2
+20130904,San  Francisco Giants,San Diego Padres,13,5
+20130905,Tampa Bay Devil Rays,Anaheim Angels,2,6
+20130905,Chicago White Sox,Baltimore Orioles,1,3
+20130905,Seattle Mariners,Kansas City Royals,6,7
+20130905,Boston Red Sox,New York Yankees,9,8
+20130905,Houston Colts,Oakland Athletics,3,2
+20130905,St. Louis Cardinals,Cincinnati Reds,2,6
+20130905,Arizona Diamondbacks,San  Francisco Giants,4,2
+20130906,Texas Rangers,Anaheim Angels,5,6
+20130906,Chicago White Sox,Baltimore Orioles,0,4
+20130906,New York Mets,Cleveland Indians,1,8
+20130906,Detroit Tigers,Kansas City Royals,16,2
+20130906,Toronto Blue Jays,Minensota Twins,6,5
+20130906,Boston Red Sox,New York Yankees,12,8
+20130906,Houston Colts,Oakland Athletics,5,7
+20130906,Tampa Bay Devil Rays,Seattle Mariners,4,6
+20130906,Milwaukee Brewers,Chicago Cubs,5,8
+20130906,Los Angeles Dodgers,Cincinnati Reds,2,3
+20130906,Washington Nationals,Miami Marlins,0,7
+20130906,Atlanta Braves,Philadelpia Phillies,1,2
+20130906,Colorado Rockies,San Diego Padres,3,4
+20130906,Arizona Diamondbacks,San  Francisco Giants,0,3
+20130906,Pittsburgh Pirates,St. Louis Cardinals,8,12
+20130907,Texas Rangers,Anaheim Angels,3,8
+20130907,Chicago White Sox,Baltimore Orioles,3,4
+20130907,New York Mets,Cleveland Indians,4,9
+20130907,Detroit Tigers,Kansas City Royals,3,4
+20130907,Toronto Blue Jays,Minensota Twins,11,2
+20130907,Boston Red Sox,New York Yankees,13,9
+20130907,Houston Colts,Oakland Athletics,1,2
+20130907,Tampa Bay Devil Rays,Seattle Mariners,2,6
+20130907,Milwaukee Brewers,Chicago Cubs,5,3
+20130907,Los Angeles Dodgers,Cincinnati Reds,3,4
+20130907,Washington Nationals,Miami Marlins,9,2
+20130907,Atlanta Braves,Philadelpia Phillies,5,6
+20130907,Colorado Rockies,San Diego Padres,1,2
+20130907,Arizona Diamondbacks,San  Francisco Giants,2,1
+20130907,Pittsburgh Pirates,St. Louis Cardinals,0,5
+20130908,Texas Rangers,Anaheim Angels,4,3
+20130908,Chicago White Sox,Baltimore Orioles,4,2
+20130908,New York Mets,Cleveland Indians,2,1
+20130908,Detroit Tigers,Kansas City Royals,2,5
+20130908,Toronto Blue Jays,Minensota Twins,2,0
+20130908,Boston Red Sox,New York Yankees,3,4
+20130908,Houston Colts,Oakland Athletics,2,7
+20130908,Tampa Bay Devil Rays,Seattle Mariners,4,1
+20130908,Milwaukee Brewers,Chicago Cubs,3,1
+20130908,Los Angeles Dodgers,Cincinnati Reds,2,3
+20130908,Washington Nationals,Miami Marlins,6,4
+20130908,Atlanta Braves,Philadelpia Phillies,2,3
+20130908,Colorado Rockies,San Diego Padres,2,5
+20130908,Arizona Diamondbacks,San  Francisco Giants,2,3
+20130908,Pittsburgh Pirates,St. Louis Cardinals,2,9
+20130909,New York Yankees,Baltimore Orioles,2,4
+20130909,Detroit Tigers,Chicago White Sox,1,5
+20130909,Kansas City Royals,Cleveland Indians,3,4
+20130909,Anaheim Angels,Minensota Twins,3,6
+20130909,Houston Colts,Seattle Mariners,6,4
+20130909,Pittsburgh Pirates,Texas Rangers,1,0
+20130909,Chicago Cubs,Cincinnati Reds,2,0
+20130909,Arizona Diamondbacks,Los Angeles Dodgers,1,8
+20130909,Atlanta Braves,Miami Marlins,5,2
+20130909,Washington Nationals,New York Mets,9,0
+20130909,Colorado Rockies,San  Francisco Giants,2,3
+20130910,New York Yankees,Baltimore Orioles,7,5
+20130910,Detroit Tigers,Chicago White Sox,9,1
+20130910,Kansas City Royals,Cleveland Indians,6,3
+20130910,Oakland Athletics,Minensota Twins,3,4
+20130910,Houston Colts,Seattle Mariners,13,2
+20130910,Boston Red Sox,Tampa Bay Devil Rays,2,0
+20130910,Pittsburgh Pirates,Texas Rangers,5,4
+20130910,Anaheim Angels,Toronto Blue Jays,12,6
+20130910,Chicago Cubs,Cincinnati Reds,9,1
+20130910,Arizona Diamondbacks,Los Angeles Dodgers,3,5
+20130910,Atlanta Braves,Miami Marlins,4,3
+20130910,Washington Nationals,New York Mets,6,3
+20130910,San Diego Padres,Philadelpia Phillies,8,2
+20130910,Colorado Rockies,San  Francisco Giants,9,8
+20130910,Milwaukee Brewers,St. Louis Cardinals,2,4
+20130911,New York Yankees,Baltimore Orioles,5,4
+20130911,Detroit Tigers,Chicago White Sox,1,0
+20130911,Kansas City Royals,Cleveland Indians,6,2
+20130911,Oakland Athletics,Minensota Twins,18,3
+20130911,Houston Colts,Seattle Mariners,6,1
+20130911,Boston Red Sox,Tampa Bay Devil Rays,7,3
+20130911,Pittsburgh Pirates,Texas Rangers,7,5
+20130911,Anaheim Angels,Toronto Blue Jays,5,4
+20130911,Chicago Cubs,Cincinnati Reds,0,6
+20130911,Arizona Diamondbacks,Los Angeles Dodgers,4,1
+20130911,Atlanta Braves,Miami Marlins,2,5
+20130911,Washington Nationals,New York Mets,3,0
+20130911,San Diego Padres,Philadelpia Phillies,2,4
+20130911,Colorado Rockies,San  Francisco Giants,3,4
+20130911,Milwaukee Brewers,St. Louis Cardinals,1,5
+20130912,New York Yankees,Baltimore Orioles,6,5
+20130912,Cleveland Indians,Chicago White Sox,14,3
+20130912,Oakland Athletics,Minensota Twins,8,2
+20130912,Boston Red Sox,Tampa Bay Devil Rays,3,4
+20130912,Anaheim Angels,Toronto Blue Jays,4,3
+20130912,San  Francisco Giants,Los Angeles Dodgers,2,3
+20130912,Atlanta Braves,Miami Marlins,6,1
+20130912,Washington Nationals,New York Mets,7,2
+20130912,San Diego Padres,Philadelpia Phillies,5,10
+20130912,Chicago Cubs,Pittsburgh Pirates,1,3
+20130912,Milwaukee Brewers,St. Louis Cardinals,5,3
+20130913,New York Yankees,Boston Red Sox,4,8
+20130913,Cleveland Indians,Chicago White Sox,3,1
+20130913,Kansas City Royals,Detroit Tigers,3,6
+20130913,Anaheim Angels,Houston Colts,7,9
+20130913,Tampa Bay Devil Rays,Minensota Twins,3,0
+20130913,Oakland Athletics,Texas Rangers,9,8
+20130913,Baltimore Orioles,Toronto Blue Jays,5,3
+20130913,Colorado Rockies,Arizona Diamondbacks,7,5
+20130913,San Diego Padres,Atlanta Braves,4,3
+20130913,San  Francisco Giants,Los Angeles Dodgers,4,2
+20130913,Cincinnati Reds,Milwaukee Brewers,1,5
+20130913,Miami Marlins,New York Mets,3,4
+20130913,Chicago Cubs,Pittsburgh Pirates,5,4
+20130913,Seattle Mariners,St. Louis Cardinals,1,2
+20130913,Philadelpia Phillies,Washington Nationals,1,6
+20130914,New York Yankees,Boston Red Sox,1,5
+20130914,Cleveland Indians,Chicago White Sox,8,1
+20130914,Kansas City Royals,Detroit Tigers,1,0
+20130914,Anaheim Angels,Houston Colts,6,2
+20130914,Tampa Bay Devil Rays,Minensota Twins,7,0
+20130914,Oakland Athletics,Texas Rangers,1,0
+20130914,Baltimore Orioles,Toronto Blue Jays,3,4
+20130914,Colorado Rockies,Arizona Diamondbacks,2,9
+20130914,San Diego Padres,Atlanta Braves,1,2
+20130914,San  Francisco Giants,Los Angeles Dodgers,19,3
+20130914,Cincinnati Reds,Milwaukee Brewers,7,3
+20130914,Miami Marlins,New York Mets,3,0
+20130914,Miami Marlins,New York Mets,1,3
+20130914,Chicago Cubs,Pittsburgh Pirates,1,2
+20130914,Seattle Mariners,St. Louis Cardinals,4,1
+20130914,Philadelpia Phillies,Washington Nationals,5,4
+20130915,New York Yankees,Boston Red Sox,2,9
+20130915,Cleveland Indians,Chicago White Sox,7,1
+20130915,Kansas City Royals,Detroit Tigers,2,3
+20130915,Anaheim Angels,Houston Colts,2,1
+20130915,Tampa Bay Devil Rays,Minensota Twins,4,6
+20130915,Oakland Athletics,Texas Rangers,5,1
+20130915,Baltimore Orioles,Toronto Blue Jays,3,1
+20130915,Colorado Rockies,Arizona Diamondbacks,2,8
+20130915,San Diego Padres,Atlanta Braves,4,0
+20130915,San  Francisco Giants,Los Angeles Dodgers,4,3
+20130915,Cincinnati Reds,Milwaukee Brewers,5,6
+20130915,Miami Marlins,New York Mets,0,1
+20130915,Chicago Cubs,Pittsburgh Pirates,2,3
+20130915,Seattle Mariners,St. Louis Cardinals,2,12
+20130915,Philadelpia Phillies,Washington Nationals,2,11
+20130916,Minensota Twins,Chicago White Sox,1,12
+20130916,Seattle Mariners,Detroit Tigers,2,4
+20130916,Cincinnati Reds,Houston Colts,6,1
+20130916,Cleveland Indians,Kansas City Royals,1,7
+20130916,Anaheim Angels,Oakland Athletics,12,1
+20130916,Texas Rangers,Tampa Bay Devil Rays,2,6
+20130916,Los Angeles Dodgers,Arizona Diamondbacks,1,2
+20130916,St. Louis Cardinals,Colorado Rockies,2,6
+20130916,Chicago Cubs,Milwaukee Brewers,1,6
+20130916,Miami Marlins,Philadelpia Phillies,2,12
+20130916,San Diego Padres,Pittsburgh Pirates,2,0
+20130917,Baltimore Orioles,Boston Red Sox,3,2
+20130917,Minensota Twins,Chicago White Sox,3,4
+20130917,Seattle Mariners,Detroit Tigers,2,6
+20130917,Cincinnati Reds,Houston Colts,10,0
+20130917,Cleveland Indians,Kansas City Royals,5,3
+20130917,Anaheim Angels,Oakland Athletics,1,2
+20130917,Texas Rangers,Tampa Bay Devil Rays,7,1
+20130917,New York Yankees,Toronto Blue Jays,0,2
+20130917,Los Angeles Dodgers,Arizona Diamondbacks,9,3
+20130917,St. Louis Cardinals,Colorado Rockies,11,4
+20130917,Chicago Cubs,Milwaukee Brewers,3,4
+20130917,San  Francisco Giants,New York Mets,8,5
+20130917,Miami Marlins,Philadelpia Phillies,4,6
+20130917,San Diego Padres,Pittsburgh Pirates,5,2
+20130917,Atlanta Braves,Washington Nationals,5,6
+20130917,Atlanta Braves,Washington Nationals,0,4
+20130918,Baltimore Orioles,Boston Red Sox,5,3
+20130918,Minensota Twins,Chicago White Sox,4,3
+20130918,Seattle Mariners,Detroit Tigers,8,0
+20130918,Cincinnati Reds,Houston Colts,6,5
+20130918,Cleveland Indians,Kansas City Royals,2,7
+20130918,Anaheim Angels,Oakland Athletics,5,4
+20130918,Texas Rangers,Tampa Bay Devil Rays,3,4
+20130918,New York Yankees,Toronto Blue Jays,4,3
+20130918,Los Angeles Dodgers,Arizona Diamondbacks,4,9
+20130918,St. Louis Cardinals,Colorado Rockies,4,3
+20130918,Chicago Cubs,Milwaukee Brewers,0,7
+20130918,San  Francisco Giants,New York Mets,4,5
+20130918,Miami Marlins,Philadelpia Phillies,4,3
+20130918,San Diego Padres,Pittsburgh Pirates,3,2
+20130918,Atlanta Braves,Washington Nationals,5,2
+20130919,Baltimore Orioles,Boston Red Sox,1,3
+20130919,Houston Colts,Cleveland Indians,1,2
+20130919,Seattle Mariners,Detroit Tigers,4,5
+20130919,Minensota Twins,Oakland Athletics,6,8
+20130919,Texas Rangers,Tampa Bay Devil Rays,8,2
+20130919,New York Yankees,Toronto Blue Jays,2,6
+20130919,Los Angeles Dodgers,Arizona Diamondbacks,7,6
+20130919,St. Louis Cardinals,Colorado Rockies,6,7
+20130919,Chicago Cubs,Milwaukee Brewers,5,1
+20130919,San  Francisco Giants,New York Mets,2,1
+20130919,San Diego Padres,Pittsburgh Pirates,1,10
+20130919,Miami Marlins,Washington Nationals,2,3
+20130920,Seattle Mariners,Anaheim Angels,2,3
+20130920,Toronto Blue Jays,Boston Red Sox,3,6
+20130920,Houston Colts,Cleveland Indians,1,2
+20130920,Chicago White Sox,Detroit Tigers,5,12
+20130920,Texas Rangers,Kansas City Royals,1,2
+20130920,San  Francisco Giants,New York Yankees,1,5
+20130920,Minensota Twins,Oakland Athletics,0,11
+20130920,Baltimore Orioles,Tampa Bay Devil Rays,4,5
+20130920,Atlanta Braves,Chicago Cubs,9,5
+20130920,Arizona Diamondbacks,Colorado Rockies,4,9
+20130920,St. Louis Cardinals,Milwaukee Brewers,7,6
+20130920,New York Mets,Philadelpia Phillies,6,4
+20130920,Cincinnati Reds,Pittsburgh Pirates,6,5
+20130920,Los Angeles Dodgers,San Diego Padres,0,2
+20130920,Miami Marlins,Washington Nationals,0,8
+20130921,Seattle Mariners,Anaheim Angels,5,6
+20130921,Toronto Blue Jays,Boston Red Sox,4,2
+20130921,Houston Colts,Cleveland Indians,1,4
+20130921,Chicago White Sox,Detroit Tigers,6,7
+20130921,Texas Rangers,Kansas City Royals,3,1
+20130921,San  Francisco Giants,New York Yankees,0,6
+20130921,Minensota Twins,Oakland Athletics,1,9
+20130921,Baltimore Orioles,Tampa Bay Devil Rays,1,5
+20130921,Atlanta Braves,Chicago Cubs,1,3
+20130921,Arizona Diamondbacks,Colorado Rockies,7,2
+20130921,St. Louis Cardinals,Milwaukee Brewers,7,2
+20130921,New York Mets,Philadelpia Phillies,5,4
+20130921,Cincinnati Reds,Pittsburgh Pirates,2,4
+20130921,Los Angeles Dodgers,San Diego Padres,4,0
+20130922,Seattle Mariners,Anaheim Angels,3,2
+20130922,Toronto Blue Jays,Boston Red Sox,2,5
+20130922,Houston Colts,Cleveland Indians,2,9
+20130922,Chicago White Sox,Detroit Tigers,6,3
+20130922,Texas Rangers,Kansas City Royals,0,4
+20130922,San  Francisco Giants,New York Yankees,2,1
+20130922,Minensota Twins,Oakland Athletics,7,11
+20130922,Baltimore Orioles,Tampa Bay Devil Rays,1,3
+20130922,Atlanta Braves,Chicago Cubs,5,2
+20130922,Arizona Diamondbacks,Colorado Rockies,13,9
+20130922,St. Louis Cardinals,Milwaukee Brewers,4,6
+20130922,New York Mets,Philadelpia Phillies,4,3
+20130922,Cincinnati Reds,Pittsburgh Pirates,11,3
+20130922,Los Angeles Dodgers,San Diego Padres,1,0
+20130922,Miami Marlins,Washington Nationals,4,2
+20130922,Miami Marlins,Washington Nationals,4,5
+20130923,Oakland Athletics,Anaheim Angels,10,5
+20130923,Toronto Blue Jays,Chicago White Sox,2,3
+20130923,Detroit Tigers,Minensota Twins,3,4
+20130923,Kansas City Royals,Seattle Mariners,6,5
+20130923,Baltimore Orioles,Tampa Bay Devil Rays,4,5
+20130923,Houston Colts,Texas Rangers,0,12
+20130923,Milwaukee Brewers,Atlanta Braves,5,0
+20130923,Pittsburgh Pirates,Chicago Cubs,2,1
+20130923,New York Mets,Cincinnati Reds,2,3
+20130923,Philadelpia Phillies,Miami Marlins,0,4
+20130923,Arizona Diamondbacks,San Diego Padres,1,4
+20130923,Washington Nationals,St. Louis Cardinals,3,4
+20130924,Oakland Athletics,Anaheim Angels,0,3
+20130924,Toronto Blue Jays,Baltimore Orioles,3,2
+20130924,Chicago White Sox,Cleveland Indians,4,5
+20130924,Detroit Tigers,Minensota Twins,4,2
+20130924,Tampa Bay Devil Rays,New York Yankees,7,0
+20130924,Kansas City Royals,Seattle Mariners,0,4
+20130924,Houston Colts,Texas Rangers,2,3
+20130924,Milwaukee Brewers,Atlanta Braves,2,3
+20130924,Pittsburgh Pirates,Chicago Cubs,8,2
+20130924,New York Mets,Cincinnati Reds,4,2
+20130924,Boston Red Sox,Colorado Rockies,3,8
+20130924,Philadelpia Phillies,Miami Marlins,2,1
+20130924,Arizona Diamondbacks,San Diego Padres,2,1
+20130924,Los Angeles Dodgers,San  Francisco Giants,2,1
+20130924,Washington Nationals,St. Louis Cardinals,0,2
+20130925,Oakland Athletics,Anaheim Angels,1,3
+20130925,Toronto Blue Jays,Baltimore Orioles,5,9
+20130925,Chicago White Sox,Cleveland Indians,2,7
+20130925,Detroit Tigers,Minensota Twins,1,0
+20130925,Tampa Bay Devil Rays,New York Yankees,8,3
+20130925,Kansas City Royals,Seattle Mariners,0,6
+20130925,Houston Colts,Texas Rangers,3,7
+20130925,Milwaukee Brewers,Atlanta Braves,4,0
+20130925,Pittsburgh Pirates,Chicago Cubs,2,4
+20130925,New York Mets,Cincinnati Reds,1,0
+20130925,Boston Red Sox,Colorado Rockies,15,5
+20130925,Philadelpia Phillies,Miami Marlins,2,3
+20130925,Arizona Diamondbacks,San Diego Padres,2,12
+20130925,Los Angeles Dodgers,San  Francisco Giants,4,6
+20130925,Washington Nationals,St. Louis Cardinals,1,4
+20130926,Toronto Blue Jays,Baltimore Orioles,2,3
+20130926,Kansas City Royals,Chicago White Sox,3,2
+20130926,Cleveland Indians,Minensota Twins,6,5
+20130926,Tampa Bay Devil Rays,New York Yankees,4,0
+20130926,Anaheim Angels,Texas Rangers,5,6
+20130926,Philadelpia Phillies,Atlanta Braves,1,7
+20130926,Milwaukee Brewers,New York Mets,4,2
+20130926,Arizona Diamondbacks,San Diego Padres,2,3
+20130926,Los Angeles Dodgers,San  Francisco Giants,2,3
+20130927,Boston Red Sox,Baltimore Orioles,12,3
+20130927,Kansas City Royals,Chicago White Sox,6,1
+20130927,New York Yankees,Houston Colts,3,2
+20130927,Cleveland Indians,Minensota Twins,12,6
+20130927,Oakland Athletics,Seattle Mariners,8,2
+20130927,Anaheim Angels,Texas Rangers,3,5
+20130927,Tampa Bay Devil Rays,Toronto Blue Jays,3,6
+20130927,Washington Nationals,Arizona Diamondbacks,8,4
+20130927,Philadelpia Phillies,Atlanta Braves,0,1
+20130927,Pittsburgh Pirates,Cincinnati Reds,4,1
+20130927,Colorado Rockies,Los Angeles Dodgers,0,11
+20130927,Detroit Tigers,Miami Marlins,2,3
+20130927,Milwaukee Brewers,New York Mets,4,2
+20130927,San Diego Padres,San  Francisco Giants,3,7
+20130927,Chicago Cubs,St. Louis Cardinals,0,7
+20130928,Boston Red Sox,Baltimore Orioles,5,6
+20130928,Kansas City Royals,Chicago White Sox,5,6
+20130928,New York Yankees,Houston Colts,2,1
+20130928,Cleveland Indians,Minensota Twins,5,1
+20130928,Oakland Athletics,Seattle Mariners,5,7
+20130928,Anaheim Angels,Texas Rangers,4,7
+20130928,Tampa Bay Devil Rays,Toronto Blue Jays,2,7
+20130928,Washington Nationals,Arizona Diamondbacks,2,0
+20130928,Philadelpia Phillies,Atlanta Braves,5,4
+20130928,Pittsburgh Pirates,Cincinnati Reds,8,3
+20130928,Colorado Rockies,Los Angeles Dodgers,1,0
+20130928,Detroit Tigers,Miami Marlins,1,2
+20130928,Milwaukee Brewers,New York Mets,4,2
+20130928,San Diego Padres,San  Francisco Giants,9,3
+20130928,Chicago Cubs,St. Louis Cardinals,2,6
+20130929,Boston Red Sox,Baltimore Orioles,6,7
+20130929,Kansas City Royals,Chicago White Sox,4,1
+20130929,New York Yankees,Houston Colts,5,1
+20130929,Cleveland Indians,Minensota Twins,5,1
+20130929,Oakland Athletics,Seattle Mariners,9,0
+20130929,Anaheim Angels,Texas Rangers,2,6
+20130929,Tampa Bay Devil Rays,Toronto Blue Jays,7,6
+20130929,Washington Nationals,Arizona Diamondbacks,2,3
+20130929,Philadelpia Phillies,Atlanta Braves,5,12
+20130929,Pittsburgh Pirates,Cincinnati Reds,4,2
+20130929,Colorado Rockies,Los Angeles Dodgers,2,1
+20130929,Detroit Tigers,Miami Marlins,0,1
+20130929,Milwaukee Brewers,New York Mets,2,3
+20130929,San Diego Padres,San  Francisco Giants,6,7
+20130929,Chicago Cubs,St. Louis Cardinals,0,4
+20130930,Tampa Bay Devil Rays,Texas Rangers,5,2

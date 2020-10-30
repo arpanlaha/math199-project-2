@@ -1,0 +1,2430 @@
+Date,away_team,home_team,away_team_score,home_team_score
+20060402,Cleveland Indians,Chicago White Sox,4,10
+20060403,Tampa Bay Devil Rays,Baltimore Orioles,6,9
+20060403,Detroit Tigers,Kansas City Royals,3,1
+20060403,New York Yankees,Oakland Athletics,15,2
+20060403,Anaheim Angels,Seattle Mariners,5,4
+20060403,Boston Red Sox,Texas Rangers,7,3
+20060403,Chicago Cubs,Cincinnati Reds,16,7
+20060403,Arizona Diamondbacks,Colorado Rockies,2,3
+20060403,Florida Marlins,Houston Colts,0,1
+20060403,Atlanta Braves,Los Angeles Dodgers,11,10
+20060403,Pittsburgh Pirates,Milwaukee Brewers,2,5
+20060403,Washington Nationals,New York Mets,2,3
+20060403,St. Louis Cardinals,Philadelpia Phillies,13,5
+20060403,San  Francisco Giants,San Diego Padres,1,6
+20060404,Cleveland Indians,Chicago White Sox,8,2
+20060404,New York Yankees,Oakland Athletics,3,4
+20060404,Anaheim Angels,Seattle Mariners,8,10
+20060404,Boston Red Sox,Texas Rangers,4,10
+20060404,Minensota Twins,Toronto Blue Jays,3,6
+20060404,Florida Marlins,Houston Colts,11,2
+20060404,Atlanta Braves,Los Angeles Dodgers,4,5
+20060404,Pittsburgh Pirates,Milwaukee Brewers,5,7
+20060405,Tampa Bay Devil Rays,Baltimore Orioles,6,16
+20060405,Cleveland Indians,Chicago White Sox,4,3
+20060405,Detroit Tigers,Kansas City Royals,14,3
+20060405,New York Yankees,Oakland Athletics,4,9
+20060405,Anaheim Angels,Seattle Mariners,4,6
+20060405,Boston Red Sox,Texas Rangers,2,1
+20060405,Minensota Twins,Toronto Blue Jays,13,4
+20060405,Chicago Cubs,Cincinnati Reds,6,8
+20060405,Arizona Diamondbacks,Colorado Rockies,4,2
+20060405,Florida Marlins,Houston Colts,5,6
+20060405,Atlanta Braves,Los Angeles Dodgers,9,8
+20060405,Pittsburgh Pirates,Milwaukee Brewers,2,3
+20060405,Washington Nationals,New York Mets,9,5
+20060405,St. Louis Cardinals,Philadelpia Phillies,4,3
+20060405,San  Francisco Giants,San Diego Padres,3,1
+20060406,Tampa Bay Devil Rays,Baltimore Orioles,2,0
+20060406,Oakland Athletics,Seattle Mariners,2,6
+20060406,Detroit Tigers,Texas Rangers,10,6
+20060406,Minensota Twins,Toronto Blue Jays,3,6
+20060406,Pittsburgh Pirates,Cincinnati Reds,5,6
+20060406,Arizona Diamondbacks,Colorado Rockies,12,5
+20060406,Washington Nationals,New York Mets,5,10
+20060406,St. Louis Cardinals,Philadelpia Phillies,4,2
+20060406,Atlanta Braves,San  Francisco Giants,4,6
+20060407,New York Yankees,Anaheim Angels,1,4
+20060407,Boston Red Sox,Baltimore Orioles,14,8
+20060407,Minensota Twins,Cleveland Indians,6,11
+20060407,Chicago White Sox,Kansas City Royals,7,11
+20060407,Oakland Athletics,Seattle Mariners,5,0
+20060407,Detroit Tigers,Texas Rangers,5,2
+20060407,Tampa Bay Devil Rays,Toronto Blue Jays,9,8
+20060407,St. Louis Cardinals,Chicago Cubs,1,5
+20060407,Pittsburgh Pirates,Cincinnati Reds,6,7
+20060407,Washington Nationals,Houston Colts,1,6
+20060407,Arizona Diamondbacks,Milwaukee Brewers,1,3
+20060407,Florida Marlins,New York Mets,3,9
+20060407,Los Angeles Dodgers,Philadelpia Phillies,5,3
+20060407,Colorado Rockies,San Diego Padres,10,4
+20060407,Atlanta Braves,San  Francisco Giants,14,6
+20060408,New York Yankees,Anaheim Angels,2,3
+20060408,Boston Red Sox,Baltimore Orioles,2,1
+20060408,Minensota Twins,Cleveland Indians,0,3
+20060408,Chicago White Sox,Kansas City Royals,3,4
+20060408,Oakland Athletics,Seattle Mariners,3,0
+20060408,Detroit Tigers,Texas Rangers,7,0
+20060408,Tampa Bay Devil Rays,Toronto Blue Jays,4,8
+20060408,St. Louis Cardinals,Chicago Cubs,2,3
+20060408,Pittsburgh Pirates,Cincinnati Reds,9,11
+20060408,Washington Nationals,Houston Colts,12,8
+20060408,Arizona Diamondbacks,Milwaukee Brewers,4,5
+20060408,Colorado Rockies,San Diego Padres,12,4
+20060408,Atlanta Braves,San  Francisco Giants,6,12
+20060409,New York Yankees,Anaheim Angels,10,1
+20060409,Boston Red Sox,Baltimore Orioles,4,1
+20060409,Minensota Twins,Cleveland Indians,2,3
+20060409,Chicago White Sox,Kansas City Royals,3,1
+20060409,Oakland Athletics,Seattle Mariners,6,4
+20060409,Detroit Tigers,Texas Rangers,3,5
+20060409,Tampa Bay Devil Rays,Toronto Blue Jays,5,2
+20060409,St. Louis Cardinals,Chicago Cubs,4,8
+20060409,Pittsburgh Pirates,Cincinnati Reds,5,3
+20060409,Washington Nationals,Houston Colts,3,7
+20060409,Arizona Diamondbacks,Milwaukee Brewers,7,0
+20060409,Florida Marlins,New York Mets,2,3
+20060409,Los Angeles Dodgers,Philadelpia Phillies,3,6
+20060409,Los Angeles Dodgers,Philadelpia Phillies,6,2
+20060409,Colorado Rockies,San Diego Padres,10,4
+20060409,Atlanta Braves,San  Francisco Giants,5,6
+20060410,Texas Rangers,Anaheim Angels,2,5
+20060410,Chicago White Sox,Detroit Tigers,5,3
+20060410,Baltimore Orioles,Tampa Bay Devil Rays,6,3
+20060410,Philadelpia Phillies,Atlanta Braves,3,5
+20060410,Washington Nationals,Houston Colts,4,5
+20060410,Los Angeles Dodgers,Pittsburgh Pirates,8,3
+20060410,Milwaukee Brewers,St. Louis Cardinals,4,6
+20060411,Texas Rangers,Anaheim Angels,4,5
+20060411,Toronto Blue Jays,Boston Red Sox,3,5
+20060411,Seattle Mariners,Cleveland Indians,5,9
+20060411,Oakland Athletics,Minensota Twins,6,7
+20060411,Kansas City Royals,New York Yankees,7,9
+20060411,Baltimore Orioles,Tampa Bay Devil Rays,8,4
+20060411,Colorado Rockies,Arizona Diamondbacks,6,5
+20060411,Cincinnati Reds,Chicago Cubs,9,2
+20060411,San Diego Padres,Florida Marlins,9,3
+20060411,Los Angeles Dodgers,Pittsburgh Pirates,6,7
+20060411,New York Mets,Washington Nationals,7,1
+20060412,Texas Rangers,Anaheim Angels,11,3
+20060412,Toronto Blue Jays,Boston Red Sox,8,4
+20060412,Seattle Mariners,Cleveland Indians,11,9
+20060412,Chicago White Sox,Detroit Tigers,4,3
+20060412,Oakland Athletics,Minensota Twins,5,6
+20060412,Kansas City Royals,New York Yankees,5,12
+20060412,Baltimore Orioles,Tampa Bay Devil Rays,4,7
+20060412,Colorado Rockies,Arizona Diamondbacks,4,5
+20060412,Philadelpia Phillies,Atlanta Braves,7,5
+20060412,Cincinnati Reds,Chicago Cubs,1,4
+20060412,San Diego Padres,Florida Marlins,7,2
+20060412,Los Angeles Dodgers,Pittsburgh Pirates,5,9
+20060412,Milwaukee Brewers,St. Louis Cardinals,3,8
+20060412,New York Mets,Washington Nationals,3,1
+20060413,Toronto Blue Jays,Boston Red Sox,8,6
+20060413,Seattle Mariners,Cleveland Indians,9,5
+20060413,Chicago White Sox,Detroit Tigers,13,9
+20060413,Oakland Athletics,Minensota Twins,2,8
+20060413,Kansas City Royals,New York Yankees,3,9
+20060413,Baltimore Orioles,Tampa Bay Devil Rays,6,5
+20060413,Colorado Rockies,Arizona Diamondbacks,5,3
+20060413,Philadelpia Phillies,Atlanta Braves,7,6
+20060413,Cincinnati Reds,Chicago Cubs,8,3
+20060413,San Diego Padres,Florida Marlins,2,9
+20060413,Los Angeles Dodgers,Pittsburgh Pirates,13,5
+20060413,Houston Colts,San  Francisco Giants,3,5
+20060413,Houston Colts,San  Francisco Giants,8,0
+20060413,Milwaukee Brewers,St. Louis Cardinals,4,3
+20060413,New York Mets,Washington Nationals,13,4
+20060414,Anaheim Angels,Baltimore Orioles,5,6
+20060414,Seattle Mariners,Boston Red Sox,1,2
+20060414,Toronto Blue Jays,Chicago White Sox,13,7
+20060414,Cleveland Indians,Detroit Tigers,1,5
+20060414,New York Yankees,Minensota Twins,1,5
+20060414,Texas Rangers,Oakland Athletics,6,3
+20060414,Kansas City Royals,Tampa Bay Devil Rays,2,7
+20060414,Houston Colts,Arizona Diamondbacks,1,5
+20060414,San Diego Padres,Atlanta Braves,4,5
+20060414,Philadelpia Phillies,Colorado Rockies,10,8
+20060414,Washington Nationals,Florida Marlins,3,5
+20060414,San  Francisco Giants,Los Angeles Dodgers,2,1
+20060414,Milwaukee Brewers,New York Mets,3,4
+20060414,Chicago Cubs,Pittsburgh Pirates,11,6
+20060414,Cincinnati Reds,St. Louis Cardinals,1,0
+20060415,Anaheim Angels,Baltimore Orioles,2,3
+20060415,Seattle Mariners,Boston Red Sox,3,0
+20060415,Toronto Blue Jays,Chicago White Sox,2,4
+20060415,Cleveland Indians,Detroit Tigers,7,2
+20060415,New York Yankees,Minensota Twins,5,6
+20060415,Texas Rangers,Oakland Athletics,4,5
+20060415,Kansas City Royals,Tampa Bay Devil Rays,3,6
+20060415,Houston Colts,Arizona Diamondbacks,10,0
+20060415,San Diego Padres,Atlanta Braves,0,2
+20060415,Philadelpia Phillies,Colorado Rockies,6,10
+20060415,Washington Nationals,Florida Marlins,2,1
+20060415,San  Francisco Giants,Los Angeles Dodgers,1,3
+20060415,Milwaukee Brewers,New York Mets,8,2
+20060415,Chicago Cubs,Pittsburgh Pirates,1,2
+20060415,Cincinnati Reds,St. Louis Cardinals,3,9
+20060416,Anaheim Angels,Baltimore Orioles,9,3
+20060416,Seattle Mariners,Boston Red Sox,2,3
+20060416,Toronto Blue Jays,Chicago White Sox,4,6
+20060416,Cleveland Indians,Detroit Tigers,0,1
+20060416,New York Yankees,Minensota Twins,9,3
+20060416,Texas Rangers,Oakland Athletics,5,3
+20060416,Kansas City Royals,Tampa Bay Devil Rays,5,9
+20060416,Houston Colts,Arizona Diamondbacks,8,5
+20060416,San Diego Padres,Atlanta Braves,4,3
+20060416,Philadelpia Phillies,Colorado Rockies,1,0
+20060416,Washington Nationals,Florida Marlins,7,5
+20060416,San  Francisco Giants,Los Angeles Dodgers,2,0
+20060416,Milwaukee Brewers,New York Mets,3,9
+20060416,Chicago Cubs,Pittsburgh Pirates,7,3
+20060416,Cincinnati Reds,St. Louis Cardinals,7,8
+20060417,Anaheim Angels,Baltimore Orioles,2,4
+20060417,Seattle Mariners,Boston Red Sox,6,7
+20060417,Kansas City Royals,Chicago White Sox,0,9
+20060417,Cleveland Indians,Detroit Tigers,10,2
+20060417,San  Francisco Giants,Arizona Diamondbacks,10,9
+20060417,Florida Marlins,Cincinnati Reds,1,9
+20060417,San Diego Padres,Colorado Rockies,5,2
+20060417,Milwaukee Brewers,Houston Colts,7,8
+20060417,Chicago Cubs,Los Angeles Dodgers,4,1
+20060417,Atlanta Braves,New York Mets,3,4
+20060417,St. Louis Cardinals,Pittsburgh Pirates,2,1
+20060418,Cleveland Indians,Baltimore Orioles,15,1
+20060418,Tampa Bay Devil Rays,Boston Red Sox,4,7
+20060418,Kansas City Royals,Chicago White Sox,1,4
+20060418,Anaheim Angels,Minensota Twins,8,2
+20060418,Detroit Tigers,Oakland Athletics,3,4
+20060418,Texas Rangers,Seattle Mariners,7,4
+20060418,New York Yankees,Toronto Blue Jays,5,10
+20060418,San  Francisco Giants,Arizona Diamondbacks,4,7
+20060418,Florida Marlins,Cincinnati Reds,12,6
+20060418,San Diego Padres,Colorado Rockies,2,3
+20060418,Milwaukee Brewers,Houston Colts,12,13
+20060418,Chicago Cubs,Los Angeles Dodgers,1,2
+20060418,Atlanta Braves,New York Mets,7,1
+20060418,Washington Nationals,Philadelpia Phillies,10,3
+20060418,St. Louis Cardinals,Pittsburgh Pirates,4,12
+20060419,Cleveland Indians,Baltimore Orioles,9,18
+20060419,Tampa Bay Devil Rays,Boston Red Sox,1,9
+20060419,Kansas City Royals,Chicago White Sox,0,4
+20060419,Anaheim Angels,Minensota Twins,10,12
+20060419,Detroit Tigers,Oakland Athletics,11,4
+20060419,Texas Rangers,Seattle Mariners,6,9
+20060419,New York Yankees,Toronto Blue Jays,3,1
+20060419,San  Francisco Giants,Arizona Diamondbacks,3,10
+20060419,Florida Marlins,Cincinnati Reds,8,9
+20060419,San Diego Padres,Colorado Rockies,13,4
+20060419,Milwaukee Brewers,Houston Colts,7,2
+20060419,Chicago Cubs,Los Angeles Dodgers,5,4
+20060419,Atlanta Braves,New York Mets,2,1
+20060419,Washington Nationals,Philadelpia Phillies,6,7
+20060419,St. Louis Cardinals,Pittsburgh Pirates,4,0
+20060420,Cleveland Indians,Baltimore Orioles,4,9
+20060420,Tampa Bay Devil Rays,Boston Red Sox,5,1
+20060420,Anaheim Angels,Minensota Twins,6,4
+20060420,Detroit Tigers,Oakland Athletics,4,3
+20060420,Texas Rangers,Seattle Mariners,4,3
+20060420,San  Francisco Giants,Arizona Diamondbacks,9,7
+20060420,Cincinnati Reds,Milwaukee Brewers,12,8
+20060420,Washington Nationals,Philadelpia Phillies,10,4
+20060420,New York Mets,San Diego Padres,7,2
+20060421,Minensota Twins,Chicago White Sox,1,7
+20060421,Cleveland Indians,Kansas City Royals,6,5
+20060421,Baltimore Orioles,New York Yankees,6,5
+20060421,Anaheim Angels,Oakland Athletics,3,5
+20060421,Detroit Tigers,Seattle Mariners,2,1
+20060421,Tampa Bay Devil Rays,Texas Rangers,7,13
+20060421,Boston Red Sox,Toronto Blue Jays,6,7
+20060421,San  Francisco Giants,Colorado Rockies,8,9
+20060421,Pittsburgh Pirates,Houston Colts,2,3
+20060421,Arizona Diamondbacks,Los Angeles Dodgers,3,6
+20060421,Cincinnati Reds,Milwaukee Brewers,3,1
+20060421,Florida Marlins,Philadelpia Phillies,4,3
+20060421,New York Mets,San Diego Padres,1,2
+20060421,Chicago Cubs,St. Louis Cardinals,3,9
+20060421,Atlanta Braves,Washington Nationals,3,7
+20060422,Minensota Twins,Chicago White Sox,2,9
+20060422,Cleveland Indians,Kansas City Royals,5,11
+20060422,Baltimore Orioles,New York Yankees,1,6
+20060422,Anaheim Angels,Oakland Athletics,5,4
+20060422,Detroit Tigers,Seattle Mariners,2,0
+20060422,Tampa Bay Devil Rays,Texas Rangers,5,6
+20060422,Boston Red Sox,Toronto Blue Jays,1,8
+20060422,San  Francisco Giants,Colorado Rockies,6,4
+20060422,Pittsburgh Pirates,Houston Colts,0,3
+20060422,Arizona Diamondbacks,Los Angeles Dodgers,5,4
+20060422,Cincinnati Reds,Milwaukee Brewers,0,11
+20060422,New York Mets,San Diego Padres,8,1
+20060422,Chicago Cubs,St. Louis Cardinals,1,4
+20060423,Minensota Twins,Chicago White Sox,3,7
+20060423,Cleveland Indians,Kansas City Royals,1,5
+20060423,Baltimore Orioles,New York Yankees,1,7
+20060423,Anaheim Angels,Oakland Athletics,4,3
+20060423,Detroit Tigers,Seattle Mariners,6,4
+20060423,Tampa Bay Devil Rays,Texas Rangers,3,8
+20060423,Boston Red Sox,Toronto Blue Jays,6,3
+20060423,San  Francisco Giants,Colorado Rockies,2,3
+20060423,Pittsburgh Pirates,Houston Colts,2,7
+20060423,Arizona Diamondbacks,Los Angeles Dodgers,4,6
+20060423,Cincinnati Reds,Milwaukee Brewers,11,0
+20060423,Florida Marlins,Philadelpia Phillies,2,4
+20060423,New York Mets,San Diego Padres,4,7
+20060423,Chicago Cubs,St. Louis Cardinals,7,3
+20060423,Atlanta Braves,Washington Nationals,3,1
+20060424,Detroit Tigers,Anaheim Angels,0,3
+20060424,Chicago White Sox,Seattle Mariners,3,4
+20060424,Oakland Athletics,Texas Rangers,3,2
+20060424,Florida Marlins,Chicago Cubs,3,6
+20060424,Los Angeles Dodgers,Houston Colts,6,2
+20060424,Atlanta Braves,Milwaukee Brewers,2,3
+20060424,Colorado Rockies,Philadelpia Phillies,5,6
+20060424,Arizona Diamondbacks,San Diego Padres,4,1
+20060424,New York Mets,San  Francisco Giants,2,6
+20060424,Pittsburgh Pirates,St. Louis Cardinals,2,7
+20060424,Cincinnati Reds,Washington Nationals,4,2
+20060425,Detroit Tigers,Anaheim Angels,5,2
+20060425,Boston Red Sox,Cleveland Indians,8,6
+20060425,Minensota Twins,Kansas City Royals,2,1
+20060425,Tampa Bay Devil Rays,New York Yankees,1,9
+20060425,Chicago White Sox,Seattle Mariners,13,3
+20060425,Oakland Athletics,Texas Rangers,5,6
+20060425,Baltimore Orioles,Toronto Blue Jays,3,7
+20060425,Florida Marlins,Chicago Cubs,1,3
+20060425,Los Angeles Dodgers,Houston Colts,3,4
+20060425,Atlanta Braves,Milwaukee Brewers,2,4
+20060425,Colorado Rockies,Philadelpia Phillies,7,6
+20060425,Arizona Diamondbacks,San Diego Padres,7,0
+20060425,New York Mets,San  Francisco Giants,4,1
+20060425,Pittsburgh Pirates,St. Louis Cardinals,3,6
+20060425,Cincinnati Reds,Washington Nationals,6,5
+20060426,Detroit Tigers,Anaheim Angels,0,4
+20060426,Boston Red Sox,Cleveland Indians,1,7
+20060426,Minensota Twins,Kansas City Royals,1,3
+20060426,Tampa Bay Devil Rays,New York Yankees,4,2
+20060426,Chicago White Sox,Seattle Mariners,1,5
+20060426,Oakland Athletics,Texas Rangers,6,4
+20060426,Baltimore Orioles,Toronto Blue Jays,2,8
+20060426,Florida Marlins,Chicago Cubs,7,5
+20060426,Los Angeles Dodgers,Houston Colts,5,8
+20060426,Atlanta Braves,Milwaukee Brewers,4,5
+20060426,Colorado Rockies,Philadelpia Phillies,5,9
+20060426,Arizona Diamondbacks,San Diego Padres,3,2
+20060426,New York Mets,San  Francisco Giants,9,7
+20060426,Pittsburgh Pirates,St. Louis Cardinals,3,4
+20060426,Cincinnati Reds,Washington Nationals,5,0
+20060427,Boston Red Sox,Cleveland Indians,3,15
+20060427,Minensota Twins,Kansas City Royals,7,3
+20060427,Tampa Bay Devil Rays,New York Yankees,1,4
+20060427,Baltimore Orioles,Toronto Blue Jays,7,5
+20060427,Colorado Rockies,Philadelpia Phillies,6,3
+20060427,Washington Nationals,St. Louis Cardinals,2,6
+20060428,Chicago White Sox,Anaheim Angels,8,5
+20060428,Seattle Mariners,Baltimore Orioles,2,5
+20060428,Texas Rangers,Cleveland Indians,6,7
+20060428,Minensota Twins,Detroit Tigers,0,9
+20060428,Oakland Athletics,Kansas City Royals,5,3
+20060428,Toronto Blue Jays,New York Yankees,7,2
+20060428,Boston Red Sox,Tampa Bay Devil Rays,2,5
+20060428,New York Mets,Atlanta Braves,5,2
+20060428,Milwaukee Brewers,Chicago Cubs,2,6
+20060428,Houston Colts,Cincinnati Reds,4,5
+20060428,Colorado Rockies,Florida Marlins,3,2
+20060428,Philadelpia Phillies,Pittsburgh Pirates,1,3
+20060428,Los Angeles Dodgers,San Diego Padres,3,0
+20060428,Arizona Diamondbacks,San  Francisco Giants,2,10
+20060428,Washington Nationals,St. Louis Cardinals,8,3
+20060429,Chicago White Sox,Anaheim Angels,2,1
+20060429,Seattle Mariners,Baltimore Orioles,8,6
+20060429,Texas Rangers,Cleveland Indians,7,5
+20060429,Minensota Twins,Detroit Tigers,1,18
+20060429,Toronto Blue Jays,New York Yankees,6,17
+20060429,Boston Red Sox,Tampa Bay Devil Rays,9,6
+20060429,New York Mets,Atlanta Braves,1,0
+20060429,Milwaukee Brewers,Chicago Cubs,16,2
+20060429,Houston Colts,Cincinnati Reds,3,6
+20060429,Colorado Rockies,Florida Marlins,8,7
+20060429,Philadelpia Phillies,Pittsburgh Pirates,2,3
+20060429,Los Angeles Dodgers,San Diego Padres,4,2
+20060429,Arizona Diamondbacks,San  Francisco Giants,2,3
+20060429,Washington Nationals,St. Louis Cardinals,1,2
+20060430,Chicago White Sox,Anaheim Angels,6,5
+20060430,Seattle Mariners,Baltimore Orioles,4,3
+20060430,Texas Rangers,Cleveland Indians,8,4
+20060430,Minensota Twins,Detroit Tigers,0,6
+20060430,Oakland Athletics,Kansas City Royals,13,6
+20060430,Toronto Blue Jays,New York Yankees,1,4
+20060430,Boston Red Sox,Tampa Bay Devil Rays,4,5
+20060430,New York Mets,Atlanta Braves,5,8
+20060430,Milwaukee Brewers,Chicago Cubs,9,0
+20060430,Houston Colts,Cincinnati Reds,3,2
+20060430,Colorado Rockies,Florida Marlins,3,1
+20060430,Philadelpia Phillies,Pittsburgh Pirates,5,1
+20060430,Los Angeles Dodgers,San Diego Padres,5,6
+20060430,Arizona Diamondbacks,San  Francisco Giants,8,2
+20060430,Washington Nationals,St. Louis Cardinals,2,9
+20060501,Oakland Athletics,Anaheim Angels,1,0
+20060501,Toronto Blue Jays,Baltimore Orioles,9,7
+20060501,New York Yankees,Boston Red Sox,3,7
+20060501,Chicago White Sox,Cleveland Indians,8,6
+20060501,Kansas City Royals,Detroit Tigers,2,3
+20060501,Seattle Mariners,Minensota Twins,8,2
+20060501,Texas Rangers,Tampa Bay Devil Rays,3,0
+20060501,Los Angeles Dodgers,Arizona Diamondbacks,2,3
+20060501,Colorado Rockies,Atlanta Braves,0,2
+20060501,Pittsburgh Pirates,Chicago Cubs,1,2
+20060501,St. Louis Cardinals,Cincinnati Reds,1,6
+20060501,Philadelpia Phillies,Florida Marlins,8,5
+20060501,Houston Colts,Milwaukee Brewers,2,4
+20060501,Washington Nationals,New York Mets,1,2
+20060501,San Diego Padres,San  Francisco Giants,10,4
+20060502,Oakland Athletics,Anaheim Angels,10,3
+20060502,Toronto Blue Jays,Baltimore Orioles,2,9
+20060502,Chicago White Sox,Cleveland Indians,1,7
+20060502,Kansas City Royals,Detroit Tigers,1,4
+20060502,Seattle Mariners,Minensota Twins,1,5
+20060502,Texas Rangers,Tampa Bay Devil Rays,7,5
+20060502,Los Angeles Dodgers,Arizona Diamondbacks,8,10
+20060502,Colorado Rockies,Atlanta Braves,4,5
+20060502,Pittsburgh Pirates,Chicago Cubs,8,0
+20060502,St. Louis Cardinals,Cincinnati Reds,2,3
+20060502,Philadelpia Phillies,Florida Marlins,7,5
+20060502,Houston Colts,Milwaukee Brewers,8,5
+20060502,Washington Nationals,New York Mets,6,2
+20060502,San Diego Padres,San  Francisco Giants,5,3
+20060503,Toronto Blue Jays,Boston Red Sox,7,6
+20060503,Seattle Mariners,Chicago White Sox,5,6
+20060503,Anaheim Angels,Detroit Tigers,1,2
+20060503,Kansas City Royals,Minensota Twins,1,6
+20060503,Cleveland Indians,Oakland Athletics,14,3
+20060503,New York Yankees,Tampa Bay Devil Rays,4,2
+20060503,Baltimore Orioles,Texas Rangers,1,2
+20060503,Chicago Cubs,Arizona Diamondbacks,1,5
+20060503,Cincinnati Reds,Colorado Rockies,0,3
+20060503,St. Louis Cardinals,Houston Colts,4,5
+20060503,San Diego Padres,Los Angeles Dodgers,11,5
+20060503,San  Francisco Giants,Milwaukee Brewers,2,0
+20060503,Pittsburgh Pirates,New York Mets,3,4
+20060503,Atlanta Braves,Philadelpia Phillies,4,5
+20060503,Florida Marlins,Washington Nationals,6,5
+20060504,Toronto Blue Jays,Boston Red Sox,4,7
+20060504,Seattle Mariners,Chicago White Sox,1,4
+20060504,Anaheim Angels,Detroit Tigers,7,2
+20060504,Kansas City Royals,Minensota Twins,1,0
+20060504,Cleveland Indians,Oakland Athletics,4,12
+20060504,New York Yankees,Tampa Bay Devil Rays,10,5
+20060504,Baltimore Orioles,Texas Rangers,2,8
+20060504,Chicago Cubs,Arizona Diamondbacks,0,6
+20060504,Cincinnati Reds,Colorado Rockies,7,1
+20060504,St. Louis Cardinals,Houston Colts,3,4
+20060504,San Diego Padres,Los Angeles Dodgers,3,0
+20060504,San  Francisco Giants,Milwaukee Brewers,4,7
+20060504,Pittsburgh Pirates,New York Mets,0,6
+20060504,Atlanta Braves,Philadelpia Phillies,3,6
+20060504,Florida Marlins,Washington Nationals,11,3
+20060505,Baltimore Orioles,Boston Red Sox,3,6
+20060505,Kansas City Royals,Chicago White Sox,5,4
+20060505,Detroit Tigers,Minensota Twins,9,6
+20060505,Tampa Bay Devil Rays,Oakland Athletics,3,1
+20060505,Cleveland Indians,Seattle Mariners,9,4
+20060505,New York Yankees,Texas Rangers,8,7
+20060505,Anaheim Angels,Toronto Blue Jays,3,13
+20060505,Cincinnati Reds,Arizona Diamondbacks,1,7
+20060505,Houston Colts,Colorado Rockies,4,5
+20060505,St. Louis Cardinals,Florida Marlins,7,2
+20060505,Milwaukee Brewers,Los Angeles Dodgers,3,4
+20060505,Atlanta Braves,New York Mets,7,8
+20060505,San  Francisco Giants,Philadelpia Phillies,3,8
+20060505,Chicago Cubs,San Diego Padres,0,1
+20060505,Pittsburgh Pirates,Washington Nationals,0,6
+20060506,Baltimore Orioles,Boston Red Sox,3,9
+20060506,Kansas City Royals,Chicago White Sox,2,9
+20060506,Detroit Tigers,Minensota Twins,6,7
+20060506,Tampa Bay Devil Rays,Oakland Athletics,2,3
+20060506,Cleveland Indians,Seattle Mariners,1,4
+20060506,New York Yankees,Texas Rangers,6,1
+20060506,Anaheim Angels,Toronto Blue Jays,3,0
+20060506,Cincinnati Reds,Arizona Diamondbacks,1,3
+20060506,Houston Colts,Colorado Rockies,0,5
+20060506,St. Louis Cardinals,Florida Marlins,7,6
+20060506,Milwaukee Brewers,Los Angeles Dodgers,4,5
+20060506,Atlanta Braves,New York Mets,5,6
+20060506,San  Francisco Giants,Philadelpia Phillies,1,4
+20060506,Chicago Cubs,San Diego Padres,1,2
+20060506,Pittsburgh Pirates,Washington Nationals,5,4
+20060507,Baltimore Orioles,Boston Red Sox,3,10
+20060507,Kansas City Royals,Chicago White Sox,2,3
+20060507,Detroit Tigers,Minensota Twins,2,4
+20060507,Tampa Bay Devil Rays,Oakland Athletics,3,2
+20060507,Cleveland Indians,Seattle Mariners,2,0
+20060507,New York Yankees,Texas Rangers,8,5
+20060507,Anaheim Angels,Toronto Blue Jays,1,3
+20060507,Cincinnati Reds,Arizona Diamondbacks,9,8
+20060507,Houston Colts,Colorado Rockies,3,5
+20060507,St. Louis Cardinals,Florida Marlins,9,1
+20060507,Milwaukee Brewers,Los Angeles Dodgers,2,10
+20060507,Atlanta Braves,New York Mets,13,3
+20060507,San  Francisco Giants,Philadelpia Phillies,5,9
+20060507,Chicago Cubs,San Diego Padres,3,6
+20060507,Pittsburgh Pirates,Washington Nationals,4,5
+20060508,Cleveland Indians,Kansas City Royals,3,4
+20060508,Tampa Bay Devil Rays,Seattle Mariners,3,6
+20060508,Minensota Twins,Texas Rangers,4,6
+20060508,Anaheim Angels,Toronto Blue Jays,1,5
+20060508,Chicago Cubs,San Diego Padres,3,8
+20060508,Houston Colts,San  Francisco Giants,5,7
+20060508,Colorado Rockies,St. Louis Cardinals,6,2
+20060509,Detroit Tigers,Baltimore Orioles,6,7
+20060509,Anaheim Angels,Chicago White Sox,1,9
+20060509,Cleveland Indians,Kansas City Royals,7,10
+20060509,Boston Red Sox,New York Yankees,14,3
+20060509,Tampa Bay Devil Rays,Seattle Mariners,1,8
+20060509,Minensota Twins,Texas Rangers,15,5
+20060509,Oakland Athletics,Toronto Blue Jays,6,5
+20060509,Washington Nationals,Cincinnati Reds,7,1
+20060509,Atlanta Braves,Florida Marlins,10,2
+20060509,Houston Colts,Los Angeles Dodgers,7,12
+20060509,New York Mets,Philadelpia Phillies,4,5
+20060509,Arizona Diamondbacks,Pittsburgh Pirates,0,3
+20060509,Milwaukee Brewers,San Diego Padres,5,4
+20060509,Chicago Cubs,San  Francisco Giants,1,6
+20060509,Colorado Rockies,St. Louis Cardinals,2,4
+20060510,Detroit Tigers,Baltimore Orioles,6,3
+20060510,Anaheim Angels,Chicago White Sox,12,5
+20060510,Cleveland Indians,Kansas City Royals,8,10
+20060510,Boston Red Sox,New York Yankees,3,7
+20060510,Tampa Bay Devil Rays,Seattle Mariners,1,0
+20060510,Minensota Twins,Texas Rangers,4,3
+20060510,Oakland Athletics,Toronto Blue Jays,7,9
+20060510,Washington Nationals,Cincinnati Reds,6,9
+20060510,Atlanta Braves,Florida Marlins,3,11
+20060510,Houston Colts,Los Angeles Dodgers,6,9
+20060510,New York Mets,Philadelpia Phillies,13,4
+20060510,Arizona Diamondbacks,Pittsburgh Pirates,7,4
+20060510,Milwaukee Brewers,San Diego Padres,0,3
+20060510,Chicago Cubs,San  Francisco Giants,8,1
+20060510,Colorado Rockies,St. Louis Cardinals,4,7
+20060511,Boston Red Sox,New York Yankees,5,3
+20060511,Oakland Athletics,Toronto Blue Jays,3,8
+20060511,Washington Nationals,Cincinnati Reds,4,5
+20060511,Atlanta Braves,Florida Marlins,9,1
+20060511,Houston Colts,Los Angeles Dodgers,4,2
+20060511,New York Mets,Philadelpia Phillies,0,2
+20060511,Milwaukee Brewers,San Diego Padres,5,8
+20060511,Chicago Cubs,San  Francisco Giants,3,9
+20060512,Seattle Mariners,Anaheim Angels,7,12
+20060512,Kansas City Royals,Baltimore Orioles,5,6
+20060512,Texas Rangers,Boston Red Sox,6,0
+20060512,Detroit Tigers,Cleveland Indians,5,4
+20060512,Chicago White Sox,Minensota Twins,1,10
+20060512,Oakland Athletics,New York Yankees,0,2
+20060512,Toronto Blue Jays,Tampa Bay Devil Rays,1,4
+20060512,Washington Nationals,Atlanta Braves,2,6
+20060512,San Diego Padres,Chicago Cubs,10,5
+20060512,Philadelpia Phillies,Cincinnati Reds,8,4
+20060512,Colorado Rockies,Houston Colts,2,12
+20060512,New York Mets,Milwaukee Brewers,6,9
+20060512,Florida Marlins,Pittsburgh Pirates,9,12
+20060512,Los Angeles Dodgers,San  Francisco Giants,6,1
+20060512,Arizona Diamondbacks,St. Louis Cardinals,3,5
+20060513,Seattle Mariners,Anaheim Angels,5,4
+20060513,Kansas City Royals,Baltimore Orioles,1,11
+20060513,Detroit Tigers,Cleveland Indians,3,0
+20060513,Chicago White Sox,Minensota Twins,4,8
+20060513,Oakland Athletics,New York Yankees,3,4
+20060513,Toronto Blue Jays,Tampa Bay Devil Rays,8,1
+20060513,Washington Nationals,Atlanta Braves,5,8
+20060513,San Diego Padres,Chicago Cubs,4,3
+20060513,Philadelpia Phillies,Cincinnati Reds,2,0
+20060513,Colorado Rockies,Houston Colts,2,1
+20060513,New York Mets,Milwaukee Brewers,9,8
+20060513,Florida Marlins,Pittsburgh Pirates,4,3
+20060513,Los Angeles Dodgers,San  Francisco Giants,5,6
+20060513,Arizona Diamondbacks,St. Louis Cardinals,1,9
+20060514,Seattle Mariners,Anaheim Angels,9,4
+20060514,Kansas City Royals,Baltimore Orioles,7,8
+20060514,Detroit Tigers,Cleveland Indians,3,2
+20060514,Chicago White Sox,Minensota Twins,9,7
+20060514,Oakland Athletics,New York Yankees,6,1
+20060514,Toronto Blue Jays,Tampa Bay Devil Rays,8,3
+20060514,Washington Nationals,Atlanta Braves,8,1
+20060514,San Diego Padres,Chicago Cubs,9,0
+20060514,Philadelpia Phillies,Cincinnati Reds,2,1
+20060514,Colorado Rockies,Houston Colts,0,3
+20060514,New York Mets,Milwaukee Brewers,5,6
+20060514,Florida Marlins,Pittsburgh Pirates,8,2
+20060514,Los Angeles Dodgers,San  Francisco Giants,6,3
+20060514,Arizona Diamondbacks,St. Louis Cardinals,7,6
+20060515,Boston Red Sox,Baltimore Orioles,11,1
+20060515,Chicago White Sox,Minensota Twins,7,3
+20060515,Texas Rangers,New York Yankees,4,2
+20060515,San Diego Padres,Arizona Diamondbacks,5,6
+20060515,Florida Marlins,Atlanta Braves,8,11
+20060515,Los Angeles Dodgers,Colorado Rockies,5,4
+20060515,San  Francisco Giants,Houston Colts,10,1
+20060516,Toronto Blue Jays,Anaheim Angels,3,8
+20060516,Boston Red Sox,Baltimore Orioles,6,5
+20060516,Kansas City Royals,Cleveland Indians,4,6
+20060516,Minensota Twins,Detroit Tigers,4,7
+20060516,Texas Rangers,New York Yankees,13,14
+20060516,Seattle Mariners,Oakland Athletics,6,12
+20060516,Chicago White Sox,Tampa Bay Devil Rays,7,10
+20060516,San Diego Padres,Arizona Diamondbacks,2,5
+20060516,Florida Marlins,Atlanta Braves,3,4
+20060516,Washington Nationals,Chicago Cubs,0,4
+20060516,Los Angeles Dodgers,Colorado Rockies,1,5
+20060516,San  Francisco Giants,Houston Colts,14,3
+20060516,Philadelpia Phillies,Milwaukee Brewers,2,3
+20060516,Cincinnati Reds,Pittsburgh Pirates,3,9
+20060516,New York Mets,St. Louis Cardinals,8,3
+20060517,Toronto Blue Jays,Anaheim Angels,3,0
+20060517,Boston Red Sox,Baltimore Orioles,3,4
+20060517,Kansas City Royals,Cleveland Indians,0,5
+20060517,Minensota Twins,Detroit Tigers,0,2
+20060517,Texas Rangers,New York Yankees,3,4
+20060517,Seattle Mariners,Oakland Athletics,2,7
+20060517,Chicago White Sox,Tampa Bay Devil Rays,5,2
+20060517,San Diego Padres,Arizona Diamondbacks,14,10
+20060517,Florida Marlins,Atlanta Braves,4,6
+20060517,Washington Nationals,Chicago Cubs,0,5
+20060517,Los Angeles Dodgers,Colorado Rockies,3,2
+20060517,San  Francisco Giants,Houston Colts,10,1
+20060517,Philadelpia Phillies,Milwaukee Brewers,7,8
+20060517,Cincinnati Reds,Pittsburgh Pirates,2,7
+20060517,New York Mets,St. Louis Cardinals,0,1
+20060518,Toronto Blue Jays,Anaheim Angels,8,4
+20060518,Kansas City Royals,Cleveland Indians,5,6
+20060518,Minensota Twins,Detroit Tigers,3,5
+20060518,Texas Rangers,New York Yankees,6,2
+20060518,Seattle Mariners,Oakland Athletics,3,6
+20060518,Chicago White Sox,Tampa Bay Devil Rays,4,5
+20060518,Florida Marlins,Atlanta Braves,1,9
+20060518,Washington Nationals,Chicago Cubs,5,3
+20060518,Philadelpia Phillies,Milwaukee Brewers,4,5
+20060518,Cincinnati Reds,Pittsburgh Pirates,9,8
+20060518,New York Mets,St. Louis Cardinals,3,6
+20060519,Chicago Cubs,Chicago White Sox,1,6
+20060519,Pittsburgh Pirates,Cleveland Indians,1,4
+20060519,Cincinnati Reds,Detroit Tigers,9,4
+20060519,St. Louis Cardinals,Kansas City Royals,9,6
+20060519,San  Francisco Giants,Oakland Athletics,0,1
+20060519,San Diego Padres,Seattle Mariners,4,7
+20060519,Florida Marlins,Tampa Bay Devil Rays,4,5
+20060519,Atlanta Braves,Arizona Diamondbacks,9,10
+20060519,Toronto Blue Jays,Colorado Rockies,3,8
+20060519,Texas Rangers,Houston Colts,3,5
+20060519,Anaheim Angels,Los Angeles Dodgers,3,16
+20060519,Minensota Twins,Milwaukee Brewers,7,1
+20060519,New York Yankees,New York Mets,6,7
+20060519,Boston Red Sox,Philadelpia Phillies,5,3
+20060519,Baltimore Orioles,Washington Nationals,5,1
+20060520,Chicago Cubs,Chicago White Sox,0,7
+20060520,Pittsburgh Pirates,Cleveland Indians,9,6
+20060520,Cincinnati Reds,Detroit Tigers,6,7
+20060520,St. Louis Cardinals,Kansas City Royals,4,2
+20060520,San  Francisco Giants,Oakland Athletics,4,2
+20060520,San Diego Padres,Seattle Mariners,3,6
+20060520,Florida Marlins,Tampa Bay Devil Rays,3,4
+20060520,Atlanta Braves,Arizona Diamondbacks,0,13
+20060520,Toronto Blue Jays,Colorado Rockies,1,5
+20060520,Texas Rangers,Houston Colts,6,0
+20060520,Anaheim Angels,Los Angeles Dodgers,4,8
+20060520,Minensota Twins,Milwaukee Brewers,16,10
+20060520,New York Yankees,New York Mets,5,4
+20060520,Boston Red Sox,Philadelpia Phillies,8,4
+20060520,Baltimore Orioles,Washington Nationals,3,8
+20060521,Chicago Cubs,Chicago White Sox,7,4
+20060521,Pittsburgh Pirates,Cleveland Indians,2,3
+20060521,Cincinnati Reds,Detroit Tigers,0,1
+20060521,St. Louis Cardinals,Kansas City Royals,10,3
+20060521,San  Francisco Giants,Oakland Athletics,6,0
+20060521,San Diego Padres,Seattle Mariners,8,10
+20060521,Florida Marlins,Tampa Bay Devil Rays,0,3
+20060521,Atlanta Braves,Arizona Diamondbacks,2,1
+20060521,Toronto Blue Jays,Colorado Rockies,3,5
+20060521,Texas Rangers,Houston Colts,0,5
+20060521,Anaheim Angels,Los Angeles Dodgers,0,7
+20060521,Minensota Twins,Milwaukee Brewers,3,5
+20060521,New York Yankees,New York Mets,3,4
+20060521,Boston Red Sox,Philadelpia Phillies,5,10
+20060521,Baltimore Orioles,Washington Nationals,1,3
+20060522,New York Yankees,Boston Red Sox,5,9
+20060522,Oakland Athletics,Chicago White Sox,4,5
+20060522,Detroit Tigers,Kansas City Royals,8,0
+20060522,Baltimore Orioles,Seattle Mariners,6,8
+20060522,Anaheim Angels,Texas Rangers,2,3
+20060522,Tampa Bay Devil Rays,Toronto Blue Jays,4,6
+20060522,Pittsburgh Pirates,Arizona Diamondbacks,3,4
+20060522,Milwaukee Brewers,Cincinnati Reds,5,15
+20060522,Chicago Cubs,Florida Marlins,1,9
+20060522,Colorado Rockies,Los Angeles Dodgers,1,6
+20060522,Atlanta Braves,San Diego Padres,3,1
+20060522,St. Louis Cardinals,San  Francisco Giants,2,9
+20060522,Houston Colts,Washington Nationals,10,3
+20060523,New York Yankees,Boston Red Sox,7,5
+20060523,Oakland Athletics,Chicago White Sox,3,9
+20060523,Detroit Tigers,Kansas City Royals,8,5
+20060523,Cleveland Indians,Minensota Twins,5,6
+20060523,Baltimore Orioles,Seattle Mariners,14,4
+20060523,Anaheim Angels,Texas Rangers,7,6
+20060523,Tampa Bay Devil Rays,Toronto Blue Jays,1,4
+20060523,Pittsburgh Pirates,Arizona Diamondbacks,3,7
+20060523,Milwaukee Brewers,Cincinnati Reds,3,7
+20060523,Chicago Cubs,Florida Marlins,4,5
+20060523,Colorado Rockies,Los Angeles Dodgers,1,8
+20060523,Philadelpia Phillies,New York Mets,8,9
+20060523,Atlanta Braves,San Diego Padres,1,2
+20060523,St. Louis Cardinals,San  Francisco Giants,8,5
+20060523,Houston Colts,Washington Nationals,1,4
+20060524,New York Yankees,Boston Red Sox,8,6
+20060524,Oakland Athletics,Chicago White Sox,2,3
+20060524,Detroit Tigers,Kansas City Royals,6,3
+20060524,Cleveland Indians,Minensota Twins,11,0
+20060524,Baltimore Orioles,Seattle Mariners,4,7
+20060524,Anaheim Angels,Texas Rangers,8,5
+20060524,Tampa Bay Devil Rays,Toronto Blue Jays,10,8
+20060524,Pittsburgh Pirates,Arizona Diamondbacks,7,8
+20060524,Milwaukee Brewers,Cincinnati Reds,6,2
+20060524,Chicago Cubs,Florida Marlins,3,9
+20060524,Colorado Rockies,Los Angeles Dodgers,1,7
+20060524,Philadelpia Phillies,New York Mets,4,5
+20060524,Atlanta Braves,San Diego Padres,10,6
+20060524,St. Louis Cardinals,San  Francisco Giants,10,4
+20060524,Houston Colts,Washington Nationals,1,5
+20060525,Tampa Bay Devil Rays,Boston Red Sox,1,4
+20060525,Detroit Tigers,Kansas City Royals,13,8
+20060525,Baltimore Orioles,Seattle Mariners,2,0
+20060525,Oakland Athletics,Texas Rangers,7,8
+20060525,Philadelpia Phillies,New York Mets,5,3
+20060525,Houston Colts,Washington Nationals,5,8
+20060526,Baltimore Orioles,Anaheim Angels,2,5
+20060526,Tampa Bay Devil Rays,Boston Red Sox,4,8
+20060526,Cleveland Indians,Detroit Tigers,3,8
+20060526,Seattle Mariners,Minensota Twins,1,3
+20060526,Kansas City Royals,New York Yankees,7,6
+20060526,Oakland Athletics,Texas Rangers,3,5
+20060526,Chicago White Sox,Toronto Blue Jays,2,8
+20060526,Atlanta Braves,Chicago Cubs,6,5
+20060526,Arizona Diamondbacks,Cincinnati Reds,3,0
+20060526,New York Mets,Florida Marlins,1,5
+20060526,Milwaukee Brewers,Philadelpia Phillies,6,5
+20060526,Houston Colts,Pittsburgh Pirates,5,12
+20060526,St. Louis Cardinals,San Diego Padres,1,7
+20060526,Colorado Rockies,San  Francisco Giants,0,9
+20060526,Los Angeles Dodgers,Washington Nationals,4,10
+20060527,Baltimore Orioles,Anaheim Angels,1,10
+20060527,Tampa Bay Devil Rays,Boston Red Sox,4,6
+20060527,Cleveland Indians,Detroit Tigers,1,3
+20060527,Seattle Mariners,Minensota Twins,5,9
+20060527,Kansas City Royals,New York Yankees,4,15
+20060527,Oakland Athletics,Texas Rangers,6,3
+20060527,Chicago White Sox,Toronto Blue Jays,2,3
+20060527,Atlanta Braves,Chicago Cubs,2,1
+20060527,Arizona Diamondbacks,Cincinnati Reds,7,0
+20060527,New York Mets,Florida Marlins,7,4
+20060527,Milwaukee Brewers,Philadelpia Phillies,9,6
+20060527,Houston Colts,Pittsburgh Pirates,7,8
+20060527,St. Louis Cardinals,San Diego Padres,4,3
+20060527,Colorado Rockies,San  Francisco Giants,1,4
+20060527,Los Angeles Dodgers,Washington Nationals,3,1
+20060528,Baltimore Orioles,Anaheim Angels,7,6
+20060528,Tampa Bay Devil Rays,Boston Red Sox,4,5
+20060528,Cleveland Indians,Detroit Tigers,9,0
+20060528,Seattle Mariners,Minensota Twins,3,4
+20060528,Kansas City Royals,New York Yankees,5,6
+20060528,Oakland Athletics,Texas Rangers,3,4
+20060528,Chicago White Sox,Toronto Blue Jays,7,5
+20060528,Atlanta Braves,Chicago Cubs,13,12
+20060528,Arizona Diamondbacks,Cincinnati Reds,4,5
+20060528,New York Mets,Florida Marlins,7,3
+20060528,Milwaukee Brewers,Philadelpia Phillies,2,6
+20060528,Houston Colts,Pittsburgh Pirates,5,4
+20060528,St. Louis Cardinals,San Diego Padres,8,10
+20060528,Colorado Rockies,San  Francisco Giants,6,3
+20060528,Los Angeles Dodgers,Washington Nationals,4,10
+20060529,Minensota Twins,Anaheim Angels,3,4
+20060529,Chicago White Sox,Cleveland Indians,11,0
+20060529,New York Yankees,Detroit Tigers,4,0
+20060529,Kansas City Royals,Oakland Athletics,6,4
+20060529,Seattle Mariners,Texas Rangers,0,2
+20060529,Boston Red Sox,Toronto Blue Jays,6,7
+20060529,Los Angeles Dodgers,Atlanta Braves,12,5
+20060529,Cincinnati Reds,Chicago Cubs,3,7
+20060529,San  Francisco Giants,Florida Marlins,1,5
+20060529,Arizona Diamondbacks,New York Mets,7,8
+20060529,Washington Nationals,Philadelpia Phillies,2,11
+20060529,Milwaukee Brewers,Pittsburgh Pirates,3,14
+20060529,Colorado Rockies,San Diego Padres,5,0
+20060529,Houston Colts,St. Louis Cardinals,1,3
+20060530,Minensota Twins,Anaheim Angels,3,6
+20060530,Tampa Bay Devil Rays,Baltimore Orioles,5,7
+20060530,Chicago White Sox,Cleveland Indians,3,4
+20060530,New York Yankees,Detroit Tigers,11,6
+20060530,Kansas City Royals,Oakland Athletics,8,7
+20060530,Seattle Mariners,Texas Rangers,4,6
+20060530,Boston Red Sox,Toronto Blue Jays,5,8
+20060530,Los Angeles Dodgers,Atlanta Braves,8,3
+20060530,Cincinnati Reds,Chicago Cubs,3,8
+20060530,San  Francisco Giants,Florida Marlins,3,5
+20060530,Arizona Diamondbacks,New York Mets,7,2
+20060530,Washington Nationals,Philadelpia Phillies,2,4
+20060530,Milwaukee Brewers,Pittsburgh Pirates,1,12
+20060530,Colorado Rockies,San Diego Padres,0,2
+20060530,Houston Colts,St. Louis Cardinals,6,3
+20060531,Minensota Twins,Anaheim Angels,7,1
+20060531,Tampa Bay Devil Rays,Baltimore Orioles,5,6
+20060531,Chicago White Sox,Cleveland Indians,0,5
+20060531,New York Yankees,Detroit Tigers,6,1
+20060531,Kansas City Royals,Oakland Athletics,0,7
+20060531,Seattle Mariners,Texas Rangers,14,5
+20060531,Boston Red Sox,Toronto Blue Jays,8,6
+20060531,Los Angeles Dodgers,Atlanta Braves,3,9
+20060531,Cincinnati Reds,Chicago Cubs,3,2
+20060531,San  Francisco Giants,Florida Marlins,6,1
+20060531,Arizona Diamondbacks,New York Mets,0,1
+20060531,Washington Nationals,Philadelpia Phillies,3,2
+20060531,Milwaukee Brewers,Pittsburgh Pirates,1,6
+20060531,Colorado Rockies,San Diego Padres,2,3
+20060531,Houston Colts,St. Louis Cardinals,3,4
+20060601,Tampa Bay Devil Rays,Baltimore Orioles,8,6
+20060601,Chicago White Sox,Cleveland Indians,8,12
+20060601,New York Yankees,Detroit Tigers,6,7
+20060601,Minensota Twins,Oakland Athletics,0,4
+20060601,Arizona Diamondbacks,Atlanta Braves,2,1
+20060601,Philadelpia Phillies,Los Angeles Dodgers,2,7
+20060601,Milwaukee Brewers,Pittsburgh Pirates,3,4
+20060602,New York Yankees,Baltimore Orioles,6,5
+20060602,Texas Rangers,Chicago White Sox,4,3
+20060602,Anaheim Angels,Cleveland Indians,10,3
+20060602,Boston Red Sox,Detroit Tigers,3,2
+20060602,Minensota Twins,Oakland Athletics,2,1
+20060602,Kansas City Royals,Seattle Mariners,0,4
+20060602,Toronto Blue Jays,Tampa Bay Devil Rays,13,4
+20060602,Florida Marlins,Colorado Rockies,4,2
+20060602,Cincinnati Reds,Houston Colts,14,3
+20060602,Philadelpia Phillies,Los Angeles Dodgers,8,6
+20060602,Washington Nationals,Milwaukee Brewers,10,4
+20060602,San Diego Padres,Pittsburgh Pirates,7,0
+20060602,Chicago Cubs,St. Louis Cardinals,5,4
+20060603,New York Yankees,Baltimore Orioles,6,5
+20060603,Texas Rangers,Chicago White Sox,6,8
+20060603,Anaheim Angels,Cleveland Indians,2,14
+20060603,Boston Red Sox,Detroit Tigers,2,6
+20060603,Minensota Twins,Oakland Athletics,1,2
+20060603,Kansas City Royals,Seattle Mariners,1,12
+20060603,Toronto Blue Jays,Tampa Bay Devil Rays,6,2
+20060603,Arizona Diamondbacks,Atlanta Braves,4,2
+20060603,Arizona Diamondbacks,Atlanta Braves,13,9
+20060603,Florida Marlins,Colorado Rockies,13,0
+20060603,Cincinnati Reds,Houston Colts,7,5
+20060603,Philadelpia Phillies,Los Angeles Dodgers,2,8
+20060603,Washington Nationals,Milwaukee Brewers,4,3
+20060603,San  Francisco Giants,New York Mets,6,4
+20060603,San  Francisco Giants,New York Mets,2,3
+20060603,San Diego Padres,Pittsburgh Pirates,4,6
+20060603,Chicago Cubs,St. Louis Cardinals,8,5
+20060604,New York Yankees,Baltimore Orioles,4,11
+20060604,Texas Rangers,Chicago White Sox,10,2
+20060604,Anaheim Angels,Cleveland Indians,14,2
+20060604,Boston Red Sox,Detroit Tigers,8,3
+20060604,Minensota Twins,Oakland Athletics,1,5
+20060604,Kansas City Royals,Seattle Mariners,9,4
+20060604,Toronto Blue Jays,Tampa Bay Devil Rays,5,10
+20060604,Arizona Diamondbacks,Atlanta Braves,9,3
+20060604,Florida Marlins,Colorado Rockies,4,3
+20060604,Cincinnati Reds,Houston Colts,6,4
+20060604,Philadelpia Phillies,Los Angeles Dodgers,6,4
+20060604,Washington Nationals,Milwaukee Brewers,8,4
+20060604,San  Francisco Giants,New York Mets,7,6
+20060604,San Diego Padres,Pittsburgh Pirates,1,0
+20060604,Chicago Cubs,St. Louis Cardinals,6,9
+20060605,Toronto Blue Jays,Baltimore Orioles,0,4
+20060605,Boston Red Sox,New York Yankees,5,13
+20060605,Kansas City Royals,Seattle Mariners,1,4
+20060605,Anaheim Angels,Tampa Bay Devil Rays,0,4
+20060605,Philadelpia Phillies,Arizona Diamondbacks,4,3
+20060605,Washington Nationals,Atlanta Braves,5,4
+20060605,Pittsburgh Pirates,Colorado Rockies,5,2
+20060605,Chicago Cubs,Houston Colts,8,0
+20060605,New York Mets,Los Angeles Dodgers,4,1
+20060605,San Diego Padres,Milwaukee Brewers,2,5
+20060605,Florida Marlins,San  Francisco Giants,2,14
+20060605,Cincinnati Reds,St. Louis Cardinals,8,7
+20060606,Toronto Blue Jays,Baltimore Orioles,6,4
+20060606,Detroit Tigers,Chicago White Sox,3,4
+20060606,Oakland Athletics,Cleveland Indians,7,6
+20060606,Texas Rangers,Kansas City Royals,6,2
+20060606,Boston Red Sox,New York Yankees,1,2
+20060606,Minensota Twins,Seattle Mariners,2,4
+20060606,Anaheim Angels,Tampa Bay Devil Rays,12,2
+20060606,Philadelpia Phillies,Arizona Diamondbacks,10,1
+20060606,Washington Nationals,Atlanta Braves,3,5
+20060606,Pittsburgh Pirates,Colorado Rockies,4,5
+20060606,Chicago Cubs,Houston Colts,1,4
+20060606,New York Mets,Los Angeles Dodgers,5,8
+20060606,San Diego Padres,Milwaukee Brewers,1,5
+20060606,Florida Marlins,San  Francisco Giants,1,2
+20060606,Cincinnati Reds,St. Louis Cardinals,7,0
+20060607,Toronto Blue Jays,Baltimore Orioles,5,3
+20060607,Detroit Tigers,Chicago White Sox,3,4
+20060607,Oakland Athletics,Cleveland Indians,2,11
+20060607,Texas Rangers,Kansas City Royals,4,2
+20060607,Minensota Twins,Seattle Mariners,9,10
+20060607,Anaheim Angels,Tampa Bay Devil Rays,6,2
+20060607,Philadelpia Phillies,Arizona Diamondbacks,7,3
+20060607,Washington Nationals,Atlanta Braves,5,2
+20060607,Pittsburgh Pirates,Colorado Rockies,9,16
+20060607,Chicago Cubs,Houston Colts,0,1
+20060607,New York Mets,Los Angeles Dodgers,9,7
+20060607,San Diego Padres,Milwaukee Brewers,6,5
+20060607,Florida Marlins,San  Francisco Giants,8,1
+20060607,Cincinnati Reds,St. Louis Cardinals,7,4
+20060608,Toronto Blue Jays,Baltimore Orioles,5,7
+20060608,Detroit Tigers,Chicago White Sox,6,2
+20060608,Oakland Athletics,Cleveland Indians,4,1
+20060608,Texas Rangers,Kansas City Royals,12,16
+20060608,Boston Red Sox,New York Yankees,9,3
+20060608,Minensota Twins,Seattle Mariners,7,3
+20060608,New York Mets,Arizona Diamondbacks,7,1
+20060608,Chicago Cubs,Cincinnati Reds,1,7
+20060608,Atlanta Braves,Houston Colts,4,7
+20060608,San Diego Padres,Milwaukee Brewers,3,4
+20060608,Pittsburgh Pirates,San  Francisco Giants,4,5
+20060608,Philadelpia Phillies,Washington Nationals,2,5
+20060609,Seattle Mariners,Anaheim Angels,4,1
+20060609,Texas Rangers,Boston Red Sox,3,4
+20060609,Cleveland Indians,Chicago White Sox,4,5
+20060609,Tampa Bay Devil Rays,Kansas City Royals,2,4
+20060609,Baltimore Orioles,Minensota Twins,5,7
+20060609,Oakland Athletics,New York Yankees,6,5
+20060609,Detroit Tigers,Toronto Blue Jays,5,10
+20060609,New York Mets,Arizona Diamondbacks,10,6
+20060609,Chicago Cubs,Cincinnati Reds,6,5
+20060609,Los Angeles Dodgers,Colorado Rockies,3,0
+20060609,Atlanta Braves,Houston Colts,2,7
+20060609,St. Louis Cardinals,Milwaukee Brewers,10,6
+20060609,Florida Marlins,San Diego Padres,2,3
+20060609,Pittsburgh Pirates,San  Francisco Giants,3,2
+20060609,Philadelpia Phillies,Washington Nationals,8,9
+20060610,Seattle Mariners,Anaheim Angels,12,6
+20060610,Texas Rangers,Boston Red Sox,7,4
+20060610,Cleveland Indians,Chicago White Sox,3,4
+20060610,Tampa Bay Devil Rays,Kansas City Royals,9,5
+20060610,Baltimore Orioles,Minensota Twins,9,7
+20060610,Oakland Athletics,New York Yankees,5,2
+20060610,Detroit Tigers,Toronto Blue Jays,5,3
+20060610,New York Mets,Arizona Diamondbacks,5,0
+20060610,Chicago Cubs,Cincinnati Reds,4,2
+20060610,Los Angeles Dodgers,Colorado Rockies,9,12
+20060610,Atlanta Braves,Houston Colts,4,2
+20060610,St. Louis Cardinals,Milwaukee Brewers,3,4
+20060610,Florida Marlins,San Diego Padres,2,1
+20060610,Pittsburgh Pirates,San  Francisco Giants,2,0
+20060610,Philadelpia Phillies,Washington Nationals,6,2
+20060611,Seattle Mariners,Anaheim Angels,6,2
+20060611,Texas Rangers,Boston Red Sox,4,5
+20060611,Texas Rangers,Boston Red Sox,13,6
+20060611,Cleveland Indians,Chicago White Sox,10,8
+20060611,Tampa Bay Devil Rays,Kansas City Royals,8,2
+20060611,Baltimore Orioles,Minensota Twins,0,4
+20060611,Oakland Athletics,New York Yankees,6,5
+20060611,Detroit Tigers,Toronto Blue Jays,10,5
+20060611,New York Mets,Arizona Diamondbacks,15,2
+20060611,Chicago Cubs,Cincinnati Reds,9,3
+20060611,Los Angeles Dodgers,Colorado Rockies,6,5
+20060611,Atlanta Braves,Houston Colts,4,14
+20060611,St. Louis Cardinals,Milwaukee Brewers,7,5
+20060611,Florida Marlins,San Diego Padres,7,3
+20060611,Pittsburgh Pirates,San  Francisco Giants,7,5
+20060611,Philadelpia Phillies,Washington Nationals,0,6
+20060612,Kansas City Royals,Anaheim Angels,3,4
+20060612,Tampa Bay Devil Rays,Detroit Tigers,3,4
+20060612,Chicago White Sox,Texas Rangers,8,3
+20060612,Baltimore Orioles,Toronto Blue Jays,6,4
+20060612,Milwaukee Brewers,Cincinnati Reds,6,5
+20060612,Colorado Rockies,Washington Nationals,4,3
+20060613,Kansas City Royals,Anaheim Angels,1,4
+20060613,Tampa Bay Devil Rays,Detroit Tigers,1,7
+20060613,Boston Red Sox,Minensota Twins,2,5
+20060613,Cleveland Indians,New York Yankees,0,1
+20060613,Seattle Mariners,Oakland Athletics,0,2
+20060613,Chicago White Sox,Texas Rangers,5,2
+20060613,Baltimore Orioles,Toronto Blue Jays,1,7
+20060613,San  Francisco Giants,Arizona Diamondbacks,1,2
+20060613,Houston Colts,Chicago Cubs,9,2
+20060613,Milwaukee Brewers,Cincinnati Reds,6,4
+20060613,Atlanta Braves,Florida Marlins,1,4
+20060613,New York Mets,Philadelpia Phillies,9,7
+20060613,St. Louis Cardinals,Pittsburgh Pirates,2,1
+20060613,Los Angeles Dodgers,San Diego Padres,1,9
+20060613,Colorado Rockies,Washington Nationals,9,2
+20060614,Kansas City Royals,Anaheim Angels,4,3
+20060614,Tampa Bay Devil Rays,Detroit Tigers,5,1
+20060614,Boston Red Sox,Minensota Twins,1,8
+20060614,Cleveland Indians,New York Yankees,1,6
+20060614,Seattle Mariners,Oakland Athletics,2,7
+20060614,Chicago White Sox,Texas Rangers,0,8
+20060614,Baltimore Orioles,Toronto Blue Jays,3,6
+20060614,San  Francisco Giants,Arizona Diamondbacks,11,4
+20060614,Houston Colts,Chicago Cubs,5,4
+20060614,Milwaukee Brewers,Cincinnati Reds,0,3
+20060614,Atlanta Braves,Florida Marlins,5,6
+20060614,New York Mets,Philadelpia Phillies,9,3
+20060614,St. Louis Cardinals,Pittsburgh Pirates,7,9
+20060614,Los Angeles Dodgers,San Diego Padres,3,5
+20060614,Colorado Rockies,Washington Nationals,14,8
+20060615,Kansas City Royals,Anaheim Angels,2,3
+20060615,Tampa Bay Devil Rays,Detroit Tigers,2,6
+20060615,Boston Red Sox,Minensota Twins,3,5
+20060615,Cleveland Indians,New York Yankees,8,4
+20060615,Seattle Mariners,Oakland Athletics,6,9
+20060615,Chicago White Sox,Texas Rangers,8,2
+20060615,Baltimore Orioles,Toronto Blue Jays,2,4
+20060615,San  Francisco Giants,Arizona Diamondbacks,8,2
+20060615,Houston Colts,Chicago Cubs,3,2
+20060615,Atlanta Braves,Florida Marlins,2,3
+20060615,New York Mets,Philadelpia Phillies,5,4
+20060615,St. Louis Cardinals,Pittsburgh Pirates,6,5
+20060615,Los Angeles Dodgers,San Diego Padres,7,3
+20060615,Colorado Rockies,Washington Nationals,8,1
+20060616,San Diego Padres,Anaheim Angels,5,4
+20060616,Los Angeles Dodgers,Oakland Athletics,3,7
+20060616,San  Francisco Giants,Seattle Mariners,4,5
+20060616,Arizona Diamondbacks,Texas Rangers,3,5
+20060616,Boston Red Sox,Atlanta Braves,4,1
+20060616,Detroit Tigers,Chicago Cubs,5,3
+20060616,Chicago White Sox,Cincinnati Reds,12,4
+20060616,Toronto Blue Jays,Florida Marlins,1,3
+20060616,Kansas City Royals,Houston Colts,7,2
+20060616,Cleveland Indians,Milwaukee Brewers,4,6
+20060616,Baltimore Orioles,New York Mets,6,3
+20060616,Tampa Bay Devil Rays,Philadelpia Phillies,10,4
+20060616,Minensota Twins,Pittsburgh Pirates,4,2
+20060616,Colorado Rockies,St. Louis Cardinals,1,8
+20060616,New York Yankees,Washington Nationals,7,5
+20060617,San Diego Padres,Anaheim Angels,2,3
+20060617,Los Angeles Dodgers,Oakland Athletics,4,5
+20060617,San  Francisco Giants,Seattle Mariners,1,8
+20060617,Arizona Diamondbacks,Texas Rangers,4,8
+20060617,Boston Red Sox,Atlanta Braves,5,3
+20060617,Detroit Tigers,Chicago Cubs,9,3
+20060617,Chicago White Sox,Cincinnati Reds,8,6
+20060617,Toronto Blue Jays,Florida Marlins,2,8
+20060617,Kansas City Royals,Houston Colts,2,7
+20060617,Cleveland Indians,Milwaukee Brewers,2,3
+20060617,Baltimore Orioles,New York Mets,4,2
+20060617,Tampa Bay Devil Rays,Philadelpia Phillies,7,2
+20060617,Minensota Twins,Pittsburgh Pirates,5,3
+20060617,Colorado Rockies,St. Louis Cardinals,5,6
+20060617,New York Yankees,Washington Nationals,9,11
+20060618,San Diego Padres,Anaheim Angels,7,3
+20060618,Los Angeles Dodgers,Oakland Athletics,2,5
+20060618,San  Francisco Giants,Seattle Mariners,1,5
+20060618,Arizona Diamondbacks,Texas Rangers,7,10
+20060618,Boston Red Sox,Atlanta Braves,10,7
+20060618,Detroit Tigers,Chicago Cubs,12,3
+20060618,Chicago White Sox,Cincinnati Reds,8,1
+20060618,Toronto Blue Jays,Florida Marlins,1,4
+20060618,Kansas City Royals,Houston Colts,7,4
+20060618,Cleveland Indians,Milwaukee Brewers,3,6
+20060618,Baltimore Orioles,New York Mets,4,9
+20060618,Tampa Bay Devil Rays,Philadelpia Phillies,5,8
+20060618,Minensota Twins,Pittsburgh Pirates,8,2
+20060618,Colorado Rockies,St. Louis Cardinals,1,4
+20060618,New York Yankees,Washington Nationals,2,3
+20060619,Washington Nationals,Boston Red Sox,3,6
+20060619,Chicago Cubs,Cleveland Indians,12,8
+20060619,Oakland Athletics,Colorado Rockies,0,7
+20060619,Detroit Tigers,Milwaukee Brewers,3,1
+20060619,Cincinnati Reds,New York Mets,4,2
+20060619,New York Yankees,Philadelpia Phillies,2,4
+20060619,Arizona Diamondbacks,Pittsburgh Pirates,5,4
+20060619,Anaheim Angels,San  Francisco Giants,1,2
+20060620,Florida Marlins,Baltimore Orioles,6,2
+20060620,Washington Nationals,Boston Red Sox,3,11
+20060620,St. Louis Cardinals,Chicago White Sox,6,20
+20060620,Chicago Cubs,Cleveland Indians,2,4
+20060620,Pittsburgh Pirates,Kansas City Royals,6,10
+20060620,Arizona Diamondbacks,Tampa Bay Devil Rays,5,8
+20060620,San Diego Padres,Texas Rangers,6,5
+20060620,Toronto Blue Jays,Atlanta Braves,6,5
+20060620,Oakland Athletics,Colorado Rockies,0,6
+20060620,Minensota Twins,Houston Colts,6,5
+20060620,Seattle Mariners,Los Angeles Dodgers,9,4
+20060620,Detroit Tigers,Milwaukee Brewers,10,1
+20060620,Cincinnati Reds,New York Mets,2,9
+20060620,New York Yankees,Philadelpia Phillies,9,7
+20060620,Anaheim Angels,San  Francisco Giants,2,3
+20060621,Florida Marlins,Baltimore Orioles,0,4
+20060621,Washington Nationals,Boston Red Sox,3,9
+20060621,St. Louis Cardinals,Chicago White Sox,5,13
+20060621,Chicago Cubs,Cleveland Indians,9,2
+20060621,Pittsburgh Pirates,Kansas City Royals,4,6
+20060621,Arizona Diamondbacks,Tampa Bay Devil Rays,2,3
+20060621,San Diego Padres,Texas Rangers,3,2
+20060621,Toronto Blue Jays,Atlanta Braves,6,3
+20060621,Oakland Athletics,Colorado Rockies,3,2
+20060621,Minensota Twins,Houston Colts,3,5
+20060621,Seattle Mariners,Los Angeles Dodgers,8,5
+20060621,Detroit Tigers,Milwaukee Brewers,3,4
+20060621,Cincinnati Reds,New York Mets,6,5
+20060621,New York Yankees,Philadelpia Phillies,5,0
+20060621,Anaheim Angels,San  Francisco Giants,6,3
+20060622,Florida Marlins,Baltimore Orioles,8,5
+20060622,St. Louis Cardinals,Chicago White Sox,0,1
+20060622,Pittsburgh Pirates,Kansas City Royals,7,15
+20060622,Arizona Diamondbacks,Tampa Bay Devil Rays,1,4
+20060622,San Diego Padres,Texas Rangers,3,5
+20060622,Toronto Blue Jays,Atlanta Braves,3,2
+20060622,Minensota Twins,Houston Colts,4,2
+20060622,Seattle Mariners,Los Angeles Dodgers,2,4
+20060622,Cincinnati Reds,New York Mets,2,6
+20060623,Washington Nationals,Baltimore Orioles,1,2
+20060623,Philadelpia Phillies,Boston Red Sox,2,10
+20060623,Houston Colts,Chicago White Sox,4,7
+20060623,Cincinnati Reds,Cleveland Indians,3,0
+20060623,St. Louis Cardinals,Detroit Tigers,6,10
+20060623,Milwaukee Brewers,Kansas City Royals,7,2
+20060623,Chicago Cubs,Minensota Twins,2,7
+20060623,Florida Marlins,New York Yankees,5,6
+20060623,Atlanta Braves,Tampa Bay Devil Rays,4,3
+20060623,New York Mets,Toronto Blue Jays,6,1
+20060623,Anaheim Angels,Arizona Diamondbacks,8,2
+20060623,Texas Rangers,Colorado Rockies,8,6
+20060623,Pittsburgh Pirates,Los Angeles Dodgers,4,10
+20060623,Seattle Mariners,San Diego Padres,1,2
+20060623,Oakland Athletics,San  Francisco Giants,4,3
+20060624,Washington Nationals,Baltimore Orioles,2,3
+20060624,Philadelpia Phillies,Boston Red Sox,3,5
+20060624,Houston Colts,Chicago White Sox,5,6
+20060624,Cincinnati Reds,Cleveland Indians,0,4
+20060624,St. Louis Cardinals,Detroit Tigers,6,7
+20060624,Milwaukee Brewers,Kansas City Royals,5,6
+20060624,Chicago Cubs,Minensota Twins,0,3
+20060624,Atlanta Braves,Tampa Bay Devil Rays,2,3
+20060624,New York Mets,Toronto Blue Jays,4,7
+20060624,Anaheim Angels,Arizona Diamondbacks,6,4
+20060624,Texas Rangers,Colorado Rockies,6,11
+20060624,Pittsburgh Pirates,Los Angeles Dodgers,0,7
+20060624,Seattle Mariners,San Diego Padres,9,5
+20060624,Oakland Athletics,San  Francisco Giants,7,8
+20060625,Washington Nationals,Baltimore Orioles,9,5
+20060625,Houston Colts,Chicago White Sox,10,9
+20060625,Cincinnati Reds,Cleveland Indians,4,2
+20060625,St. Louis Cardinals,Detroit Tigers,1,4
+20060625,Milwaukee Brewers,Kansas City Royals,0,6
+20060625,Chicago Cubs,Minensota Twins,1,8
+20060625,Florida Marlins,New York Yankees,1,2
+20060625,Florida Marlins,New York Yankees,5,0
+20060625,Atlanta Braves,Tampa Bay Devil Rays,4,1
+20060625,New York Mets,Toronto Blue Jays,7,4
+20060625,Anaheim Angels,Arizona Diamondbacks,7,9
+20060625,Texas Rangers,Colorado Rockies,0,3
+20060625,Pittsburgh Pirates,Los Angeles Dodgers,4,7
+20060625,Seattle Mariners,San Diego Padres,9,4
+20060625,Oakland Athletics,San  Francisco Giants,10,4
+20060626,Colorado Rockies,Anaheim Angels,4,5
+20060626,Philadelpia Phillies,Boston Red Sox,7,8
+20060626,Houston Colts,Detroit Tigers,4,10
+20060626,Los Angeles Dodgers,Minensota Twins,2,8
+20060626,Atlanta Braves,New York Yankees,2,5
+20060626,Milwaukee Brewers,Chicago Cubs,6,0
+20060626,Tampa Bay Devil Rays,Florida Marlins,5,8
+20060626,Cleveland Indians,St. Louis Cardinals,10,3
+20060627,Colorado Rockies,Anaheim Angels,12,4
+20060627,New York Mets,Boston Red Sox,4,9
+20060627,Houston Colts,Detroit Tigers,0,4
+20060627,Los Angeles Dodgers,Minensota Twins,2,9
+20060627,Atlanta Braves,New York Yankees,5,2
+20060627,Washington Nationals,Toronto Blue Jays,0,6
+20060627,Seattle Mariners,Arizona Diamondbacks,11,7
+20060627,Milwaukee Brewers,Chicago Cubs,8,5
+20060627,Kansas City Royals,Cincinnati Reds,9,8
+20060627,Tampa Bay Devil Rays,Florida Marlins,4,8
+20060627,Chicago White Sox,Pittsburgh Pirates,4,2
+20060627,Oakland Athletics,San Diego Padres,0,3
+20060627,Texas Rangers,San  Francisco Giants,3,5
+20060627,Cleveland Indians,St. Louis Cardinals,3,1
+20060628,Colorado Rockies,Anaheim Angels,6,2
+20060628,Philadelpia Phillies,Baltimore Orioles,4,7
+20060628,Philadelpia Phillies,Baltimore Orioles,5,12
+20060628,New York Mets,Boston Red Sox,2,10
+20060628,Houston Colts,Detroit Tigers,0,5
+20060628,Los Angeles Dodgers,Minensota Twins,3,6
+20060628,Atlanta Braves,New York Yankees,3,4
+20060628,Washington Nationals,Toronto Blue Jays,1,6
+20060628,Seattle Mariners,Arizona Diamondbacks,10,3
+20060628,Milwaukee Brewers,Chicago Cubs,3,6
+20060628,Kansas City Royals,Cincinnati Reds,2,7
+20060628,Tampa Bay Devil Rays,Florida Marlins,3,1
+20060628,Chicago White Sox,Pittsburgh Pirates,4,3
+20060628,Oakland Athletics,San Diego Padres,1,8
+20060628,Texas Rangers,San  Francisco Giants,1,5
+20060628,Cleveland Indians,St. Louis Cardinals,4,5
+20060629,Philadelpia Phillies,Baltimore Orioles,4,0
+20060629,New York Mets,Boston Red Sox,2,4
+20060629,Washington Nationals,Toronto Blue Jays,4,8
+20060629,Seattle Mariners,Arizona Diamondbacks,3,2
+20060629,Milwaukee Brewers,Chicago Cubs,5,4
+20060629,Kansas City Royals,Cincinnati Reds,5,6
+20060629,Chicago White Sox,Pittsburgh Pirates,6,7
+20060629,Oakland Athletics,San Diego Padres,6,5
+20060629,Texas Rangers,San  Francisco Giants,1,2
+20060630,Los Angeles Dodgers,Anaheim Angels,6,1
+20060630,Milwaukee Brewers,Minensota Twins,2,8
+20060630,New York Mets,New York Yankees,0,2
+20060630,Arizona Diamondbacks,Oakland Athletics,6,4
+20060630,Colorado Rockies,Seattle Mariners,2,0
+20060630,Houston Colts,Texas Rangers,1,3
+20060630,Philadelpia Phillies,Toronto Blue Jays,1,8
+20060630,Baltimore Orioles,Atlanta Braves,3,5
+20060630,Chicago White Sox,Chicago Cubs,6,2
+20060630,Cleveland Indians,Cincinnati Reds,8,9
+20060630,Boston Red Sox,Florida Marlins,2,5
+20060630,Detroit Tigers,Pittsburgh Pirates,7,6
+20060630,San  Francisco Giants,San Diego Padres,5,6
+20060630,Kansas City Royals,St. Louis Cardinals,7,5
+20060630,Tampa Bay Devil Rays,Washington Nationals,11,1
+20060701,Los Angeles Dodgers,Anaheim Angels,2,9
+20060701,Milwaukee Brewers,Minensota Twins,7,10
+20060701,New York Mets,New York Yankees,8,3
+20060701,Arizona Diamondbacks,Oakland Athletics,7,2
+20060701,Colorado Rockies,Seattle Mariners,7,8
+20060701,Houston Colts,Texas Rangers,7,0
+20060701,Philadelpia Phillies,Toronto Blue Jays,2,5
+20060701,Baltimore Orioles,Atlanta Braves,7,4
+20060701,Chicago White Sox,Chicago Cubs,8,6
+20060701,Cleveland Indians,Cincinnati Reds,12,7
+20060701,Boston Red Sox,Florida Marlins,11,5
+20060701,Detroit Tigers,Pittsburgh Pirates,2,9
+20060701,San  Francisco Giants,San Diego Padres,4,7
+20060701,San  Francisco Giants,San Diego Padres,4,1
+20060701,Kansas City Royals,St. Louis Cardinals,8,7
+20060701,Tampa Bay Devil Rays,Washington Nationals,3,4
+20060702,Los Angeles Dodgers,Anaheim Angels,0,4
+20060702,Milwaukee Brewers,Minensota Twins,0,8
+20060702,New York Mets,New York Yankees,7,16
+20060702,Arizona Diamondbacks,Oakland Athletics,3,1
+20060702,Colorado Rockies,Seattle Mariners,4,3
+20060702,Houston Colts,Texas Rangers,9,5
+20060702,Philadelpia Phillies,Toronto Blue Jays,11,6
+20060702,Baltimore Orioles,Atlanta Braves,3,10
+20060702,Chicago White Sox,Chicago Cubs,11,15
+20060702,Cleveland Indians,Cincinnati Reds,6,3
+20060702,Boston Red Sox,Florida Marlins,4,3
+20060702,Detroit Tigers,Pittsburgh Pirates,9,8
+20060702,San  Francisco Giants,San Diego Padres,6,2
+20060702,Kansas City Royals,St. Louis Cardinals,7,9
+20060702,Tampa Bay Devil Rays,Washington Nationals,2,6
+20060703,Baltimore Orioles,Chicago White Sox,8,1
+20060703,New York Yankees,Cleveland Indians,2,5
+20060703,Minensota Twins,Kansas City Royals,6,5
+20060703,Detroit Tigers,Oakland Athletics,3,5
+20060703,Anaheim Angels,Seattle Mariners,7,1
+20060703,Boston Red Sox,Tampa Bay Devil Rays,0,3
+20060703,Toronto Blue Jays,Texas Rangers,1,6
+20060703,St. Louis Cardinals,Atlanta Braves,3,6
+20060703,San  Francisco Giants,Colorado Rockies,9,6
+20060703,Chicago Cubs,Houston Colts,2,7
+20060703,Arizona Diamondbacks,Los Angeles Dodgers,4,10
+20060703,Cincinnati Reds,Milwaukee Brewers,7,8
+20060703,Pittsburgh Pirates,New York Mets,11,1
+20060703,Florida Marlins,Washington Nationals,1,9
+20060704,Baltimore Orioles,Chicago White Sox,0,13
+20060704,New York Yankees,Cleveland Indians,1,19
+20060704,Minensota Twins,Kansas City Royals,2,7
+20060704,Detroit Tigers,Oakland Athletics,1,2
+20060704,Anaheim Angels,Seattle Mariners,14,6
+20060704,Boston Red Sox,Tampa Bay Devil Rays,6,9
+20060704,Toronto Blue Jays,Texas Rangers,3,2
+20060704,St. Louis Cardinals,Atlanta Braves,6,3
+20060704,San  Francisco Giants,Colorado Rockies,1,6
+20060704,Chicago Cubs,Houston Colts,2,7
+20060704,Arizona Diamondbacks,Los Angeles Dodgers,3,11
+20060704,Cincinnati Reds,Milwaukee Brewers,2,5
+20060704,Pittsburgh Pirates,New York Mets,6,7
+20060704,San Diego Padres,Philadelpia Phillies,5,6
+20060704,Florida Marlins,Washington Nationals,4,6
+20060705,Baltimore Orioles,Chicago White Sox,2,4
+20060705,New York Yankees,Cleveland Indians,11,3
+20060705,Minensota Twins,Kansas City Royals,3,6
+20060705,Detroit Tigers,Oakland Athletics,10,4
+20060705,Anaheim Angels,Seattle Mariners,4,0
+20060705,Boston Red Sox,Tampa Bay Devil Rays,2,5
+20060705,Toronto Blue Jays,Texas Rangers,3,9
+20060705,St. Louis Cardinals,Atlanta Braves,4,14
+20060705,San  Francisco Giants,Colorado Rockies,3,5
+20060705,Chicago Cubs,Houston Colts,1,0
+20060705,Arizona Diamondbacks,Los Angeles Dodgers,4,5
+20060705,Cincinnati Reds,Milwaukee Brewers,5,6
+20060705,Pittsburgh Pirates,New York Mets,0,5
+20060705,San Diego Padres,Philadelpia Phillies,6,3
+20060705,Florida Marlins,Washington Nationals,18,9
+20060706,Baltimore Orioles,Chicago White Sox,8,11
+20060706,New York Yankees,Cleveland Indians,10,4
+20060706,Toronto Blue Jays,Kansas City Royals,2,6
+20060706,Anaheim Angels,Oakland Athletics,5,7
+20060706,Boston Red Sox,Tampa Bay Devil Rays,12,5
+20060706,Cincinnati Reds,Atlanta Braves,7,8
+20060706,St. Louis Cardinals,Houston Colts,2,4
+20060706,San  Francisco Giants,Los Angeles Dodgers,5,4
+20060706,Chicago Cubs,Milwaukee Brewers,0,2
+20060706,Pittsburgh Pirates,New York Mets,5,7
+20060706,San Diego Padres,Philadelpia Phillies,5,3
+20060706,Florida Marlins,Washington Nationals,7,8
+20060707,Boston Red Sox,Chicago White Sox,7,2
+20060707,Baltimore Orioles,Cleveland Indians,0,9
+20060707,Toronto Blue Jays,Kansas City Royals,3,13
+20060707,Anaheim Angels,Oakland Athletics,3,0
+20060707,Detroit Tigers,Seattle Mariners,6,1
+20060707,New York Yankees,Tampa Bay Devil Rays,1,0
+20060707,Minensota Twins,Texas Rangers,4,9
+20060707,Cincinnati Reds,Atlanta Braves,10,5
+20060707,Arizona Diamondbacks,Colorado Rockies,4,3
+20060707,St. Louis Cardinals,Houston Colts,8,2
+20060707,San  Francisco Giants,Los Angeles Dodgers,7,9
+20060707,Chicago Cubs,Milwaukee Brewers,7,2
+20060707,Florida Marlins,New York Mets,7,3
+20060707,Pittsburgh Pirates,Philadelpia Phillies,3,2
+20060707,San Diego Padres,Washington Nationals,3,2
+20060708,Boston Red Sox,Chicago White Sox,9,6
+20060708,Baltimore Orioles,Cleveland Indians,7,4
+20060708,Toronto Blue Jays,Kansas City Royals,7,5
+20060708,Anaheim Angels,Oakland Athletics,6,4
+20060708,Detroit Tigers,Seattle Mariners,2,1
+20060708,New York Yankees,Tampa Bay Devil Rays,5,1
+20060708,Minensota Twins,Texas Rangers,4,0
+20060708,Cincinnati Reds,Atlanta Braves,1,4
+20060708,Arizona Diamondbacks,Colorado Rockies,8,7
+20060708,St. Louis Cardinals,Houston Colts,7,6
+20060708,San  Francisco Giants,Los Angeles Dodgers,11,7
+20060708,Chicago Cubs,Milwaukee Brewers,3,1
+20060708,Florida Marlins,New York Mets,3,2
+20060708,Florida Marlins,New York Mets,3,17
+20060708,Pittsburgh Pirates,Philadelpia Phillies,2,6
+20060708,San Diego Padres,Washington Nationals,5,2
+20060709,Boston Red Sox,Chicago White Sox,5,6
+20060709,Baltimore Orioles,Cleveland Indians,5,4
+20060709,Toronto Blue Jays,Kansas City Royals,11,3
+20060709,Anaheim Angels,Oakland Athletics,4,2
+20060709,Detroit Tigers,Seattle Mariners,2,3
+20060709,New York Yankees,Tampa Bay Devil Rays,5,6
+20060709,Minensota Twins,Texas Rangers,2,5
+20060709,Cincinnati Reds,Atlanta Braves,3,8
+20060709,Arizona Diamondbacks,Colorado Rockies,8,5
+20060709,St. Louis Cardinals,Houston Colts,7,5
+20060709,San  Francisco Giants,Los Angeles Dodgers,1,3
+20060709,Chicago Cubs,Milwaukee Brewers,11,4
+20060709,Florida Marlins,New York Mets,6,7
+20060709,Pittsburgh Pirates,Philadelpia Phillies,3,8
+20060709,San Diego Padres,Washington Nationals,10,9
+20060713,Texas Rangers,Baltimore Orioles,15,1
+20060713,Oakland Athletics,Boston Red Sox,5,4
+20060713,Kansas City Royals,Detroit Tigers,4,6
+20060713,Cleveland Indians,Minensota Twins,6,4
+20060713,Colorado Rockies,Cincinnati Reds,7,9
+20060713,Houston Colts,Florida Marlins,5,1
+20060713,Los Angeles Dodgers,St. Louis Cardinals,2,3
+20060714,Tampa Bay Devil Rays,Anaheim Angels,0,4
+20060714,Texas Rangers,Baltimore Orioles,2,1
+20060714,Oakland Athletics,Boston Red Sox,15,3
+20060714,Kansas City Royals,Detroit Tigers,9,10
+20060714,Cleveland Indians,Minensota Twins,2,3
+20060714,Chicago White Sox,New York Yankees,5,6
+20060714,Seattle Mariners,Toronto Blue Jays,5,3
+20060714,Milwaukee Brewers,Arizona Diamondbacks,3,4
+20060714,New York Mets,Chicago Cubs,6,3
+20060714,Colorado Rockies,Cincinnati Reds,1,3
+20060714,Houston Colts,Florida Marlins,1,3
+20060714,Washington Nationals,Pittsburgh Pirates,4,7
+20060714,Atlanta Braves,San Diego Padres,15,12
+20060714,Philadelpia Phillies,San  Francisco Giants,3,5
+20060714,Los Angeles Dodgers,St. Louis Cardinals,0,5
+20060715,Tampa Bay Devil Rays,Anaheim Angels,2,9
+20060715,Texas Rangers,Baltimore Orioles,1,8
+20060715,Oakland Athletics,Boston Red Sox,0,7
+20060715,Kansas City Royals,Detroit Tigers,0,6
+20060715,Cleveland Indians,Minensota Twins,2,6
+20060715,Chicago White Sox,New York Yankees,3,14
+20060715,Seattle Mariners,Toronto Blue Jays,6,7
+20060715,Milwaukee Brewers,Arizona Diamondbacks,1,8
+20060715,New York Mets,Chicago Cubs,2,9
+20060715,Colorado Rockies,Cincinnati Reds,2,3
+20060715,Houston Colts,Florida Marlins,12,0
+20060715,Washington Nationals,Pittsburgh Pirates,6,7
+20060715,Atlanta Braves,San Diego Padres,11,3
+20060715,Philadelpia Phillies,San  Francisco Giants,14,6
+20060715,Los Angeles Dodgers,St. Louis Cardinals,1,2
+20060716,Tampa Bay Devil Rays,Anaheim Angels,5,7
+20060716,Texas Rangers,Baltimore Orioles,0,4
+20060716,Oakland Athletics,Boston Red Sox,8,1
+20060716,Kansas City Royals,Detroit Tigers,9,6
+20060716,Cleveland Indians,Minensota Twins,2,5
+20060716,Chicago White Sox,New York Yankees,4,6
+20060716,Seattle Mariners,Toronto Blue Jays,3,4
+20060716,Milwaukee Brewers,Arizona Diamondbacks,10,5
+20060716,New York Mets,Chicago Cubs,13,7
+20060716,Colorado Rockies,Cincinnati Reds,4,6
+20060716,Houston Colts,Florida Marlins,3,9
+20060716,Washington Nationals,Pittsburgh Pirates,8,4
+20060716,Atlanta Braves,San Diego Padres,10,5
+20060716,Philadelpia Phillies,San  Francisco Giants,6,2
+20060716,Los Angeles Dodgers,St. Louis Cardinals,3,11
+20060717,Cleveland Indians,Anaheim Angels,5,10
+20060717,Oakland Athletics,Baltimore Orioles,3,5
+20060717,Kansas City Royals,Boston Red Sox,4,5
+20060717,Tampa Bay Devil Rays,Minensota Twins,3,6
+20060717,Seattle Mariners,New York Yankees,2,4
+20060717,Texas Rangers,Toronto Blue Jays,1,10
+20060717,Los Angeles Dodgers,Arizona Diamondbacks,3,8
+20060717,Washington Nationals,Florida Marlins,2,4
+20060717,Colorado Rockies,Pittsburgh Pirates,1,3
+20060717,Philadelpia Phillies,San Diego Padres,6,8
+20060717,Milwaukee Brewers,San  Francisco Giants,10,1
+20060717,Atlanta Braves,St. Louis Cardinals,15,3
+20060718,Cleveland Indians,Anaheim Angels,5,7
+20060718,Oakland Athletics,Baltimore Orioles,5,4
+20060718,Kansas City Royals,Boston Red Sox,0,1
+20060718,Chicago White Sox,Detroit Tigers,7,1
+20060718,Tampa Bay Devil Rays,Minensota Twins,1,8
+20060718,Seattle Mariners,New York Yankees,4,5
+20060718,Texas Rangers,Toronto Blue Jays,5,2
+20060718,Los Angeles Dodgers,Arizona Diamondbacks,4,1
+20060718,Houston Colts,Chicago Cubs,2,4
+20060718,New York Mets,Cincinnati Reds,8,3
+20060718,Washington Nationals,Florida Marlins,7,6
+20060718,Colorado Rockies,Pittsburgh Pirates,13,4
+20060718,Philadelpia Phillies,San Diego Padres,6,10
+20060718,Milwaukee Brewers,San  Francisco Giants,3,4
+20060718,Atlanta Braves,St. Louis Cardinals,14,5
+20060719,Cleveland Indians,Anaheim Angels,6,4
+20060719,Oakland Athletics,Baltimore Orioles,5,1
+20060719,Kansas City Royals,Boston Red Sox,0,1
+20060719,Chicago White Sox,Detroit Tigers,2,5
+20060719,Tampa Bay Devil Rays,Minensota Twins,2,7
+20060719,Seattle Mariners,New York Yankees,3,2
+20060719,Texas Rangers,Toronto Blue Jays,5,4
+20060719,Los Angeles Dodgers,Arizona Diamondbacks,0,8
+20060719,Houston Colts,Chicago Cubs,4,2
+20060719,New York Mets,Cincinnati Reds,4,7
+20060719,Washington Nationals,Florida Marlins,0,1
+20060719,Colorado Rockies,Pittsburgh Pirates,5,6
+20060719,Philadelpia Phillies,San Diego Padres,5,4
+20060719,Milwaukee Brewers,San  Francisco Giants,6,7
+20060719,Atlanta Braves,St. Louis Cardinals,3,8
+20060720,Texas Rangers,Boston Red Sox,4,6
+20060720,Chicago White Sox,Detroit Tigers,1,2
+20060720,Anaheim Angels,Kansas City Royals,4,9
+20060720,Tampa Bay Devil Rays,Minensota Twins,4,6
+20060720,New York Yankees,Toronto Blue Jays,4,5
+20060720,Los Angeles Dodgers,Arizona Diamondbacks,2,5
+20060720,Houston Colts,Chicago Cubs,1,4
+20060720,New York Mets,Cincinnati Reds,4,2
+20060720,Pittsburgh Pirates,Florida Marlins,5,3
+20060720,San Diego Padres,San  Francisco Giants,3,9
+20060721,Texas Rangers,Chicago White Sox,10,3
+20060721,Minensota Twins,Cleveland Indians,14,6
+20060721,Oakland Athletics,Detroit Tigers,4,7
+20060721,Anaheim Angels,Kansas City Royals,3,8
+20060721,Boston Red Sox,Seattle Mariners,9,4
+20060721,Baltimore Orioles,Tampa Bay Devil Rays,7,14
+20060721,New York Yankees,Toronto Blue Jays,3,7
+20060721,Colorado Rockies,Arizona Diamondbacks,2,6
+20060721,Milwaukee Brewers,Cincinnati Reds,5,6
+20060721,Pittsburgh Pirates,Florida Marlins,1,4
+20060721,St. Louis Cardinals,Los Angeles Dodgers,2,0
+20060721,Houston Colts,New York Mets,0,7
+20060721,Atlanta Braves,Philadelpia Phillies,5,6
+20060721,San Diego Padres,San  Francisco Giants,2,8
+20060721,Chicago Cubs,Washington Nationals,6,7
+20060722,Texas Rangers,Chicago White Sox,3,1
+20060722,Minensota Twins,Cleveland Indians,0,11
+20060722,Oakland Athletics,Detroit Tigers,9,5
+20060722,Anaheim Angels,Kansas City Royals,4,3
+20060722,Boston Red Sox,Seattle Mariners,2,5
+20060722,Baltimore Orioles,Tampa Bay Devil Rays,12,13
+20060722,New York Yankees,Toronto Blue Jays,5,4
+20060722,Colorado Rockies,Arizona Diamondbacks,3,4
+20060722,Milwaukee Brewers,Cincinnati Reds,7,8
+20060722,Pittsburgh Pirates,Florida Marlins,0,5
+20060722,St. Louis Cardinals,Los Angeles Dodgers,6,1
+20060722,Houston Colts,New York Mets,3,4
+20060722,San Diego Padres,San  Francisco Giants,3,4
+20060722,Chicago Cubs,Washington Nationals,3,7
+20060723,Texas Rangers,Chicago White Sox,0,5
+20060723,Minensota Twins,Cleveland Indians,3,1
+20060723,Oakland Athletics,Detroit Tigers,4,8
+20060723,Anaheim Angels,Kansas City Royals,3,1
+20060723,Boston Red Sox,Seattle Mariners,8,9
+20060723,Baltimore Orioles,Tampa Bay Devil Rays,4,2
+20060723,New York Yankees,Toronto Blue Jays,5,13
+20060723,Colorado Rockies,Arizona Diamondbacks,9,7
+20060723,Milwaukee Brewers,Cincinnati Reds,4,1
+20060723,Pittsburgh Pirates,Florida Marlins,4,5
+20060723,St. Louis Cardinals,Los Angeles Dodgers,6,1
+20060723,Houston Colts,New York Mets,8,4
+20060723,Atlanta Braves,Philadelpia Phillies,5,1
+20060723,San Diego Padres,San  Francisco Giants,6,5
+20060723,Chicago Cubs,Washington Nationals,1,7
+20060724,Minensota Twins,Chicago White Sox,7,4
+20060724,Detroit Tigers,Cleveland Indians,9,7
+20060724,Boston Red Sox,Oakland Athletics,7,3
+20060724,Toronto Blue Jays,Seattle Mariners,3,7
+20060724,Anaheim Angels,Tampa Bay Devil Rays,8,4
+20060724,New York Yankees,Texas Rangers,6,2
+20060724,St. Louis Cardinals,Colorado Rockies,0,7
+20060724,San Diego Padres,Los Angeles Dodgers,7,6
+20060724,Pittsburgh Pirates,Milwaukee Brewers,8,12
+20060724,Chicago Cubs,New York Mets,8,7
+20060724,Atlanta Braves,Philadelpia Phillies,10,8
+20060725,Minensota Twins,Chicago White Sox,4,3
+20060725,Detroit Tigers,Cleveland Indians,7,12
+20060725,Baltimore Orioles,Kansas City Royals,5,7
+20060725,Boston Red Sox,Oakland Athletics,13,5
+20060725,Toronto Blue Jays,Seattle Mariners,12,3
+20060725,Anaheim Angels,Tampa Bay Devil Rays,3,6
+20060725,New York Yankees,Texas Rangers,7,4
+20060725,Florida Marlins,Atlanta Braves,2,1
+20060725,St. Louis Cardinals,Colorado Rockies,1,0
+20060725,Cincinnati Reds,Houston Colts,2,0
+20060725,San Diego Padres,Los Angeles Dodgers,7,3
+20060725,Pittsburgh Pirates,Milwaukee Brewers,6,1
+20060725,Chicago Cubs,New York Mets,8,6
+20060725,Arizona Diamondbacks,Philadelpia Phillies,6,5
+20060725,San  Francisco Giants,Washington Nationals,6,8
+20060726,Minensota Twins,Chicago White Sox,7,4
+20060726,Detroit Tigers,Cleveland Indians,4,1
+20060726,Baltimore Orioles,Kansas City Royals,4,3
+20060726,Boston Red Sox,Oakland Athletics,1,5
+20060726,Toronto Blue Jays,Seattle Mariners,4,7
+20060726,Anaheim Angels,Tampa Bay Devil Rays,15,6
+20060726,New York Yankees,Texas Rangers,8,7
+20060726,Florida Marlins,Atlanta Braves,5,6
+20060726,St. Louis Cardinals,Colorado Rockies,6,1
+20060726,Cincinnati Reds,Houston Colts,5,8
+20060726,San Diego Padres,Los Angeles Dodgers,10,3
+20060726,Pittsburgh Pirates,Milwaukee Brewers,8,4
+20060726,Chicago Cubs,New York Mets,0,1
+20060726,Arizona Diamondbacks,Philadelpia Phillies,4,6
+20060726,San  Francisco Giants,Washington Nationals,3,4
+20060727,Baltimore Orioles,Kansas City Royals,6,4
+20060727,Toronto Blue Jays,Oakland Athletics,2,5
+20060727,Florida Marlins,Atlanta Braves,6,1
+20060727,St. Louis Cardinals,Chicago Cubs,4,5
+20060727,San Diego Padres,Colorado Rockies,8,9
+20060727,Cincinnati Reds,Houston Colts,8,4
+20060727,Arizona Diamondbacks,Philadelpia Phillies,2,5
+20060727,San  Francisco Giants,Washington Nationals,5,6
+20060728,Chicago White Sox,Baltimore Orioles,6,4
+20060728,Anaheim Angels,Boston Red Sox,8,3
+20060728,Seattle Mariners,Cleveland Indians,0,1
+20060728,Detroit Tigers,Minensota Twins,3,2
+20060728,Tampa Bay Devil Rays,New York Yankees,0,6
+20060728,Toronto Blue Jays,Oakland Athletics,4,3
+20060728,Kansas City Royals,Texas Rangers,11,3
+20060728,New York Mets,Atlanta Braves,6,4
+20060728,St. Louis Cardinals,Chicago Cubs,5,6
+20060728,San Diego Padres,Colorado Rockies,1,3
+20060728,Arizona Diamondbacks,Houston Colts,8,7
+20060728,Washington Nationals,Los Angeles Dodgers,1,13
+20060728,Cincinnati Reds,Milwaukee Brewers,4,3
+20060728,Florida Marlins,Philadelpia Phillies,4,1
+20060728,San  Francisco Giants,Pittsburgh Pirates,0,3
+20060729,Chicago White Sox,Baltimore Orioles,13,11
+20060729,Anaheim Angels,Boston Red Sox,6,7
+20060729,Seattle Mariners,Cleveland Indians,3,1
+20060729,Detroit Tigers,Minensota Twins,8,6
+20060729,Tampa Bay Devil Rays,New York Yankees,19,6
+20060729,Toronto Blue Jays,Oakland Athletics,4,7
+20060729,Kansas City Royals,Texas Rangers,5,3
+20060729,New York Mets,Atlanta Braves,11,3
+20060729,St. Louis Cardinals,Chicago Cubs,2,4
+20060729,San Diego Padres,Colorado Rockies,4,2
+20060729,Arizona Diamondbacks,Houston Colts,1,4
+20060729,Washington Nationals,Los Angeles Dodgers,5,7
+20060729,Cincinnati Reds,Milwaukee Brewers,3,6
+20060729,Florida Marlins,Philadelpia Phillies,3,12
+20060729,San  Francisco Giants,Pittsburgh Pirates,3,4
+20060730,Chicago White Sox,Baltimore Orioles,7,8
+20060730,Anaheim Angels,Boston Red Sox,10,4
+20060730,Seattle Mariners,Cleveland Indians,7,3
+20060730,Detroit Tigers,Minensota Twins,4,6
+20060730,Tampa Bay Devil Rays,New York Yankees,2,4
+20060730,Toronto Blue Jays,Oakland Athletics,5,6
+20060730,Kansas City Royals,Texas Rangers,2,15
+20060730,New York Mets,Atlanta Braves,10,6
+20060730,St. Louis Cardinals,Chicago Cubs,3,6
+20060730,San Diego Padres,Colorado Rockies,1,3
+20060730,Arizona Diamondbacks,Houston Colts,7,6
+20060730,Washington Nationals,Los Angeles Dodgers,3,4
+20060730,Cincinnati Reds,Milwaukee Brewers,3,4
+20060730,Florida Marlins,Philadelpia Phillies,5,11
+20060730,Florida Marlins,Philadelpia Phillies,2,9
+20060730,San  Francisco Giants,Pittsburgh Pirates,1,2
+20060731,Oakland Athletics,Anaheim Angels,3,1
+20060731,Seattle Mariners,Baltimore Orioles,10,5
+20060731,Cleveland Indians,Boston Red Sox,8,9
+20060731,Chicago White Sox,Kansas City Royals,8,4
+20060731,Texas Rangers,Minensota Twins,2,15
+20060731,Detroit Tigers,Tampa Bay Devil Rays,3,7
+20060731,Arizona Diamondbacks,Chicago Cubs,15,4
+20060731,Milwaukee Brewers,Colorado Rockies,2,4
+20060731,Florida Marlins,Philadelpia Phillies,15,2
+20060731,Washington Nationals,San  Francisco Giants,10,7
+20060801,Oakland Athletics,Anaheim Angels,2,3
+20060801,Seattle Mariners,Baltimore Orioles,0,2
+20060801,Cleveland Indians,Boston Red Sox,6,3
+20060801,Chicago White Sox,Kansas City Royals,7,5
+20060801,Texas Rangers,Minensota Twins,9,0
+20060801,Toronto Blue Jays,New York Yankees,1,5
+20060801,Detroit Tigers,Tampa Bay Devil Rays,10,4
+20060801,Arizona Diamondbacks,Chicago Cubs,3,9
+20060801,Los Angeles Dodgers,Cincinnati Reds,10,4
+20060801,Milwaukee Brewers,Colorado Rockies,1,0
+20060801,New York Mets,Florida Marlins,5,6
+20060801,Atlanta Braves,Pittsburgh Pirates,4,2
+20060801,Houston Colts,San Diego Padres,1,0
+20060801,Washington Nationals,San  Francisco Giants,4,1
+20060801,Philadelpia Phillies,St. Louis Cardinals,5,3
+20060802,Oakland Athletics,Anaheim Angels,3,2
+20060802,Seattle Mariners,Baltimore Orioles,2,1
+20060802,Cleveland Indians,Boston Red Sox,5,6
+20060802,Chicago White Sox,Kansas City Royals,3,7
+20060802,Texas Rangers,Minensota Twins,10,2
+20060802,Toronto Blue Jays,New York Yankees,2,7
+20060802,Detroit Tigers,Tampa Bay Devil Rays,8,3
+20060802,Los Angeles Dodgers,Cincinnati Reds,5,3
+20060802,Milwaukee Brewers,Colorado Rockies,2,8
+20060802,New York Mets,Florida Marlins,6,5
+20060802,Atlanta Braves,Pittsburgh Pirates,3,2
+20060802,Houston Colts,San Diego Padres,7,1
+20060802,Washington Nationals,San  Francisco Giants,6,8
+20060802,Philadelpia Phillies,St. Louis Cardinals,16,8
+20060803,Texas Rangers,Anaheim Angels,7,6
+20060803,Cleveland Indians,Boston Red Sox,7,6
+20060803,Minensota Twins,Kansas City Royals,8,2
+20060803,Toronto Blue Jays,New York Yankees,1,8
+20060803,Detroit Tigers,Tampa Bay Devil Rays,1,2
+20060803,Arizona Diamondbacks,Chicago Cubs,10,2
+20060803,Arizona Diamondbacks,Chicago Cubs,3,7
+20060803,Los Angeles Dodgers,Cincinnati Reds,3,0
+20060803,New York Mets,Florida Marlins,1,4
+20060803,Atlanta Braves,Pittsburgh Pirates,2,3
+20060803,Houston Colts,San Diego Padres,2,5
+20060803,Philadelpia Phillies,St. Louis Cardinals,8,1
+20060804,Texas Rangers,Anaheim Angels,7,3
+20060804,New York Yankees,Baltimore Orioles,5,4
+20060804,Cleveland Indians,Detroit Tigers,6,7
+20060804,Minensota Twins,Kansas City Royals,8,5
+20060804,Oakland Athletics,Seattle Mariners,5,2
+20060804,Boston Red Sox,Tampa Bay Devil Rays,3,2
+20060804,Chicago White Sox,Toronto Blue Jays,6,4
+20060804,Houston Colts,Arizona Diamondbacks,8,7
+20060804,Pittsburgh Pirates,Chicago Cubs,6,0
+20060804,Atlanta Braves,Cincinnati Reds,4,5
+20060804,Los Angeles Dodgers,Florida Marlins,6,2
+20060804,Philadelpia Phillies,New York Mets,5,3
+20060804,Washington Nationals,San Diego Padres,6,2
+20060804,Colorado Rockies,San  Francisco Giants,5,2
+20060804,Milwaukee Brewers,St. Louis Cardinals,4,3
+20060805,Texas Rangers,Anaheim Angels,3,10
+20060805,New York Yankees,Baltimore Orioles,0,5
+20060805,Cleveland Indians,Detroit Tigers,3,4
+20060805,Minensota Twins,Kansas City Royals,14,3
+20060805,Oakland Athletics,Seattle Mariners,5,2
+20060805,Boston Red Sox,Tampa Bay Devil Rays,5,8
+20060805,Chicago White Sox,Toronto Blue Jays,7,1
+20060805,Houston Colts,Arizona Diamondbacks,9,3
+20060805,Pittsburgh Pirates,Chicago Cubs,5,7
+20060805,Atlanta Braves,Cincinnati Reds,6,8
+20060805,Los Angeles Dodgers,Florida Marlins,10,2
+20060805,Philadelpia Phillies,New York Mets,3,4
+20060805,Washington Nationals,San Diego Padres,3,6
+20060805,Colorado Rockies,San  Francisco Giants,2,1
+20060805,Milwaukee Brewers,St. Louis Cardinals,3,4
+20060806,Texas Rangers,Anaheim Angels,1,9
+20060806,New York Yankees,Baltimore Orioles,6,1
+20060806,Cleveland Indians,Detroit Tigers,0,1
+20060806,Minensota Twins,Kansas City Royals,11,5
+20060806,Oakland Athletics,Seattle Mariners,7,6
+20060806,Boston Red Sox,Tampa Bay Devil Rays,6,7
+20060806,Chicago White Sox,Toronto Blue Jays,3,7
+20060806,Houston Colts,Arizona Diamondbacks,3,4
+20060806,Pittsburgh Pirates,Chicago Cubs,1,6
+20060806,Atlanta Braves,Cincinnati Reds,6,4
+20060806,Los Angeles Dodgers,Florida Marlins,7,3
+20060806,Philadelpia Phillies,New York Mets,1,8
+20060806,Washington Nationals,San Diego Padres,2,3
+20060806,Colorado Rockies,San  Francisco Giants,2,6
+20060806,Milwaukee Brewers,St. Louis Cardinals,1,7
+20060807,Anaheim Angels,Chicago White Sox,6,3
+20060807,Minensota Twins,Detroit Tigers,3,9
+20060807,Texas Rangers,Oakland Athletics,4,7
+20060807,Tampa Bay Devil Rays,Seattle Mariners,4,5
+20060807,Baltimore Orioles,Toronto Blue Jays,1,8
+20060807,San  Francisco Giants,Arizona Diamondbacks,8,4
+20060807,Philadelpia Phillies,Atlanta Braves,9,6
+20060807,St. Louis Cardinals,Cincinnati Reds,13,1
+20060807,Colorado Rockies,Los Angeles Dodgers,2,7
+20060808,New York Yankees,Chicago White Sox,5,6
+20060808,Anaheim Angels,Cleveland Indians,5,4
+20060808,Minensota Twins,Detroit Tigers,4,2
+20060808,Boston Red Sox,Kansas City Royals,4,6
+20060808,Texas Rangers,Oakland Athletics,6,7
+20060808,Tampa Bay Devil Rays,Seattle Mariners,1,5
+20060808,Baltimore Orioles,Toronto Blue Jays,8,4
+20060808,San  Francisco Giants,Arizona Diamondbacks,1,5
+20060808,Philadelpia Phillies,Atlanta Braves,1,3
+20060808,St. Louis Cardinals,Cincinnati Reds,3,10
+20060808,Pittsburgh Pirates,Houston Colts,1,3
+20060808,Colorado Rockies,Los Angeles Dodgers,2,4
+20060808,Chicago Cubs,Milwaukee Brewers,6,3
+20060808,San Diego Padres,New York Mets,2,3
+20060808,Florida Marlins,Washington Nationals,4,2
+20060809,New York Yankees,Chicago White Sox,7,6
+20060809,Anaheim Angels,Cleveland Indians,0,4
+20060809,Minensota Twins,Detroit Tigers,4,3
+20060809,Boston Red Sox,Kansas City Royals,4,5
+20060809,Texas Rangers,Oakland Athletics,14,0
+20060809,Tampa Bay Devil Rays,Seattle Mariners,0,2
+20060809,Baltimore Orioles,Toronto Blue Jays,3,4
+20060809,San  Francisco Giants,Arizona Diamondbacks,3,5
+20060809,Philadelpia Phillies,Atlanta Braves,9,3
+20060809,St. Louis Cardinals,Cincinnati Reds,7,8
+20060809,Pittsburgh Pirates,Houston Colts,1,14
+20060809,Colorado Rockies,Los Angeles Dodgers,3,1
+20060809,Chicago Cubs,Milwaukee Brewers,3,6
+20060809,San Diego Padres,New York Mets,3,4
+20060809,Florida Marlins,Washington Nationals,2,5
+20060810,New York Yankees,Chicago White Sox,4,5
+20060810,Anaheim Angels,Cleveland Indians,2,14
+20060810,Boston Red Sox,Kansas City Royals,4,5
+20060810,Toronto Blue Jays,Minensota Twins,5,0
+20060810,Seattle Mariners,Texas Rangers,2,8
+20060810,St. Louis Cardinals,Cincinnati Reds,6,1
+20060810,Pittsburgh Pirates,Houston Colts,2,5
+20060810,Colorado Rockies,Los Angeles Dodgers,3,4
+20060810,Chicago Cubs,Milwaukee Brewers,6,8
+20060810,San Diego Padres,New York Mets,3,7
+20060810,Florida Marlins,Washington Nationals,9,6
+20060811,Baltimore Orioles,Boston Red Sox,2,9
+20060811,Detroit Tigers,Chicago White Sox,0,5
+20060811,Kansas City Royals,Cleveland Indians,3,4
+20060811,Toronto Blue Jays,Minensota Twins,7,1
+20060811,Anaheim Angels,New York Yankees,7,4
+20060811,Tampa Bay Devil Rays,Oakland Athletics,2,5
+20060811,Seattle Mariners,Texas Rangers,7,14
+20060811,Florida Marlins,Arizona Diamondbacks,4,1
+20060811,Milwaukee Brewers,Atlanta Braves,1,2
+20060811,Chicago Cubs,Colorado Rockies,2,10
+20060811,San Diego Padres,Houston Colts,2,4
+20060811,San  Francisco Giants,Los Angeles Dodgers,2,3
+20060811,Cincinnati Reds,Philadelpia Phillies,5,6
+20060811,St. Louis Cardinals,Pittsburgh Pirates,1,7
+20060811,New York Mets,Washington Nationals,1,2
+20060812,Baltimore Orioles,Boston Red Sox,7,8
+20060812,Detroit Tigers,Chicago White Sox,3,4
+20060812,Kansas City Royals,Cleveland Indians,4,5
+20060812,Kansas City Royals,Cleveland Indians,5,6
+20060812,Toronto Blue Jays,Minensota Twins,4,0
+20060812,Anaheim Angels,New York Yankees,2,5
+20060812,Tampa Bay Devil Rays,Oakland Athletics,3,6
+20060812,Seattle Mariners,Texas Rangers,4,5
+20060812,Florida Marlins,Arizona Diamondbacks,3,6
+20060812,Milwaukee Brewers,Atlanta Braves,8,5
+20060812,Chicago Cubs,Colorado Rockies,4,8
+20060812,San Diego Padres,Houston Colts,6,3
+20060812,San  Francisco Giants,Los Angeles Dodgers,5,6
+20060812,Cincinnati Reds,Philadelpia Phillies,9,7
+20060812,St. Louis Cardinals,Pittsburgh Pirates,2,3
+20060812,New York Mets,Washington Nationals,6,4
+20060813,Baltimore Orioles,Boston Red Sox,9,11
+20060813,Detroit Tigers,Chicago White Sox,3,7
+20060813,Kansas City Royals,Cleveland Indians,0,13
+20060813,Toronto Blue Jays,Minensota Twins,0,5
+20060813,Anaheim Angels,New York Yankees,5,3
+20060813,Tampa Bay Devil Rays,Oakland Athletics,1,3
+20060813,Seattle Mariners,Texas Rangers,6,10
+20060813,Florida Marlins,Arizona Diamondbacks,6,5
+20060813,Milwaukee Brewers,Atlanta Braves,4,7
+20060813,Chicago Cubs,Colorado Rockies,8,7
+20060813,San Diego Padres,Houston Colts,7,2
+20060813,San  Francisco Giants,Los Angeles Dodgers,0,1
+20060813,Cincinnati Reds,Philadelpia Phillies,7,5
+20060813,St. Louis Cardinals,Pittsburgh Pirates,0,7
+20060813,New York Mets,Washington Nationals,3,1
+20060814,Detroit Tigers,Boston Red Sox,7,4
+20060814,Kansas City Royals,Chicago White Sox,2,12
+20060814,Anaheim Angels,New York Yankees,2,7
+20060814,Seattle Mariners,Oakland Athletics,4,5
+20060814,Arizona Diamondbacks,Colorado Rockies,3,4
+20060814,Chicago Cubs,Houston Colts,3,0
+20060814,Florida Marlins,Los Angeles Dodgers,2,4
+20060814,New York Mets,Philadelpia Phillies,0,13
+20060814,Milwaukee Brewers,Pittsburgh Pirates,2,4
+20060814,San  Francisco Giants,San Diego Padres,1,0
+20060814,Atlanta Braves,Washington Nationals,10,4
+20060815,Detroit Tigers,Boston Red Sox,3,2
+20060815,Kansas City Royals,Chicago White Sox,4,2
+20060815,Cleveland Indians,Minensota Twins,1,4
+20060815,Baltimore Orioles,New York Yankees,3,6
+20060815,Seattle Mariners,Oakland Athletics,2,11
+20060815,Toronto Blue Jays,Tampa Bay Devil Rays,4,3
+20060815,Anaheim Angels,Texas Rangers,9,7
+20060815,Arizona Diamondbacks,Colorado Rockies,2,1
+20060815,Chicago Cubs,Houston Colts,8,6
+20060815,Florida Marlins,Los Angeles Dodgers,0,4
+20060815,New York Mets,Philadelpia Phillies,4,11
+20060815,Milwaukee Brewers,Pittsburgh Pirates,6,3
+20060815,San  Francisco Giants,San Diego Padres,3,2
+20060815,Cincinnati Reds,St. Louis Cardinals,0,5
+20060815,Atlanta Braves,Washington Nationals,0,5
+20060816,Detroit Tigers,Boston Red Sox,4,6
+20060816,Kansas City Royals,Chicago White Sox,10,4
+20060816,Cleveland Indians,Minensota Twins,2,7
+20060816,Baltimore Orioles,New York Yankees,3,2
+20060816,Seattle Mariners,Oakland Athletics,0,4
+20060816,Toronto Blue Jays,Tampa Bay Devil Rays,3,8
+20060816,Anaheim Angels,Texas Rangers,3,9
+20060816,Arizona Diamondbacks,Colorado Rockies,9,5
+20060816,Chicago Cubs,Houston Colts,1,0
+20060816,Florida Marlins,Los Angeles Dodgers,15,4
+20060816,New York Mets,Philadelpia Phillies,0,3
+20060816,Milwaukee Brewers,Pittsburgh Pirates,5,2
+20060816,San  Francisco Giants,San Diego Padres,7,5
+20060816,Cincinnati Reds,St. Louis Cardinals,7,2
+20060816,Atlanta Braves,Washington Nationals,6,9
+20060817,Seattle Mariners,Anaheim Angels,2,5
+20060817,Kansas City Royals,Chicago White Sox,4,5
+20060817,Texas Rangers,Detroit Tigers,2,4
+20060817,Cleveland Indians,Minensota Twins,3,2
+20060817,Baltimore Orioles,New York Yankees,12,2
+20060817,Toronto Blue Jays,Tampa Bay Devil Rays,6,2
+20060817,Arizona Diamondbacks,Colorado Rockies,4,8
+20060817,Houston Colts,Milwaukee Brewers,7,3
+20060817,New York Mets,Philadelpia Phillies,7,2
+20060817,San  Francisco Giants,San Diego Padres,8,4
+20060817,Cincinnati Reds,St. Louis Cardinals,1,2
+20060817,Atlanta Braves,Washington Nationals,5,0
+20060818,Seattle Mariners,Anaheim Angels,0,3
+20060818,Toronto Blue Jays,Baltimore Orioles,2,7
+20060818,New York Yankees,Boston Red Sox,12,4
+20060818,New York Yankees,Boston Red Sox,14,11
+20060818,Texas Rangers,Detroit Tigers,2,1
+20060818,Oakland Athletics,Kansas City Royals,1,7
+20060818,Oakland Athletics,Kansas City Royals,3,5
+20060818,Chicago White Sox,Minensota Twins,3,7
+20060818,Cleveland Indians,Tampa Bay Devil Rays,5,6
+20060818,St. Louis Cardinals,Chicago Cubs,11,3
+20060818,Pittsburgh Pirates,Cincinnati Reds,7,3
+20060818,Atlanta Braves,Florida Marlins,6,1
+20060818,Houston Colts,Milwaukee Brewers,2,3
+20060818,Colorado Rockies,New York Mets,3,6
+20060818,Washington Nationals,Philadelpia Phillies,6,4
+20060818,Arizona Diamondbacks,San Diego Padres,2,8
+20060818,Los Angeles Dodgers,San  Francisco Giants,3,7
+20060819,Seattle Mariners,Anaheim Angels,7,9
+20060819,Toronto Blue Jays,Baltimore Orioles,0,15
+20060819,New York Yankees,Boston Red Sox,13,5
+20060819,Texas Rangers,Detroit Tigers,3,1
+20060819,Oakland Athletics,Kansas City Royals,7,2
+20060819,Chicago White Sox,Minensota Twins,4,1
+20060819,Cleveland Indians,Tampa Bay Devil Rays,5,3
+20060819,St. Louis Cardinals,Chicago Cubs,4,5
+20060819,Pittsburgh Pirates,Cincinnati Reds,7,14
+20060819,Atlanta Braves,Florida Marlins,5,3
+20060819,Houston Colts,Milwaukee Brewers,4,6
+20060819,Colorado Rockies,New York Mets,4,7
+20060819,Washington Nationals,Philadelpia Phillies,2,11
+20060819,Arizona Diamondbacks,San Diego Padres,5,3
+20060819,Los Angeles Dodgers,San  Francisco Giants,14,7
+20060820,Seattle Mariners,Anaheim Angels,2,3
+20060820,Toronto Blue Jays,Baltimore Orioles,9,2
+20060820,New York Yankees,Boston Red Sox,8,5
+20060820,Texas Rangers,Detroit Tigers,7,6
+20060820,Oakland Athletics,Kansas City Royals,6,4
+20060820,Chicago White Sox,Minensota Twins,3,7
+20060820,Cleveland Indians,Tampa Bay Devil Rays,9,4
+20060820,St. Louis Cardinals,Chicago Cubs,5,3
+20060820,Pittsburgh Pirates,Cincinnati Reds,1,5
+20060820,Atlanta Braves,Florida Marlins,3,4
+20060820,Houston Colts,Milwaukee Brewers,3,1
+20060820,Colorado Rockies,New York Mets,0,2
+20060820,Washington Nationals,Philadelpia Phillies,10,12
+20060820,Arizona Diamondbacks,San Diego Padres,1,2
+20060820,Los Angeles Dodgers,San  Francisco Giants,5,2
+20060821,New York Yankees,Boston Red Sox,2,1
+20060821,Chicago White Sox,Detroit Tigers,1,7
+20060821,Texas Rangers,Tampa Bay Devil Rays,3,4
+20060821,Oakland Athletics,Toronto Blue Jays,12,10
+20060821,Pittsburgh Pirates,Atlanta Braves,0,3
+20060821,Philadelpia Phillies,Chicago Cubs,6,5
+20060821,Houston Colts,Cincinnati Reds,3,4
+20060821,Washington Nationals,Florida Marlins,1,3
+20060821,Los Angeles Dodgers,San Diego Padres,2,4
+20060821,Arizona Diamondbacks,San  Francisco Giants,0,5
+20060822,Boston Red Sox,Anaheim Angels,3,4
+20060822,Minensota Twins,Baltimore Orioles,3,6
+20060822,Chicago White Sox,Detroit Tigers,0,4
+20060822,Cleveland Indians,Kansas City Royals,2,5
+20060822,New York Yankees,Seattle Mariners,5,6
+20060822,Texas Rangers,Tampa Bay Devil Rays,3,5
+20060822,Oakland Athletics,Toronto Blue Jays,3,4
+20060822,Pittsburgh Pirates,Atlanta Braves,5,3
+20060822,Philadelpia Phillies,Chicago Cubs,6,3
+20060822,Houston Colts,Cincinnati Reds,0,14
+20060822,Washington Nationals,Florida Marlins,5,7
+20060822,Colorado Rockies,Milwaukee Brewers,1,4
+20060822,St. Louis Cardinals,New York Mets,7,8
+20060822,Los Angeles Dodgers,San Diego Padres,0,1
+20060822,Arizona Diamondbacks,San  Francisco Giants,6,7
+20060823,Boston Red Sox,Anaheim Angels,5,4
+20060823,Minensota Twins,Baltimore Orioles,4,1
+20060823,Chicago White Sox,Detroit Tigers,7,5
+20060823,Cleveland Indians,Kansas City Royals,15,13
+20060823,New York Yankees,Seattle Mariners,9,2
+20060823,Texas Rangers,Tampa Bay Devil Rays,3,7
+20060823,Oakland Athletics,Toronto Blue Jays,6,0
+20060823,Pittsburgh Pirates,Atlanta Braves,5,4
+20060823,Philadelpia Phillies,Chicago Cubs,2,1
+20060823,Houston Colts,Cincinnati Reds,7,3
+20060823,Washington Nationals,Florida Marlins,7,9
+20060823,Colorado Rockies,Milwaukee Brewers,1,7
+20060823,St. Louis Cardinals,New York Mets,8,10
+20060823,Los Angeles Dodgers,San Diego Padres,2,7
+20060823,Arizona Diamondbacks,San  Francisco Giants,6,7
+20060824,Boston Red Sox,Anaheim Angels,2,1
+20060824,Minensota Twins,Baltimore Orioles,11,2
+20060824,Chicago White Sox,Detroit Tigers,10,0
+20060824,Cleveland Indians,Kansas City Royals,8,4
+20060824,New York Yankees,Seattle Mariners,2,4
+20060824,Texas Rangers,Tampa Bay Devil Rays,4,3
+20060824,Philadelpia Phillies,Chicago Cubs,2,11
+20060824,Colorado Rockies,Milwaukee Brewers,6,12
+20060824,St. Louis Cardinals,New York Mets,2,6
+20060824,Houston Colts,Pittsburgh Pirates,3,5
+20060824,Cincinnati Reds,San  Francisco Giants,6,3
+20060825,New York Yankees,Anaheim Angels,5,6
+20060825,Tampa Bay Devil Rays,Baltimore Orioles,0,4
+20060825,Minensota Twins,Chicago White Sox,5,4
+20060825,Detroit Tigers,Cleveland Indians,2,4
+20060825,Boston Red Sox,Seattle Mariners,0,6
+20060825,Oakland Athletics,Texas Rangers,9,3
+20060825,Kansas City Royals,Toronto Blue Jays,3,6
+20060825,Los Angeles Dodgers,Arizona Diamondbacks,7,9
+20060825,Washington Nationals,Atlanta Braves,7,6
+20060825,San Diego Padres,Colorado Rockies,5,13
+20060825,Milwaukee Brewers,Florida Marlins,5,6
+20060825,Philadelpia Phillies,New York Mets,4,3
+20060825,Houston Colts,Pittsburgh Pirates,5,1
+20060825,Cincinnati Reds,San  Francisco Giants,1,4
+20060825,Chicago Cubs,St. Louis Cardinals,0,2
+20060826,New York Yankees,Anaheim Angels,7,12
+20060826,Tampa Bay Devil Rays,Baltimore Orioles,2,3
+20060826,Minensota Twins,Chicago White Sox,8,7
+20060826,Detroit Tigers,Cleveland Indians,5,8
+20060826,Boston Red Sox,Seattle Mariners,3,4
+20060826,Oakland Athletics,Texas Rangers,5,3
+20060826,Kansas City Royals,Toronto Blue Jays,2,0
+20060826,Los Angeles Dodgers,Arizona Diamondbacks,4,3
+20060826,Washington Nationals,Atlanta Braves,1,10
+20060826,San Diego Padres,Colorado Rockies,5,2
+20060826,Milwaukee Brewers,Florida Marlins,2,7
+20060826,Philadelpia Phillies,New York Mets,5,11
+20060826,Houston Colts,Pittsburgh Pirates,7,4
+20060826,Cincinnati Reds,San  Francisco Giants,1,4
+20060826,Chicago Cubs,St. Louis Cardinals,1,2
+20060827,New York Yankees,Anaheim Angels,11,8
+20060827,Tampa Bay Devil Rays,Baltimore Orioles,4,5
+20060827,Minensota Twins,Chicago White Sox,1,6
+20060827,Detroit Tigers,Cleveland Indians,7,1
+20060827,Boston Red Sox,Seattle Mariners,3,6
+20060827,Oakland Athletics,Texas Rangers,0,3
+20060827,Kansas City Royals,Toronto Blue Jays,6,10
+20060827,Los Angeles Dodgers,Arizona Diamondbacks,6,3
+20060827,Washington Nationals,Atlanta Braves,6,13
+20060827,San Diego Padres,Colorado Rockies,3,6
+20060827,Milwaukee Brewers,Florida Marlins,3,4
+20060827,Houston Colts,Pittsburgh Pirates,13,1
+20060827,Cincinnati Reds,San  Francisco Giants,0,8
+20060827,Chicago Cubs,St. Louis Cardinals,6,10
+20060828,Toronto Blue Jays,Cleveland Indians,4,6
+20060828,Boston Red Sox,Oakland Athletics,0,9
+20060828,Anaheim Angels,Seattle Mariners,0,2
+20060828,San Diego Padres,Arizona Diamondbacks,4,7
+20060828,Milwaukee Brewers,Florida Marlins,2,4
+20060828,Cincinnati Reds,Los Angeles Dodgers,5,6
+20060828,Philadelpia Phillies,New York Mets,3,8
+20060828,Chicago Cubs,Pittsburgh Pirates,6,11
+20060829,Tampa Bay Devil Rays,Chicago White Sox,9,12
+20060829,Toronto Blue Jays,Cleveland Indians,2,5
+20060829,Kansas City Royals,Minensota Twins,2,0
+20060829,Boston Red Sox,Oakland Athletics,1,2
+20060829,Anaheim Angels,Seattle Mariners,4,6
+20060829,Baltimore Orioles,Texas Rangers,4,9
+20060829,San Diego Padres,Arizona Diamondbacks,8,3
+20060829,San  Francisco Giants,Atlanta Braves,8,13
+20060829,New York Mets,Colorado Rockies,10,5
+20060829,Milwaukee Brewers,Houston Colts,3,10
+20060829,Cincinnati Reds,Los Angeles Dodgers,5,6
+20060829,Chicago Cubs,Pittsburgh Pirates,6,7
+20060829,Florida Marlins,St. Louis Cardinals,9,1
+20060829,Philadelpia Phillies,Washington Nationals,10,6
+20060830,Tampa Bay Devil Rays,Chicago White Sox,4,5
+20060830,Toronto Blue Jays,Cleveland Indians,2,3
+20060830,Kansas City Royals,Minensota Twins,4,3
+20060830,Detroit Tigers,New York Yankees,0,2
+20060830,Detroit Tigers,New York Yankees,5,3
+20060830,Boston Red Sox,Oakland Athletics,2,7
+20060830,Anaheim Angels,Seattle Mariners,5,3
+20060830,Baltimore Orioles,Texas Rangers,7,4
+20060830,San Diego Padres,Arizona Diamondbacks,4,1
+20060830,San  Francisco Giants,Atlanta Braves,3,5
+20060830,New York Mets,Colorado Rockies,11,3
+20060830,Milwaukee Brewers,Houston Colts,0,1
+20060830,Cincinnati Reds,Los Angeles Dodgers,3,7
+20060830,Chicago Cubs,Pittsburgh Pirates,9,10
+20060830,Florida Marlins,St. Louis Cardinals,6,13
+20060830,Philadelpia Phillies,Washington Nationals,5,1
+20060831,Toronto Blue Jays,Boston Red Sox,4,6
+20060831,Tampa Bay Devil Rays,Chicago White Sox,5,3
+20060831,Kansas City Royals,Minensota Twins,1,3
+20060831,Detroit Tigers,New York Yankees,4,6
+20060831,Baltimore Orioles,Texas Rangers,5,7
+20060831,San  Francisco Giants,Atlanta Braves,8,6
+20060831,New York Mets,Colorado Rockies,4,8
+20060831,Milwaukee Brewers,Houston Colts,3,5
+20060831,Florida Marlins,St. Louis Cardinals,2,5
+20060831,Philadelpia Phillies,Washington Nationals,5,6
+20060901,Toronto Blue Jays,Boston Red Sox,1,2
+20060901,Anaheim Angels,Detroit Tigers,0,9
+20060901,Chicago White Sox,Kansas City Royals,5,7
+20060901,Minensota Twins,New York Yankees,1,8
+20060901,Baltimore Orioles,Oakland Athletics,4,5
+20060901,Seattle Mariners,Tampa Bay Devil Rays,1,2
+20060901,Cleveland Indians,Texas Rangers,7,2
+20060901,San  Francisco Giants,Chicago Cubs,2,6
+20060901,New York Mets,Houston Colts,8,7
+20060901,Colorado Rockies,Los Angeles Dodgers,3,6
+20060901,Florida Marlins,Milwaukee Brewers,3,2
+20060901,Cincinnati Reds,San Diego Padres,6,2
+20060901,Pittsburgh Pirates,St. Louis Cardinals,1,3
+20060902,Toronto Blue Jays,Boston Red Sox,5,1
+20060902,Anaheim Angels,Detroit Tigers,7,2
+20060902,Chicago White Sox,Kansas City Royals,5,3
+20060902,Minensota Twins,New York Yankees,6,1
+20060902,Baltimore Orioles,Oakland Athletics,6,5
+20060902,Seattle Mariners,Tampa Bay Devil Rays,4,3
+20060902,Cleveland Indians,Texas Rangers,6,5
+20060902,San  Francisco Giants,Chicago Cubs,4,2
+20060902,New York Mets,Houston Colts,4,2
+20060902,Colorado Rockies,Los Angeles Dodgers,5,14
+20060902,Florida Marlins,Milwaukee Brewers,9,6
+20060902,Atlanta Braves,Philadelpia Phillies,4,3
+20060902,Atlanta Braves,Philadelpia Phillies,4,16
+20060902,Cincinnati Reds,San Diego Padres,1,7
+20060902,Pittsburgh Pirates,St. Louis Cardinals,1,0
+20060902,Arizona Diamondbacks,Washington Nationals,6,7
+20060902,Arizona Diamondbacks,Washington Nationals,3,4
+20060903,Toronto Blue Jays,Boston Red Sox,6,1
+20060903,Anaheim Angels,Detroit Tigers,2,1
+20060903,Chicago White Sox,Kansas City Royals,3,7
+20060903,Minensota Twins,New York Yankees,1,10
+20060903,Baltimore Orioles,Oakland Athletics,1,10
+20060903,Seattle Mariners,Tampa Bay Devil Rays,6,7
+20060903,Cleveland Indians,Texas Rangers,2,5
+20060903,San  Francisco Giants,Chicago Cubs,7,4
+20060903,New York Mets,Houston Colts,1,2
+20060903,Colorado Rockies,Los Angeles Dodgers,12,5
+20060903,Florida Marlins,Milwaukee Brewers,10,3
+20060903,Atlanta Braves,Philadelpia Phillies,7,8
+20060903,Atlanta Braves,Philadelpia Phillies,3,1
+20060903,Cincinnati Reds,San Diego Padres,1,2
+20060903,Pittsburgh Pirates,St. Louis Cardinals,3,6
+20060903,Arizona Diamondbacks,Washington Nationals,3,5
+20060904,Baltimore Orioles,Anaheim Angels,0,1
+20060904,Chicago White Sox,Boston Red Sox,2,3
+20060904,Seattle Mariners,Detroit Tigers,2,6
+20060904,New York Yankees,Kansas City Royals,12,5
+20060904,Texas Rangers,Oakland Athletics,8,1
+20060904,Minensota Twins,Tampa Bay Devil Rays,2,1
+20060904,Cleveland Indians,Toronto Blue Jays,3,4
+20060904,Pittsburgh Pirates,Chicago Cubs,5,4
+20060904,San  Francisco Giants,Cincinnati Reds,5,4
+20060904,Arizona Diamondbacks,Florida Marlins,5,8
+20060904,Los Angeles Dodgers,Milwaukee Brewers,3,6
+20060904,Atlanta Braves,New York Mets,5,0
+20060904,Houston Colts,Philadelpia Phillies,2,3
+20060904,Colorado Rockies,San Diego Padres,5,7
+20060904,St. Louis Cardinals,Washington Nationals,1,4
+20060905,Baltimore Orioles,Anaheim Angels,2,5
+20060905,Chicago White Sox,Boston Red Sox,0,1
+20060905,Seattle Mariners,Detroit Tigers,4,3
+20060905,New York Yankees,Kansas City Royals,0,5
+20060905,Texas Rangers,Oakland Athletics,5,4
+20060905,Minensota Twins,Tampa Bay Devil Rays,8,0
+20060905,Cleveland Indians,Toronto Blue Jays,7,2
+20060905,Pittsburgh Pirates,Chicago Cubs,6,5
+20060905,San  Francisco Giants,Cincinnati Reds,0,3
+20060905,Arizona Diamondbacks,Florida Marlins,4,0
+20060905,Los Angeles Dodgers,Milwaukee Brewers,0,9
+20060905,Colorado Rockies,San Diego Padres,4,5
+20060905,St. Louis Cardinals,Washington Nationals,2,0
+20060906,Baltimore Orioles,Anaheim Angels,4,8
+20060906,Chicago White Sox,Boston Red Sox,8,1
+20060906,Seattle Mariners,Detroit Tigers,5,4
+20060906,New York Yankees,Kansas City Royals,8,3
+20060906,Texas Rangers,Oakland Athletics,6,9
+20060906,Minensota Twins,Tampa Bay Devil Rays,2,4
+20060906,Cleveland Indians,Toronto Blue Jays,2,3
+20060906,Pittsburgh Pirates,Chicago Cubs,2,7
+20060906,San  Francisco Giants,Cincinnati Reds,3,2
+20060906,Arizona Diamondbacks,Florida Marlins,0,2
+20060906,Los Angeles Dodgers,Milwaukee Brewers,2,1
+20060906,Atlanta Braves,New York Mets,1,4
+20060906,Atlanta Braves,New York Mets,0,8
+20060906,Houston Colts,Philadelpia Phillies,5,3
+20060906,Colorado Rockies,San Diego Padres,0,2
+20060906,St. Louis Cardinals,Washington Nationals,6,7
+20060907,Cleveland Indians,Chicago White Sox,9,1
+20060907,Detroit Tigers,Minensota Twins,7,2
+20060907,St. Louis Cardinals,Arizona Diamondbacks,6,2
+20060907,Pittsburgh Pirates,Chicago Cubs,7,5
+20060907,Washington Nationals,Colorado Rockies,5,10
+20060907,Philadelpia Phillies,Florida Marlins,14,8
+20060907,Los Angeles Dodgers,New York Mets,0,7
+20060908,Toronto Blue Jays,Anaheim Angels,1,4
+20060908,New York Yankees,Baltimore Orioles,4,9
+20060908,Kansas City Royals,Boston Red Sox,10,9
+20060908,Cleveland Indians,Chicago White Sox,6,7
+20060908,Detroit Tigers,Minensota Twins,5,9
+20060908,Texas Rangers,Seattle Mariners,2,7
+20060908,Oakland Athletics,Tampa Bay Devil Rays,8,6
+20060908,St. Louis Cardinals,Arizona Diamondbacks,1,13
+20060908,Chicago Cubs,Atlanta Braves,4,8
+20060908,Pittsburgh Pirates,Cincinnati Reds,1,9
+20060908,Washington Nationals,Colorado Rockies,8,11
+20060908,Philadelpia Phillies,Florida Marlins,3,2
+20060908,Houston Colts,Milwaukee Brewers,4,3
+20060908,Los Angeles Dodgers,New York Mets,5,0
+20060908,San Diego Padres,San  Francisco Giants,0,4
+20060909,Toronto Blue Jays,Anaheim Angels,2,1
+20060909,New York Yankees,Baltimore Orioles,3,2
+20060909,Kansas City Royals,Boston Red Sox,10,4
+20060909,Cleveland Indians,Chicago White Sox,8,10
+20060909,Detroit Tigers,Minensota Twins,1,2
+20060909,Texas Rangers,Seattle Mariners,2,3
+20060909,Oakland Athletics,Tampa Bay Devil Rays,6,9
+20060909,St. Louis Cardinals,Arizona Diamondbacks,0,3
+20060909,Chicago Cubs,Atlanta Braves,3,7
+20060909,Pittsburgh Pirates,Cincinnati Reds,7,4
+20060909,Washington Nationals,Colorado Rockies,5,9
+20060909,Philadelpia Phillies,Florida Marlins,3,4
+20060909,Houston Colts,Milwaukee Brewers,10,4
+20060909,Los Angeles Dodgers,New York Mets,2,3
+20060909,San Diego Padres,San  Francisco Giants,4,5
+20060910,Toronto Blue Jays,Anaheim Angels,3,4
+20060910,New York Yankees,Baltimore Orioles,9,4
+20060910,Kansas City Royals,Boston Red Sox,3,9
+20060910,Cleveland Indians,Chicago White Sox,5,2
+20060910,Detroit Tigers,Minensota Twins,1,12
+20060910,Texas Rangers,Seattle Mariners,4,2
+20060910,Oakland Athletics,Tampa Bay Devil Rays,9,7
+20060910,St. Louis Cardinals,Arizona Diamondbacks,7,9
+20060910,Chicago Cubs,Atlanta Braves,1,2
+20060910,Pittsburgh Pirates,Cincinnati Reds,2,4
+20060910,Washington Nationals,Colorado Rockies,9,13
+20060910,Philadelpia Phillies,Florida Marlins,0,3
+20060910,Houston Colts,Milwaukee Brewers,0,4
+20060910,Los Angeles Dodgers,New York Mets,9,1
+20060910,San Diego Padres,San  Francisco Giants,10,2
+20060911,Chicago White Sox,Anaheim Angels,3,2
+20060911,New York Yankees,Baltimore Orioles,9,6
+20060911,Oakland Athletics,Minensota Twins,4,9
+20060911,Toronto Blue Jays,Seattle Mariners,6,2
+20060911,Washington Nationals,Arizona Diamondbacks,7,6
+20060911,Chicago Cubs,Atlanta Braves,8,3
+20060911,New York Mets,Florida Marlins,5,16
+20060911,Milwaukee Brewers,Pittsburgh Pirates,3,4
+20060911,Houston Colts,St. Louis Cardinals,0,7
+20060912,Chicago White Sox,Anaheim Angels,3,4
+20060912,Boston Red Sox,Baltimore Orioles,6,5
+20060912,Kansas City Royals,Cleveland Indians,5,3
+20060912,Texas Rangers,Detroit Tigers,2,3
+20060912,Oakland Athletics,Minensota Twins,5,7
+20060912,Tampa Bay Devil Rays,New York Yankees,4,12
+20060912,Toronto Blue Jays,Seattle Mariners,2,4
+20060912,Washington Nationals,Arizona Diamondbacks,5,4
+20060912,Los Angeles Dodgers,Chicago Cubs,8,9
+20060912,San Diego Padres,Cincinnati Reds,4,5
+20060912,New York Mets,Florida Marlins,6,4
+20060912,Colorado Rockies,San  Francisco Giants,6,10
+20060912,Houston Colts,St. Louis Cardinals,5,6
+20060913,Chicago White Sox,Anaheim Angels,9,0
+20060913,Boston Red Sox,Baltimore Orioles,0,4
+20060913,Kansas City Royals,Cleveland Indians,6,2
+20060913,Texas Rangers,Detroit Tigers,11,3
+20060913,Oakland Athletics,Minensota Twins,1,0
+20060913,Tampa Bay Devil Rays,New York Yankees,4,8
+20060913,Toronto Blue Jays,Seattle Mariners,10,0
+20060913,Washington Nationals,Arizona Diamondbacks,2,4
+20060913,Philadelpia Phillies,Atlanta Braves,6,5
+20060913,Philadelpia Phillies,Atlanta Braves,7,2
+20060913,Los Angeles Dodgers,Chicago Cubs,6,0
+20060913,San Diego Padres,Cincinnati Reds,10,0
+20060913,New York Mets,Florida Marlins,7,4
+20060913,Milwaukee Brewers,Pittsburgh Pirates,3,6
+20060913,Milwaukee Brewers,Pittsburgh Pirates,2,1
+20060913,Colorado Rockies,San  Francisco Giants,9,8
+20060913,Houston Colts,St. Louis Cardinals,5,1
+20060914,Boston Red Sox,Baltimore Orioles,6,5
+20060914,Minensota Twins,Cleveland Indians,9,4
+20060914,Seattle Mariners,Kansas City Royals,8,10
+20060914,Tampa Bay Devil Rays,New York Yankees,4,7
+20060914,Anaheim Angels,Texas Rangers,2,1
+20060914,Philadelpia Phillies,Atlanta Braves,1,4
+20060914,Los Angeles Dodgers,Chicago Cubs,5,6
+20060914,San Diego Padres,Cincinnati Reds,4,2
+20060914,Colorado Rockies,San  Francisco Giants,0,5
+20060915,Minensota Twins,Cleveland Indians,4,5
+20060915,Baltimore Orioles,Detroit Tigers,2,17
+20060915,Seattle Mariners,Kansas City Royals,11,8
+20060915,Chicago White Sox,Oakland Athletics,2,4
+20060915,Anaheim Angels,Texas Rangers,2,1
+20060915,Tampa Bay Devil Rays,Toronto Blue Jays,4,5
+20060915,Colorado Rockies,Arizona Diamondbacks,1,5
+20060915,Florida Marlins,Atlanta Braves,6,4
+20060915,Cincinnati Reds,Chicago Cubs,4,0
+20060915,Philadelpia Phillies,Houston Colts,4,3
+20060915,San Diego Padres,Los Angeles Dodgers,1,3
+20060915,New York Mets,Pittsburgh Pirates,3,5
+20060915,San  Francisco Giants,St. Louis Cardinals,4,14
+20060915,Milwaukee Brewers,Washington Nationals,5,2
+20060916,Minensota Twins,Cleveland Indians,4,1
+20060916,Baltimore Orioles,Detroit Tigers,0,2
+20060916,Seattle Mariners,Kansas City Royals,4,7
+20060916,Boston Red Sox,New York Yankees,5,2
+20060916,Boston Red Sox,New York Yankees,5,7
+20060916,Chicago White Sox,Oakland Athletics,4,7
+20060916,Anaheim Angels,Texas Rangers,6,12
+20060916,Tampa Bay Devil Rays,Toronto Blue Jays,1,6
+20060916,Colorado Rockies,Arizona Diamondbacks,6,7
+20060916,Florida Marlins,Atlanta Braves,1,2
+20060916,Cincinnati Reds,Chicago Cubs,0,4
+20060916,Philadelpia Phillies,Houston Colts,7,2
+20060916,San Diego Padres,Los Angeles Dodgers,11,2
+20060916,New York Mets,Pittsburgh Pirates,2,3
+20060916,San  Francisco Giants,St. Louis Cardinals,1,6
+20060916,Milwaukee Brewers,Washington Nationals,5,8
+20060917,Minensota Twins,Cleveland Indians,6,1
+20060917,Baltimore Orioles,Detroit Tigers,12,8
+20060917,Seattle Mariners,Kansas City Royals,10,5
+20060917,Boston Red Sox,New York Yankees,6,3
+20060917,Boston Red Sox,New York Yankees,5,4
+20060917,Chicago White Sox,Oakland Athletics,4,5
+20060917,Anaheim Angels,Texas Rangers,1,8
+20060917,Tampa Bay Devil Rays,Toronto Blue Jays,3,5
+20060917,Colorado Rockies,Arizona Diamondbacks,6,1
+20060917,Florida Marlins,Atlanta Braves,7,8
+20060917,Cincinnati Reds,Chicago Cubs,3,11
+20060917,Philadelpia Phillies,Houston Colts,6,4
+20060917,San Diego Padres,Los Angeles Dodgers,2,1
+20060917,New York Mets,Pittsburgh Pirates,0,3
+20060917,Milwaukee Brewers,Washington Nationals,1,6
+20060918,Detroit Tigers,Chicago White Sox,8,2
+20060918,Cleveland Indians,Oakland Athletics,7,2
+20060918,Baltimore Orioles,Tampa Bay Devil Rays,4,1
+20060918,Seattle Mariners,Texas Rangers,1,8
+20060918,New York Yankees,Toronto Blue Jays,7,6
+20060918,San  Francisco Giants,Colorado Rockies,8,20
+20060918,Cincinnati Reds,Houston Colts,3,5
+20060918,San Diego Padres,Los Angeles Dodgers,10,11
+20060918,St. Louis Cardinals,Milwaukee Brewers,3,4
+20060918,Florida Marlins,New York Mets,0,4
+20060918,Chicago Cubs,Philadelpia Phillies,11,6
+20060918,Atlanta Braves,Washington Nationals,6,1
+20060919,Minensota Twins,Boston Red Sox,7,3
+20060919,Detroit Tigers,Chicago White Sox,0,7
+20060919,Anaheim Angels,Kansas City Royals,5,2
+20060919,Cleveland Indians,Oakland Athletics,3,7
+20060919,Baltimore Orioles,Tampa Bay Devil Rays,5,4
+20060919,Seattle Mariners,Texas Rangers,9,7
+20060919,New York Yankees,Toronto Blue Jays,6,3
+20060919,San  Francisco Giants,Colorado Rockies,4,12
+20060919,Cincinnati Reds,Houston Colts,5,4
+20060919,Pittsburgh Pirates,Los Angeles Dodgers,10,6
+20060919,St. Louis Cardinals,Milwaukee Brewers,12,2
+20060919,Florida Marlins,New York Mets,2,3
+20060919,Chicago Cubs,Philadelpia Phillies,1,4
+20060919,Arizona Diamondbacks,San Diego Padres,2,5
+20060919,Atlanta Braves,Washington Nationals,2,9
+20060920,Minensota Twins,Boston Red Sox,8,2
+20060920,Detroit Tigers,Chicago White Sox,6,2
+20060920,Anaheim Angels,Kansas City Royals,3,0
+20060920,Cleveland Indians,Oakland Athletics,3,4
+20060920,Baltimore Orioles,Tampa Bay Devil Rays,2,4
+20060920,Seattle Mariners,Texas Rangers,6,3
+20060920,New York Yankees,Toronto Blue Jays,2,3
+20060920,San  Francisco Giants,Colorado Rockies,7,4
+20060920,Cincinnati Reds,Houston Colts,2,7
+20060920,Pittsburgh Pirates,Los Angeles Dodgers,6,4
+20060920,St. Louis Cardinals,Milwaukee Brewers,0,1
+20060920,Florida Marlins,New York Mets,6,3
+20060920,Chicago Cubs,Philadelpia Phillies,2,6
+20060920,Arizona Diamondbacks,San Diego Padres,8,2
+20060920,Atlanta Braves,Washington Nationals,7,3
+20060921,Detroit Tigers,Baltimore Orioles,3,4
+20060921,Minensota Twins,Boston Red Sox,0,6
+20060921,Seattle Mariners,Chicago White Sox,9,0
+20060921,Cleveland Indians,Oakland Athletics,4,7
+20060921,Atlanta Braves,Colorado Rockies,6,3
+20060921,St. Louis Cardinals,Houston Colts,5,6
+20060921,Pittsburgh Pirates,Los Angeles Dodgers,2,5
+20060921,San  Francisco Giants,Milwaukee Brewers,4,9
+20060921,Florida Marlins,New York Mets,5,2
+20060921,Arizona Diamondbacks,San Diego Padres,1,3
+20060922,Minensota Twins,Baltimore Orioles,3,7
+20060922,Seattle Mariners,Chicago White Sox,11,6
+20060922,Detroit Tigers,Kansas City Royals,7,3
+20060922,Anaheim Angels,Oakland Athletics,4,5
+20060922,New York Yankees,Tampa Bay Devil Rays,4,1
+20060922,Cleveland Indians,Texas Rangers,4,12
+20060922,Boston Red Sox,Toronto Blue Jays,7,1
+20060922,Chicago Cubs,Cincinnati Reds,2,4
+20060922,Atlanta Braves,Colorado Rockies,4,6
+20060922,St. Louis Cardinals,Houston Colts,5,6
+20060922,Arizona Diamondbacks,Los Angeles Dodgers,0,2
+20060922,San  Francisco Giants,Milwaukee Brewers,12,13
+20060922,Washington Nationals,New York Mets,3,2
+20060922,Florida Marlins,Philadelpia Phillies,2,5
+20060922,Pittsburgh Pirates,San Diego Padres,2,6
+20060923,Minensota Twins,Baltimore Orioles,8,5
+20060923,Seattle Mariners,Chicago White Sox,7,11
+20060923,Detroit Tigers,Kansas City Royals,15,4
+20060923,Anaheim Angels,Oakland Athletics,6,2
+20060923,New York Yankees,Tampa Bay Devil Rays,0,8
+20060923,Cleveland Indians,Texas Rangers,6,3
+20060923,Boston Red Sox,Toronto Blue Jays,3,5
+20060923,Chicago Cubs,Cincinnati Reds,11,4
+20060923,Atlanta Braves,Colorado Rockies,9,10
+20060923,St. Louis Cardinals,Houston Colts,4,7
+20060923,Arizona Diamondbacks,Los Angeles Dodgers,9,3
+20060923,San  Francisco Giants,Milwaukee Brewers,8,10
+20060923,Washington Nationals,New York Mets,6,12
+20060923,Florida Marlins,Philadelpia Phillies,6,8
+20060923,Pittsburgh Pirates,San Diego Padres,1,2
+20060924,Minensota Twins,Baltimore Orioles,6,3
+20060924,Seattle Mariners,Chicago White Sox,7,12
+20060924,Detroit Tigers,Kansas City Royals,11,4
+20060924,Anaheim Angels,Oakland Athletics,7,1
+20060924,New York Yankees,Tampa Bay Devil Rays,4,11
+20060924,Cleveland Indians,Texas Rangers,11,6
+20060924,Boston Red Sox,Toronto Blue Jays,4,13
+20060924,Chicago Cubs,Cincinnati Reds,2,3
+20060924,Atlanta Braves,Colorado Rockies,8,9
+20060924,St. Louis Cardinals,Houston Colts,3,7
+20060924,Arizona Diamondbacks,Los Angeles Dodgers,1,5
+20060924,San  Francisco Giants,Milwaukee Brewers,3,5
+20060924,Washington Nationals,New York Mets,5,1
+20060924,Florida Marlins,Philadelpia Phillies,7,10
+20060924,Pittsburgh Pirates,San Diego Padres,1,2
+20060925,Texas Rangers,Anaheim Angels,3,8
+20060925,Chicago White Sox,Cleveland Indians,1,14
+20060925,Kansas City Royals,Minensota Twins,1,8
+20060925,Oakland Athletics,Seattle Mariners,9,10
+20060925,New York Yankees,Tampa Bay Devil Rays,16,1
+20060925,Boston Red Sox,Toronto Blue Jays,0,5
+20060925,Chicago Cubs,Cincinnati Reds,4,5
+20060925,Washington Nationals,New York Mets,7,3
+20060925,Houston Colts,Philadelpia Phillies,5,4
+20060925,Arizona Diamondbacks,San  Francisco Giants,7,1
+20060925,San Diego Padres,St. Louis Cardinals,6,5
+20060926,Texas Rangers,Anaheim Angels,5,2
+20060926,Tampa Bay Devil Rays,Boston Red Sox,1,5
+20060926,Chicago White Sox,Cleveland Indians,0,6
+20060926,Toronto Blue Jays,Detroit Tigers,3,4
+20060926,Kansas City Royals,Minensota Twins,2,3
+20060926,Baltimore Orioles,New York Yankees,4,5
+20060926,Oakland Athletics,Seattle Mariners,12,3
+20060926,New York Mets,Atlanta Braves,0,12
+20060926,Milwaukee Brewers,Chicago Cubs,6,14
+20060926,Los Angeles Dodgers,Colorado Rockies,11,4
+20060926,Cincinnati Reds,Florida Marlins,5,3
+20060926,Houston Colts,Pittsburgh Pirates,7,4
+20060926,Arizona Diamondbacks,San  Francisco Giants,2,4
+20060926,San Diego Padres,St. Louis Cardinals,7,5
+20060926,Philadelpia Phillies,Washington Nationals,3,4
+20060927,Texas Rangers,Anaheim Angels,5,6
+20060927,Tampa Bay Devil Rays,Boston Red Sox,11,0
+20060927,Chicago White Sox,Cleveland Indians,2,1
+20060927,Toronto Blue Jays,Detroit Tigers,7,4
+20060927,Kansas City Royals,Minensota Twins,6,4
+20060927,Baltimore Orioles,New York Yankees,5,16
+20060927,Oakland Athletics,Seattle Mariners,7,6
+20060927,New York Mets,Atlanta Braves,1,13
+20060927,Milwaukee Brewers,Chicago Cubs,2,3
+20060927,Los Angeles Dodgers,Colorado Rockies,6,4
+20060927,Cincinnati Reds,Florida Marlins,2,7
+20060927,Houston Colts,Pittsburgh Pirates,7,6
+20060927,Arizona Diamondbacks,San  Francisco Giants,6,3
+20060927,San Diego Padres,St. Louis Cardinals,2,4
+20060927,Philadelpia Phillies,Washington Nationals,8,7
+20060928,Oakland Athletics,Anaheim Angels,0,2
+20060928,Tampa Bay Devil Rays,Cleveland Indians,4,5
+20060928,Toronto Blue Jays,Detroit Tigers,8,6
+20060928,Kansas City Royals,Minensota Twins,1,2
+20060928,Baltimore Orioles,New York Yankees,7,1
+20060928,San Diego Padres,Arizona Diamondbacks,12,4
+20060928,New York Mets,Atlanta Braves,7,4
+20060928,Los Angeles Dodgers,Colorado Rockies,19,11
+20060928,Cincinnati Reds,Florida Marlins,5,1
+20060928,Houston Colts,Pittsburgh Pirates,3,0
+20060928,Milwaukee Brewers,St. Louis Cardinals,9,4
+20060928,Philadelpia Phillies,Washington Nationals,1,3
+20060929,Oakland Athletics,Anaheim Angels,0,6
+20060929,Baltimore Orioles,Boston Red Sox,3,4
+20060929,Tampa Bay Devil Rays,Cleveland Indians,1,2
+20060929,Kansas City Royals,Detroit Tigers,9,7
+20060929,Chicago White Sox,Minensota Twins,4,3
+20060929,Toronto Blue Jays,New York Yankees,2,7
+20060929,Texas Rangers,Seattle Mariners,6,5
+20060929,San Diego Padres,Arizona Diamondbacks,1,3
+20060929,Houston Colts,Atlanta Braves,1,4
+20060929,Colorado Rockies,Chicago Cubs,5,2
+20060929,Philadelpia Phillies,Florida Marlins,14,2
+20060929,Cincinnati Reds,Pittsburgh Pirates,5,2
+20060929,Los Angeles Dodgers,San  Francisco Giants,4,3
+20060929,Milwaukee Brewers,St. Louis Cardinals,5,10
+20060929,New York Mets,Washington Nationals,4,3
+20060930,Oakland Athletics,Anaheim Angels,6,7
+20060930,Baltimore Orioles,Boston Red Sox,5,4
+20060930,Tampa Bay Devil Rays,Cleveland Indians,1,6
+20060930,Kansas City Royals,Detroit Tigers,9,6
+20060930,Chicago White Sox,Minensota Twins,6,3
+20060930,Toronto Blue Jays,New York Yankees,6,5
+20060930,Texas Rangers,Seattle Mariners,1,3
+20060930,San Diego Padres,Arizona Diamondbacks,3,1
+20060930,Houston Colts,Atlanta Braves,5,4
+20060930,Colorado Rockies,Chicago Cubs,11,9
+20060930,Philadelpia Phillies,Florida Marlins,4,3
+20060930,Cincinnati Reds,Pittsburgh Pirates,0,3
+20060930,Los Angeles Dodgers,San  Francisco Giants,4,2
+20060930,Milwaukee Brewers,St. Louis Cardinals,2,3
+20060930,New York Mets,Washington Nationals,13,0
+20061001,Oakland Athletics,Anaheim Angels,11,10
+20061001,Baltimore Orioles,Boston Red Sox,0,9
+20061001,Tampa Bay Devil Rays,Cleveland Indians,3,6
+20061001,Kansas City Royals,Detroit Tigers,10,8
+20061001,Chicago White Sox,Minensota Twins,1,5
+20061001,Toronto Blue Jays,New York Yankees,7,5
+20061001,Texas Rangers,Seattle Mariners,2,3
+20061001,San Diego Padres,Arizona Diamondbacks,7,6
+20061001,Houston Colts,Atlanta Braves,1,3
+20061001,Colorado Rockies,Chicago Cubs,5,8
+20061001,Philadelpia Phillies,Florida Marlins,2,3
+20061001,Cincinnati Reds,Pittsburgh Pirates,0,1
+20061001,Los Angeles Dodgers,San  Francisco Giants,4,3
+20061001,Milwaukee Brewers,St. Louis Cardinals,5,3
+20061001,New York Mets,Washington Nationals,6,2
