@@ -1,0 +1,1242 @@
+Date,away_team,home_team,away_team_score,home_team_score
+19090412,Boston Red Sox,Philadelphia Athletics,1,8
+19090412,New York Yankees,Washington Senators,1,4
+19090413,Boston Red Sox,Philadelphia Athletics,4,2
+19090413,New York Yankees,Washington Senators,5,0
+19090414,Chicago White Sox,Detroit Tigers,0,2
+19090414,Cleveland Indians,St. Louis Browns,4,2
+19090414,Philadelpia Phillies,Boston Braves,5,9
+19090414,St. Louis Cardinals,Chicago Cubs,1,3
+19090414,Pittsburgh Pirates,Cincinnati Reds,3,0
+19090415,Chicago White Sox,Detroit Tigers,1,3
+19090415,Cleveland Indians,St. Louis Browns,4,3
+19090415,New York Yankees,Washington Senators,4,1
+19090415,St. Louis Cardinals,Chicago Cubs,4,10
+19090415,Pittsburgh Pirates,Cincinnati Reds,2,7
+19090415,Brooklyn Dodgers,New York Giants,3,0
+19090416,Chicago White Sox,Detroit Tigers,2,10
+19090416,New York Yankees,Philadelphia Athletics,1,0
+19090416,Cleveland Indians,St. Louis Browns,5,6
+19090416,Boston Red Sox,Washington Senators,2,3
+19090416,Philadelpia Phillies,Boston Braves,0,2
+19090416,St. Louis Cardinals,Chicago Cubs,3,1
+19090416,Pittsburgh Pirates,Cincinnati Reds,3,4
+19090416,Brooklyn Dodgers,New York Giants,0,3
+19090417,Cleveland Indians,Detroit Tigers,5,6
+19090417,New York Yankees,Philadelphia Athletics,4,6
+19090417,Chicago White Sox,St. Louis Browns,3,1
+19090417,Boston Red Sox,Washington Senators,6,1
+19090417,Brooklyn Dodgers,Boston Braves,1,5
+19090417,St. Louis Cardinals,Chicago Cubs,4,1
+19090417,Pittsburgh Pirates,Cincinnati Reds,5,8
+19090417,Philadelpia Phillies,New York Giants,1,4
+19090418,Cleveland Indians,Detroit Tigers,2,3
+19090418,Chicago White Sox,St. Louis Browns,2,6
+19090418,Pittsburgh Pirates,Chicago Cubs,1,0
+19090418,St. Louis Cardinals,Cincinnati Reds,3,5
+19090419,New York Yankees,Philadelphia Athletics,4,2
+19090419,Boston Red Sox,Washington Senators,8,4
+19090419,Brooklyn Dodgers,Boston Braves,2,3
+19090419,Brooklyn Dodgers,Boston Braves,5,0
+19090419,St. Louis Cardinals,Cincinnati Reds,2,3
+19090419,Philadelpia Phillies,New York Giants,3,2
+19090420,Cleveland Indians,Detroit Tigers,12,2
+19090421,Philadelphia Athletics,Boston Red Sox,2,6
+19090421,St. Louis Cardinals,Cincinnati Reds,9,5
+19090422,Philadelphia Athletics,Boston Red Sox,1,0
+19090422,Detroit Tigers,Chicago White Sox,1,3
+19090422,St. Louis Browns,Cleveland Indians,6,4
+19090422,Washington Senators,New York Yankees,1,8
+19090422,New York Giants,Brooklyn Dodgers,8,5
+19090422,Boston Braves,Philadelpia Phillies,0,4
+19090422,Cincinnati Reds,Pittsburgh Pirates,7,4
+19090422,Chicago Cubs,St. Louis Cardinals,7,3
+19090423,Detroit Tigers,Chicago White Sox,3,1
+19090423,St. Louis Browns,Cleveland Indians,3,1
+19090423,Chicago Cubs,St. Louis Cardinals,3,6
+19090423,Cincinnati Reds,Pittsburgh Pirates,1,2
+19090424,Philadelphia Athletics,Boston Red Sox,4,1
+19090424,Detroit Tigers,Chicago White Sox,1,3
+19090424,St. Louis Browns,Cleveland Indians,3,7
+19090424,Washington Senators,New York Yankees,0,17
+19090424,New York Giants,Brooklyn Dodgers,0,2
+19090424,Boston Braves,Philadelpia Phillies,0,4
+19090424,Cincinnati Reds,Pittsburgh Pirates,4,0
+19090424,Chicago Cubs,St. Louis Cardinals,5,1
+19090425,St. Louis Browns,Chicago White Sox,0,1
+19090425,Cleveland Indians,Detroit Tigers,0,3
+19090425,Pittsburgh Pirates,Cincinnati Reds,2,1
+19090425,Chicago Cubs,St. Louis Cardinals,5,4
+19090426,New York Yankees,Boston Red Sox,0,1
+19090426,St. Louis Browns,Chicago White Sox,0,1
+19090426,Detroit Tigers,Cleveland Indians,4,2
+19090426,Philadelphia Athletics,Washington Senators,3,1
+19090426,Chicago Cubs,Cincinnati Reds,6,2
+19090426,Boston Braves,New York Giants,3,2
+19090426,Brooklyn Dodgers,Philadelpia Phillies,4,6
+19090426,Pittsburgh Pirates,St. Louis Cardinals,4,3
+19090427,New York Yankees,Boston Red Sox,4,3
+19090427,St. Louis Browns,Chicago White Sox,0,1
+19090427,Boston Braves,New York Giants,10,0
+19090427,Brooklyn Dodgers,Philadelpia Phillies,2,3
+19090427,Pittsburgh Pirates,St. Louis Cardinals,7,6
+19090428,New York Yankees,Boston Red Sox,2,12
+19090428,Detroit Tigers,Cleveland Indians,8,1
+19090428,Philadelphia Athletics,Washington Senators,2,3
+19090428,Chicago Cubs,Cincinnati Reds,6,5
+19090428,Boston Braves,New York Giants,3,5
+19090428,Brooklyn Dodgers,Philadelpia Phillies,6,1
+19090428,Pittsburgh Pirates,St. Louis Cardinals,2,8
+19090429,New York Yankees,Boston Red Sox,4,10
+19090429,Chicago Cubs,Cincinnati Reds,5,4
+19090429,Chicago Cubs,Cincinnati Reds,2,3
+19090430,St. Louis Browns,Detroit Tigers,2,4
+19090430,New York Giants,Philadelpia Phillies,1,2
+19090501,St. Louis Browns,Detroit Tigers,2,5
+19090501,Cincinnati Reds,St. Louis Cardinals,8,7
+19090502,Detroit Tigers,Chicago White Sox,6,5
+19090502,Cleveland Indians,St. Louis Browns,1,0
+19090502,Pittsburgh Pirates,Chicago Cubs,5,2
+19090502,Pittsburgh Pirates,Chicago Cubs,6,0
+19090502,Cincinnati Reds,St. Louis Cardinals,4,5
+19090502,Cincinnati Reds,St. Louis Cardinals,13,8
+19090503,Washington Senators,Boston Red Sox,1,7
+19090503,Detroit Tigers,Chicago White Sox,0,4
+19090503,Philadelphia Athletics,New York Yankees,6,9
+19090503,Boston Braves,Brooklyn Dodgers,9,7
+19090503,Pittsburgh Pirates,Chicago Cubs,9,2
+19090503,New York Giants,Philadelpia Phillies,1,5
+19090503,Cincinnati Reds,St. Louis Cardinals,3,5
+19090504,Washington Senators,Boston Red Sox,1,0
+19090504,Chicago White Sox,Cleveland Indians,2,10
+19090504,Philadelphia Athletics,New York Yankees,3,11
+19090504,Detroit Tigers,St. Louis Browns,2,4
+19090504,Boston Braves,Brooklyn Dodgers,7,6
+19090504,Boston Braves,Brooklyn Dodgers,2,5
+19090504,Pittsburgh Pirates,Chicago Cubs,1,0
+19090504,New York Giants,Philadelpia Phillies,2,5
+19090505,Chicago White Sox,Cleveland Indians,6,5
+19090505,Boston Red Sox,New York Yankees,0,2
+19090505,Washington Senators,Philadelphia Athletics,4,3
+19090505,Detroit Tigers,St. Louis Browns,3,1
+19090505,Philadelpia Phillies,Brooklyn Dodgers,3,8
+19090505,Cincinnati Reds,Chicago Cubs,2,5
+19090505,St. Louis Cardinals,Pittsburgh Pirates,5,6
+19090506,Chicago White Sox,Cleveland Indians,1,2
+19090506,Boston Red Sox,New York Yankees,4,3
+19090506,Washington Senators,Philadelphia Athletics,1,2
+19090506,Detroit Tigers,St. Louis Browns,7,3
+19090506,New York Giants,Boston Braves,2,1
+19090506,New York Giants,Boston Braves,1,0
+19090506,Philadelpia Phillies,Brooklyn Dodgers,1,7
+19090506,Cincinnati Reds,Chicago Cubs,2,4
+19090506,St. Louis Cardinals,Pittsburgh Pirates,5,6
+19090507,Boston Red Sox,New York Yankees,3,4
+19090507,Washington Senators,Philadelphia Athletics,0,1
+19090507,New York Giants,Boston Braves,1,2
+19090507,Philadelpia Phillies,Brooklyn Dodgers,4,1
+19090507,Cincinnati Reds,Chicago Cubs,0,5
+19090507,St. Louis Cardinals,Pittsburgh Pirates,3,5
+19090508,Chicago White Sox,Cleveland Indians,4,8
+19090508,Boston Red Sox,New York Yankees,6,4
+19090508,Washington Senators,Philadelphia Athletics,0,1
+19090508,New York Giants,Boston Braves,1,2
+19090508,Philadelpia Phillies,Brooklyn Dodgers,8,2
+19090508,Cincinnati Reds,Chicago Cubs,3,6
+19090508,St. Louis Cardinals,Pittsburgh Pirates,8,0
+19090509,Cleveland Indians,Chicago White Sox,2,4
+19090509,Cleveland Indians,Chicago White Sox,4,1
+19090509,St. Louis Cardinals,Chicago Cubs,5,2
+19090510,Washington Senators,Chicago White Sox,0,1
+19090510,Philadelphia Athletics,St. Louis Browns,5,1
+19090510,New York Giants,Boston Braves,2,1
+19090510,Philadelpia Phillies,Brooklyn Dodgers,2,4
+19090511,Washington Senators,Chicago White Sox,3,5
+19090511,Boston Red Sox,Cleveland Indians,5,1
+19090511,New York Yankees,Detroit Tigers,5,16
+19090511,Philadelphia Athletics,St. Louis Browns,0,3
+19090511,Cincinnati Reds,Boston Braves,10,8
+19090511,St. Louis Cardinals,Brooklyn Dodgers,1,2
+19090511,Chicago Cubs,New York Giants,4,3
+19090511,Pittsburgh Pirates,Philadelpia Phillies,7,1
+19090512,Washington Senators,Chicago White Sox,6,2
+19090512,Boston Red Sox,Cleveland Indians,3,2
+19090512,New York Yankees,Detroit Tigers,4,11
+19090512,Philadelphia Athletics,St. Louis Browns,1,0
+19090512,Cincinnati Reds,Boston Braves,6,2
+19090512,St. Louis Cardinals,Brooklyn Dodgers,10,0
+19090512,Chicago Cubs,New York Giants,2,3
+19090512,Pittsburgh Pirates,Philadelpia Phillies,1,3
+19090513,Washington Senators,Chicago White Sox,1,1
+19090513,Boston Red Sox,Cleveland Indians,8,1
+19090513,New York Yankees,Detroit Tigers,6,4
+19090513,Cincinnati Reds,Boston Braves,2,3
+19090513,St. Louis Cardinals,Brooklyn Dodgers,1,2
+19090513,Chicago Cubs,New York Giants,1,4
+19090513,Pittsburgh Pirates,Philadelpia Phillies,6,4
+19090514,Washington Senators,St. Louis Browns,4,5
+19090514,Cincinnati Reds,Boston Braves,7,4
+19090514,St. Louis Cardinals,Brooklyn Dodgers,4,10
+19090514,Chicago Cubs,New York Giants,6,0
+19090514,Pittsburgh Pirates,Philadelpia Phillies,0,2
+19090515,Philadelphia Athletics,Chicago White Sox,3,2
+19090515,New York Yankees,Cleveland Indians,4,3
+19090515,Washington Senators,St. Louis Browns,1,7
+19090515,St. Louis Cardinals,Boston Braves,5,3
+19090515,Pittsburgh Pirates,Brooklyn Dodgers,6,5
+19090515,Cincinnati Reds,New York Giants,5,4
+19090515,Chicago Cubs,Philadelpia Phillies,3,0
+19090516,Philadelphia Athletics,Chicago White Sox,1,0
+19090516,Boston Red Sox,Detroit Tigers,3,2
+19090516,Washington Senators,St. Louis Browns,3,4
+19090517,Philadelphia Athletics,Chicago White Sox,1,0
+19090517,New York Yankees,Cleveland Indians,6,5
+19090517,Boston Red Sox,Detroit Tigers,3,5
+19090517,Washington Senators,St. Louis Browns,0,4
+19090517,St. Louis Cardinals,Boston Braves,6,1
+19090517,Pittsburgh Pirates,Brooklyn Dodgers,11,1
+19090517,Cincinnati Reds,New York Giants,0,6
+19090517,Chicago Cubs,Philadelpia Phillies,8,1
+19090518,Philadelphia Athletics,Chicago White Sox,5,0
+19090518,New York Yankees,Cleveland Indians,4,2
+19090518,Boston Red Sox,Detroit Tigers,5,3
+19090518,St. Louis Cardinals,Boston Braves,3,1
+19090518,Pittsburgh Pirates,Brooklyn Dodgers,8,5
+19090518,Cincinnati Reds,New York Giants,4,2
+19090518,Chicago Cubs,Philadelpia Phillies,3,2
+19090519,Boston Red Sox,Chicago White Sox,5,2
+19090519,Washington Senators,Cleveland Indians,4,7
+19090519,Philadelphia Athletics,Detroit Tigers,10,2
+19090519,New York Yankees,St. Louis Browns,5,1
+19090519,St. Louis Cardinals,Boston Braves,2,0
+19090519,Pittsburgh Pirates,Brooklyn Dodgers,0,2
+19090519,Cincinnati Reds,New York Giants,3,18
+19090519,Chicago Cubs,Philadelpia Phillies,2,4
+19090520,Boston Red Sox,Chicago White Sox,3,12
+19090520,Washington Senators,Cleveland Indians,3,2
+19090520,Philadelphia Athletics,Detroit Tigers,3,5
+19090520,New York Yankees,St. Louis Browns,1,2
+19090520,Chicago Cubs,Boston Braves,6,2
+19090520,Cincinnati Reds,Brooklyn Dodgers,2,3
+19090520,Pittsburgh Pirates,New York Giants,1,2
+19090520,St. Louis Cardinals,Philadelpia Phillies,1,5
+19090521,Boston Red Sox,Chicago White Sox,6,3
+19090521,Washington Senators,Cleveland Indians,1,4
+19090521,Philadelphia Athletics,Detroit Tigers,8,4
+19090521,New York Yankees,St. Louis Browns,1,2
+19090521,Chicago Cubs,Boston Braves,7,0
+19090522,Boston Red Sox,Chicago White Sox,1,2
+19090522,Washington Senators,Cleveland Indians,4,1
+19090522,Philadelphia Athletics,Detroit Tigers,7,1
+19090522,New York Yankees,St. Louis Browns,2,1
+19090523,New York Yankees,Chicago White Sox,3,7
+19090523,Washington Senators,Detroit Tigers,2,4
+19090523,Boston Red Sox,St. Louis Browns,0,1
+19090524,New York Yankees,Chicago White Sox,1,2
+19090524,Philadelphia Athletics,Cleveland Indians,2,6
+19090524,Washington Senators,Detroit Tigers,1,10
+19090524,Pittsburgh Pirates,Boston Braves,6,2
+19090524,Chicago Cubs,Brooklyn Dodgers,4,3
+19090524,St. Louis Cardinals,New York Giants,3,1
+19090524,Cincinnati Reds,Philadelpia Phillies,5,1
+19090525,Philadelphia Athletics,Cleveland Indians,13,2
+19090525,Washington Senators,Detroit Tigers,4,7
+19090525,Boston Red Sox,St. Louis Browns,0,5
+19090525,Pittsburgh Pirates,Boston Braves,6,2
+19090525,Chicago Cubs,Brooklyn Dodgers,4,3
+19090525,St. Louis Cardinals,New York Giants,0,1
+19090525,Cincinnati Reds,Philadelpia Phillies,1,0
+19090526,Philadelphia Athletics,Cleveland Indians,2,3
+19090526,Washington Senators,Detroit Tigers,3,1
+19090526,Boston Red Sox,St. Louis Browns,0,5
+19090526,Pittsburgh Pirates,Boston Braves,9,4
+19090526,Chicago Cubs,Brooklyn Dodgers,2,0
+19090526,St. Louis Cardinals,New York Giants,2,8
+19090526,Cincinnati Reds,Philadelpia Phillies,2,5
+19090527,New York Yankees,Chicago White Sox,2,2
+19090527,Cleveland Indians,St. Louis Browns,5,2
+19090527,Pittsburgh Pirates,Boston Braves,7,0
+19090528,Chicago White Sox,Detroit Tigers,1,2
+19090528,Washington Senators,Philadelphia Athletics,1,3
+19090528,Cleveland Indians,St. Louis Browns,3,1
+19090528,Philadelpia Phillies,New York Giants,11,1
+19090528,Philadelpia Phillies,New York Giants,0,3
+19090529,Chicago White Sox,Detroit Tigers,3,4
+19090529,Boston Red Sox,Philadelphia Athletics,2,6
+19090529,Boston Red Sox,Philadelphia Athletics,2,4
+19090529,New York Yankees,Washington Senators,4,2
+19090529,Brooklyn Dodgers,Boston Braves,4,1
+19090529,Brooklyn Dodgers,Boston Braves,4,1
+19090529,St. Louis Cardinals,Cincinnati Reds,4,2
+19090529,St. Louis Cardinals,Cincinnati Reds,2,11
+19090529,Philadelpia Phillies,New York Giants,3,2
+19090529,Chicago Cubs,Pittsburgh Pirates,8,3
+19090530,Detroit Tigers,Chicago White Sox,3,1
+19090530,Cleveland Indians,St. Louis Browns,0,2
+19090530,Pittsburgh Pirates,Chicago Cubs,5,4
+19090530,Pittsburgh Pirates,Chicago Cubs,4,2
+19090530,St. Louis Cardinals,Cincinnati Reds,12,2
+19090531,Detroit Tigers,Chicago White Sox,5,1
+19090531,Detroit Tigers,Chicago White Sox,7,7
+19090531,St. Louis Browns,Cleveland Indians,6,3
+19090531,St. Louis Browns,Cleveland Indians,1,5
+19090531,Boston Red Sox,Philadelphia Athletics,3,2
+19090531,Boston Red Sox,Philadelphia Athletics,2,1
+19090531,New York Yankees,Washington Senators,1,8
+19090531,Brooklyn Dodgers,Boston Braves,0,1
+19090531,Brooklyn Dodgers,Boston Braves,3,0
+19090531,Chicago Cubs,Cincinnati Reds,1,4
+19090531,Chicago Cubs,Cincinnati Reds,3,2
+19090531,Philadelpia Phillies,New York Giants,2,3
+19090531,Philadelpia Phillies,New York Giants,4,5
+19090531,St. Louis Cardinals,Pittsburgh Pirates,4,5
+19090531,St. Louis Cardinals,Pittsburgh Pirates,2,4
+19090601,Boston Red Sox,Philadelphia Athletics,0,1
+19090601,Boston Red Sox,Philadelphia Athletics,1,0
+19090601,New York Yankees,Washington Senators,4,0
+19090601,New York Yankees,Washington Senators,0,2
+19090601,Chicago Cubs,Cincinnati Reds,9,3
+19090601,Brooklyn Dodgers,New York Giants,2,5
+19090602,Detroit Tigers,Boston Red Sox,5,6
+19090602,St. Louis Browns,New York Yankees,1,3
+19090602,Chicago White Sox,Philadelphia Athletics,4,5
+19090602,Cleveland Indians,Washington Senators,0,4
+19090602,Boston Braves,Pittsburgh Pirates,0,2
+19090603,Detroit Tigers,Boston Red Sox,5,3
+19090603,St. Louis Browns,New York Yankees,5,7
+19090603,Chicago White Sox,Philadelphia Athletics,9,6
+19090603,Philadelpia Phillies,Chicago Cubs,3,4
+19090603,Brooklyn Dodgers,Cincinnati Reds,2,6
+19090603,Boston Braves,Pittsburgh Pirates,8,9
+19090604,Detroit Tigers,Boston Red Sox,5,0
+19090605,Cleveland Indians,Washington Senators,6,3
+19090605,Philadelpia Phillies,Chicago Cubs,0,2
+19090605,Brooklyn Dodgers,Cincinnati Reds,4,5
+19090605,Boston Braves,Pittsburgh Pirates,1,3
+19090605,New York Giants,St. Louis Cardinals,8,7
+19090606,Philadelpia Phillies,Chicago Cubs,0,1
+19090606,Brooklyn Dodgers,Cincinnati Reds,3,5
+19090606,Brooklyn Dodgers,Cincinnati Reds,3,4
+19090606,New York Giants,St. Louis Cardinals,12,1
+19090607,St. Louis Browns,Boston Red Sox,4,6
+19090607,Detroit Tigers,New York Yankees,1,5
+19090607,Cleveland Indians,Philadelphia Athletics,3,1
+19090607,Chicago White Sox,Washington Senators,8,0
+19090607,Boston Braves,Cincinnati Reds,1,6
+19090607,Philadelpia Phillies,Pittsburgh Pirates,3,4
+19090607,Brooklyn Dodgers,St. Louis Cardinals,2,0
+19090608,St. Louis Browns,Boston Red Sox,3,4
+19090608,Detroit Tigers,New York Yankees,5,4
+19090608,Cleveland Indians,Philadelphia Athletics,2,0
+19090608,New York Giants,Chicago Cubs,3,2
+19090608,Philadelpia Phillies,Pittsburgh Pirates,3,4
+19090608,Brooklyn Dodgers,St. Louis Cardinals,1,7
+19090609,St. Louis Browns,Boston Red Sox,2,3
+19090609,Boston Braves,Cincinnati Reds,2,13
+19090609,Philadelpia Phillies,Pittsburgh Pirates,0,6
+19090609,Brooklyn Dodgers,St. Louis Cardinals,3,4
+19090610,Detroit Tigers,New York Yankees,2,1
+19090610,New York Giants,Chicago Cubs,0,5
+19090611,Cleveland Indians,Boston Red Sox,3,1
+19090611,Chicago White Sox,New York Yankees,1,0
+19090611,St. Louis Browns,Philadelphia Athletics,1,2
+19090611,Detroit Tigers,Washington Senators,0,1
+19090611,Boston Braves,Chicago Cubs,4,2
+19090611,New York Giants,Cincinnati Reds,3,6
+19090611,Brooklyn Dodgers,Pittsburgh Pirates,1,8
+19090611,Philadelpia Phillies,St. Louis Cardinals,4,0
+19090612,Cleveland Indians,Boston Red Sox,4,0
+19090612,Chicago White Sox,New York Yankees,5,3
+19090612,St. Louis Browns,Philadelphia Athletics,1,4
+19090612,Detroit Tigers,Washington Senators,2,6
+19090612,Boston Braves,Chicago Cubs,0,2
+19090612,New York Giants,Cincinnati Reds,2,0
+19090612,Brooklyn Dodgers,Pittsburgh Pirates,1,10
+19090612,Philadelpia Phillies,St. Louis Cardinals,3,2
+19090613,Boston Braves,Chicago Cubs,7,9
+19090613,New York Giants,Cincinnati Reds,1,2
+19090613,Philadelpia Phillies,St. Louis Cardinals,10,4
+19090614,Cleveland Indians,Boston Red Sox,3,1
+19090614,Chicago White Sox,New York Yankees,5,7
+19090614,St. Louis Browns,Philadelphia Athletics,11,6
+19090614,Detroit Tigers,Washington Senators,1,0
+19090614,New York Giants,Cincinnati Reds,2,1
+19090614,Brooklyn Dodgers,Pittsburgh Pirates,5,7
+19090614,Philadelpia Phillies,St. Louis Cardinals,7,1
+19090615,Cleveland Indians,Boston Red Sox,6,7
+19090615,Chicago White Sox,New York Yankees,7,3
+19090615,St. Louis Browns,Philadelphia Athletics,1,3
+19090615,Detroit Tigers,Washington Senators,1,2
+19090615,Brooklyn Dodgers,Pittsburgh Pirates,2,8
+19090616,Chicago White Sox,Boston Red Sox,6,4
+19090616,Cleveland Indians,New York Yankees,4,3
+19090616,Detroit Tigers,Philadelphia Athletics,4,5
+19090616,St. Louis Browns,Washington Senators,3,2
+19090616,Brooklyn Dodgers,Chicago Cubs,1,3
+19090616,Philadelpia Phillies,Cincinnati Reds,7,1
+19090616,New York Giants,Pittsburgh Pirates,8,2
+19090616,Boston Braves,St. Louis Cardinals,3,6
+19090617,Chicago White Sox,Boston Red Sox,9,2
+19090617,Chicago White Sox,Boston Red Sox,1,6
+19090617,Cleveland Indians,New York Yankees,3,2
+19090617,Detroit Tigers,Philadelphia Athletics,4,1
+19090617,St. Louis Browns,Washington Senators,1,5
+19090617,Brooklyn Dodgers,Chicago Cubs,2,3
+19090617,Boston Braves,St. Louis Cardinals,3,4
+19090618,Cleveland Indians,New York Yankees,10,4
+19090618,Detroit Tigers,Philadelphia Athletics,1,3
+19090618,St. Louis Browns,Washington Senators,0,5
+19090618,Philadelpia Phillies,Cincinnati Reds,1,4
+19090618,New York Giants,Pittsburgh Pirates,2,3
+19090619,Philadelphia Athletics,Boston Red Sox,6,7
+19090619,St. Louis Browns,Cleveland Indians,2,3
+19090619,Chicago White Sox,Detroit Tigers,4,5
+19090619,Washington Senators,New York Yankees,7,4
+19090619,Washington Senators,New York Yankees,3,6
+19090619,Brooklyn Dodgers,Chicago Cubs,5,10
+19090619,Philadelpia Phillies,Cincinnati Reds,2,0
+19090619,New York Giants,Pittsburgh Pirates,1,2
+19090619,Boston Braves,St. Louis Cardinals,4,6
+19090620,Cleveland Indians,Chicago White Sox,0,4
+19090620,Cleveland Indians,Chicago White Sox,5,0
+19090620,Detroit Tigers,St. Louis Browns,6,4
+19090620,Detroit Tigers,St. Louis Browns,8,2
+19090620,Brooklyn Dodgers,Chicago Cubs,1,6
+19090620,Philadelpia Phillies,Cincinnati Reds,4,3
+19090620,Boston Braves,St. Louis Cardinals,3,8
+19090621,Philadelphia Athletics,Boston Red Sox,5,6
+19090621,Philadelphia Athletics,Boston Red Sox,1,4
+19090621,Washington Senators,New York Yankees,6,4
+19090621,Washington Senators,New York Yankees,2,3
+19090621,Detroit Tigers,St. Louis Browns,2,0
+19090621,Philadelpia Phillies,Pittsburgh Pirates,3,5
+19090622,New York Yankees,Boston Red Sox,6,9
+19090622,Cleveland Indians,Chicago White Sox,3,2
+19090622,Cleveland Indians,Chicago White Sox,2,0
+19090622,St. Louis Browns,Detroit Tigers,0,1
+19090622,Washington Senators,Philadelphia Athletics,1,6
+19090623,New York Yankees,Boston Red Sox,5,14
+19090623,Chicago White Sox,Cleveland Indians,4,3
+19090623,St. Louis Browns,Detroit Tigers,1,8
+19090623,Washington Senators,Philadelphia Athletics,0,3
+19090623,Philadelpia Phillies,Brooklyn Dodgers,0,2
+19090623,Philadelpia Phillies,Brooklyn Dodgers,1,5
+19090623,Cincinnati Reds,Chicago Cubs,6,4
+19090623,Boston Braves,New York Giants,4,5
+19090623,Boston Braves,New York Giants,1,11
+19090623,Pittsburgh Pirates,St. Louis Cardinals,3,1
+19090624,Chicago White Sox,Cleveland Indians,1,8
+19090624,St. Louis Browns,Detroit Tigers,1,2
+19090624,New York Yankees,Philadelphia Athletics,3,5
+19090624,Boston Red Sox,Washington Senators,5,1
+19090624,Philadelpia Phillies,Brooklyn Dodgers,3,6
+19090624,Boston Braves,New York Giants,4,7
+19090624,Boston Braves,New York Giants,5,12
+19090624,Pittsburgh Pirates,St. Louis Cardinals,3,2
+19090625,St. Louis Browns,Detroit Tigers,1,4
+19090625,New York Yankees,Philadelphia Athletics,12,2
+19090625,Boston Red Sox,Washington Senators,1,2
+19090625,Boston Red Sox,Washington Senators,3,2
+19090625,Philadelpia Phillies,Boston Braves,6,0
+19090625,Cincinnati Reds,Chicago Cubs,0,7
+19090625,Brooklyn Dodgers,New York Giants,2,4
+19090625,Brooklyn Dodgers,New York Giants,1,9
+19090626,Chicago White Sox,Cleveland Indians,2,0
+19090626,St. Louis Browns,Detroit Tigers,2,6
+19090626,New York Yankees,Philadelphia Athletics,0,3
+19090626,New York Yankees,Philadelphia Athletics,1,4
+19090626,Boston Red Sox,Washington Senators,7,3
+19090626,Philadelpia Phillies,Boston Braves,3,6
+19090626,Philadelpia Phillies,Boston Braves,3,7
+19090626,Cincinnati Reds,Chicago Cubs,0,4
+19090626,Brooklyn Dodgers,New York Giants,1,2
+19090626,Pittsburgh Pirates,St. Louis Cardinals,6,5
+19090627,Detroit Tigers,Chicago White Sox,1,0
+19090627,Detroit Tigers,Chicago White Sox,3,5
+19090627,Cleveland Indians,St. Louis Browns,0,6
+19090627,Cleveland Indians,St. Louis Browns,11,3
+19090627,Cincinnati Reds,Chicago Cubs,2,1
+19090627,Cincinnati Reds,Chicago Cubs,7,3
+19090627,Pittsburgh Pirates,St. Louis Cardinals,5,8
+19090627,Pittsburgh Pirates,St. Louis Cardinals,7,1
+19090628,Detroit Tigers,Chicago White Sox,2,1
+19090628,New York Yankees,Philadelphia Athletics,2,1
+19090628,Cleveland Indians,St. Louis Browns,0,6
+19090628,Boston Red Sox,Washington Senators,6,5
+19090628,Philadelpia Phillies,Boston Braves,5,3
+19090628,Pittsburgh Pirates,Cincinnati Reds,3,2
+19090629,Philadelphia Athletics,Boston Red Sox,9,0
+19090629,St. Louis Browns,Chicago White Sox,2,1
+19090629,Cleveland Indians,Detroit Tigers,2,3
+19090629,Washington Senators,New York Yankees,3,1
+19090629,Washington Senators,New York Yankees,3,11
+19090629,New York Giants,Brooklyn Dodgers,4,2
+19090629,Boston Braves,Philadelpia Phillies,3,4
+19090629,Chicago Cubs,Pittsburgh Pirates,1,8
+19090630,Philadelphia Athletics,Boston Red Sox,8,4
+19090630,Philadelphia Athletics,Boston Red Sox,6,2
+19090630,St. Louis Browns,Chicago White Sox,4,3
+19090630,Cleveland Indians,Detroit Tigers,7,1
+19090630,Washington Senators,New York Yankees,2,4
+19090630,New York Giants,Brooklyn Dodgers,2,7
+19090630,New York Giants,Brooklyn Dodgers,3,0
+19090630,Boston Braves,Philadelpia Phillies,1,0
+19090630,Chicago Cubs,Pittsburgh Pirates,3,2
+19090630,Cincinnati Reds,St. Louis Cardinals,3,2
+19090701,Philadelphia Athletics,Boston Red Sox,1,3
+19090701,St. Louis Browns,Chicago White Sox,2,0
+19090701,Detroit Tigers,Cleveland Indians,9,3
+19090701,Washington Senators,New York Yankees,1,2
+19090702,Philadelphia Athletics,Boston Red Sox,1,0
+19090702,St. Louis Browns,Chicago White Sox,3,15
+19090702,Detroit Tigers,Cleveland Indians,3,2
+19090702,Washington Senators,New York Yankees,0,3
+19090702,New York Giants,Brooklyn Dodgers,5,3
+19090702,Boston Braves,Philadelpia Phillies,4,5
+19090702,Boston Braves,Philadelpia Phillies,3,0
+19090702,Chicago Cubs,Pittsburgh Pirates,8,0
+19090702,Chicago Cubs,Pittsburgh Pirates,2,4
+19090702,Cincinnati Reds,St. Louis Cardinals,4,5
+19090703,Washington Senators,Boston Red Sox,4,6
+19090703,Washington Senators,Boston Red Sox,1,5
+19090703,St. Louis Browns,Chicago White Sox,4,0
+19090703,Detroit Tigers,Cleveland Indians,1,4
+19090703,Philadelphia Athletics,New York Yankees,5,2
+19090703,Philadelphia Athletics,New York Yankees,7,0
+19090703,New York Giants,Brooklyn Dodgers,5,3
+19090703,New York Giants,Brooklyn Dodgers,2,1
+19090703,Boston Braves,Philadelpia Phillies,6,7
+19090703,Boston Braves,Philadelpia Phillies,4,0
+19090703,Chicago Cubs,Pittsburgh Pirates,6,0
+19090703,Cincinnati Reds,St. Louis Cardinals,10,2
+19090703,Cincinnati Reds,St. Louis Cardinals,13,7
+19090704,Cleveland Indians,Chicago White Sox,3,0
+19090704,Detroit Tigers,St. Louis Browns,3,1
+19090704,St. Louis Cardinals,Chicago Cubs,3,2
+19090704,Pittsburgh Pirates,Cincinnati Reds,2,4
+19090705,Washington Senators,Boston Red Sox,7,6
+19090705,Washington Senators,Boston Red Sox,1,8
+19090705,Chicago White Sox,Cleveland Indians,3,4
+19090705,Chicago White Sox,Cleveland Indians,2,4
+19090705,Philadelphia Athletics,New York Yankees,7,2
+19090705,Philadelphia Athletics,New York Yankees,4,3
+19090705,Detroit Tigers,St. Louis Browns,1,3
+19090705,Boston Braves,Brooklyn Dodgers,5,1
+19090705,Boston Braves,Brooklyn Dodgers,1,3
+19090705,New York Giants,Philadelpia Phillies,3,0
+19090705,New York Giants,Philadelpia Phillies,3,2
+19090705,Cincinnati Reds,Pittsburgh Pirates,0,2
+19090705,Cincinnati Reds,Pittsburgh Pirates,1,6
+19090706,Washington Senators,Boston Red Sox,2,3
+19090706,Washington Senators,Boston Red Sox,0,2
+19090706,Detroit Tigers,Cleveland Indians,0,6
+19090706,Philadelphia Athletics,New York Yankees,3,2
+19090706,Chicago White Sox,St. Louis Browns,5,4
+19090706,Boston Braves,Brooklyn Dodgers,1,2
+19090706,St. Louis Cardinals,Chicago Cubs,1,4
+19090706,New York Giants,Philadelpia Phillies,1,3
+19090706,Cincinnati Reds,Pittsburgh Pirates,0,5
+19090707,Detroit Tigers,Cleveland Indians,3,4
+19090707,Boston Red Sox,New York Yankees,9,6
+19090707,Boston Braves,Brooklyn Dodgers,4,7
+19090707,Boston Braves,Brooklyn Dodgers,1,5
+19090707,New York Giants,Philadelpia Phillies,3,1
+19090707,Chicago Cubs,Pittsburgh Pirates,2,6
+19090708,Washington Senators,Cleveland Indians,2,3
+19090708,Philadelphia Athletics,Detroit Tigers,3,1
+19090708,Chicago White Sox,St. Louis Browns,1,5
+19090708,Chicago White Sox,St. Louis Browns,0,1
+19090708,St. Louis Cardinals,Boston Braves,6,10
+19090708,Cincinnati Reds,Brooklyn Dodgers,9,8
+19090708,Pittsburgh Pirates,New York Giants,1,5
+19090708,Chicago Cubs,Philadelpia Phillies,8,3
+19090709,Boston Red Sox,Chicago White Sox,2,1
+19090709,Washington Senators,Cleveland Indians,4,3
+19090709,Philadelphia Athletics,Detroit Tigers,2,0
+19090709,New York Yankees,St. Louis Browns,5,2
+19090709,St. Louis Cardinals,Boston Braves,3,4
+19090709,Cincinnati Reds,Brooklyn Dodgers,6,3
+19090709,Pittsburgh Pirates,New York Giants,9,5
+19090709,Pittsburgh Pirates,New York Giants,4,2
+19090709,Chicago Cubs,Philadelpia Phillies,1,5
+19090710,Boston Red Sox,Chicago White Sox,1,6
+19090710,Washington Senators,Cleveland Indians,0,4
+19090710,Philadelphia Athletics,Detroit Tigers,5,9
+19090710,St. Louis Cardinals,Boston Braves,6,0
+19090710,Cincinnati Reds,Brooklyn Dodgers,8,0
+19090710,Cincinnati Reds,Brooklyn Dodgers,2,1
+19090710,Pittsburgh Pirates,New York Giants,8,2
+19090710,Chicago Cubs,Philadelpia Phillies,10,1
+19090711,Boston Red Sox,Chicago White Sox,0,4
+19090711,Philadelphia Athletics,Detroit Tigers,7,1
+19090711,New York Yankees,St. Louis Browns,2,8
+19090711,New York Yankees,St. Louis Browns,0,1
+19090712,Boston Red Sox,Chicago White Sox,4,3
+19090712,Washington Senators,Cleveland Indians,0,3
+19090712,New York Yankees,St. Louis Browns,5,0
+19090712,St. Louis Cardinals,Boston Braves,3,4
+19090712,Cincinnati Reds,Brooklyn Dodgers,11,1
+19090712,Cincinnati Reds,Brooklyn Dodgers,4,5
+19090712,Pittsburgh Pirates,New York Giants,2,3
+19090712,Pittsburgh Pirates,New York Giants,9,0
+19090712,Chicago Cubs,Philadelpia Phillies,3,0
+19090713,New York Yankees,Chicago White Sox,5,1
+19090713,New York Yankees,Chicago White Sox,2,6
+19090713,Philadelphia Athletics,Cleveland Indians,0,1
+19090713,Washington Senators,Detroit Tigers,0,3
+19090713,Boston Red Sox,St. Louis Browns,6,5
+19090713,Boston Red Sox,St. Louis Browns,7,1
+19090713,Chicago Cubs,Boston Braves,3,2
+19090713,Chicago Cubs,Boston Braves,8,0
+19090713,Pittsburgh Pirates,Brooklyn Dodgers,3,0
+19090713,Cincinnati Reds,New York Giants,4,8
+19090713,St. Louis Cardinals,Philadelpia Phillies,3,1
+19090714,New York Yankees,Chicago White Sox,4,3
+19090714,New York Yankees,Chicago White Sox,2,8
+19090714,Philadelphia Athletics,Cleveland Indians,3,4
+19090714,Chicago Cubs,Boston Braves,8,2
+19090714,Pittsburgh Pirates,Brooklyn Dodgers,7,2
+19090714,Cincinnati Reds,New York Giants,4,5
+19090714,St. Louis Cardinals,Philadelpia Phillies,6,4
+19090714,St. Louis Cardinals,Philadelpia Phillies,11,2
+19090715,New York Yankees,Chicago White Sox,0,9
+19090715,Philadelphia Athletics,Cleveland Indians,5,6
+19090715,Washington Senators,Detroit Tigers,5,9
+19090715,Washington Senators,Detroit Tigers,0,7
+19090715,Boston Red Sox,St. Louis Browns,4,9
+19090715,Boston Red Sox,St. Louis Browns,0,1
+19090715,Chicago Cubs,Boston Braves,6,2
+19090715,Pittsburgh Pirates,Brooklyn Dodgers,1,5
+19090715,Cincinnati Reds,New York Giants,1,2
+19090715,St. Louis Cardinals,Philadelpia Phillies,4,6
+19090715,St. Louis Cardinals,Philadelpia Phillies,6,7
+19090716,New York Yankees,Chicago White Sox,1,3
+19090716,Philadelphia Athletics,Cleveland Indians,3,0
+19090716,Washington Senators,Detroit Tigers,0,0
+19090716,Boston Red Sox,St. Louis Browns,2,1
+19090716,Chicago Cubs,Boston Braves,4,1
+19090716,Cincinnati Reds,New York Giants,1,2
+19090717,Washington Senators,Chicago White Sox,4,3
+19090717,Boston Red Sox,Cleveland Indians,6,4
+19090717,New York Yankees,Detroit Tigers,2,9
+19090717,Philadelphia Athletics,St. Louis Browns,0,2
+19090717,Philadelphia Athletics,St. Louis Browns,4,5
+19090717,Cincinnati Reds,Boston Braves,0,1
+19090717,Chicago Cubs,Brooklyn Dodgers,0,1
+19090717,Chicago Cubs,Brooklyn Dodgers,4,0
+19090717,St. Louis Cardinals,New York Giants,7,1
+19090717,Pittsburgh Pirates,Philadelpia Phillies,7,6
+19090718,Washington Senators,Chicago White Sox,0,3
+19090718,New York Yankees,Detroit Tigers,3,4
+19090718,Philadelphia Athletics,St. Louis Browns,4,5
+19090719,Washington Senators,Chicago White Sox,2,12
+19090719,Boston Red Sox,Cleveland Indians,1,6
+19090719,Boston Red Sox,Cleveland Indians,8,2
+19090719,New York Yankees,Detroit Tigers,5,3
+19090719,Philadelphia Athletics,St. Louis Browns,4,3
+19090719,Cincinnati Reds,Boston Braves,5,0
+19090719,Chicago Cubs,Brooklyn Dodgers,2,0
+19090719,St. Louis Cardinals,New York Giants,4,3
+19090719,St. Louis Cardinals,New York Giants,0,3
+19090719,Pittsburgh Pirates,Philadelpia Phillies,5,4
+19090720,Washington Senators,Chicago White Sox,1,6
+19090720,Boston Red Sox,Cleveland Indians,4,0
+19090720,New York Yankees,Detroit Tigers,6,1
+19090720,Philadelphia Athletics,St. Louis Browns,2,0
+19090720,Cincinnati Reds,Boston Braves,2,1
+19090720,Chicago Cubs,Brooklyn Dodgers,5,6
+19090720,St. Louis Cardinals,New York Giants,4,3
+19090720,Pittsburgh Pirates,Philadelpia Phillies,0,3
+19090721,Washington Senators,Chicago White Sox,3,6
+19090721,Boston Red Sox,Cleveland Indians,2,4
+19090721,New York Yankees,Detroit Tigers,0,2
+19090721,Cincinnati Reds,Boston Braves,2,7
+19090721,Chicago Cubs,Brooklyn Dodgers,3,2
+19090721,St. Louis Cardinals,New York Giants,7,11
+19090721,Pittsburgh Pirates,Philadelpia Phillies,1,2
+19090722,Philadelphia Athletics,Chicago White Sox,3,4
+19090722,New York Yankees,Cleveland Indians,1,0
+19090722,Boston Red Sox,Detroit Tigers,0,6
+19090722,Washington Senators,St. Louis Browns,1,5
+19090722,Pittsburgh Pirates,Boston Braves,9,0
+19090722,Chicago Cubs,New York Giants,3,1
+19090723,Philadelphia Athletics,Chicago White Sox,0,3
+19090723,Boston Red Sox,Detroit Tigers,2,5
+19090723,Boston Red Sox,Detroit Tigers,2,4
+19090723,Washington Senators,St. Louis Browns,4,2
+19090724,Philadelphia Athletics,Chicago White Sox,1,5
+19090724,New York Yankees,Cleveland Indians,0,2
+19090724,New York Yankees,Cleveland Indians,3,2
+19090724,Boston Red Sox,Detroit Tigers,1,2
+19090724,Washington Senators,St. Louis Browns,3,9
+19090724,Pittsburgh Pirates,Boston Braves,7,3
+19090724,Pittsburgh Pirates,Boston Braves,6,3
+19090724,St. Louis Cardinals,Brooklyn Dodgers,0,1
+19090724,St. Louis Cardinals,Brooklyn Dodgers,0,1
+19090724,Chicago Cubs,New York Giants,4,1
+19090724,Cincinnati Reds,Philadelpia Phillies,0,3
+19090724,Cincinnati Reds,Philadelpia Phillies,9,6
+19090725,Philadelphia Athletics,Chicago White Sox,0,3
+19090725,Boston Red Sox,Detroit Tigers,4,0
+19090725,Washington Senators,St. Louis Browns,0,6
+19090725,St. Louis Cardinals,Cincinnati Reds,7,4
+19090726,New York Yankees,Cleveland Indians,1,2
+19090726,New York Giants,Boston Braves,3,3
+19090726,Brooklyn Dodgers,Philadelpia Phillies,2,7
+19090726,Cincinnati Reds,Pittsburgh Pirates,6,4
+19090727,Detroit Tigers,Cleveland Indians,3,1
+19090727,Boston Red Sox,New York Yankees,0,6
+19090727,Philadelphia Athletics,Washington Senators,8,2
+19090727,Philadelphia Athletics,Washington Senators,5,2
+19090727,New York Giants,Boston Braves,4,7
+19090727,New York Giants,Boston Braves,6,2
+19090727,Brooklyn Dodgers,Philadelpia Phillies,0,7
+19090727,Brooklyn Dodgers,Philadelpia Phillies,2,3
+19090727,Cincinnati Reds,Pittsburgh Pirates,1,5
+19090727,Chicago Cubs,St. Louis Cardinals,4,4
+19090728,Detroit Tigers,Cleveland Indians,5,4
+19090728,Boston Red Sox,New York Yankees,8,2
+19090728,Philadelphia Athletics,Washington Senators,7,1
+19090728,Philadelphia Athletics,Washington Senators,6,0
+19090728,New York Giants,Boston Braves,7,4
+19090728,New York Giants,Boston Braves,4,3
+19090728,Brooklyn Dodgers,Philadelpia Phillies,4,0
+19090728,Cincinnati Reds,Pittsburgh Pirates,3,6
+19090728,Chicago Cubs,St. Louis Cardinals,6,1
+19090728,Chicago Cubs,St. Louis Cardinals,4,5
+19090729,St. Louis Browns,Boston Red Sox,6,3
+19090729,Detroit Tigers,New York Yankees,2,11
+19090729,Cleveland Indians,Philadelphia Athletics,1,2
+19090729,Cleveland Indians,Philadelphia Athletics,4,9
+19090729,Chicago White Sox,Washington Senators,2,3
+19090729,Chicago White Sox,Washington Senators,2,1
+19090729,Philadelpia Phillies,Pittsburgh Pirates,3,4
+19090729,Chicago Cubs,St. Louis Cardinals,6,3
+19090730,St. Louis Browns,Boston Red Sox,1,7
+19090730,St. Louis Browns,Boston Red Sox,10,4
+19090730,Detroit Tigers,New York Yankees,0,6
+19090730,Cleveland Indians,Philadelphia Athletics,1,7
+19090730,Chicago White Sox,Washington Senators,6,1
+19090730,Chicago White Sox,Washington Senators,2,1
+19090730,Philadelpia Phillies,Chicago Cubs,5,2
+19090730,Brooklyn Dodgers,Cincinnati Reds,2,2
+19090730,New York Giants,Pittsburgh Pirates,1,3
+19090730,Boston Braves,St. Louis Cardinals,2,3
+19090731,St. Louis Browns,Boston Red Sox,2,7
+19090731,Detroit Tigers,New York Yankees,2,7
+19090731,Detroit Tigers,New York Yankees,7,4
+19090731,Cleveland Indians,Philadelphia Athletics,3,1
+19090731,Cleveland Indians,Philadelphia Athletics,3,4
+19090731,Chicago White Sox,Washington Senators,1,0
+19090731,Chicago White Sox,Washington Senators,4,0
+19090731,Philadelpia Phillies,Chicago Cubs,0,1
+19090731,Brooklyn Dodgers,Cincinnati Reds,0,1
+19090731,New York Giants,Pittsburgh Pirates,4,0
+19090731,Boston Braves,St. Louis Cardinals,2,3
+19090801,Philadelpia Phillies,Chicago Cubs,0,3
+19090801,Philadelpia Phillies,Chicago Cubs,6,7
+19090801,Brooklyn Dodgers,Cincinnati Reds,3,2
+19090801,Brooklyn Dodgers,Cincinnati Reds,1,3
+19090801,Boston Braves,St. Louis Cardinals,10,4
+19090803,Detroit Tigers,Boston Red Sox,1,2
+19090803,Detroit Tigers,Boston Red Sox,7,8
+19090803,St. Louis Browns,New York Yankees,4,5
+19090803,St. Louis Browns,New York Yankees,7,3
+19090803,Chicago White Sox,Philadelphia Athletics,1,2
+19090803,Chicago White Sox,Philadelphia Athletics,4,10
+19090803,Cleveland Indians,Washington Senators,6,0
+19090803,Cleveland Indians,Washington Senators,2,1
+19090803,Boston Braves,Chicago Cubs,1,7
+19090803,New York Giants,Cincinnati Reds,7,6
+19090803,Brooklyn Dodgers,Pittsburgh Pirates,1,9
+19090803,Philadelpia Phillies,St. Louis Cardinals,1,5
+19090804,Detroit Tigers,Boston Red Sox,10,3
+19090804,Detroit Tigers,Boston Red Sox,1,2
+19090804,Cleveland Indians,Washington Senators,0,1
+19090804,Cleveland Indians,Washington Senators,2,6
+19090804,Boston Braves,Chicago Cubs,3,8
+19090804,Brooklyn Dodgers,Pittsburgh Pirates,1,0
+19090804,Philadelpia Phillies,St. Louis Cardinals,4,1
+19090805,St. Louis Browns,New York Yankees,0,5
+19090805,St. Louis Browns,New York Yankees,4,0
+19090805,Chicago White Sox,Philadelphia Athletics,0,3
+19090805,Chicago White Sox,Philadelphia Athletics,1,0
+19090805,Cleveland Indians,Washington Senators,9,4
+19090805,Cleveland Indians,Washington Senators,0,2
+19090805,Boston Braves,Chicago Cubs,1,2
+19090805,Boston Braves,Chicago Cubs,0,4
+19090805,New York Giants,Cincinnati Reds,1,5
+19090805,Brooklyn Dodgers,Pittsburgh Pirates,4,1
+19090805,Philadelpia Phillies,St. Louis Cardinals,1,2
+19090806,Chicago White Sox,Boston Red Sox,1,8
+19090806,Cleveland Indians,New York Yankees,0,8
+19090806,Detroit Tigers,Philadelphia Athletics,3,1
+19090806,St. Louis Browns,Washington Senators,2,1
+19090806,Boston Braves,Chicago Cubs,1,3
+19090806,New York Giants,Cincinnati Reds,0,1
+19090806,Brooklyn Dodgers,Pittsburgh Pirates,2,3
+19090806,Philadelpia Phillies,St. Louis Cardinals,0,3
+19090807,Chicago White Sox,Boston Red Sox,0,3
+19090807,Cleveland Indians,New York Yankees,2,5
+19090807,Detroit Tigers,Philadelphia Athletics,3,5
+19090807,St. Louis Browns,Washington Senators,1,6
+19090807,Brooklyn Dodgers,Chicago Cubs,2,3
+19090807,Philadelpia Phillies,Cincinnati Reds,2,1
+19090807,Boston Braves,Pittsburgh Pirates,4,6
+19090807,Boston Braves,Pittsburgh Pirates,1,3
+19090807,New York Giants,St. Louis Cardinals,7,1
+19090808,Brooklyn Dodgers,Chicago Cubs,0,7
+19090808,Philadelpia Phillies,Cincinnati Reds,6,2
+19090808,New York Giants,St. Louis Cardinals,3,0
+19090809,Chicago White Sox,Boston Red Sox,1,2
+19090809,Cleveland Indians,New York Yankees,0,3
+19090809,Detroit Tigers,Philadelphia Athletics,1,7
+19090809,St. Louis Browns,Washington Senators,8,7
+19090809,Brooklyn Dodgers,Chicago Cubs,2,0
+19090809,Philadelpia Phillies,Cincinnati Reds,3,0
+19090809,Boston Braves,Pittsburgh Pirates,1,10
+19090809,New York Giants,St. Louis Cardinals,4,3
+19090810,Chicago White Sox,Boston Red Sox,2,3
+19090810,Cleveland Indians,New York Yankees,4,1
+19090810,Detroit Tigers,Philadelphia Athletics,1,3
+19090810,St. Louis Browns,Washington Senators,1,1
+19090810,Brooklyn Dodgers,Chicago Cubs,1,8
+19090810,Philadelpia Phillies,Cincinnati Reds,2,0
+19090810,Boston Braves,Pittsburgh Pirates,1,2
+19090810,New York Giants,St. Louis Cardinals,6,5
+19090811,Cleveland Indians,Boston Red Sox,2,4
+19090811,Chicago White Sox,New York Yankees,1,2
+19090811,St. Louis Browns,Philadelphia Athletics,1,0
+19090811,Detroit Tigers,Washington Senators,2,3
+19090811,Boston Braves,Pittsburgh Pirates,0,1
+19090811,New York Giants,St. Louis Cardinals,19,3
+19090812,Cleveland Indians,Boston Red Sox,4,5
+19090812,Chicago White Sox,New York Yankees,2,0
+19090812,St. Louis Browns,Philadelphia Athletics,4,10
+19090812,Detroit Tigers,Washington Senators,6,1
+19090812,New York Giants,Chicago Cubs,5,2
+19090812,New York Giants,Chicago Cubs,3,0
+19090812,Boston Braves,Cincinnati Reds,1,2
+19090812,Boston Braves,Cincinnati Reds,2,8
+19090812,Philadelpia Phillies,Pittsburgh Pirates,3,13
+19090812,Philadelpia Phillies,Pittsburgh Pirates,5,4
+19090812,Brooklyn Dodgers,St. Louis Cardinals,6,6
+19090813,Cleveland Indians,Boston Red Sox,2,7
+19090813,Chicago White Sox,New York Yankees,4,3
+19090813,St. Louis Browns,Philadelphia Athletics,5,8
+19090813,Detroit Tigers,Washington Senators,5,0
+19090813,New York Giants,Chicago Cubs,6,2
+19090813,Philadelpia Phillies,Pittsburgh Pirates,1,2
+19090813,Brooklyn Dodgers,St. Louis Cardinals,4,5
+19090814,Cleveland Indians,Boston Red Sox,1,3
+19090814,Chicago White Sox,New York Yankees,7,3
+19090814,St. Louis Browns,Philadelphia Athletics,1,2
+19090814,Detroit Tigers,Washington Senators,3,3
+19090814,New York Giants,Chicago Cubs,5,2
+19090814,Boston Braves,Cincinnati Reds,0,1
+19090814,Philadelpia Phillies,Pittsburgh Pirates,2,1
+19090814,Brooklyn Dodgers,St. Louis Cardinals,3,4
+19090815,Chicago White Sox,Detroit Tigers,1,8
+19090815,New York Giants,Chicago Cubs,0,9
+19090815,Boston Braves,Cincinnati Reds,2,7
+19090815,Boston Braves,Cincinnati Reds,1,3
+19090815,Brooklyn Dodgers,St. Louis Cardinals,9,3
+19090815,Brooklyn Dodgers,St. Louis Cardinals,2,6
+19090816,Philadelphia Athletics,Washington Senators,6,1
+19090816,New York Giants,Pittsburgh Pirates,2,2
+19090817,St. Louis Browns,Cleveland Indians,1,2
+19090817,St. Louis Browns,Cleveland Indians,3,7
+19090817,Chicago White Sox,Detroit Tigers,3,2
+19090817,Philadelphia Athletics,Washington Senators,0,1
+19090817,Cincinnati Reds,Chicago Cubs,0,2
+19090817,St. Louis Cardinals,Pittsburgh Pirates,8,11
+19090818,St. Louis Browns,Cleveland Indians,0,3
+19090818,St. Louis Browns,Cleveland Indians,2,3
+19090818,Chicago White Sox,Detroit Tigers,2,0
+19090818,Boston Red Sox,New York Yankees,3,0
+19090818,Boston Red Sox,New York Yankees,6,3
+19090818,Philadelphia Athletics,Washington Senators,2,1
+19090818,Cincinnati Reds,Chicago Cubs,0,1
+19090818,New York Giants,Philadelpia Phillies,14,1
+19090818,New York Giants,Philadelpia Phillies,5,4
+19090818,St. Louis Cardinals,Pittsburgh Pirates,3,6
+19090818,St. Louis Cardinals,Pittsburgh Pirates,1,2
+19090819,Philadelphia Athletics,Cleveland Indians,2,1
+19090819,Chicago White Sox,Detroit Tigers,0,1
+19090819,Boston Red Sox,New York Yankees,6,7
+19090819,Boston Red Sox,New York Yankees,1,2
+19090819,Brooklyn Dodgers,Boston Braves,1,5
+19090819,Brooklyn Dodgers,Boston Braves,0,1
+19090819,New York Giants,Philadelpia Phillies,6,4
+19090819,New York Giants,Philadelpia Phillies,0,1
+19090819,St. Louis Cardinals,Pittsburgh Pirates,3,8
+19090820,Philadelphia Athletics,Cleveland Indians,5,0
+19090820,Washington Senators,Detroit Tigers,1,3
+19090820,Chicago Cubs,Boston Braves,5,3
+19090820,St. Louis Cardinals,Brooklyn Dodgers,3,1
+19090820,Cincinnati Reds,New York Giants,11,3
+19090820,Pittsburgh Pirates,Philadelpia Phillies,4,3
+19090821,New York Yankees,Chicago White Sox,4,5
+19090821,Philadelphia Athletics,Cleveland Indians,10,6
+19090821,Washington Senators,Detroit Tigers,7,9
+19090821,Boston Red Sox,St. Louis Browns,6,0
+19090821,Chicago Cubs,Boston Braves,8,3
+19090821,Chicago Cubs,Boston Braves,3,2
+19090821,St. Louis Cardinals,Brooklyn Dodgers,0,1
+19090821,St. Louis Cardinals,Brooklyn Dodgers,3,6
+19090821,Cincinnati Reds,New York Giants,0,1
+19090821,Pittsburgh Pirates,Philadelpia Phillies,5,6
+19090822,New York Yankees,Chicago White Sox,6,5
+19090822,Washington Senators,Detroit Tigers,1,3
+19090822,Boston Red Sox,St. Louis Browns,9,3
+19090823,New York Yankees,Chicago White Sox,1,5
+19090823,Philadelphia Athletics,Cleveland Indians,12,6
+19090823,Washington Senators,Detroit Tigers,6,11
+19090823,Boston Red Sox,St. Louis Browns,3,2
+19090823,Chicago Cubs,Boston Braves,11,6
+19090823,St. Louis Cardinals,Brooklyn Dodgers,0,7
+19090823,St. Louis Cardinals,Brooklyn Dodgers,9,1
+19090823,Cincinnati Reds,New York Giants,9,12
+19090823,Pittsburgh Pirates,Philadelpia Phillies,2,0
+19090824,Boston Red Sox,Chicago White Sox,5,2
+19090824,Washington Senators,Cleveland Indians,0,7
+19090824,Philadelphia Athletics,Detroit Tigers,6,7
+19090824,New York Yankees,St. Louis Browns,0,3
+19090824,St. Louis Cardinals,Boston Braves,1,3
+19090824,Cincinnati Reds,Brooklyn Dodgers,0,2
+19090824,Pittsburgh Pirates,New York Giants,3,4
+19090824,Pittsburgh Pirates,New York Giants,11,3
+19090824,Chicago Cubs,Philadelpia Phillies,1,0
+19090825,Boston Red Sox,Chicago White Sox,4,4
+19090825,Washington Senators,Cleveland Indians,6,5
+19090825,Philadelphia Athletics,Detroit Tigers,3,4
+19090825,New York Yankees,St. Louis Browns,0,1
+19090825,St. Louis Cardinals,Boston Braves,8,9
+19090825,Cincinnati Reds,Brooklyn Dodgers,2,0
+19090825,Pittsburgh Pirates,New York Giants,2,3
+19090825,Chicago Cubs,Philadelpia Phillies,2,4
+19090826,Boston Red Sox,Chicago White Sox,3,4
+19090826,Boston Red Sox,Chicago White Sox,3,0
+19090826,Washington Senators,Cleveland Indians,2,8
+19090826,Philadelphia Athletics,Detroit Tigers,0,6
+19090826,New York Yankees,St. Louis Browns,5,1
+19090826,St. Louis Cardinals,Boston Braves,8,10
+19090826,Cincinnati Reds,Brooklyn Dodgers,7,1
+19090826,Pittsburgh Pirates,New York Giants,6,3
+19090826,Chicago Cubs,Philadelpia Phillies,7,8
+19090827,Boston Red Sox,Cleveland Indians,3,5
+19090827,New York Yankees,Detroit Tigers,6,17
+19090827,Philadelphia Athletics,St. Louis Browns,1,2
+19090827,Cincinnati Reds,Boston Braves,4,5
+19090827,Pittsburgh Pirates,Brooklyn Dodgers,5,0
+19090827,Chicago Cubs,New York Giants,8,6
+19090827,St. Louis Cardinals,Philadelpia Phillies,3,13
+19090828,Washington Senators,Chicago White Sox,4,6
+19090828,Washington Senators,Chicago White Sox,1,2
+19090828,Boston Red Sox,Cleveland Indians,4,3
+19090828,New York Yankees,Detroit Tigers,1,2
+19090828,Philadelphia Athletics,St. Louis Browns,4,0
+19090828,Cincinnati Reds,Boston Braves,7,6
+19090828,Pittsburgh Pirates,Brooklyn Dodgers,7,3
+19090828,Pittsburgh Pirates,Brooklyn Dodgers,3,0
+19090828,Chicago Cubs,New York Giants,6,1
+19090828,St. Louis Cardinals,Philadelpia Phillies,4,5
+19090828,St. Louis Cardinals,Philadelpia Phillies,0,6
+19090829,Washington Senators,Chicago White Sox,0,1
+19090829,New York Yankees,Detroit Tigers,3,7
+19090829,Philadelphia Athletics,St. Louis Browns,5,2
+19090830,Philadelphia Athletics,Chicago White Sox,5,0
+19090830,Boston Red Sox,Cleveland Indians,2,4
+19090830,Washington Senators,St. Louis Browns,0,8
+19090830,Cincinnati Reds,Boston Braves,5,3
+19090830,Pittsburgh Pirates,Brooklyn Dodgers,2,1
+19090830,Chicago Cubs,New York Giants,2,0
+19090830,Chicago Cubs,New York Giants,0,5
+19090830,St. Louis Cardinals,Philadelpia Phillies,2,3
+19090831,Philadelphia Athletics,Chicago White Sox,0,2
+19090831,New York Yankees,Cleveland Indians,4,1
+19090831,New York Yankees,Cleveland Indians,1,2
+19090831,Boston Red Sox,Detroit Tigers,4,7
+19090831,Washington Senators,St. Louis Browns,3,7
+19090831,Pittsburgh Pirates,Boston Braves,7,2
+19090831,Cincinnati Reds,Brooklyn Dodgers,9,4
+19090831,Chicago Cubs,New York Giants,2,0
+19090831,St. Louis Cardinals,Philadelpia Phillies,6,11
+19090901,Philadelphia Athletics,Chicago White Sox,2,6
+19090901,Boston Red Sox,Detroit Tigers,4,5
+19090901,Washington Senators,St. Louis Browns,6,7
+19090901,Chicago Cubs,Brooklyn Dodgers,12,0
+19090901,St. Louis Cardinals,New York Giants,6,9
+19090901,Cincinnati Reds,Philadelpia Phillies,7,6
+19090901,Cincinnati Reds,Philadelpia Phillies,9,4
+19090902,St. Louis Browns,Chicago White Sox,3,6
+19090902,New York Yankees,Cleveland Indians,6,1
+19090902,New York Yankees,Cleveland Indians,1,2
+19090902,Boston Red Sox,Detroit Tigers,5,8
+19090902,Pittsburgh Pirates,Boston Braves,0,1
+19090902,Pittsburgh Pirates,Boston Braves,5,3
+19090902,Chicago Cubs,Brooklyn Dodgers,1,3
+19090902,St. Louis Cardinals,New York Giants,5,2
+19090902,Cincinnati Reds,Philadelpia Phillies,9,3
+19090902,Cincinnati Reds,Philadelpia Phillies,3,5
+19090903,St. Louis Browns,Chicago White Sox,3,4
+19090903,Detroit Tigers,Cleveland Indians,1,1
+19090903,Philadelphia Athletics,Washington Senators,10,3
+19090903,Chicago Cubs,Brooklyn Dodgers,10,4
+19090903,St. Louis Cardinals,New York Giants,4,7
+19090903,Cincinnati Reds,Philadelpia Phillies,3,0
+19090903,Cincinnati Reds,Philadelpia Phillies,5,6
+19090904,New York Yankees,Boston Red Sox,8,6
+19090904,St. Louis Browns,Chicago White Sox,2,1
+19090904,Detroit Tigers,Cleveland Indians,0,4
+19090904,Detroit Tigers,Cleveland Indians,3,4
+19090904,Philadelphia Athletics,Washington Senators,2,0
+19090904,Chicago Cubs,Cincinnati Reds,3,0
+19090904,Boston Braves,New York Giants,3,7
+19090904,Brooklyn Dodgers,Philadelpia Phillies,8,4
+19090904,St. Louis Cardinals,Pittsburgh Pirates,0,4
+19090905,Cleveland Indians,Chicago White Sox,6,1
+19090905,Detroit Tigers,St. Louis Browns,5,1
+19090905,Pittsburgh Pirates,Chicago Cubs,5,1
+19090905,St. Louis Cardinals,Cincinnati Reds,6,3
+19090906,New York Yankees,Boston Red Sox,9,10
+19090906,New York Yankees,Boston Red Sox,9,6
+19090906,Chicago White Sox,Cleveland Indians,2,5
+19090906,Chicago White Sox,Cleveland Indians,5,3
+19090906,St. Louis Browns,Detroit Tigers,8,9
+19090906,St. Louis Browns,Detroit Tigers,1,7
+19090906,Washington Senators,Philadelphia Athletics,2,8
+19090906,Washington Senators,Philadelphia Athletics,5,6
+19090906,Philadelpia Phillies,Brooklyn Dodgers,3,1
+19090906,Philadelpia Phillies,Brooklyn Dodgers,2,6
+19090906,Boston Braves,New York Giants,2,0
+19090906,Boston Braves,New York Giants,4,5
+19090906,Chicago Cubs,Pittsburgh Pirates,3,1
+19090906,Chicago Cubs,Pittsburgh Pirates,6,3
+19090906,Cincinnati Reds,St. Louis Cardinals,6,1
+19090906,Cincinnati Reds,St. Louis Cardinals,6,5
+19090907,Cleveland Indians,Detroit Tigers,4,6
+19090907,New York Yankees,Philadelphia Athletics,8,6
+19090907,Boston Red Sox,Washington Senators,6,11
+19090907,Philadelpia Phillies,Brooklyn Dodgers,7,2
+19090907,Boston Braves,New York Giants,1,3
+19090907,Chicago Cubs,Pittsburgh Pirates,2,6
+19090908,Cleveland Indians,Detroit Tigers,7,4
+19090908,New York Yankees,Philadelphia Athletics,6,8
+19090908,Chicago White Sox,St. Louis Browns,4,2
+19090908,Chicago White Sox,St. Louis Browns,4,0
+19090908,Boston Red Sox,Washington Senators,6,3
+19090908,Philadelpia Phillies,Boston Braves,6,2
+19090908,Philadelpia Phillies,Boston Braves,5,3
+19090908,Brooklyn Dodgers,New York Giants,6,7
+19090908,Brooklyn Dodgers,New York Giants,6,3
+19090908,Chicago Cubs,Pittsburgh Pirates,4,2
+19090909,New York Yankees,Philadelphia Athletics,3,11
+19090909,Chicago White Sox,St. Louis Browns,1,1
+19090909,Boston Red Sox,Washington Senators,3,1
+19090909,Philadelpia Phillies,Boston Braves,3,0
+19090909,St. Louis Cardinals,Chicago Cubs,1,2
+19090909,Brooklyn Dodgers,New York Giants,5,6
+19090909,Cincinnati Reds,Pittsburgh Pirates,1,3
+19090910,Cleveland Indians,Detroit Tigers,1,2
+19090910,Cleveland Indians,Detroit Tigers,1,9
+19090910,Chicago White Sox,St. Louis Browns,3,7
+19090910,Chicago White Sox,St. Louis Browns,0,2
+19090910,St. Louis Cardinals,Chicago Cubs,1,3
+19090910,St. Louis Cardinals,Chicago Cubs,3,9
+19090910,Cincinnati Reds,Pittsburgh Pirates,3,4
+19090911,Cleveland Indians,Detroit Tigers,1,7
+19090911,Boston Red Sox,Philadelphia Athletics,0,1
+19090911,Boston Red Sox,Philadelphia Athletics,1,0
+19090911,Chicago White Sox,St. Louis Browns,1,2
+19090911,Chicago White Sox,St. Louis Browns,1,3
+19090911,New York Yankees,Washington Senators,3,0
+19090911,New York Yankees,Washington Senators,2,1
+19090911,Philadelpia Phillies,Boston Braves,2,3
+19090911,Philadelpia Phillies,Boston Braves,0,1
+19090911,St. Louis Cardinals,Chicago Cubs,4,10
+19090911,Brooklyn Dodgers,New York Giants,0,4
+19090911,Brooklyn Dodgers,New York Giants,10,1
+19090911,Cincinnati Reds,Pittsburgh Pirates,1,2
+19090912,Cleveland Indians,Chicago White Sox,0,1
+19090912,Detroit Tigers,St. Louis Browns,11,5
+19090912,Detroit Tigers,St. Louis Browns,4,4
+19090912,Chicago Cubs,Cincinnati Reds,5,0
+19090912,Pittsburgh Pirates,St. Louis Cardinals,4,3
+19090913,Washington Senators,Boston Red Sox,2,4
+19090913,Cleveland Indians,Chicago White Sox,0,2
+19090913,St. Louis Browns,Detroit Tigers,2,10
+19090913,Philadelphia Athletics,New York Yankees,10,2
+19090913,New York Giants,Boston Braves,1,6
+19090913,New York Giants,Boston Braves,4,4
+19090913,Chicago Cubs,Cincinnati Reds,1,3
+19090913,Brooklyn Dodgers,Philadelpia Phillies,0,7
+19090913,Pittsburgh Pirates,St. Louis Cardinals,4,1
+19090914,Washington Senators,Boston Red Sox,2,5
+19090914,Cleveland Indians,Chicago White Sox,4,4
+19090914,St. Louis Browns,Detroit Tigers,3,2
+19090914,Philadelphia Athletics,New York Yankees,5,4
+19090914,Philadelphia Athletics,New York Yankees,3,2
+19090914,New York Giants,Boston Braves,0,3
+19090914,Chicago Cubs,Cincinnati Reds,4,0
+19090914,Brooklyn Dodgers,Philadelpia Phillies,1,0
+19090915,Washington Senators,Boston Red Sox,7,4
+19090915,Philadelphia Athletics,New York Yankees,2,3
+19090915,Pittsburgh Pirates,Cincinnati Reds,7,2
+19090915,Brooklyn Dodgers,Philadelpia Phillies,0,2
+19090916,Chicago White Sox,Boston Red Sox,7,5
+19090916,Cleveland Indians,New York Yankees,1,2
+19090916,Detroit Tigers,Philadelphia Athletics,1,2
+19090916,St. Louis Browns,Washington Senators,0,5
+19090916,St. Louis Browns,Washington Senators,4,2
+19090916,New York Giants,Chicago Cubs,2,1
+19090916,Pittsburgh Pirates,Cincinnati Reds,9,3
+19090917,Cleveland Indians,New York Yankees,0,10
+19090917,Detroit Tigers,Philadelphia Athletics,5,3
+19090917,St. Louis Browns,Washington Senators,1,10
+19090917,New York Giants,Chicago Cubs,4,1
+19090917,Brooklyn Dodgers,Pittsburgh Pirates,3,6
+19090918,Chicago White Sox,Boston Red Sox,7,0
+19090918,Chicago White Sox,Boston Red Sox,0,2
+19090918,Cleveland Indians,New York Yankees,3,5
+19090918,Detroit Tigers,Philadelphia Athletics,0,2
+19090918,St. Louis Browns,Washington Senators,7,16
+19090918,New York Giants,Chicago Cubs,2,0
+19090918,Boston Braves,Cincinnati Reds,2,1
+19090918,Boston Braves,Cincinnati Reds,5,8
+19090918,Brooklyn Dodgers,Pittsburgh Pirates,0,6
+19090918,Philadelpia Phillies,St. Louis Cardinals,7,2
+19090919,New York Giants,Chicago Cubs,4,4
+19090919,Boston Braves,Cincinnati Reds,4,5
+19090919,Boston Braves,Cincinnati Reds,3,5
+19090919,Philadelpia Phillies,St. Louis Cardinals,4,2
+19090920,Chicago White Sox,Boston Red Sox,5,6
+19090920,Cleveland Indians,New York Yankees,4,9
+19090920,Detroit Tigers,Philadelphia Athletics,3,4
+19090920,St. Louis Browns,Washington Senators,3,2
+19090920,New York Giants,Chicago Cubs,2,3
+19090920,Brooklyn Dodgers,Pittsburgh Pirates,3,12
+19090920,Philadelpia Phillies,St. Louis Cardinals,2,0
+19090921,Cleveland Indians,Boston Red Sox,3,7
+19090921,Chicago White Sox,New York Yankees,0,5
+19090921,St. Louis Browns,Philadelphia Athletics,2,1
+19090921,Detroit Tigers,Washington Senators,3,1
+19090921,Detroit Tigers,Washington Senators,0,2
+19090921,Philadelpia Phillies,Cincinnati Reds,3,4
+19090921,Boston Braves,Pittsburgh Pirates,0,2
+19090921,Boston Braves,Pittsburgh Pirates,0,5
+19090922,Cleveland Indians,Boston Red Sox,1,3
+19090922,St. Louis Browns,Philadelphia Athletics,2,6
+19090922,Detroit Tigers,Washington Senators,8,3
+19090922,Philadelpia Phillies,Cincinnati Reds,4,4
+19090922,Boston Braves,Pittsburgh Pirates,7,12
+19090922,New York Giants,St. Louis Cardinals,4,3
+19090923,Cleveland Indians,Boston Red Sox,7,3
+19090923,Chicago White Sox,New York Yankees,2,4
+19090923,Chicago White Sox,New York Yankees,1,7
+19090923,St. Louis Browns,Philadelphia Athletics,2,6
+19090923,Detroit Tigers,Washington Senators,8,1
+19090923,Brooklyn Dodgers,Chicago Cubs,4,1
+19090923,Brooklyn Dodgers,Chicago Cubs,1,4
+19090923,Philadelpia Phillies,Cincinnati Reds,12,2
+19090923,New York Giants,St. Louis Cardinals,5,0
+19090923,New York Giants,St. Louis Cardinals,12,5
+19090924,Boston Braves,Chicago Cubs,1,9
+19090924,New York Giants,Cincinnati Reds,12,9
+19090924,Philadelpia Phillies,Pittsburgh Pirates,1,2
+19090924,Brooklyn Dodgers,St. Louis Cardinals,12,6
+19090925,St. Louis Browns,Boston Red Sox,2,3
+19090925,St. Louis Browns,Boston Red Sox,3,4
+19090925,Detroit Tigers,New York Yankees,2,1
+19090925,Detroit Tigers,New York Yankees,10,4
+19090925,Cleveland Indians,Philadelphia Athletics,0,5
+19090925,Cleveland Indians,Philadelphia Athletics,0,3
+19090925,Chicago White Sox,Washington Senators,2,1
+19090925,Chicago White Sox,Washington Senators,2,0
+19090925,Boston Braves,Chicago Cubs,4,7
+19090925,New York Giants,Cincinnati Reds,2,5
+19090925,New York Giants,Cincinnati Reds,1,1
+19090925,Philadelpia Phillies,Pittsburgh Pirates,0,5
+19090925,Brooklyn Dodgers,St. Louis Cardinals,4,12
+19090926,Boston Braves,Chicago Cubs,2,3
+19090926,New York Giants,Cincinnati Reds,7,4
+19090926,New York Giants,Cincinnati Reds,0,3
+19090926,Brooklyn Dodgers,St. Louis Cardinals,3,4
+19090926,Brooklyn Dodgers,St. Louis Cardinals,1,0
+19090927,Detroit Tigers,New York Yankees,1,4
+19090927,Cleveland Indians,Philadelphia Athletics,5,4
+19090927,Chicago White Sox,Washington Senators,8,1
+19090927,Philadelpia Phillies,Chicago Cubs,1,4
+19090927,Brooklyn Dodgers,Cincinnati Reds,3,4
+19090927,Brooklyn Dodgers,Cincinnati Reds,1,3
+19090927,New York Giants,Pittsburgh Pirates,1,6
+19090927,New York Giants,Pittsburgh Pirates,8,7
+19090928,Detroit Tigers,New York Yankees,5,0
+19090928,Cleveland Indians,Philadelphia Athletics,0,7
+19090928,Chicago White Sox,Washington Senators,5,1
+19090928,Philadelpia Phillies,Chicago Cubs,3,2
+19090928,Brooklyn Dodgers,Cincinnati Reds,4,1
+19090928,New York Giants,Pittsburgh Pirates,13,9
+19090928,Boston Braves,St. Louis Cardinals,2,1
+19090928,Boston Braves,St. Louis Cardinals,3,7
+19090929,Detroit Tigers,Boston Red Sox,5,0
+19090929,Detroit Tigers,Boston Red Sox,8,3
+19090929,St. Louis Browns,New York Yankees,2,5
+19090929,St. Louis Browns,New York Yankees,0,11
+19090929,Chicago White Sox,Philadelphia Athletics,2,1
+19090929,Chicago White Sox,Philadelphia Athletics,1,10
+19090929,Cleveland Indians,Washington Senators,1,2
+19090929,Cleveland Indians,Washington Senators,3,7
+19090929,Philadelpia Phillies,Chicago Cubs,4,5
+19090929,Philadelpia Phillies,Chicago Cubs,3,6
+19090929,Brooklyn Dodgers,Cincinnati Reds,3,7
+19090929,New York Giants,Pittsburgh Pirates,6,1
+19090929,Boston Braves,St. Louis Cardinals,1,2
+19090930,Detroit Tigers,Boston Red Sox,7,9
+19090930,St. Louis Browns,New York Yankees,4,4
+19090930,Chicago White Sox,Philadelphia Athletics,8,3
+19090930,Chicago White Sox,Philadelphia Athletics,6,4
+19090930,New York Giants,Pittsburgh Pirates,6,2
+19090930,New York Giants,Pittsburgh Pirates,1,9
+19090930,Boston Braves,St. Louis Cardinals,4,2
+19091001,Detroit Tigers,Boston Red Sox,6,9
+19091001,St. Louis Browns,New York Yankees,0,6
+19091001,St. Louis Browns,New York Yankees,4,11
+19091001,Chicago White Sox,Philadelphia Athletics,4,3
+19091001,Cleveland Indians,Washington Senators,2,4
+19091001,St. Louis Cardinals,Cincinnati Reds,5,6
+19091002,New York Yankees,Boston Red Sox,6,5
+19091002,New York Yankees,Boston Red Sox,1,6
+19091002,Chicago White Sox,Detroit Tigers,6,6
+19091002,Washington Senators,Philadelphia Athletics,5,6
+19091002,Washington Senators,Philadelphia Athletics,2,7
+19091002,Boston Braves,Brooklyn Dodgers,2,6
+19091002,Boston Braves,Brooklyn Dodgers,1,0
+19091002,Pittsburgh Pirates,Chicago Cubs,1,3
+19091002,St. Louis Cardinals,Cincinnati Reds,8,3
+19091002,Philadelpia Phillies,New York Giants,9,2
+19091002,Philadelpia Phillies,New York Giants,2,1
+19091003,Detroit Tigers,Chicago White Sox,3,1
+19091003,Cleveland Indians,St. Louis Browns,4,6
+19091003,Cleveland Indians,St. Louis Browns,3,1
+19091003,Pittsburgh Pirates,Chicago Cubs,4,1
+19091003,St. Louis Cardinals,Cincinnati Reds,4,6
+19091003,St. Louis Cardinals,Cincinnati Reds,8,1
+19091004,Boston Braves,Brooklyn Dodgers,4,2
+19091004,Boston Braves,Brooklyn Dodgers,1,3
+19091004,Pittsburgh Pirates,Chicago Cubs,2,8
+19091004,Philadelpia Phillies,New York Giants,5,6
+19091004,Philadelpia Phillies,New York Giants,1,1
+19091005,Boston Braves,Brooklyn Dodgers,5,3
+19091005,Pittsburgh Pirates,Cincinnati Reds,5,4
+19091005,Pittsburgh Pirates,Cincinnati Reds,7,4
+19091005,Chicago Cubs,St. Louis Cardinals,6,1
+19091005,Chicago Cubs,St. Louis Cardinals,3,4
+19091006,New York Giants,Brooklyn Dodgers,1,4
+19091006,New York Giants,Brooklyn Dodgers,8,4
+19091006,Boston Braves,Philadelpia Phillies,1,2
+19091006,Boston Braves,Philadelpia Phillies,1,7
+19091006,Chicago Cubs,St. Louis Cardinals,8,0
+19091006,Chicago Cubs,St. Louis Cardinals,5,1
+19091007,New York Giants,Brooklyn Dodgers,5,7
+19091007,Boston Braves,Philadelpia Phillies,3,1

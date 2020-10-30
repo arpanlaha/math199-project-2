@@ -1,0 +1,2105 @@
+Date,away_team,home_team,away_team_score,home_team_score
+19910408,Chicago White Sox,Baltimore Orioles,9,1
+19910408,New York Yankees,Detroit Tigers,4,6
+19910408,Cleveland Indians,Kansas City Royals,2,4
+19910408,Milwaukee Brewers,Texas Rangers,5,4
+19910408,Boston Red Sox,Toronto Blue Jays,6,2
+19910408,Houston Colts,Cincinnati Reds,2,6
+19910408,Philadelpia Phillies,New York Mets,1,2
+19910408,Montreal Expos,Pittsburgh Pirates,7,0
+19910409,Cleveland Indians,Kansas City Royals,2,1
+19910409,Minensota Twins,Oakland Athletics,2,7
+19910409,California Angels,Seattle Mariners,3,2
+19910409,Boston Red Sox,Toronto Blue Jays,3,4
+19910409,St. Louis Cardinals,Chicago Cubs,4,1
+19910409,Philadelpia Phillies,New York Mets,1,2
+19910409,Montreal Expos,Pittsburgh Pirates,3,4
+19910409,San  Francisco Giants,San Diego Padres,4,7
+19910410,Chicago White Sox,Baltimore Orioles,2,0
+19910410,New York Yankees,Detroit Tigers,4,0
+19910410,Cleveland Indians,Kansas City Royals,0,1
+19910410,Minensota Twins,Oakland Athletics,4,1
+19910410,California Angels,Seattle Mariners,5,3
+19910410,Milwaukee Brewers,Texas Rangers,6,0
+19910410,Boston Red Sox,Toronto Blue Jays,3,5
+19910410,Los Angeles Dodgers,Atlanta Braves,6,4
+19910410,St. Louis Cardinals,Chicago Cubs,0,2
+19910410,Houston Colts,Cincinnati Reds,5,6
+19910410,Philadelpia Phillies,New York Mets,8,7
+19910410,Montreal Expos,Pittsburgh Pirates,3,6
+19910410,San  Francisco Giants,San Diego Padres,3,4
+19910411,Cleveland Indians,Boston Red Sox,6,4
+19910411,New York Yankees,Detroit Tigers,5,11
+19910411,Minensota Twins,Oakland Athletics,0,3
+19910411,California Angels,Seattle Mariners,5,0
+19910411,Milwaukee Brewers,Toronto Blue Jays,3,7
+19910411,Los Angeles Dodgers,Atlanta Braves,4,2
+19910411,St. Louis Cardinals,Chicago Cubs,5,4
+19910411,Houston Colts,Cincinnati Reds,4,1
+19910411,Montreal Expos,New York Mets,3,6
+19910411,San  Francisco Giants,San Diego Padres,11,9
+19910412,Chicago White Sox,Detroit Tigers,4,1
+19910412,New York Yankees,Kansas City Royals,5,9
+19910412,California Angels,Minensota Twins,0,6
+19910412,Seattle Mariners,Oakland Athletics,1,6
+19910412,Baltimore Orioles,Texas Rangers,3,0
+19910412,Milwaukee Brewers,Toronto Blue Jays,4,5
+19910412,Pittsburgh Pirates,Chicago Cubs,3,1
+19910412,San  Francisco Giants,Houston Colts,2,3
+19910412,San Diego Padres,Los Angeles Dodgers,4,2
+19910412,Montreal Expos,New York Mets,4,3
+19910412,St. Louis Cardinals,Philadelpia Phillies,4,11
+19910413,Cleveland Indians,Boston Red Sox,0,4
+19910413,Chicago White Sox,Detroit Tigers,4,1
+19910413,New York Yankees,Kansas City Royals,9,8
+19910413,California Angels,Minensota Twins,15,9
+19910413,Seattle Mariners,Oakland Athletics,2,4
+19910413,Baltimore Orioles,Texas Rangers,11,4
+19910413,Milwaukee Brewers,Toronto Blue Jays,7,3
+19910413,Pittsburgh Pirates,Chicago Cubs,3,7
+19910413,Atlanta Braves,Cincinnati Reds,7,5
+19910413,San  Francisco Giants,Houston Colts,16,2
+19910413,San Diego Padres,Los Angeles Dodgers,6,3
+19910413,Montreal Expos,New York Mets,3,5
+19910413,St. Louis Cardinals,Philadelpia Phillies,2,4
+19910414,Cleveland Indians,Boston Red Sox,6,0
+19910414,New York Yankees,Kansas City Royals,3,5
+19910414,California Angels,Minensota Twins,9,4
+19910414,Seattle Mariners,Oakland Athletics,6,7
+19910414,Baltimore Orioles,Texas Rangers,3,15
+19910414,Milwaukee Brewers,Toronto Blue Jays,0,9
+19910414,Pittsburgh Pirates,Chicago Cubs,4,6
+19910414,Atlanta Braves,Cincinnati Reds,12,1
+19910414,San  Francisco Giants,Houston Colts,2,7
+19910414,San Diego Padres,Los Angeles Dodgers,5,3
+19910414,Montreal Expos,New York Mets,1,7
+19910414,St. Louis Cardinals,Philadelpia Phillies,11,7
+19910415,Cleveland Indians,Boston Red Sox,1,0
+19910415,Oakland Athletics,California Angels,5,2
+19910415,Toronto Blue Jays,Detroit Tigers,4,3
+19910415,Baltimore Orioles,Milwaukee Brewers,7,2
+19910415,Chicago White Sox,New York Yankees,6,5
+19910415,Minensota Twins,Seattle Mariners,4,8
+19910415,Houston Colts,Atlanta Braves,3,1
+19910415,Philadelpia Phillies,Chicago Cubs,4,5
+19910415,St. Louis Cardinals,Montreal Expos,5,4
+19910415,New York Mets,Pittsburgh Pirates,9,3
+19910415,Cincinnati Reds,San Diego Padres,2,3
+19910415,Los Angeles Dodgers,San  Francisco Giants,2,1
+19910416,Kansas City Royals,Boston Red Sox,2,5
+19910416,Oakland Athletics,California Angels,8,5
+19910416,Texas Rangers,Cleveland Indians,3,1
+19910416,Toronto Blue Jays,Detroit Tigers,2,6
+19910416,Chicago White Sox,New York Yankees,4,3
+19910416,Minensota Twins,Seattle Mariners,0,3
+19910416,Houston Colts,Atlanta Braves,4,10
+19910416,Philadelpia Phillies,Chicago Cubs,3,4
+19910416,St. Louis Cardinals,Montreal Expos,1,4
+19910416,New York Mets,Pittsburgh Pirates,2,4
+19910416,Cincinnati Reds,San Diego Padres,1,0
+19910416,Los Angeles Dodgers,San  Francisco Giants,6,8
+19910417,Kansas City Royals,Boston Red Sox,2,6
+19910417,Oakland Athletics,California Angels,3,1
+19910417,Toronto Blue Jays,Detroit Tigers,4,5
+19910417,Baltimore Orioles,Milwaukee Brewers,3,7
+19910417,Chicago White Sox,New York Yankees,1,10
+19910417,Minensota Twins,Seattle Mariners,3,4
+19910417,Houston Colts,Atlanta Braves,4,3
+19910417,Philadelpia Phillies,Chicago Cubs,1,4
+19910417,St. Louis Cardinals,Montreal Expos,0,1
+19910417,New York Mets,Pittsburgh Pirates,0,4
+19910417,Cincinnati Reds,San Diego Padres,5,1
+19910417,Los Angeles Dodgers,San  Francisco Giants,6,2
+19910418,Kansas City Royals,Boston Red Sox,0,1
+19910418,Oakland Athletics,California Angels,1,7
+19910418,Detroit Tigers,Chicago White Sox,16,0
+19910418,Texas Rangers,Cleveland Indians,7,0
+19910418,Baltimore Orioles,Milwaukee Brewers,3,4
+19910418,Chicago Cubs,Pittsburgh Pirates,3,2
+19910418,Los Angeles Dodgers,San Diego Padres,5,10
+19910419,Texas Rangers,Baltimore Orioles,0,5
+19910419,Minensota Twins,California Angels,0,2
+19910419,Toronto Blue Jays,Milwaukee Brewers,5,2
+19910419,Kansas City Royals,New York Yankees,1,3
+19910419,Oakland Athletics,Seattle Mariners,7,11
+19910419,Cincinnati Reds,Atlanta Braves,8,3
+19910419,New York Mets,Montreal Expos,1,2
+19910419,Chicago Cubs,Pittsburgh Pirates,4,5
+19910419,Los Angeles Dodgers,San Diego Padres,4,0
+19910419,Houston Colts,San  Francisco Giants,2,5
+19910419,Philadelpia Phillies,St. Louis Cardinals,1,3
+19910420,Texas Rangers,Baltimore Orioles,1,0
+19910420,Minensota Twins,California Angels,1,2
+19910420,Detroit Tigers,Chicago White Sox,2,1
+19910420,Boston Red Sox,Cleveland Indians,2,1
+19910420,Toronto Blue Jays,Milwaukee Brewers,4,2
+19910420,Kansas City Royals,New York Yankees,5,2
+19910420,Oakland Athletics,Seattle Mariners,2,3
+19910420,Cincinnati Reds,Atlanta Braves,3,0
+19910420,New York Mets,Montreal Expos,3,1
+19910420,Chicago Cubs,Pittsburgh Pirates,3,9
+19910420,Los Angeles Dodgers,San Diego Padres,3,5
+19910420,Houston Colts,San  Francisco Giants,0,4
+19910420,Philadelpia Phillies,St. Louis Cardinals,1,12
+19910420,Philadelpia Phillies,St. Louis Cardinals,6,5
+19910421,Minensota Twins,California Angels,4,3
+19910421,Detroit Tigers,Chicago White Sox,4,5
+19910421,Toronto Blue Jays,Milwaukee Brewers,8,11
+19910421,Oakland Athletics,Seattle Mariners,2,7
+19910421,Cincinnati Reds,Atlanta Braves,2,3
+19910421,New York Mets,Montreal Expos,9,5
+19910421,Chicago Cubs,Pittsburgh Pirates,12,13
+19910421,Los Angeles Dodgers,San Diego Padres,6,0
+19910421,Houston Colts,San  Francisco Giants,0,1
+19910421,Philadelpia Phillies,St. Louis Cardinals,6,7
+19910422,Toronto Blue Jays,Boston Red Sox,4,6
+19910422,Seattle Mariners,California Angels,4,3
+19910422,Baltimore Orioles,Chicago White Sox,7,8
+19910422,Kansas City Royals,Cleveland Indians,4,10
+19910422,Oakland Athletics,Minensota Twins,2,3
+19910422,Detroit Tigers,New York Yankees,10,5
+19910422,Cincinnati Reds,Houston Colts,1,2
+19910422,Atlanta Braves,Los Angeles Dodgers,7,1
+19910422,San Diego Padres,San  Francisco Giants,7,5
+19910422,Chicago Cubs,St. Louis Cardinals,2,3
+19910423,Toronto Blue Jays,Boston Red Sox,0,3
+19910423,Seattle Mariners,California Angels,2,0
+19910423,Baltimore Orioles,Chicago White Sox,4,10
+19910423,Kansas City Royals,Cleveland Indians,6,0
+19910423,Texas Rangers,Milwaukee Brewers,6,5
+19910423,Oakland Athletics,Minensota Twins,7,5
+19910423,Detroit Tigers,New York Yankees,0,5
+19910423,Cincinnati Reds,Houston Colts,3,1
+19910423,Atlanta Braves,Los Angeles Dodgers,4,0
+19910423,Pittsburgh Pirates,Montreal Expos,7,3
+19910423,New York Mets,Philadelpia Phillies,2,1
+19910423,San Diego Padres,San  Francisco Giants,7,6
+19910423,Chicago Cubs,St. Louis Cardinals,2,4
+19910424,Toronto Blue Jays,Boston Red Sox,6,1
+19910424,Seattle Mariners,California Angels,5,9
+19910424,Baltimore Orioles,Chicago White Sox,5,1
+19910424,Kansas City Royals,Cleveland Indians,4,2
+19910424,Texas Rangers,Milwaukee Brewers,8,2
+19910424,Oakland Athletics,Minensota Twins,4,7
+19910424,Cincinnati Reds,Houston Colts,0,1
+19910424,Atlanta Braves,Los Angeles Dodgers,4,8
+19910424,Pittsburgh Pirates,Montreal Expos,2,1
+19910424,New York Mets,Philadelpia Phillies,7,3
+19910424,San Diego Padres,San  Francisco Giants,1,6
+19910424,Chicago Cubs,St. Louis Cardinals,1,0
+19910425,Texas Rangers,Milwaukee Brewers,1,9
+19910425,Seattle Mariners,Minensota Twins,3,4
+19910425,Detroit Tigers,Toronto Blue Jays,2,3
+19910425,Chicago Cubs,Cincinnati Reds,4,6
+19910425,San  Francisco Giants,Los Angeles Dodgers,1,7
+19910425,Pittsburgh Pirates,Montreal Expos,8,0
+19910425,New York Mets,Philadelpia Phillies,3,5
+19910426,Milwaukee Brewers,Baltimore Orioles,5,4
+19910426,New York Yankees,Chicago White Sox,3,2
+19910426,Boston Red Sox,Kansas City Royals,3,5
+19910426,Seattle Mariners,Minensota Twins,0,6
+19910426,California Angels,Oakland Athletics,1,4
+19910426,Cleveland Indians,Texas Rangers,5,2
+19910426,Detroit Tigers,Toronto Blue Jays,4,5
+19910426,Chicago Cubs,Cincinnati Reds,1,3
+19910426,Atlanta Braves,Houston Colts,7,2
+19910426,San  Francisco Giants,Los Angeles Dodgers,0,9
+19910426,Pittsburgh Pirates,New York Mets,0,2
+19910426,San Diego Padres,Philadelpia Phillies,4,0
+19910426,Montreal Expos,St. Louis Cardinals,0,4
+19910427,Milwaukee Brewers,Baltimore Orioles,5,2
+19910427,New York Yankees,Chicago White Sox,9,14
+19910427,Boston Red Sox,Kansas City Royals,6,4
+19910427,Seattle Mariners,Minensota Twins,2,7
+19910427,California Angels,Oakland Athletics,3,4
+19910427,Cleveland Indians,Texas Rangers,1,4
+19910427,Detroit Tigers,Toronto Blue Jays,4,2
+19910427,Chicago Cubs,Cincinnati Reds,8,3
+19910427,Atlanta Braves,Houston Colts,2,1
+19910427,San  Francisco Giants,Los Angeles Dodgers,4,3
+19910427,Pittsburgh Pirates,New York Mets,10,1
+19910427,San Diego Padres,Philadelpia Phillies,3,4
+19910427,Montreal Expos,St. Louis Cardinals,1,2
+19910428,Milwaukee Brewers,Baltimore Orioles,4,5
+19910428,New York Yankees,Chicago White Sox,1,4
+19910428,Boston Red Sox,Kansas City Royals,2,1
+19910428,Seattle Mariners,Minensota Twins,2,8
+19910428,California Angels,Oakland Athletics,3,7
+19910428,Cleveland Indians,Texas Rangers,4,2
+19910428,Detroit Tigers,Toronto Blue Jays,6,9
+19910428,Chicago Cubs,Cincinnati Reds,3,4
+19910428,Atlanta Braves,Houston Colts,0,2
+19910428,San  Francisco Giants,Los Angeles Dodgers,3,7
+19910428,Pittsburgh Pirates,New York Mets,7,3
+19910428,San Diego Padres,Philadelpia Phillies,2,9
+19910428,Montreal Expos,St. Louis Cardinals,9,6
+19910429,Seattle Mariners,Baltimore Orioles,10,1
+19910429,Detroit Tigers,Kansas City Royals,3,1
+19910429,San Diego Padres,Philadelpia Phillies,2,7
+19910429,Atlanta Braves,St. Louis Cardinals,3,4
+19910430,Seattle Mariners,Baltimore Orioles,6,3
+19910430,Cleveland Indians,California Angels,5,6
+19910430,Detroit Tigers,Kansas City Royals,13,7
+19910430,Chicago White Sox,Milwaukee Brewers,2,8
+19910430,Boston Red Sox,Minensota Twins,7,5
+19910430,New York Yankees,Oakland Athletics,3,7
+19910430,Toronto Blue Jays,Texas Rangers,5,8
+19910430,Houston Colts,Chicago Cubs,3,10
+19910430,Pittsburgh Pirates,Cincinnati Reds,3,4
+19910430,Los Angeles Dodgers,Montreal Expos,0,1
+19910430,San Diego Padres,New York Mets,3,6
+19910430,San  Francisco Giants,Philadelpia Phillies,9,11
+19910430,Atlanta Braves,St. Louis Cardinals,3,5
+19910501,Seattle Mariners,Baltimore Orioles,1,2
+19910501,Cleveland Indians,California Angels,5,1
+19910501,Detroit Tigers,Kansas City Royals,6,4
+19910501,Chicago White Sox,Milwaukee Brewers,9,10
+19910501,Boston Red Sox,Minensota Twins,0,1
+19910501,New York Yankees,Oakland Athletics,4,7
+19910501,Toronto Blue Jays,Texas Rangers,0,3
+19910501,Houston Colts,Chicago Cubs,8,11
+19910501,Pittsburgh Pirates,Cincinnati Reds,6,4
+19910501,Los Angeles Dodgers,Montreal Expos,3,9
+19910501,San Diego Padres,New York Mets,8,7
+19910501,San  Francisco Giants,Philadelpia Phillies,1,4
+19910501,Atlanta Braves,St. Louis Cardinals,5,4
+19910502,Toronto Blue Jays,Kansas City Royals,3,1
+19910502,Minensota Twins,Milwaukee Brewers,1,5
+19910503,Baltimore Orioles,California Angels,2,0
+19910503,Boston Red Sox,Chicago White Sox,7,2
+19910503,Texas Rangers,Detroit Tigers,6,7
+19910503,Toronto Blue Jays,Kansas City Royals,5,1
+19910503,Minensota Twins,Milwaukee Brewers,5,6
+19910503,Cleveland Indians,Oakland Athletics,3,4
+19910503,New York Yankees,Seattle Mariners,5,0
+19910503,Chicago Cubs,Atlanta Braves,2,5
+19910503,St. Louis Cardinals,Cincinnati Reds,4,2
+19910503,San Diego Padres,Montreal Expos,1,4
+19910503,San  Francisco Giants,New York Mets,0,3
+19910503,Los Angeles Dodgers,Philadelpia Phillies,7,1
+19910503,Houston Colts,Pittsburgh Pirates,0,1
+19910504,Baltimore Orioles,California Angels,3,6
+19910504,Boston Red Sox,Chicago White Sox,4,0
+19910504,Texas Rangers,Detroit Tigers,6,5
+19910504,Toronto Blue Jays,Kansas City Royals,5,6
+19910504,Minensota Twins,Milwaukee Brewers,7,4
+19910504,Cleveland Indians,Oakland Athletics,20,6
+19910504,New York Yankees,Seattle Mariners,2,3
+19910504,Chicago Cubs,Atlanta Braves,2,4
+19910504,St. Louis Cardinals,Cincinnati Reds,1,3
+19910504,San Diego Padres,Montreal Expos,6,5
+19910504,San  Francisco Giants,New York Mets,4,6
+19910504,Los Angeles Dodgers,Philadelpia Phillies,3,4
+19910504,Houston Colts,Pittsburgh Pirates,8,3
+19910505,Baltimore Orioles,California Angels,4,6
+19910505,Boston Red Sox,Chicago White Sox,9,1
+19910505,Texas Rangers,Detroit Tigers,7,8
+19910505,Toronto Blue Jays,Kansas City Royals,3,0
+19910505,Minensota Twins,Milwaukee Brewers,5,2
+19910505,Cleveland Indians,Oakland Athletics,15,6
+19910505,New York Yankees,Seattle Mariners,4,5
+19910505,Chicago Cubs,Atlanta Braves,9,6
+19910505,St. Louis Cardinals,Cincinnati Reds,2,4
+19910505,San Diego Padres,Montreal Expos,6,3
+19910505,San  Francisco Giants,New York Mets,2,0
+19910505,Los Angeles Dodgers,Philadelpia Phillies,3,2
+19910505,Houston Colts,Pittsburgh Pirates,6,4
+19910506,Baltimore Orioles,California Angels,7,0
+19910506,New York Yankees,Seattle Mariners,2,4
+19910506,Chicago Cubs,Houston Colts,4,3
+19910506,San  Francisco Giants,Montreal Expos,4,10
+19910506,Cincinnati Reds,Pittsburgh Pirates,1,3
+19910507,Minensota Twins,Boston Red Sox,9,3
+19910507,New York Yankees,California Angels,4,7
+19910507,Milwaukee Brewers,Chicago White Sox,1,2
+19910507,Kansas City Royals,Detroit Tigers,4,5
+19910507,Baltimore Orioles,Oakland Athletics,3,11
+19910507,Cleveland Indians,Seattle Mariners,6,7
+19910507,Texas Rangers,Toronto Blue Jays,3,2
+19910507,St. Louis Cardinals,Atlanta Braves,2,9
+19910507,Chicago Cubs,Houston Colts,4,3
+19910507,San  Francisco Giants,Montreal Expos,2,3
+19910507,Los Angeles Dodgers,New York Mets,5,6
+19910507,Cincinnati Reds,Pittsburgh Pirates,2,7
+19910507,Philadelpia Phillies,San Diego Padres,2,4
+19910508,Minensota Twins,Boston Red Sox,3,8
+19910508,New York Yankees,California Angels,10,5
+19910508,Milwaukee Brewers,Chicago White Sox,1,2
+19910508,Kansas City Royals,Detroit Tigers,3,7
+19910508,Baltimore Orioles,Oakland Athletics,3,9
+19910508,Cleveland Indians,Seattle Mariners,2,6
+19910508,Texas Rangers,Toronto Blue Jays,2,4
+19910508,St. Louis Cardinals,Atlanta Braves,1,17
+19910508,Chicago Cubs,Houston Colts,2,4
+19910508,San  Francisco Giants,Montreal Expos,4,5
+19910508,Los Angeles Dodgers,New York Mets,3,1
+19910508,Cincinnati Reds,Pittsburgh Pirates,2,7
+19910508,Philadelpia Phillies,San Diego Padres,5,2
+19910509,Texas Rangers,Boston Red Sox,4,8
+19910509,Detroit Tigers,Minensota Twins,3,0
+19910509,Chicago White Sox,Toronto Blue Jays,0,2
+19910509,Philadelpia Phillies,San Diego Padres,9,6
+19910510,Texas Rangers,Boston Red Sox,3,5
+19910510,California Angels,Cleveland Indians,12,2
+19910510,Kansas City Royals,Milwaukee Brewers,2,1
+19910510,Detroit Tigers,Minensota Twins,2,5
+19910510,Oakland Athletics,New York Yankees,3,5
+19910510,Baltimore Orioles,Seattle Mariners,1,3
+19910510,Chicago White Sox,Toronto Blue Jays,5,3
+19910510,Cincinnati Reds,Chicago Cubs,5,6
+19910510,St. Louis Cardinals,Houston Colts,7,5
+19910510,Philadelpia Phillies,Los Angeles Dodgers,1,3
+19910510,Atlanta Braves,Pittsburgh Pirates,2,5
+19910510,Montreal Expos,San Diego Padres,6,4
+19910510,New York Mets,San  Francisco Giants,0,7
+19910511,Texas Rangers,Boston Red Sox,4,5
+19910511,California Angels,Cleveland Indians,2,1
+19910511,Kansas City Royals,Milwaukee Brewers,4,2
+19910511,Detroit Tigers,Minensota Twins,4,5
+19910511,Oakland Athletics,New York Yankees,10,2
+19910511,Baltimore Orioles,Seattle Mariners,11,5
+19910511,Chicago White Sox,Toronto Blue Jays,2,5
+19910511,Cincinnati Reds,Chicago Cubs,12,2
+19910511,St. Louis Cardinals,Houston Colts,1,6
+19910511,Philadelpia Phillies,Los Angeles Dodgers,2,3
+19910511,Atlanta Braves,Pittsburgh Pirates,3,2
+19910511,Montreal Expos,San Diego Padres,5,1
+19910511,New York Mets,San  Francisco Giants,6,2
+19910512,Texas Rangers,Boston Red Sox,12,5
+19910512,California Angels,Cleveland Indians,1,4
+19910512,Kansas City Royals,Milwaukee Brewers,6,4
+19910512,Detroit Tigers,Minensota Twins,3,8
+19910512,Oakland Athletics,New York Yankees,6,10
+19910512,Baltimore Orioles,Seattle Mariners,4,5
+19910512,Chicago White Sox,Toronto Blue Jays,2,4
+19910512,Cincinnati Reds,Chicago Cubs,5,3
+19910512,St. Louis Cardinals,Houston Colts,7,3
+19910512,Philadelpia Phillies,Los Angeles Dodgers,7,3
+19910512,Atlanta Braves,Pittsburgh Pirates,6,1
+19910512,Montreal Expos,San Diego Padres,8,6
+19910512,New York Mets,San  Francisco Giants,4,2
+19910513,Chicago White Sox,Boston Red Sox,4,3
+19910513,California Angels,Cleveland Indians,9,5
+19910513,Oakland Athletics,New York Yankees,3,6
+19910513,Detroit Tigers,Texas Rangers,1,8
+19910513,Kansas City Royals,Toronto Blue Jays,2,4
+19910513,Atlanta Braves,Chicago Cubs,5,3
+19910513,Montreal Expos,Los Angeles Dodgers,3,8
+19910513,New York Mets,San Diego Padres,2,5
+19910513,Philadelpia Phillies,San  Francisco Giants,3,2
+19910513,Cincinnati Reds,St. Louis Cardinals,0,1
+19910514,Oakland Athletics,Baltimore Orioles,1,6
+19910514,Chicago White Sox,Boston Red Sox,1,4
+19910514,Seattle Mariners,Cleveland Indians,2,1
+19910514,Milwaukee Brewers,Minensota Twins,1,5
+19910514,California Angels,New York Yankees,1,7
+19910514,Detroit Tigers,Texas Rangers,3,5
+19910514,Kansas City Royals,Toronto Blue Jays,1,4
+19910514,Atlanta Braves,Chicago Cubs,4,5
+19910514,Pittsburgh Pirates,Houston Colts,6,3
+19910514,Montreal Expos,Los Angeles Dodgers,2,6
+19910514,New York Mets,San Diego Padres,6,1
+19910514,Philadelpia Phillies,San  Francisco Giants,9,0
+19910514,Cincinnati Reds,St. Louis Cardinals,3,1
+19910515,Oakland Athletics,Baltimore Orioles,6,3
+19910515,Chicago White Sox,Boston Red Sox,6,9
+19910515,Seattle Mariners,Cleveland Indians,6,4
+19910515,Milwaukee Brewers,Minensota Twins,4,2
+19910515,California Angels,New York Yankees,10,2
+19910515,Detroit Tigers,Texas Rangers,4,5
+19910515,Kansas City Royals,Toronto Blue Jays,6,4
+19910515,Atlanta Braves,Chicago Cubs,1,6
+19910515,Pittsburgh Pirates,Houston Colts,8,7
+19910515,Montreal Expos,Los Angeles Dodgers,3,4
+19910515,New York Mets,San Diego Padres,7,1
+19910515,Philadelpia Phillies,San  Francisco Giants,2,4
+19910515,Cincinnati Reds,St. Louis Cardinals,2,8
+19910516,Oakland Athletics,Baltimore Orioles,11,5
+19910516,Seattle Mariners,Cleveland Indians,3,1
+19910516,Milwaukee Brewers,Minensota Twins,6,3
+19910516,California Angels,New York Yankees,7,0
+19910516,Pittsburgh Pirates,Houston Colts,6,4
+19910516,Montreal Expos,San  Francisco Giants,4,5
+19910517,California Angels,Baltimore Orioles,1,5
+19910517,Toronto Blue Jays,Chicago White Sox,3,5
+19910517,Oakland Athletics,Cleveland Indians,6,11
+19910517,Minensota Twins,Detroit Tigers,8,1
+19910517,Milwaukee Brewers,Kansas City Royals,7,5
+19910517,Seattle Mariners,New York Yankees,1,0
+19910517,Boston Red Sox,Texas Rangers,4,6
+19910517,Pittsburgh Pirates,Atlanta Braves,3,9
+19910517,San Diego Padres,Cincinnati Reds,3,7
+19910517,New York Mets,Los Angeles Dodgers,4,2
+19910517,Chicago Cubs,Philadelpia Phillies,0,1
+19910517,Montreal Expos,San  Francisco Giants,3,0
+19910517,Houston Colts,St. Louis Cardinals,5,4
+19910518,California Angels,Baltimore Orioles,4,2
+19910518,Toronto Blue Jays,Chicago White Sox,9,2
+19910518,Oakland Athletics,Cleveland Indians,3,0
+19910518,Minensota Twins,Detroit Tigers,4,1
+19910518,Milwaukee Brewers,Kansas City Royals,4,7
+19910518,Seattle Mariners,New York Yankees,4,1
+19910518,Boston Red Sox,Texas Rangers,5,13
+19910518,San Diego Padres,Cincinnati Reds,5,2
+19910518,New York Mets,Los Angeles Dodgers,3,4
+19910518,Chicago Cubs,Philadelpia Phillies,2,5
+19910518,Montreal Expos,San  Francisco Giants,3,1
+19910518,Houston Colts,St. Louis Cardinals,2,12
+19910519,California Angels,Baltimore Orioles,10,2
+19910519,Toronto Blue Jays,Chicago White Sox,4,5
+19910519,Oakland Athletics,Cleveland Indians,9,4
+19910519,Minensota Twins,Detroit Tigers,3,8
+19910519,Milwaukee Brewers,Kansas City Royals,4,2
+19910519,Seattle Mariners,New York Yankees,2,3
+19910519,Boston Red Sox,Texas Rangers,4,12
+19910519,Pittsburgh Pirates,Atlanta Braves,1,7
+19910519,San Diego Padres,Cincinnati Reds,3,2
+19910519,New York Mets,Los Angeles Dodgers,5,7
+19910519,Chicago Cubs,Philadelpia Phillies,2,1
+19910519,Montreal Expos,San  Francisco Giants,5,4
+19910519,Houston Colts,St. Louis Cardinals,2,9
+19910520,Milwaukee Brewers,Boston Red Sox,0,3
+19910520,Chicago White Sox,California Angels,3,6
+19910520,New York Yankees,Cleveland Indians,1,3
+19910520,Baltimore Orioles,Detroit Tigers,5,11
+19910520,Seattle Mariners,Kansas City Royals,8,6
+19910520,Toronto Blue Jays,Oakland Athletics,1,0
+19910520,San Diego Padres,Atlanta Braves,7,3
+19910520,Los Angeles Dodgers,Houston Colts,1,4
+19910521,Milwaukee Brewers,Boston Red Sox,6,10
+19910521,Chicago White Sox,California Angels,2,4
+19910521,New York Yankees,Cleveland Indians,2,5
+19910521,Baltimore Orioles,Detroit Tigers,5,4
+19910521,Seattle Mariners,Kansas City Royals,3,4
+19910521,Texas Rangers,Minensota Twins,6,5
+19910521,Toronto Blue Jays,Oakland Athletics,11,7
+19910521,San Diego Padres,Atlanta Braves,1,4
+19910521,San  Francisco Giants,Cincinnati Reds,2,3
+19910521,Los Angeles Dodgers,Houston Colts,7,3
+19910521,Philadelpia Phillies,Montreal Expos,0,3
+19910521,Chicago Cubs,New York Mets,6,8
+19910521,St. Louis Cardinals,Pittsburgh Pirates,3,5
+19910522,Milwaukee Brewers,Boston Red Sox,0,4
+19910522,Chicago White Sox,California Angels,5,3
+19910522,New York Yankees,Cleveland Indians,8,1
+19910522,Baltimore Orioles,Detroit Tigers,5,9
+19910522,Seattle Mariners,Kansas City Royals,1,3
+19910522,Texas Rangers,Minensota Twins,5,2
+19910522,Toronto Blue Jays,Oakland Athletics,1,2
+19910522,San Diego Padres,Atlanta Braves,7,2
+19910522,San  Francisco Giants,Cincinnati Reds,4,9
+19910522,Los Angeles Dodgers,Houston Colts,2,3
+19910522,Philadelpia Phillies,Montreal Expos,8,1
+19910522,Chicago Cubs,New York Mets,5,2
+19910522,St. Louis Cardinals,Pittsburgh Pirates,5,3
+19910523,Boston Red Sox,Detroit Tigers,3,5
+19910523,Cleveland Indians,Milwaukee Brewers,3,7
+19910523,Texas Rangers,Minensota Twins,10,6
+19910523,Chicago White Sox,Oakland Athletics,11,1
+19910523,San Diego Padres,Atlanta Braves,11,10
+19910523,San  Francisco Giants,Cincinnati Reds,2,6
+19910523,Los Angeles Dodgers,Houston Colts,2,0
+19910523,Philadelpia Phillies,Montreal Expos,2,0
+19910523,Chicago Cubs,New York Mets,4,3
+19910523,St. Louis Cardinals,Pittsburgh Pirates,8,2
+19910524,New York Yankees,Baltimore Orioles,7,1
+19910524,Toronto Blue Jays,California Angels,3,2
+19910524,Boston Red Sox,Detroit Tigers,10,9
+19910524,Cleveland Indians,Milwaukee Brewers,0,1
+19910524,Kansas City Royals,Minensota Twins,2,3
+19910524,Chicago White Sox,Oakland Athletics,5,6
+19910524,Texas Rangers,Seattle Mariners,7,3
+19910524,San  Francisco Giants,Atlanta Braves,2,3
+19910524,Montreal Expos,Chicago Cubs,3,4
+19910524,Los Angeles Dodgers,Cincinnati Reds,11,3
+19910524,San Diego Padres,Houston Colts,0,1
+19910524,St. Louis Cardinals,New York Mets,2,6
+19910524,Philadelpia Phillies,Pittsburgh Pirates,1,9
+19910525,New York Yankees,Baltimore Orioles,6,5
+19910525,Toronto Blue Jays,California Angels,0,5
+19910525,Boston Red Sox,Detroit Tigers,2,3
+19910525,Cleveland Indians,Milwaukee Brewers,5,4
+19910525,Kansas City Royals,Minensota Twins,11,2
+19910525,Chicago White Sox,Oakland Athletics,3,5
+19910525,Texas Rangers,Seattle Mariners,8,6
+19910525,San  Francisco Giants,Atlanta Braves,7,6
+19910525,Montreal Expos,Chicago Cubs,1,6
+19910525,Los Angeles Dodgers,Cincinnati Reds,8,1
+19910525,San Diego Padres,Houston Colts,4,2
+19910525,St. Louis Cardinals,New York Mets,7,2
+19910525,Philadelpia Phillies,Pittsburgh Pirates,2,4
+19910526,New York Yankees,Baltimore Orioles,2,1
+19910526,Toronto Blue Jays,California Angels,2,6
+19910526,Boston Red Sox,Detroit Tigers,4,9
+19910526,Cleveland Indians,Milwaukee Brewers,6,7
+19910526,Kansas City Royals,Minensota Twins,5,1
+19910526,Chicago White Sox,Oakland Athletics,2,6
+19910526,Texas Rangers,Seattle Mariners,6,4
+19910526,San  Francisco Giants,Atlanta Braves,10,6
+19910526,Montreal Expos,Chicago Cubs,6,8
+19910526,Los Angeles Dodgers,Cincinnati Reds,0,3
+19910526,San Diego Padres,Houston Colts,3,13
+19910526,St. Louis Cardinals,New York Mets,14,4
+19910526,Philadelpia Phillies,Pittsburgh Pirates,2,5
+19910527,Cleveland Indians,Baltimore Orioles,3,2
+19910527,Detroit Tigers,Milwaukee Brewers,15,9
+19910527,Boston Red Sox,New York Yankees,5,6
+19910527,Kansas City Royals,Seattle Mariners,6,3
+19910527,Minensota Twins,Texas Rangers,4,11
+19910527,New York Mets,Chicago Cubs,3,1
+19910527,Houston Colts,Los Angeles Dodgers,1,4
+19910527,Montreal Expos,Philadelpia Phillies,8,1
+19910527,Atlanta Braves,San Diego Padres,3,1
+19910527,Cincinnati Reds,San  Francisco Giants,3,2
+19910527,Pittsburgh Pirates,St. Louis Cardinals,8,0
+19910528,Cleveland Indians,Baltimore Orioles,2,5
+19910528,California Angels,Chicago White Sox,5,6
+19910528,Detroit Tigers,Milwaukee Brewers,2,15
+19910528,Boston Red Sox,New York Yankees,6,2
+19910528,Kansas City Royals,Seattle Mariners,6,5
+19910528,Minensota Twins,Texas Rangers,3,0
+19910528,Oakland Athletics,Toronto Blue Jays,8,4
+19910528,New York Mets,Chicago Cubs,9,8
+19910528,Houston Colts,Los Angeles Dodgers,2,8
+19910528,Montreal Expos,Philadelpia Phillies,0,12
+19910528,Atlanta Braves,San Diego Padres,8,6
+19910528,Cincinnati Reds,San  Francisco Giants,2,6
+19910528,Pittsburgh Pirates,St. Louis Cardinals,9,8
+19910529,Cleveland Indians,Baltimore Orioles,1,2
+19910529,California Angels,Chicago White Sox,8,4
+19910529,Detroit Tigers,Milwaukee Brewers,2,6
+19910529,Boston Red Sox,New York Yankees,0,7
+19910529,Kansas City Royals,Seattle Mariners,0,8
+19910529,Minensota Twins,Texas Rangers,9,1
+19910529,Oakland Athletics,Toronto Blue Jays,3,8
+19910529,New York Mets,Chicago Cubs,8,1
+19910529,Houston Colts,Los Angeles Dodgers,8,2
+19910529,Montreal Expos,Philadelpia Phillies,1,2
+19910529,Atlanta Braves,San Diego Padres,5,1
+19910529,Cincinnati Reds,San  Francisco Giants,1,6
+19910529,Pittsburgh Pirates,St. Louis Cardinals,6,0
+19910530,Baltimore Orioles,Boston Red Sox,9,3
+19910530,California Angels,Chicago White Sox,7,6
+19910530,Minensota Twins,Kansas City Royals,4,2
+19910530,Seattle Mariners,Texas Rangers,11,4
+19910530,Oakland Athletics,Toronto Blue Jays,8,6
+19910530,Cincinnati Reds,Los Angeles Dodgers,7,2
+19910530,Houston Colts,San Diego Padres,0,4
+19910530,Atlanta Braves,San  Francisco Giants,7,2
+19910531,Baltimore Orioles,Boston Red Sox,2,7
+19910531,Oakland Athletics,Chicago White Sox,4,5
+19910531,Detroit Tigers,Cleveland Indians,9,11
+19910531,Minensota Twins,Kansas City Royals,1,4
+19910531,Milwaukee Brewers,New York Yankees,2,3
+19910531,Seattle Mariners,Texas Rangers,6,7
+19910531,California Angels,Toronto Blue Jays,1,5
+19910531,Cincinnati Reds,Los Angeles Dodgers,4,7
+19910531,Chicago Cubs,Montreal Expos,7,2
+19910531,Pittsburgh Pirates,Philadelpia Phillies,5,1
+19910531,Houston Colts,San Diego Padres,4,5
+19910531,Atlanta Braves,San  Francisco Giants,5,2
+19910531,New York Mets,St. Louis Cardinals,10,5
+19910601,Baltimore Orioles,Boston Red Sox,3,1
+19910601,Oakland Athletics,Chicago White Sox,7,4
+19910601,Detroit Tigers,Cleveland Indians,1,3
+19910601,Minensota Twins,Kansas City Royals,8,4
+19910601,Milwaukee Brewers,New York Yankees,6,3
+19910601,Seattle Mariners,Texas Rangers,12,8
+19910601,California Angels,Toronto Blue Jays,11,8
+19910601,Cincinnati Reds,Los Angeles Dodgers,6,5
+19910601,Chicago Cubs,Montreal Expos,2,1
+19910601,Pittsburgh Pirates,Philadelpia Phillies,5,3
+19910601,Houston Colts,San Diego Padres,2,7
+19910601,Atlanta Braves,San  Francisco Giants,2,8
+19910601,New York Mets,St. Louis Cardinals,5,6
+19910602,Baltimore Orioles,Boston Red Sox,5,1
+19910602,Oakland Athletics,Chicago White Sox,3,4
+19910602,Detroit Tigers,Cleveland Indians,2,3
+19910602,Minensota Twins,Kansas City Royals,4,1
+19910602,Milwaukee Brewers,New York Yankees,4,7
+19910602,California Angels,Toronto Blue Jays,7,2
+19910602,Cincinnati Reds,Los Angeles Dodgers,1,4
+19910602,Chicago Cubs,Montreal Expos,4,3
+19910602,Pittsburgh Pirates,Philadelpia Phillies,5,3
+19910602,Houston Colts,San Diego Padres,1,3
+19910602,Atlanta Braves,San  Francisco Giants,1,2
+19910602,New York Mets,St. Louis Cardinals,1,3
+19910603,Oakland Athletics,Chicago White Sox,5,3
+19910603,Detroit Tigers,Cleveland Indians,0,2
+19910603,Baltimore Orioles,Minensota Twins,2,3
+19910603,Toronto Blue Jays,New York Yankees,5,3
+19910604,Boston Red Sox,California Angels,0,3
+19910604,Chicago White Sox,Cleveland Indians,4,1
+19910604,Seattle Mariners,Detroit Tigers,8,6
+19910604,Texas Rangers,Kansas City Royals,1,4
+19910604,Baltimore Orioles,Minensota Twins,3,4
+19910604,Toronto Blue Jays,New York Yankees,3,5
+19910604,Milwaukee Brewers,Oakland Athletics,3,4
+19910604,Philadelpia Phillies,Atlanta Braves,5,9
+19910604,San Diego Padres,Chicago Cubs,7,1
+19910604,New York Mets,Cincinnati Reds,4,2
+19910604,Montreal Expos,Houston Colts,4,1
+19910604,San  Francisco Giants,Pittsburgh Pirates,5,3
+19910604,Los Angeles Dodgers,St. Louis Cardinals,2,3
+19910605,Boston Red Sox,California Angels,2,7
+19910605,Chicago White Sox,Cleveland Indians,1,2
+19910605,Seattle Mariners,Detroit Tigers,1,7
+19910605,Texas Rangers,Kansas City Royals,2,3
+19910605,Baltimore Orioles,Minensota Twins,3,4
+19910605,Toronto Blue Jays,New York Yankees,4,1
+19910605,Milwaukee Brewers,Oakland Athletics,4,6
+19910605,Philadelpia Phillies,Atlanta Braves,12,11
+19910605,San Diego Padres,Chicago Cubs,3,0
+19910605,New York Mets,Cincinnati Reds,10,11
+19910605,Montreal Expos,Houston Colts,8,2
+19910605,San  Francisco Giants,Pittsburgh Pirates,3,7
+19910605,Los Angeles Dodgers,St. Louis Cardinals,2,0
+19910606,Toronto Blue Jays,Baltimore Orioles,4,6
+19910606,Boston Red Sox,California Angels,2,3
+19910606,Chicago White Sox,Cleveland Indians,2,1
+19910606,Seattle Mariners,Detroit Tigers,4,5
+19910606,Texas Rangers,Kansas City Royals,3,4
+19910606,Milwaukee Brewers,Oakland Athletics,8,9
+19910606,Philadelpia Phillies,Atlanta Braves,4,9
+19910606,San Diego Padres,Chicago Cubs,2,6
+19910606,New York Mets,Cincinnati Reds,3,5
+19910606,Montreal Expos,Houston Colts,8,9
+19910606,San  Francisco Giants,Pittsburgh Pirates,6,3
+19910606,Los Angeles Dodgers,St. Louis Cardinals,1,0
+19910607,Toronto Blue Jays,Baltimore Orioles,4,6
+19910607,Detroit Tigers,California Angels,5,0
+19910607,Chicago White Sox,Kansas City Royals,2,0
+19910607,Cleveland Indians,Minensota Twins,0,2
+19910607,Texas Rangers,New York Yankees,4,5
+19910607,Boston Red Sox,Oakland Athletics,3,1
+19910607,Milwaukee Brewers,Seattle Mariners,1,2
+19910607,Montreal Expos,Atlanta Braves,11,2
+19910607,Los Angeles Dodgers,Chicago Cubs,3,2
+19910607,Philadelpia Phillies,Cincinnati Reds,5,4
+19910607,New York Mets,Houston Colts,6,3
+19910607,San Diego Padres,Pittsburgh Pirates,0,1
+19910607,San  Francisco Giants,St. Louis Cardinals,5,2
+19910608,Toronto Blue Jays,Baltimore Orioles,8,4
+19910608,Detroit Tigers,California Angels,4,3
+19910608,Chicago White Sox,Kansas City Royals,14,7
+19910608,Cleveland Indians,Minensota Twins,1,2
+19910608,Texas Rangers,New York Yankees,7,10
+19910608,Boston Red Sox,Oakland Athletics,8,1
+19910608,Milwaukee Brewers,Seattle Mariners,2,6
+19910608,Montreal Expos,Atlanta Braves,6,7
+19910608,Los Angeles Dodgers,Chicago Cubs,3,4
+19910608,Philadelpia Phillies,Cincinnati Reds,4,1
+19910608,New York Mets,Houston Colts,4,3
+19910608,San Diego Padres,Pittsburgh Pirates,11,0
+19910608,San  Francisco Giants,St. Louis Cardinals,2,3
+19910609,Toronto Blue Jays,Baltimore Orioles,3,2
+19910609,Detroit Tigers,California Angels,3,7
+19910609,Chicago White Sox,Kansas City Royals,8,2
+19910609,Cleveland Indians,Minensota Twins,2,9
+19910609,Texas Rangers,New York Yankees,4,6
+19910609,Boston Red Sox,Oakland Athletics,0,8
+19910609,Milwaukee Brewers,Seattle Mariners,1,6
+19910609,Montreal Expos,Atlanta Braves,6,8
+19910609,Los Angeles Dodgers,Chicago Cubs,6,3
+19910609,Philadelpia Phillies,Cincinnati Reds,3,6
+19910609,New York Mets,Houston Colts,0,1
+19910609,San Diego Padres,Pittsburgh Pirates,5,3
+19910609,San  Francisco Giants,St. Louis Cardinals,3,2
+19910610,Milwaukee Brewers,California Angels,7,2
+19910610,Cleveland Indians,Minensota Twins,5,8
+19910610,Detroit Tigers,Oakland Athletics,6,12
+19910610,Boston Red Sox,Seattle Mariners,6,2
+19910610,Chicago White Sox,Texas Rangers,3,2
+19910610,Montreal Expos,Atlanta Braves,7,1
+19910610,Los Angeles Dodgers,Chicago Cubs,13,5
+19910610,Philadelpia Phillies,Cincinnati Reds,3,9
+19910610,New York Mets,Houston Colts,4,6
+19910610,San Diego Padres,Pittsburgh Pirates,3,5
+19910610,San  Francisco Giants,St. Louis Cardinals,2,3
+19910611,Kansas City Royals,Baltimore Orioles,11,0
+19910611,Milwaukee Brewers,California Angels,3,4
+19910611,Toronto Blue Jays,Cleveland Indians,1,2
+19910611,New York Yankees,Minensota Twins,3,5
+19910611,Detroit Tigers,Oakland Athletics,5,1
+19910611,Boston Red Sox,Seattle Mariners,8,5
+19910611,Chicago White Sox,Texas Rangers,0,2
+19910611,San  Francisco Giants,Chicago Cubs,8,6
+19910611,Philadelpia Phillies,Houston Colts,0,1
+19910611,Cincinnati Reds,Montreal Expos,6,1
+19910611,Atlanta Braves,New York Mets,1,2
+19910611,St. Louis Cardinals,San Diego Padres,10,4
+19910612,Kansas City Royals,Baltimore Orioles,9,8
+19910612,Milwaukee Brewers,California Angels,8,0
+19910612,Toronto Blue Jays,Cleveland Indians,1,0
+19910612,New York Yankees,Minensota Twins,3,6
+19910612,Detroit Tigers,Oakland Athletics,1,3
+19910612,Boston Red Sox,Seattle Mariners,3,5
+19910612,Chicago White Sox,Texas Rangers,2,4
+19910612,San  Francisco Giants,Chicago Cubs,1,6
+19910612,Philadelpia Phillies,Houston Colts,2,3
+19910612,Cincinnati Reds,Montreal Expos,9,10
+19910612,Atlanta Braves,New York Mets,6,1
+19910612,Los Angeles Dodgers,Pittsburgh Pirates,1,2
+19910612,St. Louis Cardinals,San Diego Padres,2,7
+19910613,Kansas City Royals,Baltimore Orioles,6,4
+19910613,Toronto Blue Jays,Cleveland Indians,1,0
+19910613,New York Yankees,Minensota Twins,3,10
+19910613,Detroit Tigers,Seattle Mariners,5,6
+19910613,Chicago White Sox,Texas Rangers,4,8
+19910613,San  Francisco Giants,Chicago Cubs,3,4
+19910613,Philadelpia Phillies,Houston Colts,5,4
+19910613,Cincinnati Reds,Montreal Expos,3,2
+19910613,Atlanta Braves,New York Mets,3,2
+19910613,Los Angeles Dodgers,Pittsburgh Pirates,3,2
+19910613,St. Louis Cardinals,San Diego Padres,12,1
+19910614,California Angels,Boston Red Sox,4,9
+19910614,Kansas City Royals,Chicago White Sox,3,9
+19910614,Minensota Twins,Cleveland Indians,7,0
+19910614,Detroit Tigers,Seattle Mariners,5,1
+19910614,New York Yankees,Texas Rangers,4,8
+19910614,Baltimore Orioles,Toronto Blue Jays,1,9
+19910614,St. Louis Cardinals,Los Angeles Dodgers,1,2
+19910614,Atlanta Braves,Montreal Expos,1,2
+19910614,Houston Colts,New York Mets,4,1
+19910614,Cincinnati Reds,Philadelpia Phillies,4,2
+19910614,Chicago Cubs,San Diego Padres,7,3
+19910614,Pittsburgh Pirates,San  Francisco Giants,2,3
+19910615,California Angels,Boston Red Sox,3,13
+19910615,Kansas City Royals,Chicago White Sox,5,3
+19910615,Minensota Twins,Cleveland Indians,11,7
+19910615,Oakland Athletics,Milwaukee Brewers,4,6
+19910615,Oakland Athletics,Milwaukee Brewers,7,3
+19910615,Detroit Tigers,Seattle Mariners,2,15
+19910615,New York Yankees,Texas Rangers,3,4
+19910615,Baltimore Orioles,Toronto Blue Jays,8,4
+19910615,St. Louis Cardinals,Los Angeles Dodgers,5,4
+19910615,Atlanta Braves,Montreal Expos,0,2
+19910615,Houston Colts,New York Mets,0,6
+19910615,Cincinnati Reds,Philadelpia Phillies,3,1
+19910615,Chicago Cubs,San Diego Padres,2,6
+19910615,Pittsburgh Pirates,San  Francisco Giants,0,4
+19910616,California Angels,Boston Red Sox,0,2
+19910616,Kansas City Royals,Chicago White Sox,9,4
+19910616,Minensota Twins,Cleveland Indians,4,2
+19910616,Oakland Athletics,Milwaukee Brewers,7,11
+19910616,Detroit Tigers,Seattle Mariners,7,3
+19910616,New York Yankees,Texas Rangers,3,4
+19910616,Baltimore Orioles,Toronto Blue Jays,13,8
+19910616,St. Louis Cardinals,Los Angeles Dodgers,2,7
+19910616,Atlanta Braves,Montreal Expos,6,7
+19910616,Houston Colts,New York Mets,5,4
+19910616,Cincinnati Reds,Philadelpia Phillies,8,6
+19910616,Chicago Cubs,San Diego Padres,2,4
+19910616,Pittsburgh Pirates,San  Francisco Giants,4,3
+19910617,Minensota Twins,Baltimore Orioles,5,6
+19910617,California Angels,Boston Red Sox,4,2
+19910617,Oakland Athletics,Milwaukee Brewers,0,5
+19910617,Kansas City Royals,Texas Rangers,9,10
+19910617,Chicago Cubs,Los Angeles Dodgers,4,6
+19910617,Houston Colts,Montreal Expos,2,3
+19910617,Cincinnati Reds,New York Mets,6,10
+19910617,Atlanta Braves,Philadelpia Phillies,3,4
+19910617,Pittsburgh Pirates,San Diego Padres,3,2
+19910617,St. Louis Cardinals,San  Francisco Giants,5,4
+19910618,Minensota Twins,Baltimore Orioles,9,2
+19910618,Seattle Mariners,Boston Red Sox,2,1
+19910618,Cleveland Indians,Chicago White Sox,5,6
+19910618,Oakland Athletics,Detroit Tigers,0,2
+19910618,California Angels,Milwaukee Brewers,6,10
+19910618,Kansas City Royals,Texas Rangers,12,5
+19910618,New York Yankees,Toronto Blue Jays,4,2
+19910618,Chicago Cubs,Los Angeles Dodgers,5,6
+19910618,Houston Colts,Montreal Expos,2,3
+19910618,Cincinnati Reds,New York Mets,5,7
+19910618,Atlanta Braves,Philadelpia Phillies,4,8
+19910618,Pittsburgh Pirates,San Diego Padres,3,1
+19910618,St. Louis Cardinals,San  Francisco Giants,3,1
+19910619,Minensota Twins,Baltimore Orioles,8,4
+19910619,Seattle Mariners,Boston Red Sox,4,3
+19910619,Cleveland Indians,Chicago White Sox,4,3
+19910619,Oakland Athletics,Detroit Tigers,5,4
+19910619,California Angels,Milwaukee Brewers,4,1
+19910619,Kansas City Royals,Texas Rangers,15,2
+19910619,New York Yankees,Toronto Blue Jays,3,0
+19910619,Chicago Cubs,Los Angeles Dodgers,8,9
+19910619,Houston Colts,Montreal Expos,1,3
+19910619,Cincinnati Reds,New York Mets,7,6
+19910619,Atlanta Braves,Philadelpia Phillies,9,2
+19910619,Pittsburgh Pirates,San Diego Padres,5,6
+19910619,St. Louis Cardinals,San  Francisco Giants,3,2
+19910620,Oakland Athletics,Boston Red Sox,7,8
+19910620,Texas Rangers,Chicago White Sox,7,3
+19910620,California Angels,Detroit Tigers,7,5
+19910620,Baltimore Orioles,Kansas City Royals,2,3
+19910620,Seattle Mariners,Milwaukee Brewers,0,4
+19910620,New York Yankees,Toronto Blue Jays,1,6
+19910620,New York Mets,Atlanta Braves,9,7
+19910620,Montreal Expos,Cincinnati Reds,1,0
+19910620,Pittsburgh Pirates,Los Angeles Dodgers,2,3
+19910620,Houston Colts,Philadelpia Phillies,3,7
+19910620,Chicago Cubs,San  Francisco Giants,3,4
+19910621,Oakland Athletics,Boston Red Sox,2,3
+19910621,Texas Rangers,Chicago White Sox,5,6
+19910621,California Angels,Detroit Tigers,2,9
+19910621,Seattle Mariners,Milwaukee Brewers,5,1
+19910621,Minensota Twins,New York Yankees,5,4
+19910621,Cleveland Indians,Toronto Blue Jays,4,8
+19910621,New York Mets,Atlanta Braves,2,4
+19910621,Montreal Expos,Cincinnati Reds,3,7
+19910621,Pittsburgh Pirates,Los Angeles Dodgers,5,1
+19910621,Houston Colts,Philadelpia Phillies,0,3
+19910621,Chicago Cubs,San  Francisco Giants,2,4
+19910621,San Diego Padres,St. Louis Cardinals,3,4
+19910622,Oakland Athletics,Boston Red Sox,5,9
+19910622,Texas Rangers,Chicago White Sox,1,3
+19910622,California Angels,Detroit Tigers,10,3
+19910622,Baltimore Orioles,Kansas City Royals,1,0
+19910622,Seattle Mariners,Milwaukee Brewers,5,0
+19910622,Minensota Twins,New York Yankees,4,3
+19910622,Cleveland Indians,Toronto Blue Jays,0,4
+19910622,New York Mets,Atlanta Braves,7,2
+19910622,Montreal Expos,Cincinnati Reds,7,4
+19910622,Pittsburgh Pirates,Los Angeles Dodgers,1,4
+19910622,Houston Colts,Philadelpia Phillies,4,3
+19910622,Chicago Cubs,San  Francisco Giants,3,6
+19910622,San Diego Padres,St. Louis Cardinals,4,3
+19910623,Oakland Athletics,Boston Red Sox,4,2
+19910623,Texas Rangers,Chicago White Sox,5,6
+19910623,California Angels,Detroit Tigers,3,4
+19910623,Baltimore Orioles,Kansas City Royals,11,8
+19910623,Baltimore Orioles,Kansas City Royals,9,8
+19910623,Seattle Mariners,Milwaukee Brewers,2,5
+19910623,Minensota Twins,New York Yankees,2,11
+19910623,Cleveland Indians,Toronto Blue Jays,1,3
+19910623,New York Mets,Atlanta Braves,3,4
+19910623,Montreal Expos,Cincinnati Reds,4,8
+19910623,Pittsburgh Pirates,Los Angeles Dodgers,0,2
+19910623,Houston Colts,Philadelpia Phillies,6,4
+19910623,Chicago Cubs,San  Francisco Giants,1,2
+19910623,San Diego Padres,St. Louis Cardinals,3,2
+19910624,Seattle Mariners,Chicago White Sox,2,6
+19910624,California Angels,Kansas City Royals,9,4
+19910624,Minensota Twins,New York Yankees,5,0
+19910624,Cleveland Indians,Toronto Blue Jays,3,4
+19910624,San Diego Padres,St. Louis Cardinals,4,1
+19910625,New York Yankees,Boston Red Sox,6,4
+19910625,Seattle Mariners,Chicago White Sox,0,4
+19910625,Baltimore Orioles,Cleveland Indians,5,3
+19910625,Milwaukee Brewers,Detroit Tigers,11,3
+19910625,California Angels,Kansas City Royals,4,2
+19910625,Toronto Blue Jays,Minensota Twins,6,8
+19910625,Texas Rangers,Oakland Athletics,6,1
+19910625,San Diego Padres,Cincinnati Reds,2,8
+19910625,Atlanta Braves,Houston Colts,0,1
+19910625,San  Francisco Giants,Los Angeles Dodgers,9,4
+19910625,Montreal Expos,New York Mets,5,8
+19910625,Chicago Cubs,Pittsburgh Pirates,5,1
+19910625,Philadelpia Phillies,St. Louis Cardinals,9,10
+19910626,New York Yankees,Boston Red Sox,5,1
+19910626,Seattle Mariners,Chicago White Sox,5,4
+19910626,Baltimore Orioles,Cleveland Indians,4,10
+19910626,Milwaukee Brewers,Detroit Tigers,7,8
+19910626,California Angels,Kansas City Royals,10,5
+19910626,Toronto Blue Jays,Minensota Twins,5,2
+19910626,Texas Rangers,Oakland Athletics,8,1
+19910626,San Diego Padres,Cincinnati Reds,2,6
+19910626,Atlanta Braves,Houston Colts,3,2
+19910626,San  Francisco Giants,Los Angeles Dodgers,3,2
+19910626,Montreal Expos,New York Mets,4,7
+19910626,Chicago Cubs,Pittsburgh Pirates,6,7
+19910626,Philadelpia Phillies,St. Louis Cardinals,1,14
+19910627,New York Yankees,Boston Red Sox,8,0
+19910627,Seattle Mariners,Chicago White Sox,2,5
+19910627,Baltimore Orioles,Cleveland Indians,7,2
+19910627,Milwaukee Brewers,Detroit Tigers,9,3
+19910627,Toronto Blue Jays,Minensota Twins,1,0
+19910627,Texas Rangers,Oakland Athletics,9,6
+19910627,San Diego Padres,Cincinnati Reds,0,3
+19910627,Atlanta Braves,Houston Colts,3,0
+19910627,Montreal Expos,New York Mets,3,4
+19910627,Chicago Cubs,Pittsburgh Pirates,3,4
+19910627,Philadelpia Phillies,St. Louis Cardinals,2,4
+19910628,Boston Red Sox,Baltimore Orioles,9,3
+19910628,Texas Rangers,California Angels,8,10
+19910628,Cleveland Indians,Detroit Tigers,1,7
+19910628,New York Yankees,Milwaukee Brewers,2,5
+19910628,Chicago White Sox,Minensota Twins,4,2
+19910628,Kansas City Royals,Oakland Athletics,11,0
+19910628,Seattle Mariners,Toronto Blue Jays,3,1
+19910628,Los Angeles Dodgers,Atlanta Braves,2,3
+19910628,Los Angeles Dodgers,Atlanta Braves,8,2
+19910628,St. Louis Cardinals,Chicago Cubs,14,6
+19910628,Houston Colts,Cincinnati Reds,5,8
+19910628,Pittsburgh Pirates,Montreal Expos,6,1
+19910628,Philadelpia Phillies,New York Mets,6,2
+19910628,San  Francisco Giants,San Diego Padres,3,5
+19910629,Boston Red Sox,Baltimore Orioles,3,7
+19910629,Texas Rangers,California Angels,7,4
+19910629,Cleveland Indians,Detroit Tigers,4,9
+19910629,New York Yankees,Milwaukee Brewers,9,8
+19910629,Chicago White Sox,Minensota Twins,8,4
+19910629,Kansas City Royals,Oakland Athletics,3,6
+19910629,Seattle Mariners,Toronto Blue Jays,0,4
+19910629,Los Angeles Dodgers,Atlanta Braves,2,1
+19910629,St. Louis Cardinals,Chicago Cubs,4,6
+19910629,Houston Colts,Cincinnati Reds,6,2
+19910629,Pittsburgh Pirates,Montreal Expos,2,1
+19910629,Philadelpia Phillies,New York Mets,0,5
+19910629,San  Francisco Giants,San Diego Padres,6,4
+19910630,Boston Red Sox,Baltimore Orioles,4,6
+19910630,Texas Rangers,California Angels,2,1
+19910630,Cleveland Indians,Detroit Tigers,1,4
+19910630,New York Yankees,Milwaukee Brewers,8,6
+19910630,Chicago White Sox,Minensota Twins,0,3
+19910630,Kansas City Royals,Oakland Athletics,2,3
+19910630,Seattle Mariners,Toronto Blue Jays,1,6
+19910630,Los Angeles Dodgers,Atlanta Braves,11,4
+19910630,St. Louis Cardinals,Chicago Cubs,4,7
+19910630,Houston Colts,Cincinnati Reds,4,5
+19910630,Pittsburgh Pirates,Montreal Expos,2,1
+19910630,Philadelpia Phillies,New York Mets,10,9
+19910630,San  Francisco Giants,San Diego Padres,8,7
+19910701,Detroit Tigers,Baltimore Orioles,2,10
+19910701,Texas Rangers,California Angels,2,6
+19910701,Boston Red Sox,Milwaukee Brewers,6,0
+19910701,Chicago White Sox,Minensota Twins,5,4
+19910701,Cleveland Indians,New York Yankees,2,6
+19910701,Kansas City Royals,Oakland Athletics,7,3
+19910701,Seattle Mariners,Toronto Blue Jays,3,4
+19910701,Pittsburgh Pirates,Chicago Cubs,5,6
+19910701,New York Mets,Montreal Expos,4,2
+19910701,St. Louis Cardinals,Philadelpia Phillies,1,0
+19910702,Detroit Tigers,Baltimore Orioles,4,3
+19910702,Kansas City Royals,California Angels,3,10
+19910702,Boston Red Sox,Milwaukee Brewers,14,4
+19910702,Cleveland Indians,New York Yankees,5,8
+19910702,Chicago White Sox,Seattle Mariners,5,4
+19910702,Oakland Athletics,Texas Rangers,6,9
+19910702,Minensota Twins,Toronto Blue Jays,3,4
+19910702,Cincinnati Reds,Atlanta Braves,6,3
+19910702,Pittsburgh Pirates,Chicago Cubs,13,4
+19910702,New York Mets,Montreal Expos,2,1
+19910702,St. Louis Cardinals,Philadelpia Phillies,6,1
+19910702,Los Angeles Dodgers,San Diego Padres,4,1
+19910702,Houston Colts,San  Francisco Giants,8,4
+19910703,Detroit Tigers,Baltimore Orioles,8,2
+19910703,Kansas City Royals,California Angels,3,4
+19910703,Boston Red Sox,Milwaukee Brewers,5,3
+19910703,Cleveland Indians,New York Yankees,2,3
+19910703,Chicago White Sox,Seattle Mariners,3,2
+19910703,Oakland Athletics,Texas Rangers,5,0
+19910703,Minensota Twins,Toronto Blue Jays,0,4
+19910703,Cincinnati Reds,Atlanta Braves,6,8
+19910703,Pittsburgh Pirates,Chicago Cubs,11,7
+19910703,New York Mets,Montreal Expos,4,0
+19910703,St. Louis Cardinals,Philadelpia Phillies,4,3
+19910703,Los Angeles Dodgers,San Diego Padres,6,3
+19910703,Houston Colts,San  Francisco Giants,9,0
+19910704,Detroit Tigers,Boston Red Sox,6,1
+19910704,Kansas City Royals,California Angels,12,5
+19910704,Milwaukee Brewers,Cleveland Indians,0,3
+19910704,Baltimore Orioles,New York Yankees,2,3
+19910704,Chicago White Sox,Seattle Mariners,2,3
+19910704,Oakland Athletics,Texas Rangers,4,5
+19910704,Minensota Twins,Toronto Blue Jays,1,0
+19910704,Cincinnati Reds,Atlanta Braves,10,4
+19910704,Pittsburgh Pirates,Chicago Cubs,8,9
+19910704,New York Mets,Montreal Expos,5,1
+19910704,St. Louis Cardinals,Philadelpia Phillies,1,7
+19910704,Los Angeles Dodgers,San Diego Padres,4,5
+19910704,Houston Colts,San  Francisco Giants,14,6
+19910705,Detroit Tigers,Boston Red Sox,1,10
+19910705,Minensota Twins,Chicago White Sox,2,4
+19910705,Milwaukee Brewers,Cleveland Indians,4,2
+19910705,Oakland Athletics,Kansas City Royals,9,3
+19910705,Baltimore Orioles,New York Yankees,7,4
+19910705,Toronto Blue Jays,Seattle Mariners,2,1
+19910705,California Angels,Texas Rangers,0,8
+19910705,Cincinnati Reds,Houston Colts,1,0
+19910705,Atlanta Braves,Los Angeles Dodgers,4,1
+19910705,New York Mets,Philadelpia Phillies,3,1
+19910705,Montreal Expos,Pittsburgh Pirates,4,3
+19910705,San Diego Padres,San  Francisco Giants,4,2
+19910705,Chicago Cubs,St. Louis Cardinals,5,1
+19910706,Detroit Tigers,Boston Red Sox,4,7
+19910706,Minensota Twins,Chicago White Sox,5,4
+19910706,Milwaukee Brewers,Cleveland Indians,0,2
+19910706,Oakland Athletics,Kansas City Royals,9,7
+19910706,Baltimore Orioles,New York Yankees,5,13
+19910706,Toronto Blue Jays,Seattle Mariners,4,3
+19910706,California Angels,Texas Rangers,3,4
+19910706,Cincinnati Reds,Houston Colts,0,3
+19910706,Atlanta Braves,Los Angeles Dodgers,6,7
+19910706,New York Mets,Philadelpia Phillies,2,1
+19910706,Montreal Expos,Pittsburgh Pirates,2,1
+19910706,San Diego Padres,San  Francisco Giants,1,4
+19910706,Chicago Cubs,St. Louis Cardinals,12,2
+19910707,Detroit Tigers,Boston Red Sox,7,6
+19910707,Minensota Twins,Chicago White Sox,3,4
+19910707,Milwaukee Brewers,Cleveland Indians,10,6
+19910707,Oakland Athletics,Kansas City Royals,5,7
+19910707,Baltimore Orioles,New York Yankees,5,3
+19910707,Toronto Blue Jays,Seattle Mariners,5,2
+19910707,California Angels,Texas Rangers,0,7
+19910707,Cincinnati Reds,Houston Colts,3,7
+19910707,Atlanta Braves,Los Angeles Dodgers,3,5
+19910707,New York Mets,Philadelpia Phillies,8,2
+19910707,Montreal Expos,Pittsburgh Pirates,1,6
+19910707,San Diego Padres,San  Francisco Giants,0,3
+19910707,Chicago Cubs,St. Louis Cardinals,7,8
+19910711,New York Yankees,California Angels,2,0
+19910711,Kansas City Royals,Detroit Tigers,9,5
+19910711,Chicago White Sox,Milwaukee Brewers,1,5
+19910711,Boston Red Sox,Minensota Twins,3,7
+19910711,Baltimore Orioles,Oakland Athletics,1,8
+19910711,Cleveland Indians,Seattle Mariners,0,6
+19910711,Texas Rangers,Toronto Blue Jays,0,2
+19910711,St. Louis Cardinals,Atlanta Braves,1,4
+19910711,Houston Colts,Chicago Cubs,6,4
+19910711,Pittsburgh Pirates,Cincinnati Reds,10,6
+19910711,Los Angeles Dodgers,Montreal Expos,2,3
+19910711,San Diego Padres,New York Mets,3,4
+19910711,San  Francisco Giants,Philadelpia Phillies,2,3
+19910712,New York Yankees,California Angels,2,1
+19910712,Kansas City Royals,Detroit Tigers,3,6
+19910712,Chicago White Sox,Milwaukee Brewers,8,6
+19910712,Boston Red Sox,Minensota Twins,4,5
+19910712,Baltimore Orioles,Oakland Athletics,6,3
+19910712,Cleveland Indians,Seattle Mariners,0,7
+19910712,Texas Rangers,Toronto Blue Jays,2,6
+19910712,St. Louis Cardinals,Atlanta Braves,2,6
+19910712,Houston Colts,Chicago Cubs,2,5
+19910712,Pittsburgh Pirates,Cincinnati Reds,7,2
+19910712,Los Angeles Dodgers,Montreal Expos,5,6
+19910712,San Diego Padres,New York Mets,3,6
+19910712,San  Francisco Giants,Philadelpia Phillies,0,1
+19910713,New York Yankees,California Angels,2,0
+19910713,Kansas City Royals,Detroit Tigers,5,8
+19910713,Chicago White Sox,Milwaukee Brewers,2,8
+19910713,Boston Red Sox,Minensota Twins,1,3
+19910713,Baltimore Orioles,Oakland Athletics,2,0
+19910713,Cleveland Indians,Seattle Mariners,6,3
+19910713,Texas Rangers,Toronto Blue Jays,2,3
+19910713,St. Louis Cardinals,Atlanta Braves,5,10
+19910713,Houston Colts,Chicago Cubs,3,4
+19910713,Pittsburgh Pirates,Cincinnati Reds,5,2
+19910713,San Diego Padres,New York Mets,1,3
+19910713,San  Francisco Giants,Philadelpia Phillies,7,5
+19910714,New York Yankees,California Angels,2,10
+19910714,Kansas City Royals,Detroit Tigers,18,4
+19910714,Chicago White Sox,Milwaukee Brewers,15,1
+19910714,Boston Red Sox,Minensota Twins,5,3
+19910714,Baltimore Orioles,Oakland Athletics,2,3
+19910714,Cleveland Indians,Seattle Mariners,3,14
+19910714,Texas Rangers,Toronto Blue Jays,8,6
+19910714,St. Louis Cardinals,Atlanta Braves,1,2
+19910714,Houston Colts,Chicago Cubs,3,4
+19910714,Pittsburgh Pirates,Cincinnati Reds,10,6
+19910714,Los Angeles Dodgers,Montreal Expos,2,3
+19910714,Los Angeles Dodgers,Montreal Expos,4,7
+19910714,San Diego Padres,New York Mets,2,1
+19910714,San  Francisco Giants,Philadelpia Phillies,17,5
+19910715,Baltimore Orioles,California Angels,2,1
+19910715,Boston Red Sox,Chicago White Sox,1,7
+19910715,Texas Rangers,Detroit Tigers,7,8
+19910715,Toronto Blue Jays,Kansas City Royals,5,3
+19910715,Minensota Twins,Milwaukee Brewers,11,7
+19910715,Cleveland Indians,Oakland Athletics,1,6
+19910715,New York Yankees,Seattle Mariners,1,5
+19910715,Chicago Cubs,Atlanta Braves,6,4
+19910715,St. Louis Cardinals,Cincinnati Reds,5,2
+19910715,San Diego Padres,Montreal Expos,0,3
+19910715,San  Francisco Giants,New York Mets,4,3
+19910715,Los Angeles Dodgers,Philadelpia Phillies,8,9
+19910715,Houston Colts,Pittsburgh Pirates,0,8
+19910716,Baltimore Orioles,California Angels,1,2
+19910716,Boston Red Sox,Chicago White Sox,2,0
+19910716,Texas Rangers,Detroit Tigers,5,6
+19910716,Toronto Blue Jays,Kansas City Royals,1,2
+19910716,Minensota Twins,Milwaukee Brewers,3,4
+19910716,Cleveland Indians,Oakland Athletics,6,7
+19910716,New York Yankees,Seattle Mariners,0,5
+19910716,Chicago Cubs,Atlanta Braves,5,8
+19910716,St. Louis Cardinals,Cincinnati Reds,8,7
+19910716,San Diego Padres,Montreal Expos,4,3
+19910716,San  Francisco Giants,New York Mets,4,6
+19910716,Los Angeles Dodgers,Philadelpia Phillies,1,3
+19910716,Houston Colts,Pittsburgh Pirates,4,6
+19910717,Boston Red Sox,Chicago White Sox,4,2
+19910717,Texas Rangers,Detroit Tigers,4,6
+19910717,Baltimore Orioles,Kansas City Royals,8,9
+19910717,Seattle Mariners,Milwaukee Brewers,1,6
+19910717,Cleveland Indians,Oakland Athletics,2,1
+19910717,Chicago Cubs,Atlanta Braves,2,12
+19910717,St. Louis Cardinals,Cincinnati Reds,6,5
+19910717,San Diego Padres,Montreal Expos,7,5
+19910717,San  Francisco Giants,New York Mets,5,6
+19910717,Los Angeles Dodgers,Philadelpia Phillies,2,4
+19910717,Houston Colts,Pittsburgh Pirates,10,2
+19910718,Minensota Twins,Boston Red Sox,11,3
+19910718,Cleveland Indians,California Angels,4,5
+19910718,Baltimore Orioles,Kansas City Royals,1,5
+19910718,Seattle Mariners,Milwaukee Brewers,12,0
+19910718,New York Yankees,Oakland Athletics,3,2
+19910718,Toronto Blue Jays,Texas Rangers,4,0
+19910718,Los Angeles Dodgers,New York Mets,10,5
+19910719,Seattle Mariners,Baltimore Orioles,1,4
+19910719,Minensota Twins,Boston Red Sox,3,2
+19910719,Cleveland Indians,California Angels,4,2
+19910719,Milwaukee Brewers,Chicago White Sox,3,14
+19910719,Detroit Tigers,Kansas City Royals,17,0
+19910719,New York Yankees,Oakland Athletics,3,0
+19910719,Toronto Blue Jays,Texas Rangers,7,2
+19910719,Chicago Cubs,Houston Colts,2,5
+19910719,San  Francisco Giants,Montreal Expos,0,6
+19910719,Los Angeles Dodgers,New York Mets,2,6
+19910719,Cincinnati Reds,Pittsburgh Pirates,2,7
+19910719,Philadelpia Phillies,San Diego Padres,4,1
+19910719,Atlanta Braves,St. Louis Cardinals,8,3
+19910720,Seattle Mariners,Baltimore Orioles,5,1
+19910720,Minensota Twins,Boston Red Sox,5,0
+19910720,Cleveland Indians,California Angels,4,1
+19910720,Milwaukee Brewers,Chicago White Sox,6,7
+19910720,Detroit Tigers,Kansas City Royals,4,8
+19910720,New York Yankees,Oakland Athletics,5,1
+19910720,Toronto Blue Jays,Texas Rangers,6,11
+19910720,Chicago Cubs,Houston Colts,6,0
+19910720,San  Francisco Giants,Montreal Expos,5,3
+19910720,Los Angeles Dodgers,New York Mets,11,7
+19910720,Cincinnati Reds,Pittsburgh Pirates,3,2
+19910720,Philadelpia Phillies,San Diego Padres,4,0
+19910720,Atlanta Braves,St. Louis Cardinals,1,2
+19910721,Seattle Mariners,Baltimore Orioles,6,4
+19910721,Minensota Twins,Boston Red Sox,14,1
+19910721,Cleveland Indians,California Angels,5,2
+19910721,Milwaukee Brewers,Chicago White Sox,2,1
+19910721,Detroit Tigers,Kansas City Royals,4,8
+19910721,New York Yankees,Oakland Athletics,2,4
+19910721,Toronto Blue Jays,Texas Rangers,5,6
+19910721,Chicago Cubs,Houston Colts,4,2
+19910721,San  Francisco Giants,Montreal Expos,3,2
+19910721,Los Angeles Dodgers,New York Mets,4,9
+19910721,Cincinnati Reds,Pittsburgh Pirates,0,6
+19910721,Philadelpia Phillies,San Diego Padres,2,5
+19910721,Atlanta Braves,St. Louis Cardinals,5,1
+19910722,Milwaukee Brewers,Chicago White Sox,4,5
+19910722,Boston Red Sox,Texas Rangers,1,2
+19910722,Atlanta Braves,Pittsburgh Pirates,7,3
+19910722,Houston Colts,St. Louis Cardinals,1,9
+19910723,California Angels,Baltimore Orioles,5,4
+19910723,Toronto Blue Jays,Chicago White Sox,2,3
+19910723,Oakland Athletics,Cleveland Indians,10,7
+19910723,Minensota Twins,Detroit Tigers,3,6
+19910723,Milwaukee Brewers,Kansas City Royals,7,8
+19910723,Seattle Mariners,New York Yankees,6,1
+19910723,Boston Red Sox,Texas Rangers,4,5
+19910723,Cincinnati Reds,Chicago Cubs,5,8
+19910723,Philadelpia Phillies,Los Angeles Dodgers,5,6
+19910723,Atlanta Braves,Pittsburgh Pirates,3,12
+19910723,Montreal Expos,San Diego Padres,1,2
+19910723,New York Mets,San  Francisco Giants,2,4
+19910723,Houston Colts,St. Louis Cardinals,1,5
+19910724,California Angels,Baltimore Orioles,2,5
+19910724,Toronto Blue Jays,Chicago White Sox,2,1
+19910724,Oakland Athletics,Cleveland Indians,8,4
+19910724,Minensota Twins,Detroit Tigers,3,6
+19910724,Milwaukee Brewers,Kansas City Royals,4,7
+19910724,Seattle Mariners,New York Yankees,2,10
+19910724,Boston Red Sox,Texas Rangers,2,1
+19910724,Cincinnati Reds,Chicago Cubs,12,3
+19910724,Philadelpia Phillies,Los Angeles Dodgers,1,2
+19910724,Atlanta Braves,Pittsburgh Pirates,4,7
+19910724,Montreal Expos,San Diego Padres,8,2
+19910724,New York Mets,San  Francisco Giants,4,8
+19910724,Houston Colts,St. Louis Cardinals,3,4
+19910725,California Angels,Baltimore Orioles,4,8
+19910725,Toronto Blue Jays,Chicago White Sox,1,7
+19910725,Oakland Athletics,Cleveland Indians,7,8
+19910725,Minensota Twins,Detroit Tigers,9,3
+19910725,Milwaukee Brewers,Kansas City Royals,0,2
+19910725,Seattle Mariners,New York Yankees,6,3
+19910725,Cincinnati Reds,Chicago Cubs,4,5
+19910725,Philadelpia Phillies,Los Angeles Dodgers,0,5
+19910725,Montreal Expos,San Diego Padres,5,6
+19910725,New York Mets,San  Francisco Giants,1,8
+19910726,Oakland Athletics,Baltimore Orioles,12,9
+19910726,Seattle Mariners,Cleveland Indians,7,4
+19910726,Milwaukee Brewers,Minensota Twins,3,6
+19910726,California Angels,New York Yankees,5,1
+19910726,Detroit Tigers,Texas Rangers,3,2
+19910726,Kansas City Royals,Toronto Blue Jays,5,6
+19910726,Atlanta Braves,Chicago Cubs,6,2
+19910726,Pittsburgh Pirates,Houston Colts,8,1
+19910726,Montreal Expos,Los Angeles Dodgers,0,1
+19910726,New York Mets,San Diego Padres,2,8
+19910726,Philadelpia Phillies,San  Francisco Giants,2,3
+19910726,Cincinnati Reds,St. Louis Cardinals,1,5
+19910727,Oakland Athletics,Baltimore Orioles,9,1
+19910727,Chicago White Sox,Boston Red Sox,10,8
+19910727,Chicago White Sox,Boston Red Sox,7,4
+19910727,Seattle Mariners,Cleveland Indians,1,6
+19910727,Milwaukee Brewers,Minensota Twins,4,7
+19910727,California Angels,New York Yankees,10,12
+19910727,Detroit Tigers,Texas Rangers,5,8
+19910727,Kansas City Royals,Toronto Blue Jays,5,2
+19910727,Atlanta Braves,Chicago Cubs,5,7
+19910727,Pittsburgh Pirates,Houston Colts,11,5
+19910727,Montreal Expos,Los Angeles Dodgers,0,7
+19910727,New York Mets,San Diego Padres,4,0
+19910727,Philadelpia Phillies,San  Francisco Giants,0,3
+19910727,Cincinnati Reds,St. Louis Cardinals,13,1
+19910728,Oakland Athletics,Baltimore Orioles,4,3
+19910728,Chicago White Sox,Boston Red Sox,5,2
+19910728,Seattle Mariners,Cleveland Indians,6,5
+19910728,Milwaukee Brewers,Minensota Twins,11,2
+19910728,California Angels,New York Yankees,8,4
+19910728,Detroit Tigers,Texas Rangers,6,10
+19910728,Kansas City Royals,Toronto Blue Jays,10,4
+19910728,Atlanta Braves,Chicago Cubs,2,6
+19910728,Pittsburgh Pirates,Houston Colts,7,9
+19910728,Montreal Expos,Los Angeles Dodgers,2,0
+19910728,New York Mets,San Diego Padres,0,2
+19910728,Philadelpia Phillies,San  Francisco Giants,1,2
+19910728,Cincinnati Reds,St. Louis Cardinals,2,3
+19910729,Texas Rangers,Boston Red Sox,7,2
+19910729,California Angels,Cleveland Indians,10,2
+19910729,Detroit Tigers,Minensota Twins,3,6
+19910729,Oakland Athletics,New York Yankees,10,8
+19910729,Baltimore Orioles,Seattle Mariners,4,11
+19910729,Chicago White Sox,Toronto Blue Jays,12,4
+19910729,Pittsburgh Pirates,Atlanta Braves,5,7
+19910729,Pittsburgh Pirates,Atlanta Braves,3,5
+19910729,St. Louis Cardinals,Houston Colts,2,6
+19910729,New York Mets,Los Angeles Dodgers,5,1
+19910729,Montreal Expos,San  Francisco Giants,5,6
+19910730,Texas Rangers,Boston Red Sox,6,11
+19910730,California Angels,Cleveland Indians,4,2
+19910730,Kansas City Royals,Milwaukee Brewers,3,9
+19910730,Detroit Tigers,Minensota Twins,7,9
+19910730,Oakland Athletics,New York Yankees,6,5
+19910730,Baltimore Orioles,Seattle Mariners,2,8
+19910730,Chicago White Sox,Toronto Blue Jays,8,7
+19910730,Pittsburgh Pirates,Atlanta Braves,3,10
+19910730,Chicago Cubs,Cincinnati Reds,5,6
+19910730,St. Louis Cardinals,Houston Colts,5,7
+19910730,New York Mets,Los Angeles Dodgers,1,3
+19910730,San Diego Padres,Philadelpia Phillies,1,2
+19910730,Montreal Expos,San  Francisco Giants,3,10
+19910731,Oakland Athletics,Boston Red Sox,10,11
+19910731,Texas Rangers,Chicago White Sox,8,10
+19910731,California Angels,Detroit Tigers,1,3
+19910731,Kansas City Royals,Milwaukee Brewers,5,4
+19910731,Minensota Twins,New York Yankees,12,3
+19910731,Baltimore Orioles,Seattle Mariners,4,2
+19910731,Cleveland Indians,Toronto Blue Jays,1,3
+19910731,Pittsburgh Pirates,Atlanta Braves,6,8
+19910731,Chicago Cubs,Cincinnati Reds,1,5
+19910731,St. Louis Cardinals,Houston Colts,5,9
+19910731,New York Mets,Los Angeles Dodgers,3,6
+19910731,San Diego Padres,Philadelpia Phillies,3,9
+19910801,Oakland Athletics,Boston Red Sox,4,2
+19910801,Texas Rangers,Chicago White Sox,2,13
+19910801,California Angels,Detroit Tigers,3,5
+19910801,Kansas City Royals,Milwaukee Brewers,6,5
+19910801,Minensota Twins,New York Yankees,3,8
+19910801,Cleveland Indians,Toronto Blue Jays,5,7
+19910801,San  Francisco Giants,Cincinnati Reds,8,1
+19910801,Philadelpia Phillies,Montreal Expos,4,1
+19910801,Pittsburgh Pirates,St. Louis Cardinals,3,6
+19910802,Toronto Blue Jays,Boston Red Sox,3,5
+19910802,Seattle Mariners,California Angels,4,3
+19910802,Baltimore Orioles,Chicago White Sox,3,0
+19910802,Kansas City Royals,Cleveland Indians,6,4
+19910802,New York Yankees,Detroit Tigers,3,7
+19910802,Texas Rangers,Milwaukee Brewers,15,1
+19910802,Minensota Twins,Oakland Athletics,1,3
+19910802,San Diego Padres,Atlanta Braves,13,3
+19910802,San  Francisco Giants,Cincinnati Reds,4,5
+19910802,Los Angeles Dodgers,Houston Colts,8,9
+19910802,Philadelpia Phillies,Montreal Expos,6,5
+19910802,Chicago Cubs,New York Mets,4,2
+19910802,Pittsburgh Pirates,St. Louis Cardinals,3,4
+19910803,Toronto Blue Jays,Boston Red Sox,1,4
+19910803,Seattle Mariners,California Angels,9,3
+19910803,Baltimore Orioles,Chicago White Sox,6,3
+19910803,Kansas City Royals,Cleveland Indians,1,3
+19910803,New York Yankees,Detroit Tigers,6,7
+19910803,Texas Rangers,Milwaukee Brewers,14,5
+19910803,Minensota Twins,Oakland Athletics,8,6
+19910803,San Diego Padres,Atlanta Braves,3,2
+19910803,San  Francisco Giants,Cincinnati Reds,7,3
+19910803,Los Angeles Dodgers,Houston Colts,1,2
+19910803,Philadelpia Phillies,Montreal Expos,7,1
+19910803,Chicago Cubs,New York Mets,9,2
+19910803,Pittsburgh Pirates,St. Louis Cardinals,5,6
+19910804,Toronto Blue Jays,Boston Red Sox,2,1
+19910804,Seattle Mariners,California Angels,5,2
+19910804,Baltimore Orioles,Chicago White Sox,0,1
+19910804,Kansas City Royals,Cleveland Indians,2,0
+19910804,New York Yankees,Detroit Tigers,7,8
+19910804,Texas Rangers,Milwaukee Brewers,2,3
+19910804,Minensota Twins,Oakland Athletics,6,2
+19910804,San Diego Padres,Atlanta Braves,7,9
+19910804,San  Francisco Giants,Cincinnati Reds,5,6
+19910804,Los Angeles Dodgers,Houston Colts,1,2
+19910804,Philadelpia Phillies,Montreal Expos,3,2
+19910804,Chicago Cubs,New York Mets,8,3
+19910804,Pittsburgh Pirates,St. Louis Cardinals,2,1
+19910805,Milwaukee Brewers,Baltimore Orioles,6,5
+19910805,Minensota Twins,California Angels,7,4
+19910805,New York Yankees,Detroit Tigers,7,5
+19910805,Boston Red Sox,Kansas City Royals,3,5
+19910805,Seattle Mariners,Oakland Athletics,0,3
+19910805,Cleveland Indians,Texas Rangers,9,0
+19910805,San  Francisco Giants,Atlanta Braves,2,5
+19910805,Los Angeles Dodgers,Cincinnati Reds,6,10
+19910805,San Diego Padres,Houston Colts,1,2
+19910805,Chicago Cubs,New York Mets,7,2
+19910806,Milwaukee Brewers,Baltimore Orioles,5,13
+19910806,Minensota Twins,California Angels,7,4
+19910806,New York Yankees,Chicago White Sox,5,14
+19910806,Boston Red Sox,Kansas City Royals,0,6
+19910806,Seattle Mariners,Oakland Athletics,0,3
+19910806,Cleveland Indians,Texas Rangers,8,10
+19910806,Detroit Tigers,Toronto Blue Jays,1,2
+19910806,San  Francisco Giants,Atlanta Braves,6,10
+19910806,Los Angeles Dodgers,Cincinnati Reds,5,2
+19910806,San Diego Padres,Houston Colts,1,6
+19910806,Pittsburgh Pirates,New York Mets,3,1
+19910806,Chicago Cubs,Philadelpia Phillies,2,6
+19910806,Montreal Expos,St. Louis Cardinals,6,7
+19910807,Milwaukee Brewers,Baltimore Orioles,4,2
+19910807,Minensota Twins,California Angels,1,8
+19910807,New York Yankees,Chicago White Sox,2,10
+19910807,Boston Red Sox,Kansas City Royals,0,2
+19910807,Seattle Mariners,Oakland Athletics,1,6
+19910807,Cleveland Indians,Texas Rangers,10,12
+19910807,Detroit Tigers,Toronto Blue Jays,2,5
+19910807,San  Francisco Giants,Atlanta Braves,1,0
+19910807,Los Angeles Dodgers,Cincinnati Reds,2,0
+19910807,San Diego Padres,Houston Colts,7,4
+19910807,Pittsburgh Pirates,New York Mets,1,7
+19910807,Chicago Cubs,Philadelpia Phillies,4,5
+19910807,Montreal Expos,St. Louis Cardinals,1,0
+19910808,Milwaukee Brewers,Baltimore Orioles,6,4
+19910808,New York Yankees,Chicago White Sox,1,4
+19910808,Detroit Tigers,Toronto Blue Jays,4,0
+19910808,San  Francisco Giants,Atlanta Braves,8,1
+19910808,Los Angeles Dodgers,Cincinnati Reds,6,4
+19910808,San Diego Padres,Houston Colts,5,3
+19910808,Pittsburgh Pirates,New York Mets,3,4
+19910808,Chicago Cubs,Philadelpia Phillies,1,11
+19910809,Chicago White Sox,Baltimore Orioles,7,4
+19910809,Oakland Athletics,California Angels,5,4
+19910809,Cleveland Indians,Kansas City Royals,2,4
+19910809,Minensota Twins,Seattle Mariners,5,2
+19910809,Milwaukee Brewers,Texas Rangers,10,8
+19910809,Boston Red Sox,Toronto Blue Jays,12,7
+19910809,Houston Colts,Atlanta Braves,2,7
+19910809,New York Mets,Chicago Cubs,4,5
+19910809,Montreal Expos,Philadelpia Phillies,4,5
+19910809,St. Louis Cardinals,Pittsburgh Pirates,5,1
+19910809,Cincinnati Reds,San Diego Padres,5,1
+19910809,Los Angeles Dodgers,San  Francisco Giants,0,1
+19910810,Chicago White Sox,Baltimore Orioles,6,4
+19910810,Oakland Athletics,California Angels,3,1
+19910810,Cleveland Indians,Kansas City Royals,1,0
+19910810,Detroit Tigers,New York Yankees,5,1
+19910810,Detroit Tigers,New York Yankees,4,0
+19910810,Minensota Twins,Seattle Mariners,0,8
+19910810,Milwaukee Brewers,Texas Rangers,5,2
+19910810,Boston Red Sox,Toronto Blue Jays,7,1
+19910810,Houston Colts,Atlanta Braves,0,4
+19910810,New York Mets,Chicago Cubs,2,6
+19910810,Montreal Expos,Philadelpia Phillies,2,4
+19910810,St. Louis Cardinals,Pittsburgh Pirates,5,11
+19910810,Cincinnati Reds,San Diego Padres,0,1
+19910810,Los Angeles Dodgers,San  Francisco Giants,3,4
+19910811,Chicago White Sox,Baltimore Orioles,7,0
+19910811,Oakland Athletics,California Angels,3,2
+19910811,Cleveland Indians,Kansas City Royals,2,3
+19910811,Detroit Tigers,New York Yankees,6,12
+19910811,Detroit Tigers,New York Yankees,8,10
+19910811,Minensota Twins,Seattle Mariners,5,2
+19910811,Milwaukee Brewers,Texas Rangers,4,5
+19910811,Boston Red Sox,Toronto Blue Jays,9,6
+19910811,Houston Colts,Atlanta Braves,1,3
+19910811,New York Mets,Chicago Cubs,2,3
+19910811,Montreal Expos,Philadelpia Phillies,4,5
+19910811,St. Louis Cardinals,Pittsburgh Pirates,4,6
+19910811,Cincinnati Reds,San Diego Padres,0,13
+19910811,Los Angeles Dodgers,San  Francisco Giants,3,4
+19910812,Chicago White Sox,Baltimore Orioles,4,5
+19910812,California Angels,Minensota Twins,3,4
+19910812,Oakland Athletics,Seattle Mariners,3,6
+19910812,Milwaukee Brewers,Texas Rangers,14,7
+19910812,Boston Red Sox,Toronto Blue Jays,11,8
+19910812,New York Mets,Chicago Cubs,2,3
+19910812,Cincinnati Reds,Los Angeles Dodgers,2,3
+19910812,Montreal Expos,Philadelpia Phillies,1,2
+19910812,St. Louis Cardinals,Pittsburgh Pirates,3,4
+19910812,Houston Colts,San Diego Padres,5,6
+19910812,Atlanta Braves,San  Francisco Giants,2,1
+19910813,Texas Rangers,Baltimore Orioles,3,4
+19910813,Texas Rangers,Baltimore Orioles,7,8
+19910813,Boston Red Sox,Cleveland Indians,6,8
+19910813,Boston Red Sox,Cleveland Indians,7,5
+19910813,Chicago White Sox,Detroit Tigers,9,11
+19910813,Chicago White Sox,Detroit Tigers,3,4
+19910813,Toronto Blue Jays,Milwaukee Brewers,4,5
+19910813,California Angels,Minensota Twins,8,3
+19910813,Kansas City Royals,New York Yankees,5,0
+19910813,Kansas City Royals,New York Yankees,8,1
+19910813,Oakland Athletics,Seattle Mariners,2,5
+19910813,Montreal Expos,Chicago Cubs,7,6
+19910813,Cincinnati Reds,Los Angeles Dodgers,4,3
+19910813,Philadelpia Phillies,Pittsburgh Pirates,3,4
+19910813,Houston Colts,San Diego Padres,12,9
+19910813,Atlanta Braves,San  Francisco Giants,9,2
+19910813,New York Mets,St. Louis Cardinals,4,7
+19910814,Texas Rangers,Baltimore Orioles,2,10
+19910814,Boston Red Sox,Cleveland Indians,2,1
+19910814,Chicago White Sox,Detroit Tigers,9,8
+19910814,Toronto Blue Jays,Milwaukee Brewers,3,5
+19910814,California Angels,Minensota Twins,7,4
+19910814,Kansas City Royals,New York Yankees,5,1
+19910814,Oakland Athletics,Seattle Mariners,0,4
+19910814,Montreal Expos,Chicago Cubs,2,0
+19910814,Cincinnati Reds,Los Angeles Dodgers,1,4
+19910814,Philadelpia Phillies,Pittsburgh Pirates,3,5
+19910814,Houston Colts,San Diego Padres,1,4
+19910814,Atlanta Braves,San  Francisco Giants,3,8
+19910814,New York Mets,St. Louis Cardinals,4,5
+19910815,Texas Rangers,Baltimore Orioles,2,9
+19910815,Boston Red Sox,Cleveland Indians,6,2
+19910815,Chicago White Sox,Detroit Tigers,4,6
+19910815,Toronto Blue Jays,Milwaukee Brewers,4,1
+19910815,California Angels,Minensota Twins,9,1
+19910815,Kansas City Royals,New York Yankees,1,5
+19910815,Oakland Athletics,Seattle Mariners,6,8
+19910815,Montreal Expos,Chicago Cubs,6,7
+19910815,Houston Colts,Los Angeles Dodgers,6,1
+19910815,Philadelpia Phillies,Pittsburgh Pirates,6,4
+19910815,Atlanta Braves,San Diego Padres,0,1
+19910815,Cincinnati Reds,San  Francisco Giants,1,4
+19910815,New York Mets,St. Louis Cardinals,1,4
+19910816,Kansas City Royals,Boston Red Sox,2,3
+19910816,Texas Rangers,Cleveland Indians,5,3
+19910816,Texas Rangers,Cleveland Indians,9,13
+19910816,Toronto Blue Jays,Detroit Tigers,2,5
+19910816,Baltimore Orioles,Milwaukee Brewers,5,8
+19910816,Oakland Athletics,Minensota Twins,4,5
+19910816,Chicago White Sox,New York Yankees,5,6
+19910816,California Angels,Seattle Mariners,3,5
+19910816,Philadelpia Phillies,Chicago Cubs,1,9
+19910816,Houston Colts,Los Angeles Dodgers,1,4
+19910816,St. Louis Cardinals,Montreal Expos,4,2
+19910816,New York Mets,Pittsburgh Pirates,2,8
+19910816,Atlanta Braves,San Diego Padres,3,2
+19910816,Cincinnati Reds,San  Francisco Giants,5,0
+19910817,Kansas City Royals,Boston Red Sox,4,3
+19910817,Texas Rangers,Cleveland Indians,2,0
+19910817,Toronto Blue Jays,Detroit Tigers,7,5
+19910817,Baltimore Orioles,Milwaukee Brewers,6,7
+19910817,Oakland Athletics,Minensota Twins,4,12
+19910817,Chicago White Sox,New York Yankees,2,4
+19910817,California Angels,Seattle Mariners,4,1
+19910817,Philadelpia Phillies,Chicago Cubs,5,2
+19910817,Houston Colts,Los Angeles Dodgers,7,8
+19910817,St. Louis Cardinals,Montreal Expos,0,3
+19910817,New York Mets,Pittsburgh Pirates,1,4
+19910817,Atlanta Braves,San Diego Padres,2,1
+19910817,Cincinnati Reds,San  Francisco Giants,7,0
+19910818,Kansas City Royals,Boston Red Sox,1,5
+19910818,Texas Rangers,Cleveland Indians,9,4
+19910818,Toronto Blue Jays,Detroit Tigers,4,2
+19910818,Baltimore Orioles,Milwaukee Brewers,1,2
+19910818,Oakland Athletics,Minensota Twins,4,6
+19910818,Chicago White Sox,New York Yankees,11,3
+19910818,California Angels,Seattle Mariners,4,3
+19910818,Philadelpia Phillies,Chicago Cubs,6,7
+19910818,Houston Colts,Los Angeles Dodgers,8,4
+19910818,St. Louis Cardinals,Montreal Expos,4,1
+19910818,New York Mets,Pittsburgh Pirates,2,9
+19910818,Atlanta Braves,San Diego Padres,1,2
+19910818,Cincinnati Reds,San  Francisco Giants,4,3
+19910819,Detroit Tigers,Chicago White Sox,3,2
+19910819,New York Yankees,Kansas City Royals,6,2
+19910819,Oakland Athletics,Minensota Twins,8,7
+19910819,California Angels,Seattle Mariners,1,7
+19910819,Baltimore Orioles,Texas Rangers,1,4
+19910819,San Diego Padres,Los Angeles Dodgers,2,3
+19910819,Chicago Cubs,Montreal Expos,3,2
+19910820,Detroit Tigers,Chicago White Sox,5,0
+19910820,New York Yankees,Kansas City Royals,7,3
+19910820,Seattle Mariners,Minensota Twins,5,10
+19910820,California Angels,Oakland Athletics,2,3
+19910820,Baltimore Orioles,Texas Rangers,8,6
+19910820,Milwaukee Brewers,Toronto Blue Jays,1,3
+19910820,Atlanta Braves,Cincinnati Reds,2,8
+19910820,Atlanta Braves,Cincinnati Reds,5,1
+19910820,San  Francisco Giants,Houston Colts,9,3
+19910820,San Diego Padres,Los Angeles Dodgers,4,6
+19910820,Chicago Cubs,Montreal Expos,2,4
+19910820,Pittsburgh Pirates,Philadelpia Phillies,5,6
+19910821,Cleveland Indians,Boston Red Sox,5,13
+19910821,Cleveland Indians,Boston Red Sox,4,5
+19910821,Detroit Tigers,Chicago White Sox,12,9
+19910821,New York Yankees,Kansas City Royals,4,7
+19910821,Seattle Mariners,Minensota Twins,1,9
+19910821,California Angels,Oakland Athletics,0,2
+19910821,Baltimore Orioles,Texas Rangers,4,3
+19910821,Milwaukee Brewers,Toronto Blue Jays,3,0
+19910821,Atlanta Braves,Cincinnati Reds,10,9
+19910821,San  Francisco Giants,Houston Colts,4,13
+19910821,San Diego Padres,Los Angeles Dodgers,5,9
+19910821,Chicago Cubs,Montreal Expos,3,1
+19910821,St. Louis Cardinals,New York Mets,7,3
+19910821,St. Louis Cardinals,New York Mets,0,8
+19910821,Pittsburgh Pirates,Philadelpia Phillies,5,6
+19910822,Cleveland Indians,Boston Red Sox,6,7
+19910822,Texas Rangers,Kansas City Royals,4,2
+19910822,Seattle Mariners,Minensota Twins,4,5
+19910822,California Angels,Oakland Athletics,1,2
+19910822,Milwaukee Brewers,Toronto Blue Jays,8,7
+19910822,Atlanta Braves,Cincinnati Reds,4,1
+19910822,San  Francisco Giants,Houston Colts,11,8
+19910822,St. Louis Cardinals,New York Mets,0,6
+19910822,Pittsburgh Pirates,Philadelpia Phillies,3,4
+19910823,Minensota Twins,Baltimore Orioles,4,5
+19910823,Boston Red Sox,California Angels,1,4
+19910823,Chicago White Sox,Cleveland Indians,3,4
+19910823,Seattle Mariners,Detroit Tigers,6,8
+19910823,Texas Rangers,Kansas City Royals,6,1
+19910823,Milwaukee Brewers,Oakland Athletics,13,4
+19910823,New York Yankees,Toronto Blue Jays,5,6
+19910823,Philadelpia Phillies,Atlanta Braves,2,4
+19910823,San Diego Padres,Chicago Cubs,4,5
+19910823,Montreal Expos,Houston Colts,2,9
+19910823,Cincinnati Reds,New York Mets,6,1
+19910823,San  Francisco Giants,Pittsburgh Pirates,0,8
+19910823,Los Angeles Dodgers,St. Louis Cardinals,1,2
+19910824,Minensota Twins,Baltimore Orioles,5,2
+19910824,Boston Red Sox,California Angels,0,1
+19910824,Chicago White Sox,Cleveland Indians,1,2
+19910824,Seattle Mariners,Detroit Tigers,2,7
+19910824,Texas Rangers,Kansas City Royals,1,8
+19910824,Milwaukee Brewers,Oakland Athletics,7,0
+19910824,New York Yankees,Toronto Blue Jays,6,5
+19910824,Philadelpia Phillies,Atlanta Braves,6,5
+19910824,San Diego Padres,Chicago Cubs,4,1
+19910824,Montreal Expos,Houston Colts,5,1
+19910824,Cincinnati Reds,New York Mets,7,0
+19910824,San  Francisco Giants,Pittsburgh Pirates,5,1
+19910824,Los Angeles Dodgers,St. Louis Cardinals,3,7
+19910825,Minensota Twins,Baltimore Orioles,3,7
+19910825,Boston Red Sox,California Angels,5,9
+19910825,Chicago White Sox,Cleveland Indians,0,3
+19910825,Seattle Mariners,Detroit Tigers,3,4
+19910825,Texas Rangers,Kansas City Royals,8,4
+19910825,Milwaukee Brewers,Oakland Athletics,8,2
+19910825,New York Yankees,Toronto Blue Jays,7,11
+19910825,Philadelpia Phillies,Atlanta Braves,6,5
+19910825,San Diego Padres,Chicago Cubs,12,9
+19910825,Montreal Expos,Houston Colts,4,0
+19910825,Cincinnati Reds,New York Mets,1,2
+19910825,San  Francisco Giants,Pittsburgh Pirates,3,8
+19910825,Los Angeles Dodgers,St. Louis Cardinals,2,5
+19910826,Toronto Blue Jays,Baltimore Orioles,5,2
+19910826,Detroit Tigers,California Angels,5,1
+19910826,Minensota Twins,Cleveland Indians,5,3
+19910826,Chicago White Sox,Kansas City Royals,0,7
+19910826,Texas Rangers,New York Yankees,10,2
+19910826,Boston Red Sox,Oakland Athletics,3,0
+19910826,Milwaukee Brewers,Seattle Mariners,4,5
+19910826,Montreal Expos,Atlanta Braves,9,14
+19910826,Los Angeles Dodgers,Chicago Cubs,4,3
+19910826,Philadelpia Phillies,Cincinnati Reds,4,5
+19910826,New York Mets,Houston Colts,6,4
+19910826,San Diego Padres,Pittsburgh Pirates,7,5
+19910826,San  Francisco Giants,St. Louis Cardinals,6,7
+19910827,Toronto Blue Jays,Baltimore Orioles,6,1
+19910827,Detroit Tigers,California Angels,2,4
+19910827,Minensota Twins,Cleveland Indians,1,2
+19910827,Chicago White Sox,Kansas City Royals,2,3
+19910827,Texas Rangers,New York Yankees,7,2
+19910827,Boston Red Sox,Oakland Athletics,6,4
+19910827,Milwaukee Brewers,Seattle Mariners,4,6
+19910827,Montreal Expos,Atlanta Braves,2,3
+19910827,Los Angeles Dodgers,Chicago Cubs,1,2
+19910827,Philadelpia Phillies,Cincinnati Reds,2,4
+19910827,New York Mets,Houston Colts,3,8
+19910827,San Diego Padres,Pittsburgh Pirates,2,5
+19910827,San  Francisco Giants,St. Louis Cardinals,4,5
+19910828,Toronto Blue Jays,Baltimore Orioles,3,0
+19910828,Detroit Tigers,California Angels,0,1
+19910828,Minensota Twins,Cleveland Indians,4,2
+19910828,Chicago White Sox,Kansas City Royals,6,7
+19910828,Texas Rangers,New York Yankees,1,5
+19910828,Boston Red Sox,Oakland Athletics,3,9
+19910828,Milwaukee Brewers,Seattle Mariners,6,7
+19910828,New York Mets,Atlanta Braves,1,3
+19910828,Montreal Expos,Cincinnati Reds,3,11
+19910828,Pittsburgh Pirates,Los Angeles Dodgers,6,4
+19910828,Houston Colts,Philadelpia Phillies,10,11
+19910828,Chicago Cubs,San  Francisco Giants,8,6
+19910828,San Diego Padres,St. Louis Cardinals,2,1
+19910829,Cleveland Indians,Chicago White Sox,2,7
+19910829,Toronto Blue Jays,New York Yankees,6,2
+19910829,New York Mets,Atlanta Braves,0,2
+19910829,Montreal Expos,Cincinnati Reds,4,5
+19910829,Pittsburgh Pirates,Los Angeles Dodgers,4,1
+19910829,Houston Colts,Philadelpia Phillies,5,1
+19910829,Chicago Cubs,San  Francisco Giants,5,4
+19910829,San Diego Padres,St. Louis Cardinals,1,0
+19910830,Cleveland Indians,Chicago White Sox,3,2
+19910830,California Angels,Milwaukee Brewers,2,6
+19910830,Baltimore Orioles,Minensota Twins,11,5
+19910830,Toronto Blue Jays,New York Yankees,2,9
+19910830,Detroit Tigers,Oakland Athletics,3,6
+19910830,Boston Red Sox,Seattle Mariners,3,2
+19910830,Kansas City Royals,Texas Rangers,2,6
+19910830,New York Mets,Cincinnati Reds,3,2
+19910830,Chicago Cubs,Los Angeles Dodgers,0,2
+19910830,Houston Colts,Montreal Expos,1,3
+19910830,Atlanta Braves,Philadelpia Phillies,6,1
+19910830,Pittsburgh Pirates,San Diego Padres,4,1
+19910830,St. Louis Cardinals,San  Francisco Giants,3,8
+19910831,Cleveland Indians,Chicago White Sox,5,10
+19910831,California Angels,Milwaukee Brewers,2,8
+19910831,Baltimore Orioles,Minensota Twins,2,5
+19910831,Toronto Blue Jays,New York Yankees,5,0
+19910831,Detroit Tigers,Oakland Athletics,8,9
+19910831,Boston Red Sox,Seattle Mariners,4,1
+19910831,Kansas City Royals,Texas Rangers,3,2
+19910831,New York Mets,Cincinnati Reds,8,7
+19910831,Chicago Cubs,Los Angeles Dodgers,2,3
+19910831,Houston Colts,Montreal Expos,4,5
+19910831,Atlanta Braves,Philadelpia Phillies,0,5
+19910831,Pittsburgh Pirates,San Diego Padres,3,2
+19910831,St. Louis Cardinals,San  Francisco Giants,1,6
+19910901,Cleveland Indians,Chicago White Sox,1,6
+19910901,California Angels,Milwaukee Brewers,1,3
+19910901,Baltimore Orioles,Minensota Twins,3,14
+19910901,Toronto Blue Jays,New York Yankees,2,4
+19910901,Detroit Tigers,Oakland Athletics,5,2
+19910901,Boston Red Sox,Seattle Mariners,13,2
+19910901,Kansas City Royals,Texas Rangers,4,6
+19910901,New York Mets,Cincinnati Reds,9,4
+19910901,Chicago Cubs,Los Angeles Dodgers,3,12
+19910901,Houston Colts,Montreal Expos,1,6
+19910901,Atlanta Braves,Philadelpia Phillies,4,5
+19910901,Pittsburgh Pirates,San Diego Padres,4,7
+19910901,St. Louis Cardinals,San  Francisco Giants,14,1
+19910902,Kansas City Royals,Chicago White Sox,1,5
+19910902,California Angels,Milwaukee Brewers,7,6
+19910902,Cleveland Indians,Minensota Twins,3,9
+19910902,Detroit Tigers,Seattle Mariners,12,5
+19910902,New York Yankees,Texas Rangers,2,7
+19910902,Baltimore Orioles,Toronto Blue Jays,4,5
+19910902,St. Louis Cardinals,Los Angeles Dodgers,7,4
+19910902,Atlanta Braves,Montreal Expos,3,4
+19910902,Houston Colts,New York Mets,3,0
+19910902,Cincinnati Reds,Philadelpia Phillies,5,8
+19910902,Chicago Cubs,San Diego Padres,10,8
+19910902,Pittsburgh Pirates,San  Francisco Giants,9,8
+19910903,California Angels,Boston Red Sox,2,0
+19910903,Kansas City Royals,Chicago White Sox,8,0
+19910903,Oakland Athletics,Milwaukee Brewers,3,5
+19910903,Detroit Tigers,Seattle Mariners,0,1
+19910903,New York Yankees,Texas Rangers,1,5
+19910903,Baltimore Orioles,Toronto Blue Jays,8,4
+19910903,St. Louis Cardinals,Los Angeles Dodgers,4,5
+19910903,Atlanta Braves,Montreal Expos,4,1
+19910903,Houston Colts,New York Mets,1,6
+19910903,Cincinnati Reds,Philadelpia Phillies,8,5
+19910903,Chicago Cubs,San Diego Padres,1,4
+19910903,Pittsburgh Pirates,San  Francisco Giants,5,3
+19910904,California Angels,Boston Red Sox,0,2
+19910904,Kansas City Royals,Chicago White Sox,1,4
+19910904,Oakland Athletics,Milwaukee Brewers,0,2
+19910904,Cleveland Indians,Minensota Twins,8,4
+19910904,New York Yankees,Texas Rangers,3,2
+19910904,Baltimore Orioles,Toronto Blue Jays,1,3
+19910904,St. Louis Cardinals,Los Angeles Dodgers,3,8
+19910904,Atlanta Braves,Montreal Expos,4,8
+19910904,Houston Colts,New York Mets,8,3
+19910904,Cincinnati Reds,Philadelpia Phillies,5,1
+19910904,Chicago Cubs,San Diego Padres,1,5
+19910904,Pittsburgh Pirates,San  Francisco Giants,8,3
+19910905,Seattle Mariners,Boston Red Sox,3,4
+19910905,Kansas City Royals,Chicago White Sox,2,11
+19910905,Toronto Blue Jays,Cleveland Indians,13,1
+19910905,Oakland Athletics,Detroit Tigers,4,1
+19910905,St. Louis Cardinals,San Diego Padres,1,3
+19910906,Kansas City Royals,Baltimore Orioles,2,6
+19910906,Seattle Mariners,Boston Red Sox,5,6
+19910906,Milwaukee Brewers,California Angels,1,2
+19910906,Toronto Blue Jays,Cleveland Indians,7,4
+19910906,Oakland Athletics,Detroit Tigers,2,11
+19910906,New York Yankees,Minensota Twins,1,3
+19910906,Chicago White Sox,Texas Rangers,11,6
+19910906,San  Francisco Giants,Chicago Cubs,2,3
+19910906,Philadelpia Phillies,Houston Colts,1,3
+19910906,Cincinnati Reds,Montreal Expos,1,4
+19910906,Atlanta Braves,New York Mets,4,2
+19910906,Los Angeles Dodgers,Pittsburgh Pirates,4,3
+19910906,Los Angeles Dodgers,Pittsburgh Pirates,1,3
+19910906,St. Louis Cardinals,San Diego Padres,2,6
+19910907,Kansas City Royals,Baltimore Orioles,7,4
+19910907,Seattle Mariners,Boston Red Sox,10,11
+19910907,Milwaukee Brewers,California Angels,0,1
+19910907,Toronto Blue Jays,Cleveland Indians,4,1
+19910907,Oakland Athletics,Detroit Tigers,3,1
+19910907,New York Yankees,Minensota Twins,2,3
+19910907,Chicago White Sox,Texas Rangers,11,6
+19910907,San  Francisco Giants,Chicago Cubs,1,2
+19910907,Philadelpia Phillies,Houston Colts,0,6
+19910907,Cincinnati Reds,Montreal Expos,5,7
+19910907,Atlanta Braves,New York Mets,6,1
+19910907,Los Angeles Dodgers,Pittsburgh Pirates,5,1
+19910907,St. Louis Cardinals,San Diego Padres,0,1
+19910908,Kansas City Royals,Baltimore Orioles,3,2
+19910908,Seattle Mariners,Boston Red Sox,6,17
+19910908,Milwaukee Brewers,California Angels,0,1
+19910908,Toronto Blue Jays,Cleveland Indians,11,5
+19910908,Oakland Athletics,Detroit Tigers,7,4
+19910908,New York Yankees,Minensota Twins,5,6
+19910908,Chicago White Sox,Texas Rangers,6,7
+19910908,San  Francisco Giants,Chicago Cubs,4,3
+19910908,Philadelpia Phillies,Houston Colts,5,0
+19910908,Cincinnati Reds,Montreal Expos,2,4
+19910908,Atlanta Braves,New York Mets,7,5
+19910908,Los Angeles Dodgers,Pittsburgh Pirates,5,1
+19910909,New York Yankees,Baltimore Orioles,0,8
+19910909,Texas Rangers,California Angels,2,4
+19910909,Boston Red Sox,Cleveland Indians,4,3
+19910909,Minensota Twins,Kansas City Royals,10,4
+19910909,Chicago White Sox,Oakland Athletics,7,1
+19910909,San  Francisco Giants,Atlanta Braves,3,8
+19910909,Pittsburgh Pirates,Chicago Cubs,12,10
+19910909,Los Angeles Dodgers,Cincinnati Reds,10,4
+19910909,San Diego Padres,Houston Colts,3,0
+19910909,Montreal Expos,New York Mets,4,3
+19910909,Philadelpia Phillies,St. Louis Cardinals,2,4
+19910910,New York Yankees,Baltimore Orioles,3,6
+19910910,Texas Rangers,California Angels,6,1
+19910910,Boston Red Sox,Detroit Tigers,4,0
+19910910,Minensota Twins,Kansas City Royals,7,2
+19910910,Cleveland Indians,Milwaukee Brewers,5,2
+19910910,Chicago White Sox,Oakland Athletics,3,1
+19910910,Seattle Mariners,Toronto Blue Jays,5,4
+19910910,San  Francisco Giants,Atlanta Braves,1,4
+19910910,Pittsburgh Pirates,Chicago Cubs,2,6
+19910910,Los Angeles Dodgers,Cincinnati Reds,0,6
+19910910,San Diego Padres,Houston Colts,7,6
+19910910,Montreal Expos,New York Mets,0,9
+19910910,Philadelpia Phillies,St. Louis Cardinals,5,2
+19910911,New York Yankees,Baltimore Orioles,2,4
+19910911,Texas Rangers,California Angels,11,9
+19910911,Boston Red Sox,Detroit Tigers,2,8
+19910911,Minensota Twins,Kansas City Royals,1,4
+19910911,Chicago White Sox,Oakland Athletics,5,6
+19910911,Seattle Mariners,Toronto Blue Jays,7,3
+19910911,San Diego Padres,Atlanta Braves,0,1
+19910911,New York Mets,Chicago Cubs,4,1
+19910911,San  Francisco Giants,Cincinnati Reds,4,2
+19910911,Los Angeles Dodgers,Houston Colts,9,1
+19910911,Montreal Expos,Philadelpia Phillies,6,5
+19910911,Pittsburgh Pirates,St. Louis Cardinals,3,1
+19910912,Cleveland Indians,Baltimore Orioles,6,5
+19910912,Chicago White Sox,California Angels,4,7
+19910912,Detroit Tigers,Milwaukee Brewers,0,7
+19910912,Boston Red Sox,New York Yankees,7,2
+19910912,Minensota Twins,Texas Rangers,3,4
+19910912,San Diego Padres,Atlanta Braves,1,5
+19910912,New York Mets,Chicago Cubs,6,3
+19910912,San  Francisco Giants,Cincinnati Reds,3,7
+19910912,Los Angeles Dodgers,Houston Colts,6,2
+19910912,Montreal Expos,Philadelpia Phillies,6,2
+19910912,Pittsburgh Pirates,St. Louis Cardinals,0,1
+19910913,Cleveland Indians,Baltimore Orioles,4,5
+19910913,Chicago White Sox,California Angels,1,0
+19910913,Seattle Mariners,Kansas City Royals,2,3
+19910913,Detroit Tigers,Milwaukee Brewers,3,2
+19910913,Boston Red Sox,New York Yankees,5,4
+19910913,Minensota Twins,Texas Rangers,7,3
+19910913,Oakland Athletics,Toronto Blue Jays,6,7
+19910913,Los Angeles Dodgers,Atlanta Braves,5,2
+19910913,Montreal Expos,Chicago Cubs,3,2
+19910913,Houston Colts,Cincinnati Reds,2,13
+19910913,Pittsburgh Pirates,Philadelpia Phillies,8,6
+19910913,San Diego Padres,San  Francisco Giants,13,2
+19910913,New York Mets,St. Louis Cardinals,4,2
+19910914,Cleveland Indians,Baltimore Orioles,6,5
+19910914,Chicago White Sox,California Angels,2,3
+19910914,Seattle Mariners,Kansas City Royals,4,3
+19910914,Detroit Tigers,Milwaukee Brewers,6,4
+19910914,Boston Red Sox,New York Yankees,1,3
+19910914,Minensota Twins,Texas Rangers,0,3
+19910914,Oakland Athletics,Toronto Blue Jays,0,6
+19910914,Los Angeles Dodgers,Atlanta Braves,2,3
+19910914,Montreal Expos,Chicago Cubs,5,7
+19910914,Houston Colts,Cincinnati Reds,7,3
+19910914,Pittsburgh Pirates,Philadelpia Phillies,5,3
+19910914,San Diego Padres,San  Francisco Giants,3,1
+19910914,New York Mets,St. Louis Cardinals,1,2
+19910915,Cleveland Indians,Baltimore Orioles,3,4
+19910915,Chicago White Sox,California Angels,9,2
+19910915,Seattle Mariners,Kansas City Royals,14,7
+19910915,Detroit Tigers,Milwaukee Brewers,3,5
+19910915,Boston Red Sox,New York Yankees,5,4
+19910915,Minensota Twins,Texas Rangers,2,4
+19910915,Oakland Athletics,Toronto Blue Jays,10,5
+19910915,Los Angeles Dodgers,Atlanta Braves,1,9
+19910915,Montreal Expos,Chicago Cubs,6,5
+19910915,Houston Colts,Cincinnati Reds,0,10
+19910915,Pittsburgh Pirates,Philadelpia Phillies,3,8
+19910915,San Diego Padres,San  Francisco Giants,2,7
+19910915,New York Mets,St. Louis Cardinals,2,7
+19910916,Baltimore Orioles,Boston Red Sox,9,2
+19910916,Kansas City Royals,Minensota Twins,0,9
+19910916,Milwaukee Brewers,New York Yankees,5,4
+19910916,Toronto Blue Jays,Seattle Mariners,5,6
+19910916,Cincinnati Reds,Los Angeles Dodgers,5,6
+19910916,St. Louis Cardinals,Philadelpia Phillies,3,0
+19910916,Chicago Cubs,Pittsburgh Pirates,4,5
+19910916,Houston Colts,San Diego Padres,1,6
+19910916,Atlanta Braves,San  Francisco Giants,5,8
+19910917,Baltimore Orioles,Boston Red Sox,3,4
+19910917,Oakland Athletics,Chicago White Sox,0,1
+19910917,Detroit Tigers,Cleveland Indians,1,3
+19910917,Kansas City Royals,Minensota Twins,4,1
+19910917,Milwaukee Brewers,New York Yankees,2,0
+19910917,Toronto Blue Jays,Seattle Mariners,4,5
+19910917,California Angels,Texas Rangers,7,2
+19910917,Cincinnati Reds,Los Angeles Dodgers,3,5
+19910917,Montreal Expos,New York Mets,5,4
+19910917,Montreal Expos,New York Mets,2,3
+19910917,St. Louis Cardinals,Philadelpia Phillies,2,4
+19910917,Chicago Cubs,Pittsburgh Pirates,2,9
+19910917,Houston Colts,San Diego Padres,3,0
+19910917,Atlanta Braves,San  Francisco Giants,2,3
+19910918,Baltimore Orioles,Boston Red Sox,5,7
+19910918,Oakland Athletics,Chicago White Sox,0,6
+19910918,Detroit Tigers,Cleveland Indians,2,3
+19910918,Kansas City Royals,Minensota Twins,10,4
+19910918,Milwaukee Brewers,New York Yankees,1,2
+19910918,Toronto Blue Jays,Seattle Mariners,5,3
+19910918,Houston Colts,Los Angeles Dodgers,4,5
+19910918,Chicago Cubs,New York Mets,4,1
+19910918,Montreal Expos,Philadelpia Phillies,0,1
+19910918,St. Louis Cardinals,Pittsburgh Pirates,5,6
+19910918,Atlanta Braves,San Diego Padres,6,4
+19910918,Cincinnati Reds,San  Francisco Giants,2,7
+19910919,Kansas City Royals,Seattle Mariners,5,10
+19910919,California Angels,Texas Rangers,3,10
+19910919,California Angels,Texas Rangers,5,2
+19910919,Houston Colts,Los Angeles Dodgers,3,4
+19910919,Montreal Expos,Philadelpia Phillies,4,5
+19910919,St. Louis Cardinals,Pittsburgh Pirates,1,5
+19910919,Atlanta Braves,San Diego Padres,4,2
+19910919,Cincinnati Reds,San  Francisco Giants,1,4
+19910920,New York Yankees,Boston Red Sox,0,2
+19910920,California Angels,Chicago White Sox,2,3
+19910920,Baltimore Orioles,Cleveland Indians,2,1
+19910920,Milwaukee Brewers,Detroit Tigers,8,5
+19910920,Texas Rangers,Minensota Twins,4,6
+19910920,Toronto Blue Jays,Oakland Athletics,5,6
+19910920,Kansas City Royals,Seattle Mariners,3,0
+19910920,Cincinnati Reds,Houston Colts,2,3
+19910920,Atlanta Braves,Los Angeles Dodgers,3,0
+19910920,St. Louis Cardinals,New York Mets,0,1
+19910920,Philadelpia Phillies,Pittsburgh Pirates,8,3
+19910920,San  Francisco Giants,San Diego Padres,5,10
+19910921,New York Yankees,Boston Red Sox,1,12
+19910921,California Angels,Chicago White Sox,4,3
+19910921,Baltimore Orioles,Cleveland Indians,1,10
+19910921,Milwaukee Brewers,Detroit Tigers,5,2
+19910921,Texas Rangers,Minensota Twins,4,8
+19910921,Toronto Blue Jays,Oakland Athletics,0,4
+19910921,Kansas City Royals,Seattle Mariners,1,4
+19910921,Cincinnati Reds,Houston Colts,4,1
+19910921,Atlanta Braves,Los Angeles Dodgers,1,2
+19910921,St. Louis Cardinals,New York Mets,3,5
+19910921,Philadelpia Phillies,Pittsburgh Pirates,0,7
+19910921,San  Francisco Giants,San Diego Padres,2,3
+19910922,New York Yankees,Boston Red Sox,7,5
+19910922,California Angels,Chicago White Sox,4,2
+19910922,Baltimore Orioles,Cleveland Indians,1,2
+19910922,Milwaukee Brewers,Detroit Tigers,9,5
+19910922,Texas Rangers,Minensota Twins,4,9
+19910922,Toronto Blue Jays,Oakland Athletics,3,2
+19910922,Kansas City Royals,Seattle Mariners,2,1
+19910922,Montreal Expos,Chicago Cubs,6,2
+19910922,Montreal Expos,Chicago Cubs,5,3
+19910922,Cincinnati Reds,Houston Colts,1,4
+19910922,Atlanta Braves,Los Angeles Dodgers,0,3
+19910922,St. Louis Cardinals,New York Mets,2,1
+19910922,Philadelpia Phillies,Pittsburgh Pirates,1,2
+19910922,San  Francisco Giants,San Diego Padres,3,6
+19910923,Boston Red Sox,Baltimore Orioles,3,4
+19910923,Toronto Blue Jays,California Angels,9,10
+19910923,Cleveland Indians,Detroit Tigers,1,2
+19910923,New York Yankees,Milwaukee Brewers,9,8
+19910923,Kansas City Royals,Oakland Athletics,6,7
+19910923,Texas Rangers,Seattle Mariners,11,4
+19910923,Philadelpia Phillies,Chicago Cubs,3,10
+19910923,San  Francisco Giants,Houston Colts,0,8
+19910923,Montreal Expos,St. Louis Cardinals,1,10
+19910923,Montreal Expos,St. Louis Cardinals,5,1
+19910924,Toronto Blue Jays,California Angels,3,0
+19910924,Cleveland Indians,Detroit Tigers,2,7
+19910924,New York Yankees,Milwaukee Brewers,4,5
+19910924,Chicago White Sox,Minensota Twins,2,9
+19910924,Kansas City Royals,Oakland Athletics,5,4
+19910924,Texas Rangers,Seattle Mariners,8,7
+19910924,Philadelpia Phillies,Chicago Cubs,4,2
+19910924,San  Francisco Giants,Houston Colts,9,7
+19910924,Pittsburgh Pirates,New York Mets,10,8
+19910924,Los Angeles Dodgers,San Diego Padres,5,2
+19910924,Montreal Expos,St. Louis Cardinals,3,4
+19910925,Toronto Blue Jays,California Angels,7,2
+19910925,Cleveland Indians,Detroit Tigers,6,4
+19910925,New York Yankees,Milwaukee Brewers,8,6
+19910925,Chicago White Sox,Minensota Twins,6,1
+19910925,Kansas City Royals,Oakland Athletics,4,8
+19910925,Texas Rangers,Seattle Mariners,7,1
+19910925,Cincinnati Reds,Atlanta Braves,1,2
+19910925,Cincinnati Reds,Atlanta Braves,10,9
+19910925,Philadelpia Phillies,Chicago Cubs,5,4
+19910925,San  Francisco Giants,Houston Colts,2,1
+19910925,Los Angeles Dodgers,San Diego Padres,2,8
+19910925,Montreal Expos,St. Louis Cardinals,7,2
+19910926,Boston Red Sox,Baltimore Orioles,2,1
+19910926,Boston Red Sox,Baltimore Orioles,5,6
+19910926,Cleveland Indians,Detroit Tigers,5,6
+19910926,California Angels,Kansas City Royals,2,3
+19910926,New York Yankees,Milwaukee Brewers,2,6
+19910926,Texas Rangers,Oakland Athletics,0,10
+19910926,Cincinnati Reds,Atlanta Braves,8,0
+19910926,Pittsburgh Pirates,New York Mets,4,3
+19910926,Pittsburgh Pirates,New York Mets,1,2
+19910927,Seattle Mariners,Chicago White Sox,10,8
+19910927,New York Yankees,Cleveland Indians,3,0
+19910927,Baltimore Orioles,Detroit Tigers,9,7
+19910927,California Angels,Kansas City Royals,1,4
+19910927,Boston Red Sox,Milwaukee Brewers,5,7
+19910927,Texas Rangers,Oakland Athletics,3,0
+19910927,Minensota Twins,Toronto Blue Jays,2,7
+19910927,San Diego Padres,Cincinnati Reds,8,3
+19910927,Atlanta Braves,Houston Colts,4,2
+19910927,San  Francisco Giants,Los Angeles Dodgers,2,6
+19910927,Philadelpia Phillies,New York Mets,4,6
+19910927,Montreal Expos,Pittsburgh Pirates,12,8
+19910927,Chicago Cubs,St. Louis Cardinals,4,5
+19910928,Seattle Mariners,Chicago White Sox,2,5
+19910928,New York Yankees,Cleveland Indians,4,5
+19910928,Baltimore Orioles,Detroit Tigers,4,5
+19910928,California Angels,Kansas City Royals,4,3
+19910928,Boston Red Sox,Milwaukee Brewers,1,4
+19910928,Texas Rangers,Oakland Athletics,6,3
+19910928,Minensota Twins,Toronto Blue Jays,5,0
+19910928,San Diego Padres,Cincinnati Reds,4,2
+19910928,Atlanta Braves,Houston Colts,5,4
+19910928,San  Francisco Giants,Los Angeles Dodgers,4,1
+19910928,Philadelpia Phillies,New York Mets,6,2
+19910928,Montreal Expos,Pittsburgh Pirates,3,2
+19910928,Chicago Cubs,St. Louis Cardinals,2,3
+19910929,Seattle Mariners,Chicago White Sox,2,1
+19910929,New York Yankees,Cleveland Indians,2,5
+19910929,Baltimore Orioles,Detroit Tigers,7,4
+19910929,California Angels,Kansas City Royals,4,8
+19910929,Boston Red Sox,Milwaukee Brewers,4,5
+19910929,Texas Rangers,Oakland Athletics,5,19
+19910929,Minensota Twins,Toronto Blue Jays,1,2
+19910929,San Diego Padres,Cincinnati Reds,1,8
+19910929,Atlanta Braves,Houston Colts,6,5
+19910929,San  Francisco Giants,Los Angeles Dodgers,2,3
+19910929,Philadelpia Phillies,New York Mets,3,4
+19910929,Montreal Expos,Pittsburgh Pirates,3,6
+19910929,Chicago Cubs,St. Louis Cardinals,5,3
+19910930,Minensota Twins,Chicago White Sox,8,3
+19910930,New York Yankees,Cleveland Indians,3,0
+19910930,Baltimore Orioles,Detroit Tigers,3,8
+19910930,Oakland Athletics,Kansas City Royals,4,8
+19910930,Boston Red Sox,Milwaukee Brewers,9,8
+19910930,Seattle Mariners,Texas Rangers,3,2
+19910930,Seattle Mariners,Texas Rangers,0,2
+19910930,California Angels,Toronto Blue Jays,2,1
+19910930,Atlanta Braves,Cincinnati Reds,4,0
+19910930,San Diego Padres,Los Angeles Dodgers,2,7
+19910930,Chicago Cubs,Philadelpia Phillies,5,6
+19910930,New York Mets,Pittsburgh Pirates,5,6
+19910930,Houston Colts,San  Francisco Giants,2,0
+19910930,Montreal Expos,St. Louis Cardinals,1,11
+19911001,Detroit Tigers,Boston Red Sox,8,5
+19911001,Minensota Twins,Chicago White Sox,3,2
+19911001,Milwaukee Brewers,Cleveland Indians,11,0
+19911001,Milwaukee Brewers,Cleveland Indians,2,6
+19911001,Oakland Athletics,Kansas City Royals,4,0
+19911001,Baltimore Orioles,New York Yankees,2,3
+19911001,Seattle Mariners,Texas Rangers,8,1
+19911001,California Angels,Toronto Blue Jays,2,5
+19911001,Atlanta Braves,Cincinnati Reds,7,6
+19911001,San Diego Padres,Los Angeles Dodgers,1,3
+19911001,Chicago Cubs,Philadelpia Phillies,5,6
+19911001,New York Mets,Pittsburgh Pirates,1,2
+19911001,Houston Colts,San  Francisco Giants,4,6
+19911001,Montreal Expos,St. Louis Cardinals,1,3
+19911002,Detroit Tigers,Boston Red Sox,3,5
+19911002,Milwaukee Brewers,Cleveland Indians,11,4
+19911002,Oakland Athletics,Kansas City Royals,5,16
+19911002,Baltimore Orioles,New York Yankees,3,4
+19911002,Seattle Mariners,Texas Rangers,4,3
+19911002,California Angels,Toronto Blue Jays,5,6
+19911002,Atlanta Braves,Cincinnati Reds,6,3
+19911002,San Diego Padres,Los Angeles Dodgers,9,4
+19911002,Chicago Cubs,Philadelpia Phillies,1,0
+19911002,New York Mets,Pittsburgh Pirates,9,6
+19911002,Houston Colts,San  Francisco Giants,7,5
+19911002,Montreal Expos,St. Louis Cardinals,4,6
+19911003,Detroit Tigers,Boston Red Sox,10,5
+19911003,Minensota Twins,Chicago White Sox,2,3
+19911003,Minensota Twins,Chicago White Sox,12,13
+19911003,Milwaukee Brewers,Cleveland Indians,9,3
+19911003,Baltimore Orioles,New York Yankees,6,9
+19911004,Detroit Tigers,Baltimore Orioles,4,2
+19911004,Milwaukee Brewers,Boston Red Sox,3,2
+19911004,Kansas City Royals,California Angels,2,6
+19911004,Toronto Blue Jays,Minensota Twins,4,1
+19911004,Cleveland Indians,New York Yankees,3,2
+19911004,Chicago White Sox,Seattle Mariners,4,6
+19911004,Oakland Athletics,Texas Rangers,3,4
+19911004,Houston Colts,Atlanta Braves,2,5
+19911004,New York Mets,Philadelpia Phillies,4,5
+19911004,Montreal Expos,Pittsburgh Pirates,3,1
+19911004,Cincinnati Reds,San Diego Padres,2,3
+19911004,Los Angeles Dodgers,San  Francisco Giants,1,4
+19911005,Detroit Tigers,Baltimore Orioles,3,7
+19911005,Milwaukee Brewers,Boston Red Sox,13,4
+19911005,Kansas City Royals,California Angels,1,5
+19911005,Toronto Blue Jays,Minensota Twins,1,3
+19911005,Cleveland Indians,New York Yankees,7,5
+19911005,Chicago White Sox,Seattle Mariners,0,10
+19911005,Oakland Athletics,Texas Rangers,12,5
+19911005,Houston Colts,Atlanta Braves,2,5
+19911005,St. Louis Cardinals,Chicago Cubs,2,3
+19911005,St. Louis Cardinals,Chicago Cubs,5,7
+19911005,New York Mets,Philadelpia Phillies,0,1
+19911005,Montreal Expos,Pittsburgh Pirates,3,4
+19911005,Cincinnati Reds,San Diego Padres,7,10
+19911005,Los Angeles Dodgers,San  Francisco Giants,0,4
+19911006,Detroit Tigers,Baltimore Orioles,7,1
+19911006,Milwaukee Brewers,Boston Red Sox,6,3
+19911006,Kansas City Royals,California Angels,1,3
+19911006,Toronto Blue Jays,Minensota Twins,3,2
+19911006,Cleveland Indians,New York Yankees,4,7
+19911006,Chicago White Sox,Seattle Mariners,3,2
+19911006,Oakland Athletics,Texas Rangers,2,4
+19911006,Houston Colts,Atlanta Braves,8,3
+19911006,St. Louis Cardinals,Chicago Cubs,3,7
+19911006,New York Mets,Philadelpia Phillies,7,0
+19911006,Montreal Expos,Pittsburgh Pirates,0,7
+19911006,Cincinnati Reds,San Diego Padres,1,3
+19911006,Los Angeles Dodgers,San  Francisco Giants,2,0

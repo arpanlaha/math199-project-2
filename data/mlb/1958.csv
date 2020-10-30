@@ -1,0 +1,1236 @@
+Date,away_team,home_team,away_team_score,home_team_score
+19580414,Boston Red Sox,Washington Senators,2,5
+19580415,Washington Senators,Baltimore Orioles,1,6
+19580415,New York Yankees,Boston Red Sox,3,0
+19580415,Detroit Tigers,Chicago White Sox,4,3
+19580415,Kansas City Athletics,Cleveland Indians,5,0
+19580415,Philadelpia Phillies,Cincinnati Reds,5,4
+19580415,Pittsburgh Pirates,Milwaukee Braves,4,3
+19580415,Los Angeles Dodgers,San  Francisco Giants,0,8
+19580415,Chicago Cubs,St. Louis Cardinals,4,0
+19580416,New York Yankees,Boston Red Sox,1,3
+19580416,Detroit Tigers,Chicago White Sox,5,4
+19580416,Kansas City Athletics,Cleveland Indians,9,4
+19580416,Los Angeles Dodgers,San  Francisco Giants,13,1
+19580417,Washington Senators,Baltimore Orioles,0,4
+19580417,New York Yankees,Boston Red Sox,3,1
+19580417,Detroit Tigers,Chicago White Sox,3,4
+19580417,Kansas City Athletics,Cleveland Indians,2,3
+19580417,Pittsburgh Pirates,Milwaukee Braves,1,6
+19580417,Los Angeles Dodgers,San  Francisco Giants,4,7
+19580417,Chicago Cubs,St. Louis Cardinals,4,3
+19580418,Cleveland Indians,Detroit Tigers,7,5
+19580418,Chicago White Sox,Kansas City Athletics,11,7
+19580418,Baltimore Orioles,New York Yankees,1,3
+19580418,St. Louis Cardinals,Chicago Cubs,6,11
+19580418,San  Francisco Giants,Los Angeles Dodgers,5,6
+19580418,Milwaukee Braves,Philadelpia Phillies,4,2
+19580418,Cincinnati Reds,Pittsburgh Pirates,4,1
+19580419,Cleveland Indians,Detroit Tigers,1,9
+19580419,Baltimore Orioles,New York Yankees,3,4
+19580419,Boston Red Sox,Washington Senators,3,4
+19580419,St. Louis Cardinals,Chicago Cubs,3,6
+19580419,San  Francisco Giants,Los Angeles Dodgers,11,4
+19580419,Milwaukee Braves,Philadelpia Phillies,5,0
+19580419,Cincinnati Reds,Pittsburgh Pirates,9,6
+19580420,Cleveland Indians,Detroit Tigers,4,2
+19580420,Chicago White Sox,Kansas City Athletics,2,8
+19580420,Baltimore Orioles,New York Yankees,0,7
+19580420,Boston Red Sox,Washington Senators,5,6
+19580420,St. Louis Cardinals,Chicago Cubs,9,4
+19580420,San  Francisco Giants,Los Angeles Dodgers,12,2
+19580420,Milwaukee Braves,Philadelpia Phillies,2,3
+19580420,Cincinnati Reds,Pittsburgh Pirates,3,4
+19580421,Chicago White Sox,Detroit Tigers,1,2
+19580421,Cleveland Indians,Kansas City Athletics,4,9
+19580421,Boston Red Sox,New York Yankees,1,4
+19580421,Cincinnati Reds,Philadelpia Phillies,4,2
+19580422,Chicago White Sox,Detroit Tigers,2,8
+19580422,Cleveland Indians,Kansas City Athletics,6,9
+19580422,Boston Red Sox,New York Yankees,7,12
+19580422,Baltimore Orioles,Washington Senators,4,2
+19580422,Chicago Cubs,Los Angeles Dodgers,2,4
+19580422,Milwaukee Braves,Pittsburgh Pirates,5,2
+19580422,St. Louis Cardinals,San  Francisco Giants,7,5
+19580423,Baltimore Orioles,Boston Red Sox,5,7
+19580423,Chicago White Sox,Cleveland Indians,0,2
+19580423,Detroit Tigers,Kansas City Athletics,8,2
+19580423,New York Yankees,Washington Senators,4,5
+19580423,Milwaukee Braves,Cincinnati Reds,0,2
+19580423,Chicago Cubs,Los Angeles Dodgers,7,6
+19580423,Pittsburgh Pirates,Philadelpia Phillies,1,8
+19580423,St. Louis Cardinals,San  Francisco Giants,7,8
+19580424,Baltimore Orioles,Boston Red Sox,3,4
+19580424,Chicago White Sox,Cleveland Indians,4,6
+19580424,Detroit Tigers,Kansas City Athletics,2,7
+19580424,Milwaukee Braves,Cincinnati Reds,6,2
+19580424,Chicago Cubs,Los Angeles Dodgers,15,2
+19580424,Pittsburgh Pirates,Philadelpia Phillies,7,4
+19580424,St. Louis Cardinals,San  Francisco Giants,5,6
+19580425,New York Yankees,Baltimore Orioles,1,2
+19580425,Washington Senators,Boston Red Sox,2,0
+19580425,Kansas City Athletics,Chicago White Sox,5,6
+19580425,Detroit Tigers,Cleveland Indians,2,12
+19580425,Pittsburgh Pirates,Cincinnati Reds,4,3
+19580425,St. Louis Cardinals,Los Angeles Dodgers,3,5
+19580425,Philadelpia Phillies,Milwaukee Braves,0,4
+19580425,Chicago Cubs,San  Francisco Giants,0,2
+19580426,New York Yankees,Baltimore Orioles,2,0
+19580426,Washington Senators,Boston Red Sox,7,5
+19580426,Kansas City Athletics,Chicago White Sox,7,1
+19580426,Detroit Tigers,Cleveland Indians,1,4
+19580426,Pittsburgh Pirates,Cincinnati Reds,8,4
+19580426,St. Louis Cardinals,Los Angeles Dodgers,6,4
+19580426,Philadelpia Phillies,Milwaukee Braves,2,4
+19580426,Chicago Cubs,San  Francisco Giants,1,3
+19580427,Washington Senators,Boston Red Sox,5,7
+19580427,Detroit Tigers,Cleveland Indians,9,5
+19580427,St. Louis Cardinals,Los Angeles Dodgers,3,10
+19580427,Philadelpia Phillies,Milwaukee Braves,6,2
+19580427,Chicago Cubs,San  Francisco Giants,5,4
+19580429,Detroit Tigers,New York Yankees,1,5
+19580429,Milwaukee Braves,Chicago Cubs,8,4
+19580429,St. Louis Cardinals,Cincinnati Reds,2,5
+19580429,Pittsburgh Pirates,Los Angeles Dodgers,7,1
+19580429,Philadelpia Phillies,San  Francisco Giants,7,4
+19580430,Chicago White Sox,Baltimore Orioles,2,3
+19580430,Kansas City Athletics,Boston Red Sox,11,4
+19580430,Detroit Tigers,New York Yankees,10,1
+19580430,Cleveland Indians,Washington Senators,2,3
+19580430,Milwaukee Braves,Chicago Cubs,2,8
+19580430,St. Louis Cardinals,Cincinnati Reds,4,5
+19580430,Pittsburgh Pirates,Los Angeles Dodgers,3,1
+19580430,Philadelpia Phillies,San  Francisco Giants,1,10
+19580501,Chicago White Sox,Baltimore Orioles,4,3
+19580501,Kansas City Athletics,Boston Red Sox,6,7
+19580501,Cleveland Indians,Washington Senators,9,1
+19580501,Milwaukee Braves,Chicago Cubs,2,3
+19580501,Pittsburgh Pirates,Los Angeles Dodgers,8,3
+19580501,Philadelpia Phillies,San  Francisco Giants,7,0
+19580502,Cleveland Indians,Baltimore Orioles,6,1
+19580502,Detroit Tigers,Boston Red Sox,0,6
+19580502,Kansas City Athletics,New York Yankees,1,8
+19580502,Chicago White Sox,Washington Senators,2,3
+19580502,Milwaukee Braves,Chicago Cubs,7,8
+19580502,Pittsburgh Pirates,Los Angeles Dodgers,5,9
+19580502,Philadelpia Phillies,San  Francisco Giants,2,4
+19580502,Cincinnati Reds,St. Louis Cardinals,7,3
+19580503,Cleveland Indians,Baltimore Orioles,2,3
+19580503,Milwaukee Braves,Chicago Cubs,4,3
+19580503,Pittsburgh Pirates,Los Angeles Dodgers,3,1
+19580503,Philadelpia Phillies,San  Francisco Giants,4,2
+19580504,Detroit Tigers,Baltimore Orioles,3,4
+19580504,Detroit Tigers,Baltimore Orioles,0,4
+19580504,Cleveland Indians,Boston Red Sox,2,1
+19580504,Cleveland Indians,Boston Red Sox,1,2
+19580504,Kansas City Athletics,Washington Senators,3,7
+19580504,Kansas City Athletics,Washington Senators,2,2
+19580504,Cincinnati Reds,Chicago Cubs,4,5
+19580504,Cincinnati Reds,Chicago Cubs,3,2
+19580504,Philadelpia Phillies,Los Angeles Dodgers,7,8
+19580504,Philadelpia Phillies,Los Angeles Dodgers,2,15
+19580504,Pittsburgh Pirates,San  Francisco Giants,6,2
+19580504,Pittsburgh Pirates,San  Francisco Giants,3,4
+19580504,Milwaukee Braves,St. Louis Cardinals,7,2
+19580505,Cleveland Indians,Boston Red Sox,5,8
+19580505,Philadelpia Phillies,Los Angeles Dodgers,8,3
+19580505,Pittsburgh Pirates,San  Francisco Giants,11,10
+19580506,Chicago White Sox,Boston Red Sox,5,7
+19580506,Cincinnati Reds,Chicago Cubs,0,4
+19580506,Philadelpia Phillies,Los Angeles Dodgers,6,7
+19580506,Pittsburgh Pirates,San  Francisco Giants,0,7
+19580506,Milwaukee Braves,St. Louis Cardinals,12,8
+19580507,Detroit Tigers,Washington Senators,5,1
+19580507,Detroit Tigers,Washington Senators,4,11
+19580507,Cincinnati Reds,Chicago Cubs,1,5
+19580507,Philadelpia Phillies,Los Angeles Dodgers,9,3
+19580507,Pittsburgh Pirates,San  Francisco Giants,6,8
+19580507,Milwaukee Braves,St. Louis Cardinals,9,2
+19580508,Detroit Tigers,Washington Senators,1,4
+19580508,Cincinnati Reds,Chicago Cubs,10,8
+19580509,Boston Red Sox,Baltimore Orioles,13,5
+19580509,Cleveland Indians,Chicago White Sox,0,5
+19580509,Kansas City Athletics,Detroit Tigers,1,7
+19580509,Washington Senators,New York Yankees,5,9
+19580509,Cincinnati Reds,Milwaukee Braves,3,5
+19580509,Philadelpia Phillies,Pittsburgh Pirates,0,1
+19580509,Los Angeles Dodgers,San  Francisco Giants,3,11
+19580509,Chicago Cubs,St. Louis Cardinals,2,3
+19580510,Boston Red Sox,Baltimore Orioles,2,5
+19580510,Cleveland Indians,Chicago White Sox,4,5
+19580510,Kansas City Athletics,Detroit Tigers,2,3
+19580510,Washington Senators,New York Yankees,0,8
+19580510,Cincinnati Reds,Milwaukee Braves,3,5
+19580510,Philadelpia Phillies,Pittsburgh Pirates,4,14
+19580510,Los Angeles Dodgers,San  Francisco Giants,2,3
+19580510,Chicago Cubs,St. Louis Cardinals,1,3
+19580511,Boston Red Sox,Baltimore Orioles,2,3
+19580511,Boston Red Sox,Baltimore Orioles,0,4
+19580511,Cleveland Indians,Chicago White Sox,4,2
+19580511,Cleveland Indians,Chicago White Sox,2,5
+19580511,Kansas City Athletics,Detroit Tigers,3,10
+19580511,Washington Senators,New York Yankees,3,4
+19580511,Washington Senators,New York Yankees,4,0
+19580511,Cincinnati Reds,Milwaukee Braves,6,7
+19580511,Philadelpia Phillies,Pittsburgh Pirates,4,10
+19580511,Philadelpia Phillies,Pittsburgh Pirates,0,1
+19580511,Chicago Cubs,St. Louis Cardinals,7,8
+19580511,Chicago Cubs,St. Louis Cardinals,5,6
+19580512,Chicago White Sox,Kansas City Athletics,1,2
+19580512,Boston Red Sox,Washington Senators,4,5
+19580512,St. Louis Cardinals,Chicago Cubs,6,4
+19580512,San  Francisco Giants,Los Angeles Dodgers,12,3
+19580513,Cleveland Indians,Detroit Tigers,1,11
+19580513,Chicago White Sox,Kansas City Athletics,9,2
+19580513,Baltimore Orioles,New York Yankees,0,3
+19580513,Boston Red Sox,Washington Senators,9,6
+19580513,St. Louis Cardinals,Chicago Cubs,5,3
+19580513,San  Francisco Giants,Los Angeles Dodgers,16,9
+19580513,Milwaukee Braves,Philadelpia Phillies,2,5
+19580513,Cincinnati Reds,Pittsburgh Pirates,3,6
+19580514,Cleveland Indians,Detroit Tigers,9,8
+19580514,Chicago White Sox,Kansas City Athletics,4,1
+19580514,Baltimore Orioles,New York Yankees,0,1
+19580514,Boston Red Sox,Washington Senators,7,5
+19580514,Los Angeles Dodgers,Chicago Cubs,3,7
+19580514,Milwaukee Braves,Philadelpia Phillies,4,1
+19580514,Cincinnati Reds,Pittsburgh Pirates,4,5
+19580514,San  Francisco Giants,St. Louis Cardinals,2,3
+19580515,Cleveland Indians,Detroit Tigers,8,5
+19580515,Chicago White Sox,Kansas City Athletics,0,3
+19580515,Los Angeles Dodgers,Chicago Cubs,4,2
+19580515,Cincinnati Reds,Pittsburgh Pirates,9,4
+19580515,San  Francisco Giants,St. Louis Cardinals,4,2
+19580516,Chicago White Sox,Cleveland Indians,6,3
+19580516,Detroit Tigers,Kansas City Athletics,3,5
+19580516,New York Yankees,Washington Senators,7,2
+19580516,San  Francisco Giants,Chicago Cubs,5,6
+19580516,Pittsburgh Pirates,Philadelpia Phillies,2,6
+19580516,Los Angeles Dodgers,St. Louis Cardinals,0,2
+19580517,Baltimore Orioles,Boston Red Sox,4,7
+19580517,Baltimore Orioles,Boston Red Sox,5,3
+19580517,Chicago White Sox,Cleveland Indians,3,2
+19580517,Detroit Tigers,Kansas City Athletics,3,4
+19580517,New York Yankees,Washington Senators,6,5
+19580517,San  Francisco Giants,Chicago Cubs,9,4
+19580517,Milwaukee Braves,Cincinnati Reds,5,1
+19580517,Pittsburgh Pirates,Philadelpia Phillies,3,4
+19580517,Los Angeles Dodgers,St. Louis Cardinals,1,10
+19580518,Baltimore Orioles,Boston Red Sox,4,8
+19580518,Chicago White Sox,Cleveland Indians,4,7
+19580518,Chicago White Sox,Cleveland Indians,6,10
+19580518,Detroit Tigers,Kansas City Athletics,0,2
+19580518,New York Yankees,Washington Senators,5,2
+19580518,New York Yankees,Washington Senators,3,0
+19580518,San  Francisco Giants,Chicago Cubs,7,3
+19580518,San  Francisco Giants,Chicago Cubs,4,0
+19580518,Milwaukee Braves,Cincinnati Reds,7,11
+19580518,Pittsburgh Pirates,Philadelpia Phillies,4,6
+19580518,Pittsburgh Pirates,Philadelpia Phillies,2,6
+19580518,Los Angeles Dodgers,St. Louis Cardinals,5,6
+19580518,Los Angeles Dodgers,St. Louis Cardinals,4,0
+19580519,Milwaukee Braves,Cincinnati Reds,4,3
+19580520,New York Yankees,Chicago White Sox,5,1
+19580520,Boston Red Sox,Cleveland Indians,6,1
+19580520,Baltimore Orioles,Detroit Tigers,6,4
+19580520,Washington Senators,Kansas City Athletics,3,7
+19580520,San  Francisco Giants,Cincinnati Reds,4,2
+19580520,Los Angeles Dodgers,Milwaukee Braves,6,3
+19580520,St. Louis Cardinals,Philadelpia Phillies,5,0
+19580520,Chicago Cubs,Pittsburgh Pirates,3,12
+19580521,New York Yankees,Chicago White Sox,5,2
+19580521,Boston Red Sox,Cleveland Indians,2,3
+19580521,Baltimore Orioles,Detroit Tigers,8,1
+19580521,Washington Senators,Kansas City Athletics,6,1
+19580521,San  Francisco Giants,Cincinnati Reds,5,4
+19580521,Los Angeles Dodgers,Milwaukee Braves,2,1
+19580521,St. Louis Cardinals,Philadelpia Phillies,0,1
+19580521,Chicago Cubs,Pittsburgh Pirates,5,1
+19580522,Baltimore Orioles,Chicago White Sox,1,5
+19580522,Washington Senators,Cleveland Indians,1,3
+19580522,New York Yankees,Detroit Tigers,5,4
+19580522,Boston Red Sox,Kansas City Athletics,8,5
+19580522,San  Francisco Giants,Milwaukee Braves,3,9
+19580522,Chicago Cubs,Philadelpia Phillies,7,4
+19580523,Baltimore Orioles,Chicago White Sox,0,1
+19580523,Washington Senators,Cleveland Indians,1,2
+19580523,New York Yankees,Detroit Tigers,8,1
+19580523,Boston Red Sox,Kansas City Athletics,9,1
+19580523,Los Angeles Dodgers,Cincinnati Reds,1,4
+19580523,San  Francisco Giants,Milwaukee Braves,5,3
+19580523,Chicago Cubs,Philadelpia Phillies,11,4
+19580523,St. Louis Cardinals,Pittsburgh Pirates,2,3
+19580524,Baltimore Orioles,Chicago White Sox,3,4
+19580524,Washington Senators,Cleveland Indians,6,3
+19580524,New York Yankees,Detroit Tigers,2,3
+19580524,Boston Red Sox,Kansas City Athletics,5,4
+19580524,Los Angeles Dodgers,Cincinnati Reds,4,5
+19580524,San  Francisco Giants,Milwaukee Braves,3,6
+19580524,Chicago Cubs,Philadelpia Phillies,4,5
+19580524,St. Louis Cardinals,Pittsburgh Pirates,1,6
+19580525,Boston Red Sox,Chicago White Sox,6,3
+19580525,Boston Red Sox,Chicago White Sox,3,4
+19580525,New York Yankees,Cleveland Indians,6,1
+19580525,New York Yankees,Cleveland Indians,6,3
+19580525,Washington Senators,Detroit Tigers,2,7
+19580525,Washington Senators,Detroit Tigers,3,6
+19580525,Baltimore Orioles,Kansas City Athletics,0,4
+19580525,St. Louis Cardinals,Cincinnati Reds,4,2
+19580525,St. Louis Cardinals,Cincinnati Reds,3,7
+19580525,Chicago Cubs,Milwaukee Braves,1,0
+19580525,Chicago Cubs,Milwaukee Braves,2,5
+19580525,San  Francisco Giants,Pittsburgh Pirates,5,2
+19580525,San  Francisco Giants,Pittsburgh Pirates,6,1
+19580526,Baltimore Orioles,Kansas City Athletics,4,5
+19580526,Chicago Cubs,Milwaukee Braves,3,4
+19580526,Los Angeles Dodgers,Philadelpia Phillies,2,1
+19580527,Washington Senators,Chicago White Sox,3,7
+19580527,Baltimore Orioles,Cleveland Indians,6,7
+19580527,Boston Red Sox,Detroit Tigers,2,3
+19580527,New York Yankees,Kansas City Athletics,3,7
+19580527,Chicago Cubs,Cincinnati Reds,3,4
+19580527,St. Louis Cardinals,Milwaukee Braves,2,3
+19580527,San  Francisco Giants,Philadelpia Phillies,1,5
+19580527,Los Angeles Dodgers,Pittsburgh Pirates,3,5
+19580528,Washington Senators,Chicago White Sox,3,13
+19580528,Baltimore Orioles,Cleveland Indians,2,5
+19580528,Boston Red Sox,Detroit Tigers,2,4
+19580528,New York Yankees,Kansas City Athletics,3,4
+19580528,Chicago Cubs,Cincinnati Reds,6,4
+19580528,St. Louis Cardinals,Milwaukee Braves,7,4
+19580528,San  Francisco Giants,Philadelpia Phillies,7,6
+19580528,Los Angeles Dodgers,Pittsburgh Pirates,7,1
+19580530,Boston Red Sox,Baltimore Orioles,2,0
+19580530,Boston Red Sox,Baltimore Orioles,0,2
+19580530,Chicago White Sox,Detroit Tigers,6,5
+19580530,Chicago White Sox,Detroit Tigers,4,2
+19580530,Cleveland Indians,Kansas City Athletics,7,1
+19580530,Cleveland Indians,Kansas City Athletics,6,7
+19580530,Washington Senators,New York Yankees,13,8
+19580530,Washington Senators,New York Yankees,7,2
+19580530,Los Angeles Dodgers,Chicago Cubs,2,3
+19580530,Los Angeles Dodgers,Chicago Cubs,8,10
+19580530,Cincinnati Reds,Philadelpia Phillies,10,1
+19580530,Milwaukee Braves,Pittsburgh Pirates,7,4
+19580530,Milwaukee Braves,Pittsburgh Pirates,6,12
+19580530,San  Francisco Giants,St. Louis Cardinals,6,7
+19580530,San  Francisco Giants,St. Louis Cardinals,1,8
+19580531,Washington Senators,Baltimore Orioles,3,4
+19580531,New York Yankees,Boston Red Sox,5,4
+19580531,Chicago White Sox,Detroit Tigers,0,3
+19580531,Cleveland Indians,Kansas City Athletics,4,5
+19580531,Los Angeles Dodgers,Chicago Cubs,9,4
+19580531,Cincinnati Reds,Philadelpia Phillies,4,5
+19580531,Milwaukee Braves,Pittsburgh Pirates,8,3
+19580531,San  Francisco Giants,St. Louis Cardinals,9,10
+19580601,Washington Senators,Baltimore Orioles,5,2
+19580601,New York Yankees,Boston Red Sox,10,4
+19580601,Cleveland Indians,Kansas City Athletics,2,6
+19580601,Los Angeles Dodgers,Chicago Cubs,1,0
+19580601,Cincinnati Reds,Philadelpia Phillies,2,1
+19580601,Cincinnati Reds,Philadelpia Phillies,12,11
+19580601,Milwaukee Braves,Pittsburgh Pirates,1,5
+19580601,San  Francisco Giants,St. Louis Cardinals,7,2
+19580602,Washington Senators,Baltimore Orioles,2,1
+19580602,Chicago White Sox,New York Yankees,0,3
+19580602,Pittsburgh Pirates,Cincinnati Reds,2,8
+19580603,Detroit Tigers,Baltimore Orioles,0,2
+19580603,Cleveland Indians,Boston Red Sox,3,7
+19580603,Chicago White Sox,New York Yankees,0,13
+19580603,Kansas City Athletics,Washington Senators,4,5
+19580603,Kansas City Athletics,Washington Senators,9,10
+19580603,Philadelpia Phillies,Chicago Cubs,4,12
+19580603,Cincinnati Reds,Los Angeles Dodgers,8,3
+19580603,Milwaukee Braves,San  Francisco Giants,7,6
+19580603,Pittsburgh Pirates,St. Louis Cardinals,4,8
+19580604,Detroit Tigers,Baltimore Orioles,4,6
+19580604,Cleveland Indians,Boston Red Sox,7,5
+19580604,Chicago White Sox,New York Yankees,7,2
+19580604,Kansas City Athletics,Washington Senators,5,4
+19580604,Philadelpia Phillies,Chicago Cubs,5,11
+19580604,Cincinnati Reds,Los Angeles Dodgers,0,3
+19580604,Milwaukee Braves,San  Francisco Giants,10,9
+19580604,Pittsburgh Pirates,St. Louis Cardinals,3,6
+19580605,Detroit Tigers,Baltimore Orioles,6,3
+19580605,Cleveland Indians,Boston Red Sox,3,5
+19580605,Chicago White Sox,New York Yankees,5,12
+19580605,Chicago White Sox,New York Yankees,3,2
+19580605,Kansas City Athletics,Washington Senators,2,0
+19580605,Philadelpia Phillies,Chicago Cubs,7,6
+19580605,Cincinnati Reds,Los Angeles Dodgers,8,4
+19580605,Milwaukee Braves,San  Francisco Giants,4,5
+19580605,Pittsburgh Pirates,St. Louis Cardinals,3,4
+19580606,Kansas City Athletics,Baltimore Orioles,1,2
+19580606,Kansas City Athletics,Baltimore Orioles,1,3
+19580606,Chicago White Sox,Boston Red Sox,2,3
+19580606,Cleveland Indians,New York Yankees,5,6
+19580606,Detroit Tigers,Washington Senators,11,2
+19580606,Pittsburgh Pirates,Chicago Cubs,1,6
+19580606,Milwaukee Braves,Los Angeles Dodgers,3,4
+19580606,Cincinnati Reds,San  Francisco Giants,5,4
+19580606,Philadelpia Phillies,St. Louis Cardinals,1,3
+19580607,Kansas City Athletics,Baltimore Orioles,5,2
+19580607,Chicago White Sox,Boston Red Sox,6,7
+19580607,Cleveland Indians,New York Yankees,3,6
+19580607,Detroit Tigers,Washington Senators,3,4
+19580607,Pittsburgh Pirates,Chicago Cubs,8,6
+19580607,Milwaukee Braves,Los Angeles Dodgers,2,5
+19580607,Cincinnati Reds,San  Francisco Giants,3,7
+19580607,Philadelpia Phillies,St. Louis Cardinals,15,6
+19580608,Kansas City Athletics,Baltimore Orioles,0,4
+19580608,Kansas City Athletics,Baltimore Orioles,2,1
+19580608,Chicago White Sox,Boston Red Sox,5,6
+19580608,Chicago White Sox,Boston Red Sox,1,4
+19580608,Cleveland Indians,New York Yankees,14,1
+19580608,Cleveland Indians,New York Yankees,5,4
+19580608,Detroit Tigers,Washington Senators,3,4
+19580608,Pittsburgh Pirates,Chicago Cubs,0,4
+19580608,Milwaukee Braves,Los Angeles Dodgers,4,12
+19580608,Cincinnati Reds,San  Francisco Giants,6,3
+19580608,Philadelpia Phillies,St. Louis Cardinals,5,6
+19580608,Philadelpia Phillies,St. Louis Cardinals,6,4
+19580609,Cleveland Indians,Baltimore Orioles,2,5
+19580609,Detroit Tigers,Boston Red Sox,4,9
+19580609,Cincinnati Reds,San  Francisco Giants,3,0
+19580610,Cleveland Indians,Baltimore Orioles,10,2
+19580610,Chicago White Sox,Washington Senators,5,4
+19580610,Chicago White Sox,Washington Senators,2,5
+19580610,Milwaukee Braves,Chicago Cubs,6,9
+19580610,Philadelpia Phillies,Los Angeles Dodgers,3,2
+19580610,Pittsburgh Pirates,San  Francisco Giants,5,4
+19580611,Cleveland Indians,Baltimore Orioles,4,7
+19580611,Detroit Tigers,Boston Red Sox,7,0
+19580611,Detroit Tigers,Boston Red Sox,9,3
+19580611,Kansas City Athletics,New York Yankees,2,10
+19580611,Kansas City Athletics,New York Yankees,1,2
+19580611,Chicago White Sox,Washington Senators,2,5
+19580611,Milwaukee Braves,Chicago Cubs,10,7
+19580611,Philadelpia Phillies,Los Angeles Dodgers,4,7
+19580611,Pittsburgh Pirates,San  Francisco Giants,14,6
+19580611,Cincinnati Reds,St. Louis Cardinals,2,3
+19580612,Cleveland Indians,Baltimore Orioles,5,7
+19580612,Detroit Tigers,Boston Red Sox,2,4
+19580612,Kansas City Athletics,New York Yankees,4,1
+19580612,Kansas City Athletics,New York Yankees,2,3
+19580612,Chicago White Sox,Washington Senators,5,6
+19580612,Milwaukee Braves,Chicago Cubs,5,4
+19580612,Philadelpia Phillies,Los Angeles Dodgers,4,3
+19580612,Pittsburgh Pirates,San  Francisco Giants,2,1
+19580612,Cincinnati Reds,St. Louis Cardinals,5,0
+19580613,Chicago White Sox,Baltimore Orioles,5,5
+19580613,Kansas City Athletics,Boston Red Sox,3,9
+19580613,Detroit Tigers,New York Yankees,4,2
+19580613,Cleveland Indians,Washington Senators,10,1
+19580613,Pittsburgh Pirates,Los Angeles Dodgers,4,5
+19580613,Philadelpia Phillies,San  Francisco Giants,1,6
+19580613,Milwaukee Braves,St. Louis Cardinals,2,0
+19580614,Chicago White Sox,Baltimore Orioles,9,1
+19580614,Kansas City Athletics,Boston Red Sox,1,7
+19580614,Detroit Tigers,New York Yankees,5,4
+19580614,Cleveland Indians,Washington Senators,10,2
+19580614,Cincinnati Reds,Chicago Cubs,3,4
+19580614,Pittsburgh Pirates,Los Angeles Dodgers,2,4
+19580614,Philadelpia Phillies,San  Francisco Giants,3,2
+19580614,Milwaukee Braves,St. Louis Cardinals,1,2
+19580615,Chicago White Sox,Baltimore Orioles,3,0
+19580615,Chicago White Sox,Baltimore Orioles,4,0
+19580615,Kansas City Athletics,Boston Red Sox,17,6
+19580615,Kansas City Athletics,Boston Red Sox,9,4
+19580615,Detroit Tigers,New York Yankees,2,0
+19580615,Detroit Tigers,New York Yankees,3,0
+19580615,Cleveland Indians,Washington Senators,5,3
+19580615,Cleveland Indians,Washington Senators,4,2
+19580615,Cincinnati Reds,Chicago Cubs,7,0
+19580615,Cincinnati Reds,Chicago Cubs,4,2
+19580615,Pittsburgh Pirates,Los Angeles Dodgers,12,1
+19580615,Philadelpia Phillies,San  Francisco Giants,1,3
+19580615,Milwaukee Braves,St. Louis Cardinals,4,2
+19580616,St. Louis Cardinals,Cincinnati Reds,6,5
+19580617,Boston Red Sox,Chicago White Sox,0,4
+19580617,New York Yankees,Cleveland Indians,4,0
+19580617,Washington Senators,Detroit Tigers,2,9
+19580617,Baltimore Orioles,Kansas City Athletics,4,1
+19580617,St. Louis Cardinals,Cincinnati Reds,10,4
+19580617,Chicago Cubs,Milwaukee Braves,3,6
+19580617,Los Angeles Dodgers,Philadelpia Phillies,6,9
+19580617,San  Francisco Giants,Pittsburgh Pirates,1,6
+19580618,Boston Red Sox,Chicago White Sox,13,9
+19580618,New York Yankees,Cleveland Indians,3,2
+19580618,Baltimore Orioles,Kansas City Athletics,5,3
+19580618,St. Louis Cardinals,Cincinnati Reds,1,6
+19580618,Los Angeles Dodgers,Philadelpia Phillies,3,0
+19580618,San  Francisco Giants,Pittsburgh Pirates,2,1
+19580619,Boston Red Sox,Chicago White Sox,0,4
+19580619,New York Yankees,Cleveland Indians,9,3
+19580619,Washington Senators,Detroit Tigers,4,3
+19580619,Baltimore Orioles,Kansas City Athletics,4,2
+19580619,Chicago Cubs,Milwaukee Braves,5,4
+19580619,Los Angeles Dodgers,Philadelpia Phillies,3,9
+19580619,San  Francisco Giants,Pittsburgh Pirates,5,6
+19580620,Baltimore Orioles,Chicago White Sox,3,5
+19580620,New York Yankees,Detroit Tigers,1,7
+19580620,Boston Red Sox,Kansas City Athletics,3,5
+19580620,Chicago Cubs,Cincinnati Reds,11,3
+19580620,St. Louis Cardinals,Milwaukee Braves,3,7
+19580620,San  Francisco Giants,Philadelpia Phillies,4,5
+19580620,Los Angeles Dodgers,Pittsburgh Pirates,1,2
+19580621,Baltimore Orioles,Chicago White Sox,0,1
+19580621,Washington Senators,Cleveland Indians,11,7
+19580621,New York Yankees,Detroit Tigers,0,1
+19580621,Boston Red Sox,Kansas City Athletics,5,8
+19580621,Chicago Cubs,Cincinnati Reds,3,9
+19580621,St. Louis Cardinals,Milwaukee Braves,2,1
+19580621,Los Angeles Dodgers,Pittsburgh Pirates,7,11
+19580622,Baltimore Orioles,Chicago White Sox,2,0
+19580622,Washington Senators,Cleveland Indians,3,4
+19580622,Washington Senators,Cleveland Indians,0,1
+19580622,New York Yankees,Detroit Tigers,15,0
+19580622,Boston Red Sox,Kansas City Athletics,1,2
+19580622,Chicago Cubs,Cincinnati Reds,2,6
+19580622,Chicago Cubs,Cincinnati Reds,8,6
+19580622,St. Louis Cardinals,Milwaukee Braves,2,1
+19580622,San  Francisco Giants,Philadelpia Phillies,5,4
+19580622,San  Francisco Giants,Philadelpia Phillies,2,3
+19580622,Los Angeles Dodgers,Pittsburgh Pirates,4,1
+19580622,Los Angeles Dodgers,Pittsburgh Pirates,3,2
+19580623,New York Yankees,Chicago White Sox,0,2
+19580623,Baltimore Orioles,Detroit Tigers,1,3
+19580623,Washington Senators,Kansas City Athletics,2,7
+19580623,Los Angeles Dodgers,Cincinnati Reds,1,6
+19580623,San  Francisco Giants,Milwaukee Braves,0,7
+19580623,St. Louis Cardinals,Pittsburgh Pirates,7,5
+19580624,New York Yankees,Chicago White Sox,6,2
+19580624,Boston Red Sox,Cleveland Indians,4,3
+19580624,Baltimore Orioles,Detroit Tigers,0,5
+19580624,Washington Senators,Kansas City Athletics,2,2
+19580624,Los Angeles Dodgers,Cincinnati Reds,13,10
+19580624,Los Angeles Dodgers,Cincinnati Reds,7,2
+19580624,San  Francisco Giants,Milwaukee Braves,1,2
+19580624,Chicago Cubs,Philadelpia Phillies,3,0
+19580624,St. Louis Cardinals,Pittsburgh Pirates,2,1
+19580625,Washington Senators,Kansas City Athletics,3,4
+19580625,San  Francisco Giants,Milwaukee Braves,10,2
+19580625,Chicago Cubs,Philadelpia Phillies,4,5
+19580625,St. Louis Cardinals,Pittsburgh Pirates,3,1
+19580626,New York Yankees,Chicago White Sox,4,3
+19580626,Boston Red Sox,Cleveland Indians,2,1
+19580626,Baltimore Orioles,Detroit Tigers,2,0
+19580626,Washington Senators,Kansas City Athletics,6,8
+19580626,San  Francisco Giants,Cincinnati Reds,5,1
+19580626,Los Angeles Dodgers,Milwaukee Braves,4,1
+19580626,St. Louis Cardinals,Pittsburgh Pirates,6,2
+19580627,Washington Senators,Chicago White Sox,0,3
+19580627,Baltimore Orioles,Cleveland Indians,5,6
+19580627,Boston Red Sox,Detroit Tigers,4,7
+19580627,New York Yankees,Kansas City Athletics,10,3
+19580627,San  Francisco Giants,Cincinnati Reds,5,6
+19580627,Los Angeles Dodgers,Milwaukee Braves,3,1
+19580627,St. Louis Cardinals,Philadelpia Phillies,4,5
+19580627,Chicago Cubs,Pittsburgh Pirates,3,1
+19580628,Washington Senators,Chicago White Sox,4,8
+19580628,Baltimore Orioles,Cleveland Indians,5,6
+19580628,Boston Red Sox,Detroit Tigers,6,5
+19580628,New York Yankees,Kansas City Athletics,8,0
+19580628,San  Francisco Giants,Cincinnati Reds,2,8
+19580628,Los Angeles Dodgers,Milwaukee Braves,3,7
+19580628,St. Louis Cardinals,Philadelpia Phillies,8,1
+19580628,Chicago Cubs,Pittsburgh Pirates,3,7
+19580629,Washington Senators,Chicago White Sox,12,0
+19580629,Washington Senators,Chicago White Sox,11,12
+19580629,Baltimore Orioles,Cleveland Indians,11,6
+19580629,Baltimore Orioles,Cleveland Indians,5,2
+19580629,Boston Red Sox,Detroit Tigers,10,7
+19580629,New York Yankees,Kansas City Athletics,6,12
+19580629,San  Francisco Giants,Cincinnati Reds,2,0
+19580629,Los Angeles Dodgers,Milwaukee Braves,6,10
+19580629,St. Louis Cardinals,Philadelpia Phillies,4,5
+19580629,St. Louis Cardinals,Philadelpia Phillies,4,3
+19580629,Chicago Cubs,Pittsburgh Pirates,3,4
+19580629,Chicago Cubs,Pittsburgh Pirates,8,3
+19580630,Cleveland Indians,Chicago White Sox,5,3
+19580630,Kansas City Athletics,Detroit Tigers,6,7
+19580630,Cincinnati Reds,Milwaukee Braves,2,9
+19580630,Los Angeles Dodgers,St. Louis Cardinals,2,4
+19580701,New York Yankees,Baltimore Orioles,5,7
+19580701,New York Yankees,Baltimore Orioles,2,1
+19580701,Washington Senators,Boston Red Sox,5,10
+19580701,Cleveland Indians,Chicago White Sox,4,5
+19580701,Kansas City Athletics,Detroit Tigers,5,1
+19580701,San  Francisco Giants,Chicago Cubs,5,9
+19580701,Cincinnati Reds,Milwaukee Braves,0,1
+19580701,Philadelpia Phillies,Pittsburgh Pirates,4,2
+19580701,Los Angeles Dodgers,St. Louis Cardinals,9,3
+19580702,New York Yankees,Baltimore Orioles,4,1
+19580702,Washington Senators,Boston Red Sox,5,3
+19580702,Kansas City Athletics,Detroit Tigers,0,5
+19580702,San  Francisco Giants,Chicago Cubs,5,2
+19580702,Cincinnati Reds,Milwaukee Braves,1,0
+19580703,Baltimore Orioles,Boston Red Sox,7,5
+19580703,Kansas City Athletics,Chicago White Sox,2,7
+19580703,New York Yankees,Washington Senators,11,3
+19580703,Pittsburgh Pirates,Cincinnati Reds,2,0
+19580703,St. Louis Cardinals,Los Angeles Dodgers,4,2
+19580703,St. Louis Cardinals,Los Angeles Dodgers,2,3
+19580703,Philadelpia Phillies,Milwaukee Braves,3,1
+19580703,Chicago Cubs,San  Francisco Giants,4,3
+19580704,Baltimore Orioles,Boston Red Sox,1,5
+19580704,Baltimore Orioles,Boston Red Sox,5,3
+19580704,Kansas City Athletics,Chicago White Sox,6,5
+19580704,Kansas City Athletics,Chicago White Sox,4,3
+19580704,Detroit Tigers,Cleveland Indians,1,6
+19580704,Detroit Tigers,Cleveland Indians,3,1
+19580704,New York Yankees,Washington Senators,2,1
+19580704,New York Yankees,Washington Senators,13,2
+19580704,Pittsburgh Pirates,Cincinnati Reds,3,4
+19580704,Pittsburgh Pirates,Cincinnati Reds,3,8
+19580704,Philadelpia Phillies,Milwaukee Braves,5,1
+19580704,Philadelpia Phillies,Milwaukee Braves,4,0
+19580704,Chicago Cubs,San  Francisco Giants,5,6
+19580704,Chicago Cubs,San  Francisco Giants,6,1
+19580705,Detroit Tigers,Chicago White Sox,1,8
+19580705,Kansas City Athletics,Cleveland Indians,2,8
+19580705,Boston Red Sox,New York Yankees,3,3
+19580705,Baltimore Orioles,Washington Senators,3,1
+19580705,Philadelpia Phillies,Cincinnati Reds,8,5
+19580705,Chicago Cubs,Los Angeles Dodgers,7,1
+19580705,Pittsburgh Pirates,Milwaukee Braves,4,2
+19580705,St. Louis Cardinals,San  Francisco Giants,4,5
+19580706,Detroit Tigers,Chicago White Sox,2,1
+19580706,Kansas City Athletics,Cleveland Indians,5,8
+19580706,Boston Red Sox,New York Yankees,10,4
+19580706,Baltimore Orioles,Washington Senators,3,4
+19580706,Philadelpia Phillies,Cincinnati Reds,7,1
+19580706,Philadelpia Phillies,Cincinnati Reds,4,11
+19580706,Chicago Cubs,Los Angeles Dodgers,6,2
+19580706,Pittsburgh Pirates,Milwaukee Braves,0,2
+19580706,St. Louis Cardinals,San  Francisco Giants,4,5
+19580709,Cleveland Indians,New York Yankees,12,2
+19580709,Milwaukee Braves,Los Angeles Dodgers,3,10
+19580710,Kansas City Athletics,Baltimore Orioles,3,6
+19580710,Kansas City Athletics,Baltimore Orioles,2,3
+19580710,Chicago White Sox,Boston Red Sox,2,11
+19580710,Cleveland Indians,New York Yankees,4,7
+19580710,Cleveland Indians,New York Yankees,3,4
+19580710,Detroit Tigers,Washington Senators,3,5
+19580710,Pittsburgh Pirates,Chicago Cubs,7,8
+19580710,Milwaukee Braves,Los Angeles Dodgers,8,4
+19580710,Cincinnati Reds,San  Francisco Giants,4,0
+19580710,Philadelpia Phillies,St. Louis Cardinals,13,3
+19580711,Chicago White Sox,Boston Red Sox,1,6
+19580711,Cleveland Indians,New York Yankees,3,11
+19580711,Detroit Tigers,Washington Senators,5,6
+19580711,Pittsburgh Pirates,Chicago Cubs,7,2
+19580711,Milwaukee Braves,Los Angeles Dodgers,7,4
+19580711,Cincinnati Reds,San  Francisco Giants,4,7
+19580711,Philadelpia Phillies,St. Louis Cardinals,2,6
+19580712,Chicago White Sox,Boston Red Sox,7,4
+19580712,Chicago White Sox,Boston Red Sox,13,5
+19580712,Cleveland Indians,New York Yankees,0,10
+19580712,Detroit Tigers,Washington Senators,3,1
+19580712,Philadelpia Phillies,Chicago Cubs,12,2
+19580712,Cincinnati Reds,Los Angeles Dodgers,3,4
+19580712,Milwaukee Braves,San  Francisco Giants,3,5
+19580712,Pittsburgh Pirates,St. Louis Cardinals,0,2
+19580713,Detroit Tigers,Baltimore Orioles,6,5
+19580713,Detroit Tigers,Baltimore Orioles,5,3
+19580713,Cleveland Indians,Boston Red Sox,9,4
+19580713,Chicago White Sox,New York Yankees,7,4
+19580713,Chicago White Sox,New York Yankees,4,5
+19580713,Kansas City Athletics,Washington Senators,0,2
+19580713,Kansas City Athletics,Washington Senators,2,4
+19580713,Philadelpia Phillies,Chicago Cubs,2,3
+19580713,Philadelpia Phillies,Chicago Cubs,1,2
+19580713,Cincinnati Reds,Los Angeles Dodgers,0,3
+19580713,Cincinnati Reds,Los Angeles Dodgers,2,3
+19580713,Milwaukee Braves,San  Francisco Giants,5,6
+19580713,Pittsburgh Pirates,St. Louis Cardinals,10,8
+19580713,Pittsburgh Pirates,St. Louis Cardinals,8,6
+19580714,Detroit Tigers,Baltimore Orioles,1,2
+19580714,Cleveland Indians,Boston Red Sox,3,4
+19580714,Chicago White Sox,New York Yankees,0,5
+19580714,Kansas City Athletics,Washington Senators,4,0
+19580714,Philadelpia Phillies,Chicago Cubs,10,11
+19580714,Cincinnati Reds,Los Angeles Dodgers,5,8
+19580714,Milwaukee Braves,San  Francisco Giants,12,3
+19580715,Chicago White Sox,Baltimore Orioles,3,4
+19580715,Kansas City Athletics,Boston Red Sox,2,5
+19580715,Detroit Tigers,New York Yankees,12,5
+19580715,Cleveland Indians,Washington Senators,4,5
+19580715,Pittsburgh Pirates,Los Angeles Dodgers,6,2
+19580715,Philadelpia Phillies,San  Francisco Giants,0,1
+19580715,Milwaukee Braves,St. Louis Cardinals,4,1
+19580716,Chicago White Sox,Baltimore Orioles,6,1
+19580716,Chicago White Sox,Baltimore Orioles,5,6
+19580716,Kansas City Athletics,Boston Red Sox,2,5
+19580716,Detroit Tigers,New York Yankees,2,3
+19580716,Cleveland Indians,Washington Senators,6,7
+19580716,Cincinnati Reds,Chicago Cubs,4,5
+19580716,Cincinnati Reds,Chicago Cubs,5,7
+19580716,Pittsburgh Pirates,Los Angeles Dodgers,7,4
+19580716,Philadelpia Phillies,San  Francisco Giants,2,9
+19580716,Milwaukee Braves,St. Louis Cardinals,6,5
+19580717,Chicago White Sox,Baltimore Orioles,0,3
+19580717,Kansas City Athletics,Boston Red Sox,2,6
+19580717,Detroit Tigers,New York Yankees,2,4
+19580717,Cleveland Indians,Washington Senators,8,3
+19580717,Cincinnati Reds,Chicago Cubs,3,2
+19580717,Pittsburgh Pirates,Los Angeles Dodgers,3,5
+19580717,Philadelpia Phillies,San  Francisco Giants,7,8
+19580717,Milwaukee Braves,St. Louis Cardinals,8,7
+19580718,Cleveland Indians,Baltimore Orioles,5,1
+19580718,Detroit Tigers,Boston Red Sox,9,11
+19580718,Kansas City Athletics,New York Yankees,2,1
+19580718,Chicago White Sox,Washington Senators,9,2
+19580718,Milwaukee Braves,Chicago Cubs,3,5
+19580718,St. Louis Cardinals,Cincinnati Reds,3,8
+19580718,St. Louis Cardinals,Cincinnati Reds,1,2
+19580718,Philadelpia Phillies,Los Angeles Dodgers,6,8
+19580718,Pittsburgh Pirates,San  Francisco Giants,4,5
+19580719,Cleveland Indians,Baltimore Orioles,2,3
+19580719,Detroit Tigers,Boston Red Sox,6,7
+19580719,Kansas City Athletics,New York Yankees,6,4
+19580719,Chicago White Sox,Washington Senators,7,6
+19580719,Milwaukee Braves,Chicago Cubs,3,2
+19580719,St. Louis Cardinals,Cincinnati Reds,1,0
+19580719,Philadelpia Phillies,Los Angeles Dodgers,6,2
+19580719,Pittsburgh Pirates,San  Francisco Giants,4,5
+19580720,Cleveland Indians,Baltimore Orioles,2,3
+19580720,Detroit Tigers,Boston Red Sox,3,0
+19580720,Detroit Tigers,Boston Red Sox,2,5
+19580720,Kansas City Athletics,New York Yankees,1,3
+19580720,Kansas City Athletics,New York Yankees,0,8
+19580720,Chicago White Sox,Washington Senators,4,2
+19580720,Chicago White Sox,Washington Senators,4,5
+19580720,Milwaukee Braves,Chicago Cubs,4,2
+19580720,St. Louis Cardinals,Cincinnati Reds,3,1
+19580720,Philadelpia Phillies,Los Angeles Dodgers,0,6
+19580720,Pittsburgh Pirates,San  Francisco Giants,3,7
+19580721,Chicago Cubs,Cincinnati Reds,4,9
+19580721,St. Louis Cardinals,Milwaukee Braves,5,4
+19580722,Baltimore Orioles,Chicago White Sox,2,4
+19580722,Washington Senators,Cleveland Indians,4,2
+19580722,Washington Senators,Cleveland Indians,3,5
+19580722,New York Yankees,Detroit Tigers,13,3
+19580722,Boston Red Sox,Kansas City Athletics,3,4
+19580722,St. Louis Cardinals,Milwaukee Braves,1,2
+19580723,Baltimore Orioles,Chicago White Sox,6,4
+19580723,Washington Senators,Cleveland Indians,3,5
+19580723,New York Yankees,Detroit Tigers,16,4
+19580723,Boston Red Sox,Kansas City Athletics,1,3
+19580723,Chicago Cubs,Cincinnati Reds,5,6
+19580723,St. Louis Cardinals,Milwaukee Braves,0,6
+19580723,San  Francisco Giants,Philadelpia Phillies,0,2
+19580723,Los Angeles Dodgers,Pittsburgh Pirates,3,11
+19580723,Los Angeles Dodgers,Pittsburgh Pirates,3,6
+19580724,Baltimore Orioles,Chicago White Sox,7,3
+19580724,Washington Senators,Cleveland Indians,1,6
+19580724,New York Yankees,Detroit Tigers,10,7
+19580724,Chicago Cubs,Cincinnati Reds,3,4
+19580724,St. Louis Cardinals,Milwaukee Braves,4,0
+19580724,Los Angeles Dodgers,Pittsburgh Pirates,3,5
+19580725,Boston Red Sox,Chicago White Sox,0,4
+19580725,New York Yankees,Cleveland Indians,6,0
+19580725,Washington Senators,Detroit Tigers,4,3
+19580725,Baltimore Orioles,Kansas City Athletics,8,3
+19580725,Chicago Cubs,Milwaukee Braves,5,4
+19580725,Chicago Cubs,Milwaukee Braves,1,4
+19580725,Los Angeles Dodgers,Philadelpia Phillies,7,3
+19580725,San  Francisco Giants,Pittsburgh Pirates,0,10
+19580725,Cincinnati Reds,St. Louis Cardinals,4,5
+19580725,Cincinnati Reds,St. Louis Cardinals,3,2
+19580726,Boston Red Sox,Chicago White Sox,6,11
+19580726,New York Yankees,Cleveland Indians,8,3
+19580726,Washington Senators,Detroit Tigers,1,9
+19580726,Baltimore Orioles,Kansas City Athletics,4,3
+19580726,Chicago Cubs,Milwaukee Braves,7,4
+19580726,Los Angeles Dodgers,Philadelpia Phillies,10,4
+19580726,San  Francisco Giants,Pittsburgh Pirates,1,0
+19580726,Cincinnati Reds,St. Louis Cardinals,2,1
+19580727,Boston Red Sox,Chicago White Sox,7,3
+19580727,New York Yankees,Cleveland Indians,2,7
+19580727,New York Yankees,Cleveland Indians,2,7
+19580727,Washington Senators,Detroit Tigers,4,3
+19580727,Washington Senators,Detroit Tigers,6,1
+19580727,Baltimore Orioles,Kansas City Athletics,6,11
+19580727,Chicago Cubs,Milwaukee Braves,1,4
+19580727,Los Angeles Dodgers,Philadelpia Phillies,4,7
+19580727,Los Angeles Dodgers,Philadelpia Phillies,2,6
+19580727,San  Francisco Giants,Pittsburgh Pirates,1,2
+19580727,San  Francisco Giants,Pittsburgh Pirates,3,4
+19580727,Cincinnati Reds,St. Louis Cardinals,3,4
+19580727,Cincinnati Reds,St. Louis Cardinals,10,1
+19580728,Washington Senators,Chicago White Sox,5,6
+19580728,Boston Red Sox,Detroit Tigers,4,5
+19580728,New York Yankees,Kansas City Athletics,14,7
+19580728,San  Francisco Giants,Philadelpia Phillies,3,2
+19580728,San  Francisco Giants,Philadelpia Phillies,2,1
+19580729,Washington Senators,Chicago White Sox,1,2
+19580729,Baltimore Orioles,Cleveland Indians,4,9
+19580729,Boston Red Sox,Detroit Tigers,11,8
+19580729,New York Yankees,Kansas City Athletics,3,7
+19580729,San  Francisco Giants,Cincinnati Reds,4,3
+19580729,Los Angeles Dodgers,Milwaukee Braves,4,2
+19580729,St. Louis Cardinals,Philadelpia Phillies,2,3
+19580729,Chicago Cubs,Pittsburgh Pirates,4,6
+19580730,Washington Senators,Chicago White Sox,9,11
+19580730,Baltimore Orioles,Cleveland Indians,3,6
+19580730,Boston Red Sox,Detroit Tigers,1,2
+19580730,New York Yankees,Kansas City Athletics,0,2
+19580730,San  Francisco Giants,Cincinnati Reds,1,5
+19580730,Los Angeles Dodgers,Milwaukee Braves,3,4
+19580730,St. Louis Cardinals,Philadelpia Phillies,1,5
+19580730,Chicago Cubs,Pittsburgh Pirates,1,7
+19580731,Boston Red Sox,Detroit Tigers,2,3
+19580731,New York Yankees,Kansas City Athletics,8,3
+19580731,San  Francisco Giants,Cincinnati Reds,9,10
+19580731,Los Angeles Dodgers,Milwaukee Braves,1,4
+19580731,St. Louis Cardinals,Philadelpia Phillies,3,4
+19580731,Chicago Cubs,Pittsburgh Pirates,5,4
+19580801,New York Yankees,Chicago White Sox,7,0
+19580801,Boston Red Sox,Cleveland Indians,1,7
+19580801,Boston Red Sox,Cleveland Indians,1,3
+19580801,Baltimore Orioles,Detroit Tigers,1,3
+19580801,Washington Senators,Kansas City Athletics,10,4
+19580801,Los Angeles Dodgers,Cincinnati Reds,6,2
+19580801,San  Francisco Giants,Milwaukee Braves,2,4
+19580801,Chicago Cubs,Philadelpia Phillies,1,3
+19580801,St. Louis Cardinals,Pittsburgh Pirates,0,2
+19580802,New York Yankees,Chicago White Sox,6,1
+19580802,Boston Red Sox,Cleveland Indians,1,4
+19580802,Baltimore Orioles,Detroit Tigers,7,8
+19580802,Washington Senators,Kansas City Athletics,6,3
+19580802,Los Angeles Dodgers,Cincinnati Reds,3,2
+19580802,San  Francisco Giants,Milwaukee Braves,0,10
+19580802,Chicago Cubs,Philadelpia Phillies,6,5
+19580802,St. Louis Cardinals,Pittsburgh Pirates,0,1
+19580803,New York Yankees,Chicago White Sox,1,3
+19580803,New York Yankees,Chicago White Sox,0,4
+19580803,Boston Red Sox,Cleveland Indians,3,2
+19580803,Boston Red Sox,Cleveland Indians,4,2
+19580803,Baltimore Orioles,Detroit Tigers,2,3
+19580803,Baltimore Orioles,Detroit Tigers,1,4
+19580803,Washington Senators,Kansas City Athletics,0,12
+19580803,Washington Senators,Kansas City Athletics,4,3
+19580803,Los Angeles Dodgers,Cincinnati Reds,8,6
+19580803,Los Angeles Dodgers,Cincinnati Reds,1,3
+19580803,San  Francisco Giants,Milwaukee Braves,3,4
+19580803,San  Francisco Giants,Milwaukee Braves,0,6
+19580803,Chicago Cubs,Philadelpia Phillies,2,8
+19580803,Chicago Cubs,Philadelpia Phillies,12,10
+19580803,St. Louis Cardinals,Pittsburgh Pirates,0,2
+19580803,St. Louis Cardinals,Pittsburgh Pirates,1,2
+19580804,New York Yankees,Baltimore Orioles,9,4
+19580804,San  Francisco Giants,Chicago Cubs,6,4
+19580804,Pittsburgh Pirates,Milwaukee Braves,4,3
+19580804,Los Angeles Dodgers,St. Louis Cardinals,2,3
+19580805,New York Yankees,Baltimore Orioles,4,1
+19580805,Washington Senators,Boston Red Sox,1,7
+19580805,Cleveland Indians,Detroit Tigers,6,1
+19580805,Chicago White Sox,Kansas City Athletics,5,4
+19580805,San  Francisco Giants,Chicago Cubs,9,10
+19580805,Philadelpia Phillies,Cincinnati Reds,5,6
+19580805,Pittsburgh Pirates,Milwaukee Braves,1,6
+19580805,Los Angeles Dodgers,St. Louis Cardinals,3,13
+19580806,New York Yankees,Baltimore Orioles,3,1
+19580806,Washington Senators,Boston Red Sox,2,8
+19580806,Chicago White Sox,Kansas City Athletics,4,2
+19580806,Los Angeles Dodgers,Chicago Cubs,5,2
+19580806,Philadelpia Phillies,Cincinnati Reds,8,5
+19580806,Pittsburgh Pirates,Milwaukee Braves,1,2
+19580806,San  Francisco Giants,St. Louis Cardinals,7,8
+19580807,Washington Senators,Boston Red Sox,4,8
+19580807,Los Angeles Dodgers,Chicago Cubs,3,1
+19580807,Philadelpia Phillies,Cincinnati Reds,3,2
+19580807,Pittsburgh Pirates,Milwaukee Braves,2,3
+19580807,San  Francisco Giants,St. Louis Cardinals,1,12
+19580808,Kansas City Athletics,Cleveland Indians,4,10
+19580808,Chicago White Sox,Detroit Tigers,2,6
+19580808,Boston Red Sox,New York Yankees,0,2
+19580808,Baltimore Orioles,Washington Senators,2,4
+19580808,St. Louis Cardinals,Chicago Cubs,6,3
+19580808,San  Francisco Giants,Los Angeles Dodgers,3,6
+19580808,Milwaukee Braves,Philadelpia Phillies,6,7
+19580808,Cincinnati Reds,Pittsburgh Pirates,0,1
+19580809,Kansas City Athletics,Cleveland Indians,1,3
+19580809,Chicago White Sox,Detroit Tigers,9,3
+19580809,Boston Red Sox,New York Yankees,9,6
+19580809,Baltimore Orioles,Washington Senators,12,5
+19580809,St. Louis Cardinals,Chicago Cubs,3,2
+19580809,San  Francisco Giants,Los Angeles Dodgers,6,3
+19580809,Milwaukee Braves,Philadelpia Phillies,4,5
+19580809,Cincinnati Reds,Pittsburgh Pirates,2,5
+19580810,Kansas City Athletics,Cleveland Indians,2,11
+19580810,Kansas City Athletics,Cleveland Indians,4,2
+19580810,Chicago White Sox,Detroit Tigers,5,2
+19580810,Chicago White Sox,Detroit Tigers,3,4
+19580810,Boston Red Sox,New York Yankees,5,7
+19580810,Boston Red Sox,New York Yankees,9,3
+19580810,Baltimore Orioles,Washington Senators,2,6
+19580810,Baltimore Orioles,Washington Senators,6,1
+19580810,St. Louis Cardinals,Chicago Cubs,4,9
+19580810,St. Louis Cardinals,Chicago Cubs,6,2
+19580810,San  Francisco Giants,Los Angeles Dodgers,12,8
+19580810,Milwaukee Braves,Philadelpia Phillies,8,7
+19580810,Milwaukee Braves,Philadelpia Phillies,14,3
+19580810,Cincinnati Reds,Pittsburgh Pirates,2,3
+19580810,Cincinnati Reds,Pittsburgh Pirates,3,4
+19580811,Chicago White Sox,Cleveland Indians,3,1
+19580811,Kansas City Athletics,Detroit Tigers,2,3
+19580811,Baltimore Orioles,New York Yankees,3,2
+19580811,Baltimore Orioles,New York Yankees,9,3
+19580811,Boston Red Sox,Washington Senators,3,6
+19580811,Cincinnati Reds,Philadelpia Phillies,4,5
+19580811,Milwaukee Braves,Pittsburgh Pirates,4,6
+19580812,Chicago White Sox,Cleveland Indians,4,1
+19580812,Kansas City Athletics,Detroit Tigers,6,7
+19580812,Baltimore Orioles,New York Yankees,2,7
+19580812,Chicago Cubs,Los Angeles Dodgers,9,3
+19580812,Cincinnati Reds,Philadelpia Phillies,12,4
+19580812,Milwaukee Braves,Pittsburgh Pirates,0,10
+19580812,St. Louis Cardinals,San  Francisco Giants,7,3
+19580813,Boston Red Sox,Baltimore Orioles,1,2
+19580813,Kansas City Athletics,Chicago White Sox,2,1
+19580813,Kansas City Athletics,Chicago White Sox,5,6
+19580813,Detroit Tigers,Cleveland Indians,6,2
+19580813,Detroit Tigers,Cleveland Indians,3,2
+19580813,Washington Senators,New York Yankees,9,4
+19580813,Milwaukee Braves,Cincinnati Reds,9,2
+19580813,Milwaukee Braves,Cincinnati Reds,4,2
+19580813,Chicago Cubs,Los Angeles Dodgers,5,6
+19580813,Pittsburgh Pirates,Philadelpia Phillies,10,9
+19580813,St. Louis Cardinals,San  Francisco Giants,2,11
+19580814,New York Yankees,Boston Red Sox,8,2
+19580814,Kansas City Athletics,Chicago White Sox,2,5
+19580814,Detroit Tigers,Cleveland Indians,9,10
+19580814,Milwaukee Braves,Cincinnati Reds,3,0
+19580814,Chicago Cubs,Los Angeles Dodgers,3,7
+19580814,St. Louis Cardinals,San  Francisco Giants,3,4
+19580815,Washington Senators,Baltimore Orioles,3,1
+19580815,New York Yankees,Boston Red Sox,2,6
+19580815,Cleveland Indians,Chicago White Sox,3,4
+19580815,Detroit Tigers,Kansas City Athletics,5,12
+19580815,Pittsburgh Pirates,Cincinnati Reds,1,6
+19580815,St. Louis Cardinals,Los Angeles Dodgers,3,4
+19580815,St. Louis Cardinals,Los Angeles Dodgers,3,5
+19580815,Philadelpia Phillies,Milwaukee Braves,0,1
+19580815,Chicago Cubs,San  Francisco Giants,3,1
+19580816,Washington Senators,Baltimore Orioles,0,9
+19580816,New York Yankees,Boston Red Sox,4,7
+19580816,Cleveland Indians,Chicago White Sox,6,7
+19580816,Detroit Tigers,Kansas City Athletics,7,8
+19580816,Pittsburgh Pirates,Cincinnati Reds,13,4
+19580816,Philadelpia Phillies,Milwaukee Braves,1,2
+19580816,Chicago Cubs,San  Francisco Giants,4,7
+19580817,Washington Senators,Baltimore Orioles,1,2
+19580817,New York Yankees,Boston Red Sox,5,6
+19580817,Cleveland Indians,Chicago White Sox,2,3
+19580817,Detroit Tigers,Kansas City Athletics,1,4
+19580817,Pittsburgh Pirates,Cincinnati Reds,3,4
+19580817,Pittsburgh Pirates,Cincinnati Reds,5,7
+19580817,St. Louis Cardinals,Los Angeles Dodgers,12,7
+19580817,St. Louis Cardinals,Los Angeles Dodgers,3,9
+19580817,Philadelpia Phillies,Milwaukee Braves,1,5
+19580817,Philadelpia Phillies,Milwaukee Braves,1,4
+19580817,Chicago Cubs,San  Francisco Giants,6,8
+19580818,Kansas City Athletics,Baltimore Orioles,2,8
+19580819,Kansas City Athletics,Baltimore Orioles,4,1
+19580819,Kansas City Athletics,Baltimore Orioles,6,4
+19580819,Chicago White Sox,Boston Red Sox,7,1
+19580819,Cleveland Indians,New York Yankees,8,6
+19580819,Detroit Tigers,Washington Senators,1,3
+19580819,Pittsburgh Pirates,Chicago Cubs,4,3
+19580819,Milwaukee Braves,Los Angeles Dodgers,1,4
+19580819,Milwaukee Braves,Los Angeles Dodgers,2,7
+19580819,Cincinnati Reds,San  Francisco Giants,3,4
+19580819,Philadelpia Phillies,St. Louis Cardinals,4,5
+19580820,Kansas City Athletics,Baltimore Orioles,3,4
+19580820,Chicago White Sox,Boston Red Sox,10,8
+19580820,Cleveland Indians,New York Yankees,1,7
+19580820,Detroit Tigers,Washington Senators,7,1
+19580820,Pittsburgh Pirates,Chicago Cubs,4,2
+19580820,Pittsburgh Pirates,Chicago Cubs,1,5
+19580820,Milwaukee Braves,Los Angeles Dodgers,1,2
+19580820,Cincinnati Reds,San  Francisco Giants,3,4
+19580820,Philadelpia Phillies,St. Louis Cardinals,12,2
+19580821,Detroit Tigers,Baltimore Orioles,6,7
+19580821,Cleveland Indians,Boston Red Sox,6,8
+19580821,Chicago White Sox,New York Yankees,3,6
+19580821,Kansas City Athletics,Washington Senators,7,4
+19580821,Pittsburgh Pirates,Chicago Cubs,3,5
+19580821,Milwaukee Braves,Los Angeles Dodgers,4,0
+19580821,Cincinnati Reds,San  Francisco Giants,8,1
+19580821,Philadelpia Phillies,St. Louis Cardinals,1,2
+19580822,Detroit Tigers,Baltimore Orioles,1,2
+19580822,Cleveland Indians,Boston Red Sox,3,4
+19580822,Chicago White Sox,New York Yankees,5,8
+19580822,Kansas City Athletics,Washington Senators,1,0
+19580822,Pittsburgh Pirates,Chicago Cubs,8,2
+19580822,Cincinnati Reds,San  Francisco Giants,7,3
+19580822,Philadelpia Phillies,St. Louis Cardinals,1,9
+19580823,Detroit Tigers,Baltimore Orioles,5,1
+19580823,Cleveland Indians,Boston Red Sox,8,1
+19580823,Chicago White Sox,New York Yankees,7,1
+19580823,Kansas City Athletics,Washington Senators,3,1
+19580823,Pittsburgh Pirates,Chicago Cubs,6,1
+19580823,Milwaukee Braves,Los Angeles Dodgers,1,10
+19580823,Cincinnati Reds,San  Francisco Giants,2,5
+19580823,Philadelpia Phillies,St. Louis Cardinals,4,2
+19580824,Chicago White Sox,Baltimore Orioles,2,5
+19580824,Kansas City Athletics,Boston Red Sox,3,14
+19580824,Kansas City Athletics,Boston Red Sox,2,3
+19580824,Detroit Tigers,New York Yankees,8,3
+19580824,Detroit Tigers,New York Yankees,2,3
+19580824,Cleveland Indians,Washington Senators,9,1
+19580824,Philadelpia Phillies,Chicago Cubs,13,8
+19580824,Philadelpia Phillies,Chicago Cubs,5,3
+19580824,Cincinnati Reds,Los Angeles Dodgers,6,5
+19580824,Milwaukee Braves,San  Francisco Giants,8,5
+19580824,Pittsburgh Pirates,St. Louis Cardinals,8,4
+19580824,Pittsburgh Pirates,St. Louis Cardinals,8,12
+19580825,Chicago White Sox,Baltimore Orioles,5,6
+19580825,Cleveland Indians,Washington Senators,4,5
+19580825,Cincinnati Reds,Los Angeles Dodgers,2,4
+19580825,Milwaukee Braves,San  Francisco Giants,6,1
+19580825,Pittsburgh Pirates,St. Louis Cardinals,1,7
+19580826,Cleveland Indians,Baltimore Orioles,0,1
+19580826,Kansas City Athletics,New York Yankees,2,6
+19580826,Chicago White Sox,Washington Senators,5,2
+19580826,Philadelpia Phillies,Chicago Cubs,10,3
+19580826,Cincinnati Reds,Los Angeles Dodgers,6,4
+19580826,Milwaukee Braves,San  Francisco Giants,7,3
+19580826,Pittsburgh Pirates,St. Louis Cardinals,5,3
+19580827,Cleveland Indians,Baltimore Orioles,8,5
+19580827,Detroit Tigers,Boston Red Sox,2,3
+19580827,Detroit Tigers,Boston Red Sox,7,2
+19580827,Kansas City Athletics,New York Yankees,11,7
+19580827,Chicago White Sox,Washington Senators,2,1
+19580827,Philadelpia Phillies,Chicago Cubs,2,5
+19580827,Cincinnati Reds,Los Angeles Dodgers,8,7
+19580827,Milwaukee Braves,San  Francisco Giants,2,3
+19580827,Pittsburgh Pirates,St. Louis Cardinals,14,1
+19580828,Milwaukee Braves,San  Francisco Giants,3,0
+19580829,Baltimore Orioles,Boston Red Sox,2,5
+19580829,Detroit Tigers,Chicago White Sox,0,3
+19580829,Cleveland Indians,Kansas City Athletics,7,8
+19580829,New York Yankees,Washington Senators,0,3
+19580829,Philadelpia Phillies,Cincinnati Reds,3,5
+19580829,Los Angeles Dodgers,San  Francisco Giants,4,1
+19580829,Chicago Cubs,St. Louis Cardinals,5,7
+19580829,Pittsburgh Pirates,Milwaukee Braves,3,2
+19580830,Baltimore Orioles,Boston Red Sox,7,2
+19580830,Detroit Tigers,Chicago White Sox,6,3
+19580830,Cleveland Indians,Kansas City Athletics,8,6
+19580830,New York Yankees,Washington Senators,1,3
+19580830,Philadelpia Phillies,Cincinnati Reds,3,12
+19580830,Pittsburgh Pirates,Milwaukee Braves,1,9
+19580830,Los Angeles Dodgers,San  Francisco Giants,2,3
+19580830,Los Angeles Dodgers,San  Francisco Giants,1,3
+19580830,Chicago Cubs,St. Louis Cardinals,3,1
+19580831,Baltimore Orioles,Boston Red Sox,2,3
+19580831,Detroit Tigers,Chicago White Sox,0,3
+19580831,Cleveland Indians,Kansas City Athletics,3,2
+19580831,New York Yankees,Washington Senators,7,6
+19580831,Philadelpia Phillies,Cincinnati Reds,2,6
+19580831,Philadelpia Phillies,Cincinnati Reds,3,7
+19580831,Pittsburgh Pirates,Milwaukee Braves,0,2
+19580831,Los Angeles Dodgers,San  Francisco Giants,2,14
+19580831,Chicago Cubs,St. Louis Cardinals,8,5
+19580901,Cleveland Indians,Chicago White Sox,6,5
+19580901,Cleveland Indians,Chicago White Sox,7,1
+19580901,Detroit Tigers,Kansas City Athletics,7,4
+19580901,Detroit Tigers,Kansas City Athletics,5,1
+19580901,Boston Red Sox,New York Yankees,4,2
+19580901,Boston Red Sox,New York Yankees,2,4
+19580901,Baltimore Orioles,Washington Senators,2,0
+19580901,Baltimore Orioles,Washington Senators,10,1
+19580901,Chicago Cubs,Milwaukee Braves,1,2
+19580901,Chicago Cubs,Milwaukee Braves,9,3
+19580901,Philadelpia Phillies,Pittsburgh Pirates,2,5
+19580901,Philadelpia Phillies,Pittsburgh Pirates,9,0
+19580901,Los Angeles Dodgers,San  Francisco Giants,6,8
+19580901,Los Angeles Dodgers,San  Francisco Giants,5,6
+19580901,Cincinnati Reds,St. Louis Cardinals,0,1
+19580901,Cincinnati Reds,St. Louis Cardinals,9,3
+19580902,Detroit Tigers,Kansas City Athletics,6,1
+19580902,Boston Red Sox,New York Yankees,1,6
+19580902,Baltimore Orioles,Washington Senators,3,4
+19580902,San  Francisco Giants,Los Angeles Dodgers,0,4
+19580902,Philadelpia Phillies,Pittsburgh Pirates,2,3
+19580902,Cincinnati Reds,St. Louis Cardinals,2,4
+19580903,Kansas City Athletics,Cleveland Indians,6,2
+19580903,Chicago White Sox,Detroit Tigers,1,0
+19580903,Boston Red Sox,New York Yankees,5,8
+19580903,Baltimore Orioles,Washington Senators,4,3
+19580903,St. Louis Cardinals,Chicago Cubs,9,7
+19580903,Pittsburgh Pirates,Cincinnati Reds,4,7
+19580903,San  Francisco Giants,Los Angeles Dodgers,3,5
+19580903,Milwaukee Braves,Philadelpia Phillies,11,5
+19580904,Boston Red Sox,Baltimore Orioles,5,2
+19580904,Kansas City Athletics,Cleveland Indians,2,1
+19580904,Chicago White Sox,Detroit Tigers,4,11
+19580904,St. Louis Cardinals,Chicago Cubs,4,2
+19580904,San  Francisco Giants,Los Angeles Dodgers,13,3
+19580904,Milwaukee Braves,Philadelpia Phillies,9,5
+19580905,Boston Red Sox,Baltimore Orioles,10,2
+19580905,Chicago White Sox,Cleveland Indians,4,3
+19580905,Kansas City Athletics,Detroit Tigers,1,4
+19580905,Washington Senators,New York Yankees,6,3
+19580905,Cincinnati Reds,Philadelpia Phillies,8,4
+19580905,Milwaukee Braves,Pittsburgh Pirates,0,1
+19580905,Los Angeles Dodgers,St. Louis Cardinals,2,1
+19580906,Boston Red Sox,Baltimore Orioles,2,4
+19580906,Chicago White Sox,Cleveland Indians,1,7
+19580906,Kansas City Athletics,Detroit Tigers,6,2
+19580906,Washington Senators,New York Yankees,8,3
+19580906,San  Francisco Giants,Chicago Cubs,3,6
+19580906,Cincinnati Reds,Philadelpia Phillies,10,2
+19580906,Milwaukee Braves,Pittsburgh Pirates,6,7
+19580906,Los Angeles Dodgers,St. Louis Cardinals,2,3
+19580907,Boston Red Sox,Baltimore Orioles,6,5
+19580907,Chicago White Sox,Cleveland Indians,3,4
+19580907,Kansas City Athletics,Detroit Tigers,3,2
+19580907,Washington Senators,New York Yankees,1,0
+19580907,Washington Senators,New York Yankees,0,7
+19580907,San  Francisco Giants,Chicago Cubs,4,6
+19580907,San  Francisco Giants,Chicago Cubs,1,4
+19580907,Cincinnati Reds,Philadelpia Phillies,6,4
+19580907,Cincinnati Reds,Philadelpia Phillies,9,2
+19580907,Milwaukee Braves,Pittsburgh Pirates,3,1
+19580907,Milwaukee Braves,Pittsburgh Pirates,1,4
+19580907,Los Angeles Dodgers,St. Louis Cardinals,7,5
+19580908,Cincinnati Reds,Pittsburgh Pirates,1,4
+19580909,Boston Red Sox,Chicago White Sox,1,4
+19580909,New York Yankees,Cleveland Indians,2,9
+19580909,Washington Senators,Detroit Tigers,1,7
+19580909,Baltimore Orioles,Kansas City Athletics,6,8
+19580909,Cincinnati Reds,Milwaukee Braves,2,3
+19580909,Los Angeles Dodgers,Philadelpia Phillies,3,4
+19580909,San  Francisco Giants,Pittsburgh Pirates,1,2
+19580909,Chicago Cubs,St. Louis Cardinals,7,8
+19580910,Boston Red Sox,Chicago White Sox,2,7
+19580910,New York Yankees,Cleveland Indians,8,3
+19580910,Washington Senators,Detroit Tigers,5,4
+19580910,Baltimore Orioles,Kansas City Athletics,2,4
+19580910,Cincinnati Reds,Milwaukee Braves,0,3
+19580910,Los Angeles Dodgers,Philadelpia Phillies,6,8
+19580910,San  Francisco Giants,Pittsburgh Pirates,4,6
+19580910,Chicago Cubs,St. Louis Cardinals,1,3
+19580911,Boston Red Sox,Chicago White Sox,1,4
+19580911,Washington Senators,Detroit Tigers,7,6
+19580911,Baltimore Orioles,Kansas City Athletics,1,7
+19580911,Los Angeles Dodgers,Philadelpia Phillies,3,4
+19580912,New York Yankees,Chicago White Sox,5,0
+19580912,Boston Red Sox,Cleveland Indians,4,5
+19580912,Baltimore Orioles,Detroit Tigers,1,3
+19580912,Washington Senators,Kansas City Athletics,3,4
+19580912,Chicago Cubs,Cincinnati Reds,7,5
+19580912,St. Louis Cardinals,Milwaukee Braves,0,6
+19580912,San  Francisco Giants,Philadelpia Phillies,5,2
+19580912,San  Francisco Giants,Philadelpia Phillies,19,2
+19580912,Los Angeles Dodgers,Pittsburgh Pirates,7,3
+19580913,New York Yankees,Chicago White Sox,5,4
+19580913,Boston Red Sox,Cleveland Indians,1,4
+19580913,Baltimore Orioles,Detroit Tigers,2,13
+19580913,Washington Senators,Kansas City Athletics,8,5
+19580913,Chicago Cubs,Cincinnati Reds,2,9
+19580913,St. Louis Cardinals,Milwaukee Braves,2,8
+19580913,San  Francisco Giants,Philadelpia Phillies,6,5
+19580913,Los Angeles Dodgers,Pittsburgh Pirates,4,9
+19580914,Washington Senators,Chicago White Sox,1,7
+19580914,Washington Senators,Chicago White Sox,5,6
+19580914,Baltimore Orioles,Cleveland Indians,4,7
+19580914,Baltimore Orioles,Cleveland Indians,4,2
+19580914,Boston Red Sox,Detroit Tigers,1,6
+19580914,Boston Red Sox,Detroit Tigers,3,9
+19580914,New York Yankees,Kansas City Athletics,5,3
+19580914,New York Yankees,Kansas City Athletics,12,7
+19580914,San  Francisco Giants,Cincinnati Reds,3,4
+19580914,San  Francisco Giants,Cincinnati Reds,6,4
+19580914,Los Angeles Dodgers,Milwaukee Braves,5,3
+19580914,St. Louis Cardinals,Philadelpia Phillies,6,3
+19580914,Chicago Cubs,Pittsburgh Pirates,4,5
+19580914,Chicago Cubs,Pittsburgh Pirates,2,6
+19580915,Los Angeles Dodgers,Milwaukee Braves,3,8
+19580915,St. Louis Cardinals,Philadelpia Phillies,2,6
+19580916,Baltimore Orioles,Chicago White Sox,3,4
+19580916,Washington Senators,Cleveland Indians,1,5
+19580916,New York Yankees,Detroit Tigers,2,4
+19580916,Los Angeles Dodgers,Cincinnati Reds,3,5
+19580916,Los Angeles Dodgers,Cincinnati Reds,5,7
+19580916,San  Francisco Giants,Milwaukee Braves,1,4
+19580916,Chicago Cubs,Philadelpia Phillies,10,8
+19580916,St. Louis Cardinals,Pittsburgh Pirates,1,3
+19580917,New York Yankees,Detroit Tigers,2,5
+19580917,Boston Red Sox,Kansas City Athletics,3,6
+19580917,Boston Red Sox,Kansas City Athletics,4,2
+19580917,Chicago Cubs,Philadelpia Phillies,6,2
+19580917,Milwaukee Braves,St. Louis Cardinals,3,5
+19580918,Baltimore Orioles,Chicago White Sox,2,6
+19580918,Boston Red Sox,Kansas City Athletics,1,4
+19580918,Milwaukee Braves,St. Louis Cardinals,9,3
+19580919,New York Yankees,Baltimore Orioles,4,5
+19580919,Washington Senators,Boston Red Sox,0,2
+19580919,Cleveland Indians,Detroit Tigers,2,1
+19580919,Chicago White Sox,Kansas City Athletics,6,7
+19580919,Los Angeles Dodgers,Chicago Cubs,5,1
+19580919,Milwaukee Braves,Cincinnati Reds,1,7
+19580919,Pittsburgh Pirates,Philadelpia Phillies,4,2
+19580919,San  Francisco Giants,St. Louis Cardinals,8,1
+19580920,New York Yankees,Baltimore Orioles,0,1
+19580920,Washington Senators,Boston Red Sox,0,2
+19580920,Cleveland Indians,Detroit Tigers,2,1
+19580920,Cleveland Indians,Detroit Tigers,1,4
+19580920,Chicago White Sox,Kansas City Athletics,2,3
+19580920,Los Angeles Dodgers,Chicago Cubs,2,3
+19580920,Milwaukee Braves,Cincinnati Reds,5,1
+19580920,Pittsburgh Pirates,Philadelpia Phillies,4,3
+19580920,San  Francisco Giants,St. Louis Cardinals,5,1
+19580921,New York Yankees,Baltimore Orioles,2,3
+19580921,Washington Senators,Boston Red Sox,0,2
+19580921,Cleveland Indians,Detroit Tigers,3,1
+19580921,Chicago White Sox,Kansas City Athletics,2,1
+19580921,Los Angeles Dodgers,Chicago Cubs,2,1
+19580921,Milwaukee Braves,Cincinnati Reds,6,5
+19580921,San  Francisco Giants,St. Louis Cardinals,7,4
+19580922,Washington Senators,Baltimore Orioles,0,2
+19580922,Pittsburgh Pirates,Philadelpia Phillies,2,3
+19580922,Pittsburgh Pirates,Philadelpia Phillies,0,1
+19580923,Washington Senators,Baltimore Orioles,2,3
+19580923,New York Yankees,Boston Red Sox,8,9
+19580923,Detroit Tigers,Chicago White Sox,3,1
+19580923,Cleveland Indians,Kansas City Athletics,7,5
+19580923,St. Louis Cardinals,Los Angeles Dodgers,5,1
+19580923,Philadelpia Phillies,Milwaukee Braves,6,5
+19580923,Chicago Cubs,San  Francisco Giants,3,2
+19580924,Washington Senators,Baltimore Orioles,0,2
+19580924,New York Yankees,Boston Red Sox,7,5
+19580924,Detroit Tigers,Chicago White Sox,3,4
+19580924,Cleveland Indians,Kansas City Athletics,4,7
+19580924,St. Louis Cardinals,Los Angeles Dodgers,3,4
+19580924,Chicago Cubs,San  Francisco Giants,10,3
+19580925,Detroit Tigers,Chicago White Sox,7,1
+19580926,Kansas City Athletics,Chicago White Sox,0,1
+19580926,Detroit Tigers,Cleveland Indians,4,5
+19580926,Baltimore Orioles,New York Yankees,3,2
+19580926,Boston Red Sox,Washington Senators,6,4
+19580926,Boston Red Sox,Washington Senators,3,1
+19580926,Chicago Cubs,Los Angeles Dodgers,3,6
+19580926,Chicago Cubs,Los Angeles Dodgers,2,1
+19580926,Cincinnati Reds,Milwaukee Braves,1,2
+19580926,Philadelpia Phillies,Pittsburgh Pirates,3,2
+19580926,St. Louis Cardinals,San  Francisco Giants,3,4
+19580927,Kansas City Athletics,Chicago White Sox,2,1
+19580927,Detroit Tigers,Cleveland Indians,5,1
+19580927,Boston Red Sox,Washington Senators,9,5
+19580927,Chicago Cubs,Los Angeles Dodgers,7,4
+19580927,Cincinnati Reds,Milwaukee Braves,1,6
+19580927,Philadelpia Phillies,Pittsburgh Pirates,7,3
+19580927,St. Louis Cardinals,San  Francisco Giants,11,7
+19580928,Kansas City Athletics,Chicago White Sox,4,11
+19580928,Detroit Tigers,Cleveland Indians,2,6
+19580928,Baltimore Orioles,New York Yankees,0,7
+19580928,Baltimore Orioles,New York Yankees,3,6
+19580928,Boston Red Sox,Washington Senators,6,4
+19580928,Cincinnati Reds,Milwaukee Braves,4,0
+19580928,Philadelpia Phillies,Pittsburgh Pirates,6,4
+19580928,St. Louis Cardinals,San  Francisco Giants,2,7

@@ -1,0 +1,2433 @@
+Date,away_team,home_team,away_team_score,home_team_score
+19980331,Kansas City Royals,Baltimore Orioles,4,1
+19980331,Cleveland Indians,Seattle Mariners,10,9
+19980331,Detroit Tigers,Tampa Bay Devil Rays,11,6
+19980331,Chicago White Sox,Texas Rangers,9,2
+19980331,Colorado Rockies,Arizona Diamondbacks,9,2
+19980331,Milwaukee Brewers,Atlanta Braves,1,2
+19980331,San Diego Padres,Cincinnati Reds,10,2
+19980331,Chicago Cubs,Florida Marlins,6,11
+19980331,San  Francisco Giants,Houston Colts,9,4
+19980331,Philadelpia Phillies,New York Mets,0,1
+19980331,Los Angeles Dodgers,St. Louis Cardinals,0,6
+19980401,New York Yankees,Anaheim Angels,1,4
+19980401,Kansas City Royals,Baltimore Orioles,1,10
+19980401,Boston Red Sox,Oakland Athletics,2,0
+19980401,Cleveland Indians,Seattle Mariners,9,7
+19980401,Detroit Tigers,Tampa Bay Devil Rays,8,11
+19980401,Minensota Twins,Toronto Blue Jays,2,3
+19980401,Colorado Rockies,Arizona Diamondbacks,6,0
+19980401,San Diego Padres,Cincinnati Reds,10,9
+19980401,Chicago Cubs,Florida Marlins,10,3
+19980401,San  Francisco Giants,Houston Colts,6,7
+19980401,Pittsburgh Pirates,Montreal Expos,4,0
+19980402,New York Yankees,Anaheim Angels,2,10
+19980402,Kansas City Royals,Baltimore Orioles,3,4
+19980402,Boston Red Sox,Oakland Athletics,6,3
+19980402,Detroit Tigers,Tampa Bay Devil Rays,1,7
+19980402,Chicago White Sox,Texas Rangers,4,20
+19980402,Minensota Twins,Toronto Blue Jays,3,2
+19980402,Colorado Rockies,Arizona Diamondbacks,6,4
+19980402,Milwaukee Brewers,Atlanta Braves,8,6
+19980402,San Diego Padres,Cincinnati Reds,1,5
+19980402,Chicago Cubs,Florida Marlins,8,7
+19980402,San  Francisco Giants,Houston Colts,9,2
+19980402,Pittsburgh Pirates,Montreal Expos,4,3
+19980402,Philadelpia Phillies,New York Mets,6,5
+19980402,Los Angeles Dodgers,St. Louis Cardinals,5,8
+19980403,Cleveland Indians,Anaheim Angels,6,2
+19980403,Detroit Tigers,Baltimore Orioles,2,10
+19980403,Kansas City Royals,Minensota Twins,9,5
+19980403,Boston Red Sox,Seattle Mariners,6,11
+19980403,Chicago White Sox,Tampa Bay Devil Rays,10,4
+19980403,Texas Rangers,Toronto Blue Jays,5,0
+19980403,San  Francisco Giants,Arizona Diamondbacks,8,3
+19980403,Philadelpia Phillies,Atlanta Braves,1,5
+19980403,Montreal Expos,Chicago Cubs,2,6
+19980403,Los Angeles Dodgers,Cincinnati Reds,3,6
+19980403,Milwaukee Brewers,Florida Marlins,7,1
+19980403,Colorado Rockies,Houston Colts,2,15
+19980403,Pittsburgh Pirates,New York Mets,1,2
+19980403,San Diego Padres,St. Louis Cardinals,13,5
+19980404,Cleveland Indians,Anaheim Angels,11,0
+19980404,Detroit Tigers,Baltimore Orioles,1,2
+19980404,Kansas City Royals,Minensota Twins,3,2
+19980404,New York Yankees,Oakland Athletics,3,7
+19980404,Boston Red Sox,Seattle Mariners,6,12
+19980404,Chicago White Sox,Tampa Bay Devil Rays,2,8
+19980404,Texas Rangers,Toronto Blue Jays,2,9
+19980404,San  Francisco Giants,Arizona Diamondbacks,5,3
+19980404,Philadelpia Phillies,Atlanta Braves,4,5
+19980404,Montreal Expos,Chicago Cubs,1,3
+19980404,Los Angeles Dodgers,Cincinnati Reds,1,3
+19980404,Milwaukee Brewers,Florida Marlins,6,2
+19980404,Colorado Rockies,Houston Colts,5,3
+19980404,Pittsburgh Pirates,New York Mets,6,7
+19980404,San Diego Padres,St. Louis Cardinals,6,8
+19980405,Cleveland Indians,Anaheim Angels,6,4
+19980405,Detroit Tigers,Baltimore Orioles,3,6
+19980405,Kansas City Royals,Minensota Twins,1,10
+19980405,New York Yankees,Oakland Athletics,9,7
+19980405,Boston Red Sox,Seattle Mariners,10,5
+19980405,Chicago White Sox,Tampa Bay Devil Rays,0,5
+19980405,Texas Rangers,Toronto Blue Jays,6,5
+19980405,San  Francisco Giants,Arizona Diamondbacks,2,3
+19980405,Philadelpia Phillies,Atlanta Braves,2,1
+19980405,Montreal Expos,Chicago Cubs,2,7
+19980405,Los Angeles Dodgers,Cincinnati Reds,1,0
+19980405,Milwaukee Brewers,Florida Marlins,5,2
+19980405,Colorado Rockies,Houston Colts,2,6
+19980405,Pittsburgh Pirates,New York Mets,0,7
+19980405,San Diego Padres,St. Louis Cardinals,8,7
+19980406,Boston Red Sox,Anaheim Angels,1,2
+19980406,Texas Rangers,Chicago White Sox,4,5
+19980406,Cleveland Indians,Oakland Athletics,6,5
+19980406,New York Yankees,Seattle Mariners,0,8
+19980406,Montreal Expos,Chicago Cubs,2,3
+19980406,Milwaukee Brewers,Florida Marlins,8,5
+19980406,Colorado Rockies,Houston Colts,4,13
+19980406,Pittsburgh Pirates,New York Mets,4,2
+19980407,Boston Red Sox,Anaheim Angels,1,6
+19980407,Tampa Bay Devil Rays,Detroit Tigers,1,3
+19980407,Baltimore Orioles,Kansas City Royals,11,7
+19980407,Toronto Blue Jays,Minensota Twins,2,12
+19980407,New York Yankees,Seattle Mariners,13,7
+19980407,New York Mets,Chicago Cubs,3,2
+19980407,St. Louis Cardinals,Colorado Rockies,12,11
+19980407,Arizona Diamondbacks,Los Angeles Dodgers,1,9
+19980407,Montreal Expos,Milwaukee Brewers,4,6
+19980407,Florida Marlins,Philadelpia Phillies,8,9
+19980407,Atlanta Braves,Pittsburgh Pirates,11,3
+19980407,Cincinnati Reds,San Diego Padres,2,3
+19980407,Houston Colts,San  Francisco Giants,4,5
+19980408,Boston Red Sox,Anaheim Angels,1,2
+19980408,Toronto Blue Jays,Minensota Twins,9,6
+19980408,Cleveland Indians,Oakland Athletics,1,3
+19980408,New York Yankees,Seattle Mariners,4,3
+19980408,St. Louis Cardinals,Colorado Rockies,13,9
+19980408,Arizona Diamondbacks,Los Angeles Dodgers,3,0
+19980408,Florida Marlins,Philadelpia Phillies,5,9
+19980408,Atlanta Braves,Pittsburgh Pirates,3,5
+19980408,Cincinnati Reds,San Diego Padres,3,6
+19980408,Houston Colts,San  Francisco Giants,6,3
+19980409,Texas Rangers,Chicago White Sox,11,0
+19980409,Baltimore Orioles,Kansas City Royals,2,1
+19980409,Toronto Blue Jays,Minensota Twins,2,13
+19980409,New York Mets,Chicago Cubs,7,8
+19980409,St. Louis Cardinals,Colorado Rockies,7,5
+19980409,Arizona Diamondbacks,Los Angeles Dodgers,2,7
+19980409,Montreal Expos,Milwaukee Brewers,6,5
+19980409,Atlanta Braves,Pittsburgh Pirates,4,3
+19980409,Cincinnati Reds,San Diego Padres,2,6
+19980409,Houston Colts,San  Francisco Giants,3,1
+19980410,Seattle Mariners,Boston Red Sox,7,9
+19980410,Tampa Bay Devil Rays,Chicago White Sox,0,3
+19980410,Anaheim Angels,Cleveland Indians,5,8
+19980410,Baltimore Orioles,Detroit Tigers,1,7
+19980410,Minensota Twins,Kansas City Royals,4,5
+19980410,Oakland Athletics,New York Yankees,13,17
+19980410,Toronto Blue Jays,Texas Rangers,3,4
+19980410,Cincinnati Reds,Colorado Rockies,18,7
+19980410,Houston Colts,Los Angeles Dodgers,2,7
+19980410,New York Mets,Milwaukee Brewers,3,5
+19980410,Chicago Cubs,Montreal Expos,13,0
+19980410,Atlanta Braves,Philadelpia Phillies,0,1
+19980410,Florida Marlins,Pittsburgh Pirates,1,4
+19980410,Arizona Diamondbacks,San Diego Padres,4,6
+19980410,St. Louis Cardinals,San  Francisco Giants,3,5
+19980411,Seattle Mariners,Boston Red Sox,0,5
+19980411,Tampa Bay Devil Rays,Chicago White Sox,5,1
+19980411,Anaheim Angels,Cleveland Indians,5,8
+19980411,Baltimore Orioles,Detroit Tigers,2,0
+19980411,Minensota Twins,Kansas City Royals,8,3
+19980411,Oakland Athletics,New York Yankees,1,3
+19980411,Toronto Blue Jays,Texas Rangers,9,8
+19980411,Cincinnati Reds,Colorado Rockies,12,5
+19980411,Houston Colts,Los Angeles Dodgers,6,2
+19980411,New York Mets,Milwaukee Brewers,2,1
+19980411,Chicago Cubs,Montreal Expos,4,5
+19980411,Atlanta Braves,Philadelpia Phillies,5,6
+19980411,Florida Marlins,Pittsburgh Pirates,6,7
+19980411,Arizona Diamondbacks,San Diego Padres,0,7
+19980411,St. Louis Cardinals,San  Francisco Giants,7,2
+19980412,Seattle Mariners,Boston Red Sox,7,8
+19980412,Tampa Bay Devil Rays,Chicago White Sox,4,1
+19980412,Anaheim Angels,Cleveland Indians,12,1
+19980412,Baltimore Orioles,Detroit Tigers,6,3
+19980412,Minensota Twins,Kansas City Royals,7,2
+19980412,Oakland Athletics,New York Yankees,5,7
+19980412,Toronto Blue Jays,Texas Rangers,1,3
+19980412,Cincinnati Reds,Colorado Rockies,10,4
+19980412,Houston Colts,Los Angeles Dodgers,6,7
+19980412,New York Mets,Milwaukee Brewers,6,4
+19980412,Chicago Cubs,Montreal Expos,1,4
+19980412,Atlanta Braves,Philadelpia Phillies,3,2
+19980412,Florida Marlins,Pittsburgh Pirates,3,7
+19980412,Arizona Diamondbacks,San Diego Padres,2,4
+19980412,St. Louis Cardinals,San  Francisco Giants,1,2
+19980413,Oakland Athletics,Boston Red Sox,3,6
+19980413,Seattle Mariners,Cleveland Indians,5,6
+19980413,Toronto Blue Jays,Kansas City Royals,1,11
+19980413,Minensota Twins,Tampa Bay Devil Rays,12,13
+19980413,Detroit Tigers,Texas Rangers,1,10
+19980413,Cincinnati Reds,Colorado Rockies,4,8
+19980413,Houston Colts,Los Angeles Dodgers,1,3
+19980413,Atlanta Braves,Philadelpia Phillies,8,11
+19980413,Florida Marlins,Pittsburgh Pirates,7,2
+19980413,Arizona Diamondbacks,San Diego Padres,0,1
+19980413,St. Louis Cardinals,San  Francisco Giants,2,8
+19980414,Chicago White Sox,Baltimore Orioles,3,4
+19980414,Oakland Athletics,Boston Red Sox,6,8
+19980414,Seattle Mariners,Cleveland Indians,3,8
+19980414,Toronto Blue Jays,Kansas City Royals,5,1
+19980414,Minensota Twins,Tampa Bay Devil Rays,8,2
+19980414,Detroit Tigers,Texas Rangers,2,11
+19980414,Pittsburgh Pirates,Atlanta Braves,0,6
+19980414,Los Angeles Dodgers,Colorado Rockies,3,6
+19980414,Milwaukee Brewers,Montreal Expos,7,4
+19980414,Chicago Cubs,New York Mets,0,6
+19980414,San Diego Padres,San  Francisco Giants,7,13
+19980414,Arizona Diamondbacks,St. Louis Cardinals,5,15
+19980415,Chicago White Sox,Baltimore Orioles,7,6
+19980415,Oakland Athletics,Boston Red Sox,3,4
+19980415,Seattle Mariners,Cleveland Indians,5,3
+19980415,Toronto Blue Jays,Kansas City Royals,3,7
+19980415,Anaheim Angels,New York Yankees,3,6
+19980415,Detroit Tigers,Texas Rangers,3,7
+19980415,Pittsburgh Pirates,Atlanta Braves,0,7
+19980415,Houston Colts,Cincinnati Reds,1,4
+19980415,Philadelpia Phillies,Florida Marlins,2,3
+19980415,Milwaukee Brewers,Montreal Expos,3,4
+19980415,Chicago Cubs,New York Mets,1,2
+19980415,San Diego Padres,San  Francisco Giants,1,0
+19980416,Tampa Bay Devil Rays,Anaheim Angels,6,5
+19980416,Chicago White Sox,Baltimore Orioles,8,2
+19980416,Seattle Mariners,Minensota Twins,3,2
+19980416,Kansas City Royals,Oakland Athletics,7,12
+19980416,Pittsburgh Pirates,Atlanta Braves,1,3
+19980416,Houston Colts,Cincinnati Reds,7,4
+19980416,Los Angeles Dodgers,Colorado Rockies,4,3
+19980416,Philadelpia Phillies,Florida Marlins,4,12
+19980416,Milwaukee Brewers,Montreal Expos,5,3
+19980416,Chicago Cubs,New York Mets,8,4
+19980416,Arizona Diamondbacks,St. Louis Cardinals,4,5
+19980416,Arizona Diamondbacks,St. Louis Cardinals,8,2
+19980417,Tampa Bay Devil Rays,Anaheim Angels,0,5
+19980417,Cleveland Indians,Boston Red Sox,2,3
+19980417,New York Yankees,Detroit Tigers,11,2
+19980417,Seattle Mariners,Minensota Twins,11,6
+19980417,Kansas City Royals,Oakland Athletics,4,1
+19980417,Baltimore Orioles,Texas Rangers,4,6
+19980417,Chicago White Sox,Toronto Blue Jays,1,6
+19980417,Florida Marlins,Arizona Diamondbacks,5,7
+19980417,Los Angeles Dodgers,Chicago Cubs,11,3
+19980417,New York Mets,Cincinnati Reds,3,4
+19980417,Montreal Expos,Houston Colts,3,5
+19980417,San  Francisco Giants,Milwaukee Brewers,2,5
+19980417,San Diego Padres,Pittsburgh Pirates,7,5
+19980417,Philadelpia Phillies,St. Louis Cardinals,5,8
+19980418,Tampa Bay Devil Rays,Anaheim Angels,8,1
+19980418,Cleveland Indians,Boston Red Sox,7,4
+19980418,New York Yankees,Detroit Tigers,8,3
+19980418,Seattle Mariners,Minensota Twins,5,3
+19980418,Kansas City Royals,Oakland Athletics,2,3
+19980418,Baltimore Orioles,Texas Rangers,10,8
+19980418,Chicago White Sox,Toronto Blue Jays,4,9
+19980418,Florida Marlins,Arizona Diamondbacks,5,7
+19980418,Los Angeles Dodgers,Chicago Cubs,1,8
+19980418,New York Mets,Cincinnati Reds,5,4
+19980418,Atlanta Braves,Colorado Rockies,11,4
+19980418,Montreal Expos,Houston Colts,3,4
+19980418,San  Francisco Giants,Milwaukee Brewers,1,3
+19980418,San Diego Padres,Pittsburgh Pirates,7,5
+19980418,Philadelpia Phillies,St. Louis Cardinals,5,6
+19980419,Tampa Bay Devil Rays,Anaheim Angels,6,0
+19980419,Cleveland Indians,Boston Red Sox,0,2
+19980419,New York Yankees,Detroit Tigers,1,2
+19980419,Seattle Mariners,Minensota Twins,7,4
+19980419,Kansas City Royals,Oakland Athletics,7,3
+19980419,Baltimore Orioles,Texas Rangers,7,11
+19980419,Chicago White Sox,Toronto Blue Jays,4,5
+19980419,Florida Marlins,Arizona Diamondbacks,4,3
+19980419,Los Angeles Dodgers,Chicago Cubs,1,2
+19980419,New York Mets,Cincinnati Reds,14,0
+19980419,Atlanta Braves,Colorado Rockies,5,3
+19980419,Atlanta Braves,Colorado Rockies,7,10
+19980419,Montreal Expos,Houston Colts,5,4
+19980419,San  Francisco Giants,Milwaukee Brewers,2,3
+19980419,Philadelpia Phillies,St. Louis Cardinals,2,3
+19980420,Baltimore Orioles,Anaheim Angels,3,4
+19980420,Cleveland Indians,Boston Red Sox,5,6
+19980420,Minensota Twins,Oakland Athletics,2,3
+19980420,Kansas City Royals,Seattle Mariners,7,8
+19980420,New York Yankees,Toronto Blue Jays,3,2
+19980420,Florida Marlins,Arizona Diamondbacks,4,15
+19980420,Atlanta Braves,Colorado Rockies,7,5
+19980421,Baltimore Orioles,Anaheim Angels,8,3
+19980421,Chicago White Sox,Cleveland Indians,6,14
+19980421,Boston Red Sox,Detroit Tigers,11,4
+19980421,Minensota Twins,Oakland Athletics,4,5
+19980421,Kansas City Royals,Seattle Mariners,5,3
+19980421,Tampa Bay Devil Rays,Texas Rangers,0,4
+19980421,New York Yankees,Toronto Blue Jays,5,3
+19980421,San Diego Padres,Chicago Cubs,3,5
+19980421,Los Angeles Dodgers,Milwaukee Brewers,2,5
+19980421,St. Louis Cardinals,Montreal Expos,5,3
+19980421,Houston Colts,New York Mets,6,0
+19980421,Cincinnati Reds,Philadelpia Phillies,6,3
+19980421,San  Francisco Giants,Pittsburgh Pirates,6,3
+19980422,Baltimore Orioles,Anaheim Angels,6,7
+19980422,Chicago White Sox,Cleveland Indians,14,7
+19980422,Boston Red Sox,Detroit Tigers,8,5
+19980422,Minensota Twins,Oakland Athletics,4,2
+19980422,Kansas City Royals,Seattle Mariners,5,11
+19980422,Tampa Bay Devil Rays,Texas Rangers,2,7
+19980422,New York Yankees,Toronto Blue Jays,9,1
+19980422,Arizona Diamondbacks,Atlanta Braves,2,5
+19980422,San Diego Padres,Chicago Cubs,3,2
+19980422,Colorado Rockies,Florida Marlins,2,3
+19980422,Los Angeles Dodgers,Milwaukee Brewers,9,6
+19980422,St. Louis Cardinals,Montreal Expos,2,3
+19980422,Houston Colts,New York Mets,7,10
+19980422,Cincinnati Reds,Philadelpia Phillies,4,5
+19980422,San  Francisco Giants,Pittsburgh Pirates,2,5
+19980423,Chicago White Sox,Cleveland Indians,4,5
+19980423,Tampa Bay Devil Rays,Texas Rangers,12,5
+19980423,Arizona Diamondbacks,Atlanta Braves,1,3
+19980423,San Diego Padres,Chicago Cubs,4,1
+19980423,Colorado Rockies,Florida Marlins,4,3
+19980423,Los Angeles Dodgers,Milwaukee Brewers,1,2
+19980423,St. Louis Cardinals,Montreal Expos,2,5
+19980423,Cincinnati Reds,Philadelpia Phillies,3,6
+19980423,San  Francisco Giants,Pittsburgh Pirates,0,7
+19980424,Oakland Athletics,Baltimore Orioles,10,1
+19980424,Toronto Blue Jays,Chicago White Sox,3,1
+19980424,Boston Red Sox,Cleveland Indians,7,5
+19980424,Texas Rangers,Kansas City Royals,4,11
+19980424,Detroit Tigers,New York Yankees,4,8
+19980424,Minensota Twins,Seattle Mariners,2,4
+19980424,Anaheim Angels,Tampa Bay Devil Rays,10,3
+19980424,Arizona Diamondbacks,Atlanta Braves,5,6
+19980424,Colorado Rockies,Florida Marlins,1,5
+19980424,Chicago Cubs,Los Angeles Dodgers,4,12
+19980424,Houston Colts,Montreal Expos,8,4
+19980424,Cincinnati Reds,New York Mets,2,3
+19980424,St. Louis Cardinals,Philadelpia Phillies,4,8
+19980424,Pittsburgh Pirates,San Diego Padres,4,2
+19980424,Milwaukee Brewers,San  Francisco Giants,7,5
+19980425,Oakland Athletics,Baltimore Orioles,2,8
+19980425,Toronto Blue Jays,Chicago White Sox,1,8
+19980425,Boston Red Sox,Cleveland Indians,3,2
+19980425,Texas Rangers,Kansas City Royals,11,8
+19980425,Detroit Tigers,New York Yankees,4,5
+19980425,Minensota Twins,Seattle Mariners,8,2
+19980425,Anaheim Angels,Tampa Bay Devil Rays,7,1
+19980425,Colorado Rockies,Atlanta Braves,11,7
+19980425,Arizona Diamondbacks,Florida Marlins,4,3
+19980425,Chicago Cubs,Los Angeles Dodgers,2,3
+19980425,Houston Colts,Montreal Expos,4,3
+19980425,Cincinnati Reds,New York Mets,2,0
+19980425,St. Louis Cardinals,Philadelpia Phillies,8,5
+19980425,Pittsburgh Pirates,San Diego Padres,3,4
+19980425,Milwaukee Brewers,San  Francisco Giants,1,2
+19980426,Oakland Athletics,Baltimore Orioles,12,4
+19980426,Toronto Blue Jays,Chicago White Sox,5,5
+19980426,Texas Rangers,Kansas City Royals,11,4
+19980426,Minensota Twins,Seattle Mariners,2,0
+19980426,Anaheim Angels,Tampa Bay Devil Rays,2,1
+19980426,Colorado Rockies,Atlanta Braves,7,6
+19980426,Arizona Diamondbacks,Florida Marlins,6,12
+19980426,Chicago Cubs,Los Angeles Dodgers,3,4
+19980426,Houston Colts,Montreal Expos,15,0
+19980426,St. Louis Cardinals,Philadelpia Phillies,3,9
+19980426,Pittsburgh Pirates,San Diego Padres,6,0
+19980426,Milwaukee Brewers,San  Francisco Giants,7,8
+19980427,Anaheim Angels,Baltimore Orioles,3,1
+19980427,Detroit Tigers,Boston Red Sox,5,6
+19980427,Cleveland Indians,Chicago White Sox,3,10
+19980427,Texas Rangers,Minensota Twins,9,4
+19980427,Toronto Blue Jays,New York Yankees,0,1
+19980427,Oakland Athletics,Tampa Bay Devil Rays,7,6
+19980427,Atlanta Braves,Arizona Diamondbacks,6,5
+19980427,Philadelpia Phillies,Cincinnati Reds,1,3
+19980427,Florida Marlins,Colorado Rockies,5,4
+19980427,Milwaukee Brewers,Los Angeles Dodgers,3,2
+19980427,Houston Colts,New York Mets,4,3
+19980427,Chicago Cubs,San Diego Padres,3,1
+19980427,Pittsburgh Pirates,San  Francisco Giants,5,6
+19980427,Montreal Expos,St. Louis Cardinals,0,7
+19980428,Anaheim Angels,Baltimore Orioles,6,5
+19980428,Detroit Tigers,Boston Red Sox,7,5
+19980428,Cleveland Indians,Chicago White Sox,4,1
+19980428,Seattle Mariners,Kansas City Royals,5,1
+19980428,Texas Rangers,Minensota Twins,7,2
+19980428,Toronto Blue Jays,New York Yankees,5,2
+19980428,Oakland Athletics,Tampa Bay Devil Rays,4,3
+19980428,Atlanta Braves,Arizona Diamondbacks,12,2
+19980428,Philadelpia Phillies,Cincinnati Reds,11,8
+19980428,Florida Marlins,Colorado Rockies,7,8
+19980428,New York Mets,Houston Colts,3,4
+19980428,Milwaukee Brewers,Los Angeles Dodgers,3,6
+19980428,Chicago Cubs,San Diego Padres,3,7
+19980428,Pittsburgh Pirates,San  Francisco Giants,1,2
+19980429,Anaheim Angels,Boston Red Sox,4,8
+19980429,Baltimore Orioles,Chicago White Sox,7,16
+19980429,Oakland Athletics,Cleveland Indians,11,4
+19980429,Texas Rangers,Detroit Tigers,4,1
+19980429,Tampa Bay Devil Rays,Minensota Twins,0,2
+19980429,Seattle Mariners,New York Yankees,5,8
+19980429,Kansas City Royals,Toronto Blue Jays,7,2
+19980429,Philadelpia Phillies,Cincinnati Reds,0,1
+19980429,New York Mets,Houston Colts,1,6
+19980429,Montreal Expos,St. Louis Cardinals,7,13
+19980430,Anaheim Angels,Boston Red Sox,7,2
+19980430,Baltimore Orioles,Chicago White Sox,4,1
+19980430,Oakland Athletics,Cleveland Indians,5,2
+19980430,Texas Rangers,Detroit Tigers,2,7
+19980430,Tampa Bay Devil Rays,Minensota Twins,2,0
+19980430,Seattle Mariners,New York Yankees,8,9
+19980430,Kansas City Royals,Toronto Blue Jays,7,4
+19980430,San  Francisco Giants,Atlanta Braves,0,6
+19980430,St. Louis Cardinals,Chicago Cubs,3,8
+19980430,San Diego Padres,Florida Marlins,4,1
+19980430,Colorado Rockies,New York Mets,4,0
+19980430,Los Angeles Dodgers,Pittsburgh Pirates,14,6
+19980501,Chicago White Sox,Anaheim Angels,1,7
+19980501,Minensota Twins,Baltimore Orioles,3,6
+19980501,Texas Rangers,Boston Red Sox,3,5
+19980501,Tampa Bay Devil Rays,Cleveland Indians,5,7
+19980501,New York Yankees,Kansas City Royals,2,1
+19980501,Toronto Blue Jays,Oakland Athletics,2,5
+19980501,Detroit Tigers,Seattle Mariners,17,3
+19980501,San  Francisco Giants,Atlanta Braves,2,6
+19980501,St. Louis Cardinals,Chicago Cubs,5,6
+19980501,San Diego Padres,Florida Marlins,5,6
+19980501,Cincinnati Reds,Milwaukee Brewers,2,5
+19980501,Arizona Diamondbacks,Montreal Expos,4,7
+19980501,Houston Colts,Philadelpia Phillies,12,5
+19980501,Los Angeles Dodgers,Pittsburgh Pirates,4,5
+19980502,Chicago White Sox,Anaheim Angels,3,5
+19980502,Minensota Twins,Baltimore Orioles,8,7
+19980502,Texas Rangers,Boston Red Sox,7,6
+19980502,Tampa Bay Devil Rays,Cleveland Indians,1,5
+19980502,New York Yankees,Kansas City Royals,12,6
+19980502,Toronto Blue Jays,Oakland Athletics,7,0
+19980502,Detroit Tigers,Seattle Mariners,0,4
+19980502,San  Francisco Giants,Atlanta Braves,3,4
+19980502,St. Louis Cardinals,Chicago Cubs,3,4
+19980502,San Diego Padres,Florida Marlins,8,7
+19980502,Cincinnati Reds,Milwaukee Brewers,8,5
+19980502,Arizona Diamondbacks,Montreal Expos,4,5
+19980502,Colorado Rockies,New York Mets,7,3
+19980502,Houston Colts,Philadelpia Phillies,4,1
+19980502,Los Angeles Dodgers,Pittsburgh Pirates,5,4
+19980503,Chicago White Sox,Anaheim Angels,12,1
+19980503,Minensota Twins,Baltimore Orioles,0,2
+19980503,Texas Rangers,Boston Red Sox,1,2
+19980503,Tampa Bay Devil Rays,Cleveland Indians,8,10
+19980503,New York Yankees,Kansas City Royals,10,1
+19980503,Toronto Blue Jays,Oakland Athletics,6,3
+19980503,Detroit Tigers,Seattle Mariners,6,10
+19980503,San  Francisco Giants,Atlanta Braves,12,8
+19980503,St. Louis Cardinals,Chicago Cubs,8,5
+19980503,San Diego Padres,Florida Marlins,0,1
+19980503,Cincinnati Reds,Milwaukee Brewers,5,3
+19980503,Arizona Diamondbacks,Montreal Expos,1,4
+19980503,Colorado Rockies,New York Mets,2,5
+19980503,Houston Colts,Philadelpia Phillies,3,5
+19980503,Los Angeles Dodgers,Pittsburgh Pirates,10,5
+19980504,Chicago White Sox,Anaheim Angels,6,5
+19980504,Toronto Blue Jays,Oakland Athletics,4,7
+19980504,Los Angeles Dodgers,Atlanta Braves,2,4
+19980504,San  Francisco Giants,Florida Marlins,8,0
+19980504,San Diego Padres,Milwaukee Brewers,13,5
+19980504,Cincinnati Reds,Montreal Expos,4,1
+19980504,Arizona Diamondbacks,New York Mets,4,2
+19980504,Colorado Rockies,Philadelpia Phillies,11,2
+19980505,Toronto Blue Jays,Anaheim Angels,13,11
+19980505,Minensota Twins,Boston Red Sox,2,4
+19980505,Baltimore Orioles,Cleveland Indians,5,6
+19980505,Tampa Bay Devil Rays,Kansas City Royals,2,4
+19980505,Chicago White Sox,Seattle Mariners,1,8
+19980505,New York Yankees,Texas Rangers,7,2
+19980505,Los Angeles Dodgers,Atlanta Braves,3,8
+19980505,Houston Colts,Chicago Cubs,10,5
+19980505,San  Francisco Giants,Florida Marlins,8,2
+19980505,San Diego Padres,Milwaukee Brewers,13,4
+19980505,Cincinnati Reds,Montreal Expos,2,3
+19980505,Arizona Diamondbacks,New York Mets,1,9
+19980505,Colorado Rockies,Philadelpia Phillies,6,1
+19980505,St. Louis Cardinals,Pittsburgh Pirates,2,5
+19980506,Toronto Blue Jays,Anaheim Angels,6,5
+19980506,Minensota Twins,Boston Red Sox,8,7
+19980506,Baltimore Orioles,Cleveland Indians,5,14
+19980506,Tampa Bay Devil Rays,Kansas City Royals,5,0
+19980506,Detroit Tigers,Oakland Athletics,10,5
+19980506,Chicago White Sox,Seattle Mariners,9,10
+19980506,New York Yankees,Texas Rangers,15,13
+19980506,Los Angeles Dodgers,Atlanta Braves,0,7
+19980506,Houston Colts,Chicago Cubs,0,2
+19980506,San  Francisco Giants,Florida Marlins,10,9
+19980506,San Diego Padres,Milwaukee Brewers,2,3
+19980506,Cincinnati Reds,Montreal Expos,4,2
+19980506,Arizona Diamondbacks,New York Mets,2,8
+19980506,Colorado Rockies,Philadelpia Phillies,6,7
+19980506,St. Louis Cardinals,Pittsburgh Pirates,0,5
+19980507,Boston Red Sox,Kansas City Royals,3,5
+19980507,Detroit Tigers,Oakland Athletics,6,3
+19980507,Toronto Blue Jays,Seattle Mariners,6,0
+19980507,Cleveland Indians,Texas Rangers,7,2
+19980507,San Diego Padres,Atlanta Braves,3,6
+19980507,Los Angeles Dodgers,Florida Marlins,4,3
+19980507,Colorado Rockies,Montreal Expos,1,2
+19980507,St. Louis Cardinals,New York Mets,1,4
+19980507,Arizona Diamondbacks,Philadelpia Phillies,1,4
+19980507,Cincinnati Reds,Pittsburgh Pirates,7,8
+19980508,Detroit Tigers,Anaheim Angels,3,5
+19980508,Boston Red Sox,Kansas City Royals,14,3
+19980508,New York Yankees,Minensota Twins,5,1
+19980508,Chicago White Sox,Oakland Athletics,5,3
+19980508,Toronto Blue Jays,Seattle Mariners,3,8
+19980508,Baltimore Orioles,Tampa Bay Devil Rays,8,2
+19980508,Cleveland Indians,Texas Rangers,3,6
+19980508,San Diego Padres,Atlanta Braves,3,2
+19980508,San  Francisco Giants,Chicago Cubs,4,5
+19980508,Los Angeles Dodgers,Florida Marlins,6,12
+19980508,Houston Colts,Milwaukee Brewers,1,4
+19980508,Colorado Rockies,Montreal Expos,7,5
+19980508,St. Louis Cardinals,New York Mets,2,9
+19980508,Arizona Diamondbacks,Philadelpia Phillies,4,6
+19980508,Cincinnati Reds,Pittsburgh Pirates,5,3
+19980509,Detroit Tigers,Anaheim Angels,7,3
+19980509,Boston Red Sox,Kansas City Royals,3,1
+19980509,New York Yankees,Minensota Twins,1,8
+19980509,Chicago White Sox,Oakland Athletics,7,15
+19980509,Toronto Blue Jays,Seattle Mariners,4,1
+19980509,Baltimore Orioles,Tampa Bay Devil Rays,7,0
+19980509,Cleveland Indians,Texas Rangers,3,7
+19980509,San Diego Padres,Atlanta Braves,4,6
+19980509,San  Francisco Giants,Chicago Cubs,5,1
+19980509,San  Francisco Giants,Chicago Cubs,0,6
+19980509,Los Angeles Dodgers,Florida Marlins,4,7
+19980509,Houston Colts,Milwaukee Brewers,11,6
+19980509,Colorado Rockies,Montreal Expos,0,4
+19980509,Cincinnati Reds,Pittsburgh Pirates,1,6
+19980510,Detroit Tigers,Anaheim Angels,2,4
+19980510,Boston Red Sox,Kansas City Royals,3,1
+19980510,New York Yankees,Minensota Twins,7,0
+19980510,Chicago White Sox,Oakland Athletics,4,3
+19980510,Toronto Blue Jays,Seattle Mariners,1,3
+19980510,Baltimore Orioles,Tampa Bay Devil Rays,3,4
+19980510,Cleveland Indians,Texas Rangers,3,5
+19980510,San Diego Padres,Atlanta Braves,5,8
+19980510,San  Francisco Giants,Chicago Cubs,3,0
+19980510,Los Angeles Dodgers,Florida Marlins,4,2
+19980510,Houston Colts,Milwaukee Brewers,7,1
+19980510,Colorado Rockies,Montreal Expos,5,3
+19980510,Arizona Diamondbacks,Philadelpia Phillies,4,7
+19980510,Cincinnati Reds,Pittsburgh Pirates,4,3
+19980511,Baltimore Orioles,Minensota Twins,4,0
+19980511,Cleveland Indians,Tampa Bay Devil Rays,2,4
+19980511,Boston Red Sox,Texas Rangers,2,8
+19980511,Chicago Cubs,Arizona Diamondbacks,4,2
+19980511,Atlanta Braves,Cincinnati Reds,8,1
+19980511,Florida Marlins,Houston Colts,2,5
+19980511,Philadelpia Phillies,Los Angeles Dodgers,5,2
+19980511,Colorado Rockies,Pittsburgh Pirates,2,5
+19980511,New York Mets,San Diego Padres,1,2
+19980511,Montreal Expos,San  Francisco Giants,2,7
+19980511,Milwaukee Brewers,St. Louis Cardinals,0,7
+19980512,Anaheim Angels,Chicago White Sox,2,5
+19980512,Seattle Mariners,Detroit Tigers,4,2
+19980512,Baltimore Orioles,Minensota Twins,4,7
+19980512,Kansas City Royals,New York Yankees,2,3
+19980512,Cleveland Indians,Tampa Bay Devil Rays,5,6
+19980512,Boston Red Sox,Texas Rangers,3,6
+19980512,Oakland Athletics,Toronto Blue Jays,3,4
+19980512,Chicago Cubs,Arizona Diamondbacks,7,6
+19980512,Atlanta Braves,Cincinnati Reds,5,1
+19980512,Florida Marlins,Houston Colts,2,4
+19980512,Philadelpia Phillies,Los Angeles Dodgers,5,3
+19980512,Colorado Rockies,Pittsburgh Pirates,0,6
+19980512,Milwaukee Brewers,St. Louis Cardinals,5,6
+19980513,Cleveland Indians,Baltimore Orioles,1,8
+19980513,Anaheim Angels,Chicago White Sox,8,3
+19980513,Seattle Mariners,Detroit Tigers,5,8
+19980513,Boston Red Sox,Minensota Twins,4,7
+19980513,Texas Rangers,New York Yankees,6,8
+19980513,Kansas City Royals,Tampa Bay Devil Rays,4,0
+19980513,Oakland Athletics,Toronto Blue Jays,4,2
+19980513,Milwaukee Brewers,Arizona Diamondbacks,8,3
+19980513,Florida Marlins,Cincinnati Reds,4,10
+19980513,Chicago Cubs,Colorado Rockies,9,3
+19980513,Pittsburgh Pirates,Houston Colts,0,1
+19980513,Philadelpia Phillies,Los Angeles Dodgers,4,9
+19980513,New York Mets,San Diego Padres,4,3
+19980513,Montreal Expos,San  Francisco Giants,9,5
+19980513,Atlanta Braves,St. Louis Cardinals,10,2
+19980514,Cleveland Indians,Baltimore Orioles,5,4
+19980514,Seattle Mariners,Chicago White Sox,3,5
+19980514,Oakland Athletics,Detroit Tigers,3,8
+19980514,Boston Red Sox,Minensota Twins,1,2
+19980514,Texas Rangers,New York Yankees,7,5
+19980514,Kansas City Royals,Tampa Bay Devil Rays,10,2
+19980514,Anaheim Angels,Toronto Blue Jays,4,5
+19980514,Milwaukee Brewers,Arizona Diamondbacks,1,4
+19980514,Florida Marlins,Cincinnati Reds,8,11
+19980514,Chicago Cubs,Colorado Rockies,9,7
+19980514,Pittsburgh Pirates,Houston Colts,7,2
+19980514,Philadelpia Phillies,Los Angeles Dodgers,4,0
+19980514,New York Mets,San Diego Padres,1,3
+19980514,New York Mets,San Diego Padres,2,6
+19980514,Montreal Expos,San  Francisco Giants,1,6
+19980514,Montreal Expos,San  Francisco Giants,0,2
+19980514,Atlanta Braves,St. Louis Cardinals,7,3
+19980515,Tampa Bay Devil Rays,Baltimore Orioles,4,1
+19980515,Kansas City Royals,Boston Red Sox,2,5
+19980515,Seattle Mariners,Chicago White Sox,3,6
+19980515,Texas Rangers,Cleveland Indians,2,3
+19980515,Oakland Athletics,Detroit Tigers,3,8
+19980515,Minensota Twins,New York Yankees,7,6
+19980515,Anaheim Angels,Toronto Blue Jays,1,9
+19980515,Pittsburgh Pirates,Arizona Diamondbacks,1,6
+19980515,Chicago Cubs,Cincinnati Reds,3,11
+19980515,Milwaukee Brewers,Colorado Rockies,8,5
+19980515,Atlanta Braves,Houston Colts,3,2
+19980515,Montreal Expos,Los Angeles Dodgers,4,2
+19980515,Philadelpia Phillies,San Diego Padres,6,7
+19980515,New York Mets,San  Francisco Giants,2,3
+19980515,Florida Marlins,St. Louis Cardinals,8,7
+19980516,Tampa Bay Devil Rays,Baltimore Orioles,5,2
+19980516,Kansas City Royals,Boston Red Sox,0,5
+19980516,Oakland Athletics,Chicago White Sox,11,3
+19980516,Texas Rangers,Cleveland Indians,3,10
+19980516,Anaheim Angels,Detroit Tigers,8,6
+19980516,Minensota Twins,New York Yankees,2,5
+19980516,Seattle Mariners,Toronto Blue Jays,8,1
+19980516,Pittsburgh Pirates,Arizona Diamondbacks,6,3
+19980516,Chicago Cubs,Cincinnati Reds,5,4
+19980516,Milwaukee Brewers,Colorado Rockies,7,5
+19980516,Atlanta Braves,Houston Colts,2,3
+19980516,Montreal Expos,Los Angeles Dodgers,4,9
+19980516,Philadelpia Phillies,San Diego Padres,2,3
+19980516,New York Mets,San  Francisco Giants,4,1
+19980516,Florida Marlins,St. Louis Cardinals,4,5
+19980517,Tampa Bay Devil Rays,Baltimore Orioles,7,3
+19980517,Kansas City Royals,Boston Red Sox,3,5
+19980517,Oakland Athletics,Chicago White Sox,9,7
+19980517,Texas Rangers,Cleveland Indians,1,0
+19980517,Anaheim Angels,Detroit Tigers,3,4
+19980517,Minensota Twins,New York Yankees,0,4
+19980517,Seattle Mariners,Toronto Blue Jays,3,4
+19980517,Pittsburgh Pirates,Arizona Diamondbacks,2,8
+19980517,Chicago Cubs,Cincinnati Reds,10,1
+19980517,Milwaukee Brewers,Colorado Rockies,1,2
+19980517,Atlanta Braves,Houston Colts,1,8
+19980517,Montreal Expos,Los Angeles Dodgers,3,6
+19980517,Philadelpia Phillies,San Diego Padres,1,3
+19980517,New York Mets,San  Francisco Giants,2,4
+19980517,Florida Marlins,St. Louis Cardinals,4,13
+19980518,Tampa Bay Devil Rays,Baltimore Orioles,6,3
+19980518,Oakland Athletics,Chicago White Sox,14,0
+19980518,Anaheim Angels,Detroit Tigers,2,11
+19980518,Seattle Mariners,Toronto Blue Jays,9,4
+19980518,Pittsburgh Pirates,Arizona Diamondbacks,2,9
+19980518,Milwaukee Brewers,Colorado Rockies,5,8
+19980518,Atlanta Braves,Houston Colts,4,0
+19980518,Florida Marlins,St. Louis Cardinals,7,3
+19980519,Oakland Athletics,Anaheim Angels,3,4
+19980519,Chicago White Sox,Boston Red Sox,9,5
+19980519,Cleveland Indians,Kansas City Royals,16,3
+19980519,Detroit Tigers,Minensota Twins,3,8
+19980519,Baltimore Orioles,New York Yankees,5,9
+19980519,Seattle Mariners,Texas Rangers,4,10
+19980519,Tampa Bay Devil Rays,Toronto Blue Jays,1,3
+19980519,Los Angeles Dodgers,Chicago Cubs,3,6
+19980519,San  Francisco Giants,Milwaukee Brewers,6,9
+19980519,Houston Colts,Montreal Expos,2,4
+19980519,Cincinnati Reds,New York Mets,3,7
+19980519,Cincinnati Reds,New York Mets,3,5
+19980519,St. Louis Cardinals,Philadelpia Phillies,10,8
+19980519,San Diego Padres,Pittsburgh Pirates,0,3
+19980520,Oakland Athletics,Anaheim Angels,4,5
+19980520,Chicago White Sox,Boston Red Sox,2,6
+19980520,Cleveland Indians,Kansas City Royals,14,5
+19980520,Detroit Tigers,Minensota Twins,12,11
+19980520,Baltimore Orioles,New York Yankees,6,9
+19980520,Seattle Mariners,Texas Rangers,7,8
+19980520,Tampa Bay Devil Rays,Toronto Blue Jays,1,9
+19980520,Colorado Rockies,Atlanta Braves,1,5
+19980520,Los Angeles Dodgers,Chicago Cubs,0,5
+19980520,Arizona Diamondbacks,Florida Marlins,7,3
+19980520,San  Francisco Giants,Milwaukee Brewers,4,2
+19980520,Houston Colts,Montreal Expos,4,3
+19980520,Cincinnati Reds,New York Mets,8,6
+19980520,St. Louis Cardinals,Philadelpia Phillies,8,5
+19980520,San Diego Padres,Pittsburgh Pirates,2,5
+19980520,San Diego Padres,Pittsburgh Pirates,8,3
+19980521,Oakland Athletics,Anaheim Angels,2,12
+19980521,Cleveland Indians,Kansas City Royals,6,2
+19980521,Detroit Tigers,Minensota Twins,6,3
+19980521,Baltimore Orioles,New York Yankees,1,3
+19980521,Seattle Mariners,Texas Rangers,8,9
+19980521,Tampa Bay Devil Rays,Toronto Blue Jays,1,6
+19980521,Colorado Rockies,Atlanta Braves,0,2
+19980521,Los Angeles Dodgers,Chicago Cubs,7,3
+19980521,Arizona Diamondbacks,Florida Marlins,6,4
+19980521,San  Francisco Giants,Milwaukee Brewers,8,1
+19980521,Houston Colts,Montreal Expos,6,0
+19980521,Cincinnati Reds,New York Mets,1,6
+19980521,St. Louis Cardinals,Philadelpia Phillies,3,4
+19980521,San Diego Padres,Pittsburgh Pirates,2,3
+19980522,Minensota Twins,Anaheim Angels,3,10
+19980522,New York Yankees,Boston Red Sox,4,5
+19980522,Detroit Tigers,Chicago White Sox,9,5
+19980522,Toronto Blue Jays,Cleveland Indians,7,9
+19980522,Baltimore Orioles,Oakland Athletics,5,9
+19980522,Tampa Bay Devil Rays,Seattle Mariners,5,2
+19980522,Kansas City Royals,Texas Rangers,10,13
+19980522,Los Angeles Dodgers,Arizona Diamondbacks,5,0
+19980522,Chicago Cubs,Atlanta Braves,2,8
+19980522,Colorado Rockies,Cincinnati Reds,3,2
+19980522,Pittsburgh Pirates,Florida Marlins,1,3
+19980522,San Diego Padres,Houston Colts,9,6
+19980522,Philadelpia Phillies,Montreal Expos,7,5
+19980522,Milwaukee Brewers,New York Mets,2,3
+19980522,San  Francisco Giants,St. Louis Cardinals,3,4
+19980523,Minensota Twins,Anaheim Angels,9,5
+19980523,New York Yankees,Boston Red Sox,12,3
+19980523,Detroit Tigers,Chicago White Sox,1,7
+19980523,Toronto Blue Jays,Cleveland Indians,7,2
+19980523,Baltimore Orioles,Oakland Athletics,9,1
+19980523,Tampa Bay Devil Rays,Seattle Mariners,6,3
+19980523,Kansas City Royals,Texas Rangers,3,7
+19980523,Los Angeles Dodgers,Arizona Diamondbacks,7,1
+19980523,Chicago Cubs,Atlanta Braves,10,6
+19980523,Colorado Rockies,Cincinnati Reds,1,4
+19980523,Pittsburgh Pirates,Florida Marlins,10,4
+19980523,San Diego Padres,Houston Colts,3,4
+19980523,Philadelpia Phillies,Montreal Expos,2,3
+19980523,Milwaukee Brewers,New York Mets,0,3
+19980523,San  Francisco Giants,St. Louis Cardinals,10,11
+19980524,Minensota Twins,Anaheim Angels,9,1
+19980524,New York Yankees,Boston Red Sox,14,4
+19980524,Detroit Tigers,Chicago White Sox,8,4
+19980524,Toronto Blue Jays,Cleveland Indians,5,0
+19980524,Baltimore Orioles,Oakland Athletics,2,1
+19980524,Tampa Bay Devil Rays,Seattle Mariners,1,3
+19980524,Kansas City Royals,Texas Rangers,8,3
+19980524,Los Angeles Dodgers,Arizona Diamondbacks,5,8
+19980524,Chicago Cubs,Atlanta Braves,1,2
+19980524,Colorado Rockies,Cincinnati Reds,3,1
+19980524,Pittsburgh Pirates,Florida Marlins,3,4
+19980524,San Diego Padres,Houston Colts,2,5
+19980524,Philadelpia Phillies,Montreal Expos,4,5
+19980524,Milwaukee Brewers,New York Mets,3,8
+19980524,San  Francisco Giants,St. Louis Cardinals,9,6
+19980525,Kansas City Royals,Anaheim Angels,6,4
+19980525,Toronto Blue Jays,Boston Red Sox,7,5
+19980525,New York Yankees,Chicago White Sox,12,0
+19980525,Detroit Tigers,Cleveland Indians,4,7
+19980525,Tampa Bay Devil Rays,Oakland Athletics,2,8
+19980525,Baltimore Orioles,Seattle Mariners,4,12
+19980525,Minensota Twins,Texas Rangers,9,3
+19980525,San Diego Padres,Arizona Diamondbacks,2,3
+19980525,Chicago Cubs,Atlanta Braves,5,9
+19980525,San  Francisco Giants,Cincinnati Reds,3,1
+19980525,Los Angeles Dodgers,Houston Colts,4,3
+19980525,Philadelpia Phillies,Montreal Expos,5,3
+19980525,Colorado Rockies,St. Louis Cardinals,6,1
+19980526,Toronto Blue Jays,Boston Red Sox,5,2
+19980526,New York Yankees,Chicago White Sox,7,5
+19980526,Detroit Tigers,Cleveland Indians,2,9
+19980526,Tampa Bay Devil Rays,Oakland Athletics,7,2
+19980526,Baltimore Orioles,Seattle Mariners,8,3
+19980526,San Diego Padres,Arizona Diamondbacks,12,1
+19980526,Montreal Expos,Atlanta Braves,3,9
+19980526,San  Francisco Giants,Cincinnati Reds,5,2
+19980526,New York Mets,Florida Marlins,10,6
+19980526,Los Angeles Dodgers,Houston Colts,2,13
+19980526,Pittsburgh Pirates,Milwaukee Brewers,2,3
+19980527,Kansas City Royals,Anaheim Angels,4,0
+19980527,New York Yankees,Chicago White Sox,9,12
+19980527,Minensota Twins,Texas Rangers,6,5
+19980527,San Diego Padres,Arizona Diamondbacks,6,4
+19980527,Montreal Expos,Atlanta Braves,0,2
+19980527,Philadelpia Phillies,Chicago Cubs,10,5
+19980527,San  Francisco Giants,Cincinnati Reds,5,7
+19980527,New York Mets,Florida Marlins,8,2
+19980527,Los Angeles Dodgers,Houston Colts,3,1
+19980527,Pittsburgh Pirates,Milwaukee Brewers,2,3
+19980527,Colorado Rockies,St. Louis Cardinals,1,2
+19980528,Texas Rangers,Baltimore Orioles,2,5
+19980528,Chicago White Sox,Detroit Tigers,11,7
+19980528,Boston Red Sox,New York Yankees,3,8
+19980528,Seattle Mariners,Tampa Bay Devil Rays,5,2
+19980528,Cleveland Indians,Toronto Blue Jays,6,2
+19980528,Montreal Expos,Atlanta Braves,9,5
+19980528,Philadelpia Phillies,Chicago Cubs,8,7
+19980528,Cincinnati Reds,Los Angeles Dodgers,3,4
+19980528,Arizona Diamondbacks,San  Francisco Giants,8,7
+19980528,Colorado Rockies,St. Louis Cardinals,1,4
+19980529,Texas Rangers,Baltimore Orioles,3,6
+19980529,Chicago White Sox,Detroit Tigers,7,8
+19980529,Oakland Athletics,Kansas City Royals,3,5
+19980529,Anaheim Angels,Minensota Twins,3,1
+19980529,Boston Red Sox,New York Yankees,2,6
+19980529,Seattle Mariners,Tampa Bay Devil Rays,6,2
+19980529,Cleveland Indians,Toronto Blue Jays,7,3
+19980529,Atlanta Braves,Chicago Cubs,3,5
+19980529,Houston Colts,Colorado Rockies,7,6
+19980529,Cincinnati Reds,Los Angeles Dodgers,8,4
+19980529,Florida Marlins,Milwaukee Brewers,3,4
+19980529,New York Mets,Philadelpia Phillies,11,0
+19980529,Montreal Expos,Pittsburgh Pirates,4,1
+19980529,St. Louis Cardinals,San Diego Padres,8,3
+19980529,Arizona Diamondbacks,San  Francisco Giants,1,3
+19980530,Texas Rangers,Baltimore Orioles,10,8
+19980530,Chicago White Sox,Detroit Tigers,0,6
+19980530,Oakland Athletics,Kansas City Royals,10,4
+19980530,Anaheim Angels,Minensota Twins,1,8
+19980530,Boston Red Sox,New York Yankees,3,2
+19980530,Seattle Mariners,Tampa Bay Devil Rays,2,5
+19980530,Cleveland Indians,Toronto Blue Jays,2,4
+19980530,Atlanta Braves,Chicago Cubs,8,9
+19980530,Houston Colts,Colorado Rockies,3,6
+19980530,Cincinnati Reds,Los Angeles Dodgers,7,3
+19980530,Florida Marlins,Milwaukee Brewers,4,12
+19980530,New York Mets,Philadelpia Phillies,6,4
+19980530,Montreal Expos,Pittsburgh Pirates,7,8
+19980530,St. Louis Cardinals,San Diego Padres,2,3
+19980530,Arizona Diamondbacks,San  Francisco Giants,1,4
+19980531,Texas Rangers,Baltimore Orioles,9,5
+19980531,Chicago White Sox,Detroit Tigers,8,2
+19980531,Oakland Athletics,Kansas City Royals,4,10
+19980531,Anaheim Angels,Minensota Twins,6,5
+19980531,Boston Red Sox,New York Yankees,13,7
+19980531,Seattle Mariners,Tampa Bay Devil Rays,11,6
+19980531,Cleveland Indians,Toronto Blue Jays,8,3
+19980531,Atlanta Braves,Chicago Cubs,2,4
+19980531,Houston Colts,Colorado Rockies,5,7
+19980531,Cincinnati Reds,Los Angeles Dodgers,6,5
+19980531,Florida Marlins,Milwaukee Brewers,6,7
+19980531,New York Mets,Philadelpia Phillies,8,6
+19980531,Montreal Expos,Pittsburgh Pirates,4,9
+19980531,St. Louis Cardinals,San Diego Padres,3,7
+19980531,Arizona Diamondbacks,San  Francisco Giants,4,7
+19980601,Seattle Mariners,Baltimore Orioles,9,10
+19980601,Cleveland Indians,Detroit Tigers,2,0
+19980601,Anaheim Angels,Kansas City Royals,6,3
+19980601,Oakland Athletics,Minensota Twins,8,5
+19980601,Chicago White Sox,New York Yankees,4,5
+19980601,Texas Rangers,Tampa Bay Devil Rays,1,4
+19980601,Boston Red Sox,Toronto Blue Jays,9,5
+19980601,Florida Marlins,Chicago Cubs,2,10
+19980601,Arizona Diamondbacks,Colorado Rockies,6,4
+19980601,Atlanta Braves,Milwaukee Brewers,5,2
+19980601,Montreal Expos,Philadelpia Phillies,2,6
+19980601,New York Mets,Pittsburgh Pirates,3,4
+19980601,St. Louis Cardinals,San Diego Padres,2,3
+19980601,Cincinnati Reds,San  Francisco Giants,3,16
+19980602,Seattle Mariners,Baltimore Orioles,8,9
+19980602,Cleveland Indians,Detroit Tigers,8,3
+19980602,Anaheim Angels,Kansas City Royals,7,5
+19980602,Oakland Athletics,Minensota Twins,3,10
+19980602,Chicago White Sox,New York Yankees,3,6
+19980602,Texas Rangers,Tampa Bay Devil Rays,7,3
+19980602,Boston Red Sox,Toronto Blue Jays,11,3
+19980602,Florida Marlins,Chicago Cubs,1,2
+19980602,Arizona Diamondbacks,Colorado Rockies,9,3
+19980602,St. Louis Cardinals,Los Angeles Dodgers,7,4
+19980602,Atlanta Braves,Milwaukee Brewers,9,0
+19980602,Montreal Expos,Philadelpia Phillies,4,3
+19980602,New York Mets,Pittsburgh Pirates,2,5
+19980602,Houston Colts,San Diego Padres,4,3
+19980602,Cincinnati Reds,San  Francisco Giants,2,4
+19980603,Baltimore Orioles,Boston Red Sox,3,0
+19980603,Chicago White Sox,Kansas City Royals,10,5
+19980603,Cleveland Indians,Minensota Twins,2,3
+19980603,Tampa Bay Devil Rays,New York Yankees,1,7
+19980603,Texas Rangers,Oakland Athletics,16,10
+19980603,Anaheim Angels,Seattle Mariners,8,1
+19980603,Detroit Tigers,Toronto Blue Jays,1,5
+19980603,Florida Marlins,Chicago Cubs,1,5
+19980603,Arizona Diamondbacks,Colorado Rockies,2,3
+19980603,St. Louis Cardinals,Los Angeles Dodgers,4,7
+19980603,Atlanta Braves,Milwaukee Brewers,5,2
+19980603,Montreal Expos,Philadelpia Phillies,3,2
+19980603,New York Mets,Pittsburgh Pirates,0,3
+19980603,Houston Colts,San Diego Padres,8,2
+19980603,Cincinnati Reds,San  Francisco Giants,5,8
+19980604,Baltimore Orioles,Boston Red Sox,1,9
+19980604,Chicago White Sox,Kansas City Royals,7,1
+19980604,Cleveland Indians,Minensota Twins,3,2
+19980604,Tampa Bay Devil Rays,New York Yankees,1,6
+19980604,Texas Rangers,Oakland Athletics,1,6
+19980604,Anaheim Angels,Seattle Mariners,6,2
+19980604,Detroit Tigers,Toronto Blue Jays,6,9
+19980604,Arizona Diamondbacks,Colorado Rockies,2,5
+19980604,St. Louis Cardinals,Los Angeles Dodgers,2,3
+19980604,Houston Colts,San Diego Padres,1,5
+19980605,Colorado Rockies,Anaheim Angels,0,5
+19980605,Atlanta Braves,Baltimore Orioles,2,3
+19980605,New York Mets,Boston Red Sox,9,2
+19980605,Florida Marlins,New York Yankees,1,5
+19980605,Arizona Diamondbacks,Oakland Athletics,1,2
+19980605,Los Angeles Dodgers,Seattle Mariners,0,4
+19980605,Montreal Expos,Tampa Bay Devil Rays,5,2
+19980605,San Diego Padres,Texas Rangers,7,8
+19980605,Philadelpia Phillies,Toronto Blue Jays,8,7
+19980605,Chicago White Sox,Chicago Cubs,5,6
+19980605,Cleveland Indians,Cincinnati Reds,1,2
+19980605,Kansas City Royals,Houston Colts,3,0
+19980605,Detroit Tigers,Milwaukee Brewers,3,7
+19980605,Minensota Twins,Pittsburgh Pirates,1,6
+19980605,San  Francisco Giants,St. Louis Cardinals,3,2
+19980606,Colorado Rockies,Anaheim Angels,1,2
+19980606,Atlanta Braves,Baltimore Orioles,10,5
+19980606,New York Mets,Boston Red Sox,1,0
+19980606,Florida Marlins,New York Yankees,2,4
+19980606,Arizona Diamondbacks,Oakland Athletics,5,10
+19980606,Los Angeles Dodgers,Seattle Mariners,10,6
+19980606,Montreal Expos,Tampa Bay Devil Rays,7,5
+19980606,San Diego Padres,Texas Rangers,0,3
+19980606,Philadelpia Phillies,Toronto Blue Jays,10,6
+19980606,Chicago White Sox,Chicago Cubs,6,7
+19980606,Cleveland Indians,Cincinnati Reds,10,1
+19980606,Kansas City Royals,Houston Colts,0,6
+19980606,Detroit Tigers,Milwaukee Brewers,9,3
+19980606,Minensota Twins,Pittsburgh Pirates,3,4
+19980606,San  Francisco Giants,St. Louis Cardinals,5,4
+19980607,Colorado Rockies,Anaheim Angels,5,6
+19980607,Atlanta Braves,Baltimore Orioles,9,0
+19980607,New York Mets,Boston Red Sox,0,5
+19980607,Florida Marlins,New York Yankees,1,4
+19980607,Arizona Diamondbacks,Oakland Athletics,12,4
+19980607,Los Angeles Dodgers,Seattle Mariners,7,4
+19980607,Montreal Expos,Tampa Bay Devil Rays,3,4
+19980607,San Diego Padres,Texas Rangers,17,8
+19980607,Philadelpia Phillies,Toronto Blue Jays,1,3
+19980607,Chicago White Sox,Chicago Cubs,7,13
+19980607,Cleveland Indians,Cincinnati Reds,6,1
+19980607,Kansas City Royals,Houston Colts,1,7
+19980607,Detroit Tigers,Milwaukee Brewers,4,1
+19980607,Minensota Twins,Pittsburgh Pirates,3,2
+19980607,San  Francisco Giants,St. Louis Cardinals,6,5
+19980608,St. Louis Cardinals,Chicago White Sox,6,8
+19980608,Pittsburgh Pirates,Cleveland Indians,0,8
+19980608,Houston Colts,Detroit Tigers,9,5
+19980608,Milwaukee Brewers,Kansas City Royals,7,8
+19980608,Chicago Cubs,Minensota Twins,8,1
+19980608,Boston Red Sox,Atlanta Braves,6,7
+19980608,Texas Rangers,Colorado Rockies,3,1
+19980608,Toronto Blue Jays,Florida Marlins,3,4
+19980608,Oakland Athletics,Los Angeles Dodgers,7,3
+19980608,Tampa Bay Devil Rays,New York Mets,0,3
+19980608,Baltimore Orioles,Philadelpia Phillies,14,8
+19980608,Cincinnati Reds,San Diego Padres,2,4
+19980608,Seattle Mariners,San  Francisco Giants,3,4
+19980609,St. Louis Cardinals,Chicago White Sox,5,4
+19980609,Pittsburgh Pirates,Cleveland Indians,7,4
+19980609,Houston Colts,Detroit Tigers,5,3
+19980609,Milwaukee Brewers,Kansas City Royals,6,3
+19980609,Chicago Cubs,Minensota Twins,0,8
+19980609,Anaheim Angels,Arizona Diamondbacks,10,8
+19980609,Boston Red Sox,Atlanta Braves,9,3
+19980609,Texas Rangers,Colorado Rockies,5,2
+19980609,Toronto Blue Jays,Florida Marlins,4,5
+19980609,Oakland Athletics,Los Angeles Dodgers,1,5
+19980609,New York Yankees,Montreal Expos,11,1
+19980609,Tampa Bay Devil Rays,New York Mets,5,4
+19980609,Baltimore Orioles,Philadelpia Phillies,0,2
+19980609,Cincinnati Reds,San Diego Padres,1,5
+19980609,Seattle Mariners,San  Francisco Giants,6,7
+19980610,St. Louis Cardinals,Chicago White Sox,8,10
+19980610,Pittsburgh Pirates,Cleveland Indians,4,3
+19980610,Houston Colts,Detroit Tigers,10,3
+19980610,Milwaukee Brewers,Kansas City Royals,9,6
+19980610,Chicago Cubs,Minensota Twins,1,5
+19980610,Anaheim Angels,Arizona Diamondbacks,2,10
+19980610,Boston Red Sox,Atlanta Braves,10,6
+19980610,Texas Rangers,Colorado Rockies,8,9
+19980610,Toronto Blue Jays,Florida Marlins,4,3
+19980610,Oakland Athletics,Los Angeles Dodgers,0,1
+19980610,New York Yankees,Montreal Expos,6,2
+19980610,Tampa Bay Devil Rays,New York Mets,2,3
+19980610,Baltimore Orioles,Philadelpia Phillies,5,2
+19980610,Cincinnati Reds,San Diego Padres,1,2
+19980610,Seattle Mariners,San  Francisco Giants,4,1
+19980611,Seattle Mariners,Oakland Athletics,2,5
+19980611,Anaheim Angels,Arizona Diamondbacks,10,5
+19980611,New York Mets,Florida Marlins,5,3
+19980611,New York Yankees,Montreal Expos,5,7
+19980612,Tampa Bay Devil Rays,Boston Red Sox,1,5
+19980612,Detroit Tigers,Kansas City Royals,3,7
+19980612,Chicago White Sox,Minensota Twins,7,8
+19980612,Seattle Mariners,Oakland Athletics,5,0
+19980612,Anaheim Angels,Texas Rangers,5,1
+19980612,Baltimore Orioles,Toronto Blue Jays,9,5
+19980612,St. Louis Cardinals,Arizona Diamondbacks,9,4
+19980612,Montreal Expos,Atlanta Braves,7,5
+19980612,Houston Colts,Cincinnati Reds,1,8
+19980612,New York Mets,Florida Marlins,3,4
+19980612,Colorado Rockies,Los Angeles Dodgers,1,2
+19980612,Chicago Cubs,Philadelpia Phillies,0,4
+19980612,Milwaukee Brewers,Pittsburgh Pirates,4,2
+19980612,San  Francisco Giants,San Diego Padres,3,10
+19980613,Detroit Tigers,Kansas City Royals,7,1
+19980613,Chicago White Sox,Minensota Twins,3,2
+19980613,Seattle Mariners,Oakland Athletics,3,7
+19980613,Anaheim Angels,Texas Rangers,18,6
+19980613,Baltimore Orioles,Toronto Blue Jays,8,9
+19980613,St. Louis Cardinals,Arizona Diamondbacks,4,7
+19980613,Montreal Expos,Atlanta Braves,7,9
+19980613,Houston Colts,Cincinnati Reds,4,7
+19980613,New York Mets,Florida Marlins,7,4
+19980613,Colorado Rockies,Los Angeles Dodgers,4,2
+19980613,Chicago Cubs,Philadelpia Phillies,10,8
+19980613,Milwaukee Brewers,Pittsburgh Pirates,8,1
+19980613,San  Francisco Giants,San Diego Padres,2,4
+19980614,Tampa Bay Devil Rays,Boston Red Sox,2,3
+19980614,Detroit Tigers,Kansas City Royals,0,2
+19980614,Chicago White Sox,Minensota Twins,1,2
+19980614,Cleveland Indians,New York Yankees,2,4
+19980614,Seattle Mariners,Oakland Athletics,3,4
+19980614,Anaheim Angels,Texas Rangers,2,4
+19980614,Baltimore Orioles,Toronto Blue Jays,4,7
+19980614,St. Louis Cardinals,Arizona Diamondbacks,2,0
+19980614,Montreal Expos,Atlanta Braves,1,5
+19980614,Houston Colts,Cincinnati Reds,6,3
+19980614,New York Mets,Florida Marlins,4,5
+19980614,Colorado Rockies,Los Angeles Dodgers,3,2
+19980614,Chicago Cubs,Philadelpia Phillies,2,4
+19980614,Milwaukee Brewers,Pittsburgh Pirates,2,7
+19980614,San  Francisco Giants,San Diego Padres,2,3
+19980615,New York Yankees,Baltimore Orioles,4,7
+19980615,Boston Red Sox,Chicago White Sox,2,3
+19980615,Kansas City Royals,Cleveland Indians,7,6
+19980615,Minensota Twins,Detroit Tigers,2,3
+19980615,Toronto Blue Jays,Tampa Bay Devil Rays,7,8
+19980615,Anaheim Angels,Texas Rangers,8,5
+19980615,Milwaukee Brewers,Chicago Cubs,5,6
+19980615,Houston Colts,Cincinnati Reds,13,2
+19980615,Pittsburgh Pirates,Philadelpia Phillies,1,2
+19980615,Colorado Rockies,San  Francisco Giants,4,3
+19980616,Seattle Mariners,Anaheim Angels,2,3
+19980616,New York Yankees,Baltimore Orioles,0,2
+19980616,Boston Red Sox,Chicago White Sox,6,1
+19980616,Kansas City Royals,Cleveland Indians,1,9
+19980616,Minensota Twins,Detroit Tigers,8,5
+19980616,Toronto Blue Jays,Tampa Bay Devil Rays,3,4
+19980616,Oakland Athletics,Texas Rangers,9,7
+19980616,Florida Marlins,Atlanta Braves,0,7
+19980616,Milwaukee Brewers,Chicago Cubs,11,2
+19980616,Arizona Diamondbacks,Cincinnati Reds,5,1
+19980616,St. Louis Cardinals,Houston Colts,9,4
+19980616,New York Mets,Montreal Expos,2,0
+19980616,Pittsburgh Pirates,Philadelpia Phillies,7,8
+19980616,Los Angeles Dodgers,San Diego Padres,6,10
+19980616,Colorado Rockies,San  Francisco Giants,3,5
+19980617,Seattle Mariners,Anaheim Angels,2,4
+19980617,New York Yankees,Baltimore Orioles,5,3
+19980617,Boston Red Sox,Chicago White Sox,12,5
+19980617,Kansas City Royals,Cleveland Indians,4,3
+19980617,Minensota Twins,Detroit Tigers,2,6
+19980617,Toronto Blue Jays,Tampa Bay Devil Rays,1,2
+19980617,Oakland Athletics,Texas Rangers,3,2
+19980617,Florida Marlins,Atlanta Braves,2,6
+19980617,Milwaukee Brewers,Chicago Cubs,6,5
+19980617,Arizona Diamondbacks,Cincinnati Reds,4,1
+19980617,St. Louis Cardinals,Houston Colts,5,6
+19980617,New York Mets,Montreal Expos,4,5
+19980617,Pittsburgh Pirates,Philadelpia Phillies,1,3
+19980617,Los Angeles Dodgers,San Diego Padres,2,3
+19980617,Colorado Rockies,San  Francisco Giants,3,6
+19980618,Seattle Mariners,Anaheim Angels,5,11
+19980618,Toronto Blue Jays,Baltimore Orioles,13,6
+19980618,Minensota Twins,Chicago White Sox,4,1
+19980618,New York Yankees,Cleveland Indians,5,2
+19980618,Kansas City Royals,Detroit Tigers,5,3
+19980618,Boston Red Sox,Tampa Bay Devil Rays,7,5
+19980618,Oakland Athletics,Texas Rangers,2,3
+19980618,Florida Marlins,Atlanta Braves,3,2
+19980618,Philadelpia Phillies,Chicago Cubs,5,12
+19980618,Arizona Diamondbacks,Cincinnati Reds,4,2
+19980618,Los Angeles Dodgers,Colorado Rockies,5,0
+19980618,St. Louis Cardinals,Houston Colts,7,6
+19980618,Pittsburgh Pirates,Milwaukee Brewers,1,0
+19980618,New York Mets,Montreal Expos,6,7
+19980618,San Diego Padres,San  Francisco Giants,7,6
+19980619,Texas Rangers,Anaheim Angels,7,3
+19980619,Toronto Blue Jays,Baltimore Orioles,4,7
+19980619,Minensota Twins,Chicago White Sox,10,6
+19980619,New York Yankees,Cleveland Indians,4,7
+19980619,Kansas City Royals,Detroit Tigers,8,4
+19980619,Oakland Athletics,Seattle Mariners,1,9
+19980619,Boston Red Sox,Tampa Bay Devil Rays,4,1
+19980619,Philadelpia Phillies,Chicago Cubs,9,8
+19980619,Los Angeles Dodgers,Colorado Rockies,4,3
+19980619,Cincinnati Reds,Houston Colts,2,4
+19980619,Pittsburgh Pirates,Milwaukee Brewers,1,2
+19980619,Atlanta Braves,Montreal Expos,1,14
+19980619,Florida Marlins,New York Mets,3,2
+19980619,San Diego Padres,San  Francisco Giants,9,5
+19980619,Arizona Diamondbacks,St. Louis Cardinals,0,5
+19980620,Texas Rangers,Anaheim Angels,3,8
+19980620,Toronto Blue Jays,Baltimore Orioles,3,11
+19980620,Minensota Twins,Chicago White Sox,7,8
+19980620,New York Yankees,Cleveland Indians,5,3
+19980620,Kansas City Royals,Detroit Tigers,3,4
+19980620,Oakland Athletics,Seattle Mariners,6,2
+19980620,Boston Red Sox,Tampa Bay Devil Rays,5,8
+19980620,Philadelpia Phillies,Chicago Cubs,4,9
+19980620,Los Angeles Dodgers,Colorado Rockies,6,7
+19980620,Cincinnati Reds,Houston Colts,8,9
+19980620,Pittsburgh Pirates,Milwaukee Brewers,4,2
+19980620,Atlanta Braves,Montreal Expos,5,1
+19980620,Florida Marlins,New York Mets,8,3
+19980620,San Diego Padres,San  Francisco Giants,2,5
+19980620,Arizona Diamondbacks,St. Louis Cardinals,2,4
+19980621,Texas Rangers,Anaheim Angels,7,10
+19980621,Toronto Blue Jays,Baltimore Orioles,7,3
+19980621,Minensota Twins,Chicago White Sox,6,1
+19980621,New York Yankees,Cleveland Indians,0,11
+19980621,Kansas City Royals,Detroit Tigers,6,5
+19980621,Oakland Athletics,Seattle Mariners,5,10
+19980621,Boston Red Sox,Tampa Bay Devil Rays,3,1
+19980621,Philadelpia Phillies,Chicago Cubs,7,2
+19980621,Los Angeles Dodgers,Colorado Rockies,6,11
+19980621,Cincinnati Reds,Houston Colts,1,3
+19980621,Pittsburgh Pirates,Milwaukee Brewers,8,7
+19980621,Atlanta Braves,Montreal Expos,1,4
+19980621,Florida Marlins,New York Mets,2,3
+19980621,San Diego Padres,San  Francisco Giants,5,1
+19980621,Arizona Diamondbacks,St. Louis Cardinals,4,5
+19980622,Los Angeles Dodgers,Anaheim Angels,5,6
+19980622,New York Mets,Baltimore Orioles,2,7
+19980622,Philadelpia Phillies,Boston Red Sox,9,8
+19980622,Atlanta Braves,New York Yankees,4,6
+19980622,San  Francisco Giants,Oakland Athletics,12,8
+19980622,San Diego Padres,Seattle Mariners,5,3
+19980622,Florida Marlins,Tampa Bay Devil Rays,3,2
+19980622,Arizona Diamondbacks,Texas Rangers,6,0
+19980622,Montreal Expos,Toronto Blue Jays,2,14
+19980622,Cleveland Indians,Chicago Cubs,3,1
+19980622,Kansas City Royals,Cincinnati Reds,3,0
+19980622,Minensota Twins,Houston Colts,5,3
+19980622,Colorado Rockies,Milwaukee Brewers,2,3
+19980622,Chicago White Sox,Pittsburgh Pirates,5,4
+19980622,Detroit Tigers,St. Louis Cardinals,1,4
+19980623,Los Angeles Dodgers,Anaheim Angels,4,6
+19980623,New York Mets,Baltimore Orioles,6,3
+19980623,Philadelpia Phillies,Boston Red Sox,3,2
+19980623,Atlanta Braves,New York Yankees,7,2
+19980623,San  Francisco Giants,Oakland Athletics,4,2
+19980623,San Diego Padres,Seattle Mariners,3,5
+19980623,Florida Marlins,Tampa Bay Devil Rays,4,6
+19980623,Arizona Diamondbacks,Texas Rangers,5,16
+19980623,Montreal Expos,Toronto Blue Jays,2,3
+19980623,Cleveland Indians,Chicago Cubs,5,4
+19980623,Kansas City Royals,Cincinnati Reds,6,4
+19980623,Minensota Twins,Houston Colts,0,9
+19980623,Colorado Rockies,Milwaukee Brewers,5,7
+19980623,Chicago White Sox,Pittsburgh Pirates,5,4
+19980623,Detroit Tigers,St. Louis Cardinals,8,1
+19980624,Cincinnati Reds,Chicago White Sox,2,4
+19980624,St. Louis Cardinals,Cleveland Indians,3,14
+19980624,Chicago Cubs,Detroit Tigers,6,7
+19980624,Pittsburgh Pirates,Kansas City Royals,10,3
+19980624,Milwaukee Brewers,Minensota Twins,3,1
+19980624,Texas Rangers,Arizona Diamondbacks,3,2
+19980624,New York Yankees,Atlanta Braves,10,6
+19980624,Houston Colts,Colorado Rockies,6,8
+19980624,Tampa Bay Devil Rays,Florida Marlins,4,8
+19980624,Anaheim Angels,Los Angeles Dodgers,5,6
+19980624,Toronto Blue Jays,Montreal Expos,7,6
+19980624,Baltimore Orioles,New York Mets,3,6
+19980624,Boston Red Sox,Philadelpia Phillies,8,11
+19980624,Seattle Mariners,San Diego Padres,2,1
+19980624,Oakland Athletics,San  Francisco Giants,7,6
+19980625,Cincinnati Reds,Chicago White Sox,7,5
+19980625,St. Louis Cardinals,Cleveland Indians,2,8
+19980625,Chicago Cubs,Detroit Tigers,4,6
+19980625,Pittsburgh Pirates,Kansas City Royals,1,6
+19980625,Milwaukee Brewers,Minensota Twins,9,2
+19980625,Texas Rangers,Arizona Diamondbacks,9,4
+19980625,New York Yankees,Atlanta Braves,6,0
+19980625,Houston Colts,Colorado Rockies,5,6
+19980625,Tampa Bay Devil Rays,Florida Marlins,1,5
+19980625,Anaheim Angels,Los Angeles Dodgers,3,2
+19980625,Toronto Blue Jays,Montreal Expos,1,0
+19980625,Baltimore Orioles,New York Mets,2,3
+19980625,Boston Red Sox,Philadelpia Phillies,7,5
+19980625,Seattle Mariners,San Diego Padres,0,6
+19980625,Oakland Athletics,San  Francisco Giants,5,2
+19980626,Milwaukee Brewers,Chicago White Sox,2,1
+19980626,Houston Colts,Cleveland Indians,2,4
+19980626,Cincinnati Reds,Detroit Tigers,4,3
+19980626,Chicago Cubs,Kansas City Royals,3,6
+19980626,St. Louis Cardinals,Minensota Twins,1,5
+19980626,Seattle Mariners,Arizona Diamondbacks,8,13
+19980626,Toronto Blue Jays,Atlanta Braves,6,4
+19980626,Oakland Athletics,Colorado Rockies,6,12
+19980626,Boston Red Sox,Florida Marlins,6,1
+19980626,Pittsburgh Pirates,Los Angeles Dodgers,2,5
+19980626,Baltimore Orioles,Montreal Expos,4,9
+19980626,New York Yankees,New York Mets,8,4
+19980626,Tampa Bay Devil Rays,Philadelpia Phillies,0,7
+19980626,Anaheim Angels,San Diego Padres,3,6
+19980626,Texas Rangers,San  Francisco Giants,7,3
+19980627,Milwaukee Brewers,Chicago White Sox,10,5
+19980627,Houston Colts,Cleveland Indians,9,5
+19980627,Cincinnati Reds,Detroit Tigers,6,5
+19980627,Chicago Cubs,Kansas City Royals,3,4
+19980627,St. Louis Cardinals,Minensota Twins,7,2
+19980627,Seattle Mariners,Arizona Diamondbacks,6,4
+19980627,Toronto Blue Jays,Atlanta Braves,0,2
+19980627,Oakland Athletics,Colorado Rockies,8,6
+19980627,Boston Red Sox,Florida Marlins,9,4
+19980627,Pittsburgh Pirates,Los Angeles Dodgers,0,2
+19980627,Baltimore Orioles,Montreal Expos,1,3
+19980627,New York Yankees,New York Mets,7,2
+19980627,Tampa Bay Devil Rays,Philadelpia Phillies,5,1
+19980627,Anaheim Angels,San Diego Padres,1,5
+19980627,Texas Rangers,San  Francisco Giants,5,6
+19980628,Milwaukee Brewers,Chicago White Sox,8,10
+19980628,Houston Colts,Cleveland Indians,12,3
+19980628,Cincinnati Reds,Detroit Tigers,5,2
+19980628,Chicago Cubs,Kansas City Royals,6,3
+19980628,St. Louis Cardinals,Minensota Twins,2,3
+19980628,Seattle Mariners,Arizona Diamondbacks,2,3
+19980628,Toronto Blue Jays,Atlanta Braves,3,10
+19980628,Oakland Athletics,Colorado Rockies,10,11
+19980628,Boston Red Sox,Florida Marlins,1,5
+19980628,Pittsburgh Pirates,Los Angeles Dodgers,6,4
+19980628,Baltimore Orioles,Montreal Expos,4,8
+19980628,New York Yankees,New York Mets,1,2
+19980628,Tampa Bay Devil Rays,Philadelpia Phillies,5,4
+19980628,Anaheim Angels,San Diego Padres,11,3
+19980628,Texas Rangers,San  Francisco Giants,0,7
+19980630,San  Francisco Giants,Anaheim Angels,3,4
+19980630,Florida Marlins,Baltimore Orioles,7,5
+19980630,Montreal Expos,Boston Red Sox,4,7
+19980630,Philadelpia Phillies,New York Yankees,2,9
+19980630,San Diego Padres,Oakland Athletics,10,12
+19980630,Colorado Rockies,Seattle Mariners,6,4
+19980630,Atlanta Braves,Tampa Bay Devil Rays,7,2
+19980630,Los Angeles Dodgers,Texas Rangers,4,1
+19980630,New York Mets,Toronto Blue Jays,3,6
+19980630,Arizona Diamondbacks,Chicago Cubs,5,4
+19980630,Minensota Twins,Cincinnati Reds,3,6
+19980630,Chicago White Sox,Houston Colts,2,17
+19980630,Cleveland Indians,Milwaukee Brewers,4,5
+19980630,Detroit Tigers,Pittsburgh Pirates,3,0
+19980630,Kansas City Royals,St. Louis Cardinals,6,1
+19980701,San  Francisco Giants,Anaheim Angels,6,3
+19980701,Florida Marlins,Baltimore Orioles,5,3
+19980701,Montreal Expos,Boston Red Sox,1,6
+19980701,Philadelpia Phillies,New York Yankees,2,5
+19980701,San Diego Padres,Oakland Athletics,8,4
+19980701,Colorado Rockies,Seattle Mariners,5,9
+19980701,Atlanta Braves,Tampa Bay Devil Rays,6,5
+19980701,Los Angeles Dodgers,Texas Rangers,7,5
+19980701,New York Mets,Toronto Blue Jays,10,15
+19980701,Arizona Diamondbacks,Chicago Cubs,4,6
+19980701,Minensota Twins,Cincinnati Reds,2,1
+19980701,Chicago White Sox,Houston Colts,4,10
+19980701,Cleveland Indians,Milwaukee Brewers,5,2
+19980701,Detroit Tigers,Pittsburgh Pirates,9,1
+19980701,Kansas City Royals,St. Louis Cardinals,6,4
+19980702,San  Francisco Giants,Anaheim Angels,7,4
+19980702,Florida Marlins,Baltimore Orioles,3,5
+19980702,Montreal Expos,Boston Red Sox,0,15
+19980702,Philadelpia Phillies,New York Yankees,8,9
+19980702,San Diego Padres,Oakland Athletics,2,7
+19980702,Colorado Rockies,Seattle Mariners,3,10
+19980702,Atlanta Braves,Tampa Bay Devil Rays,6,0
+19980702,Los Angeles Dodgers,Texas Rangers,4,1
+19980702,New York Mets,Toronto Blue Jays,9,1
+19980702,Arizona Diamondbacks,Chicago Cubs,2,3
+19980702,Minensota Twins,Cincinnati Reds,7,8
+19980702,Chicago White Sox,Houston Colts,4,3
+19980702,Cleveland Indians,Milwaukee Brewers,7,2
+19980702,Detroit Tigers,Pittsburgh Pirates,2,5
+19980702,Kansas City Royals,St. Louis Cardinals,0,3
+19980703,Oakland Athletics,Anaheim Angels,10,6
+19980703,Chicago White Sox,Boston Red Sox,2,15
+19980703,Cleveland Indians,Kansas City Royals,2,1
+19980703,Detroit Tigers,Minensota Twins,5,4
+19980703,Baltimore Orioles,New York Yankees,2,3
+19980703,Seattle Mariners,Texas Rangers,8,2
+19980703,Tampa Bay Devil Rays,Toronto Blue Jays,2,3
+19980703,New York Mets,Atlanta Braves,2,3
+19980703,Pittsburgh Pirates,Chicago Cubs,9,12
+19980703,St. Louis Cardinals,Cincinnati Reds,3,6
+19980703,Arizona Diamondbacks,Houston Colts,5,6
+19980703,Florida Marlins,Montreal Expos,4,8
+19980703,Milwaukee Brewers,Philadelpia Phillies,0,2
+19980703,Colorado Rockies,San Diego Padres,2,4
+19980703,Los Angeles Dodgers,San  Francisco Giants,3,6
+19980704,Oakland Athletics,Anaheim Angels,8,3
+19980704,Chicago White Sox,Boston Red Sox,3,0
+19980704,Cleveland Indians,Kansas City Royals,3,5
+19980704,Detroit Tigers,Minensota Twins,4,2
+19980704,Baltimore Orioles,New York Yankees,3,4
+19980704,Seattle Mariners,Texas Rangers,2,9
+19980704,Tampa Bay Devil Rays,Toronto Blue Jays,0,8
+19980704,New York Mets,Atlanta Braves,1,4
+19980704,Pittsburgh Pirates,Chicago Cubs,4,5
+19980704,St. Louis Cardinals,Cincinnati Reds,4,5
+19980704,Arizona Diamondbacks,Houston Colts,7,4
+19980704,Florida Marlins,Montreal Expos,3,2
+19980704,Milwaukee Brewers,Philadelpia Phillies,5,6
+19980704,Colorado Rockies,San Diego Padres,1,9
+19980704,Los Angeles Dodgers,San  Francisco Giants,9,5
+19980705,Oakland Athletics,Anaheim Angels,5,4
+19980705,Chicago White Sox,Boston Red Sox,14,15
+19980705,Cleveland Indians,Kansas City Royals,12,3
+19980705,Detroit Tigers,Minensota Twins,4,5
+19980705,Baltimore Orioles,New York Yankees,0,1
+19980705,Seattle Mariners,Texas Rangers,4,8
+19980705,Tampa Bay Devil Rays,Toronto Blue Jays,1,2
+19980705,New York Mets,Atlanta Braves,2,3
+19980705,Pittsburgh Pirates,Chicago Cubs,6,7
+19980705,St. Louis Cardinals,Cincinnati Reds,1,6
+19980705,Arizona Diamondbacks,Houston Colts,2,5
+19980705,Florida Marlins,Montreal Expos,2,1
+19980705,Milwaukee Brewers,Philadelpia Phillies,3,4
+19980705,Colorado Rockies,San Diego Padres,2,7
+19980705,Los Angeles Dodgers,San  Francisco Giants,0,3
+19980709,Boston Red Sox,Baltimore Orioles,2,3
+19980709,Kansas City Royals,Chicago White Sox,6,4
+19980709,Minensota Twins,Cleveland Indians,3,0
+19980709,Toronto Blue Jays,Detroit Tigers,3,4
+19980709,Texas Rangers,Oakland Athletics,4,1
+19980709,Anaheim Angels,Seattle Mariners,6,8
+19980709,New York Yankees,Tampa Bay Devil Rays,2,0
+19980709,Atlanta Braves,Florida Marlins,6,4
+19980709,San Diego Padres,Los Angeles Dodgers,3,12
+19980709,Chicago Cubs,Milwaukee Brewers,9,12
+19980709,Montreal Expos,New York Mets,9,8
+19980709,Houston Colts,St. Louis Cardinals,5,4
+19980710,Boston Red Sox,Baltimore Orioles,2,3
+19980710,Kansas City Royals,Chicago White Sox,3,10
+19980710,Minensota Twins,Cleveland Indians,5,6
+19980710,Toronto Blue Jays,Detroit Tigers,2,3
+19980710,Texas Rangers,Oakland Athletics,1,0
+19980710,Anaheim Angels,Seattle Mariners,5,3
+19980710,New York Yankees,Tampa Bay Devil Rays,8,4
+19980710,Cincinnati Reds,Arizona Diamondbacks,5,4
+19980710,San  Francisco Giants,Colorado Rockies,2,11
+19980710,Atlanta Braves,Florida Marlins,1,3
+19980710,San Diego Padres,Los Angeles Dodgers,2,6
+19980710,Chicago Cubs,Milwaukee Brewers,5,6
+19980710,Montreal Expos,New York Mets,8,6
+19980710,Philadelpia Phillies,Pittsburgh Pirates,7,6
+19980710,Houston Colts,St. Louis Cardinals,3,6
+19980711,Boston Red Sox,Baltimore Orioles,1,2
+19980711,Kansas City Royals,Chicago White Sox,3,4
+19980711,Minensota Twins,Cleveland Indians,2,12
+19980711,Toronto Blue Jays,Detroit Tigers,2,5
+19980711,Texas Rangers,Oakland Athletics,4,2
+19980711,Anaheim Angels,Seattle Mariners,0,2
+19980711,New York Yankees,Tampa Bay Devil Rays,2,0
+19980711,Cincinnati Reds,Arizona Diamondbacks,8,0
+19980711,San  Francisco Giants,Colorado Rockies,4,5
+19980711,Atlanta Braves,Florida Marlins,3,4
+19980711,San Diego Padres,Los Angeles Dodgers,4,1
+19980711,Chicago Cubs,Milwaukee Brewers,11,8
+19980711,Montreal Expos,New York Mets,4,8
+19980711,Philadelpia Phillies,Pittsburgh Pirates,1,0
+19980711,Houston Colts,St. Louis Cardinals,3,4
+19980712,Boston Red Sox,Baltimore Orioles,7,11
+19980712,Kansas City Royals,Chicago White Sox,4,3
+19980712,Minensota Twins,Cleveland Indians,11,6
+19980712,Toronto Blue Jays,Detroit Tigers,7,2
+19980712,Texas Rangers,Oakland Athletics,5,7
+19980712,Anaheim Angels,Seattle Mariners,8,5
+19980712,New York Yankees,Tampa Bay Devil Rays,9,2
+19980712,Cincinnati Reds,Arizona Diamondbacks,5,3
+19980712,San  Francisco Giants,Colorado Rockies,3,5
+19980712,Atlanta Braves,Florida Marlins,3,5
+19980712,San Diego Padres,Los Angeles Dodgers,6,3
+19980712,Chicago Cubs,Milwaukee Brewers,3,0
+19980712,Montreal Expos,New York Mets,2,5
+19980712,Philadelpia Phillies,Pittsburgh Pirates,10,4
+19980712,Houston Colts,St. Louis Cardinals,4,6
+19980713,Toronto Blue Jays,Baltimore Orioles,0,5
+19980713,Minensota Twins,Chicago White Sox,2,5
+19980713,New York Yankees,Cleveland Indians,1,4
+19980713,Kansas City Royals,Detroit Tigers,6,4
+19980713,Anaheim Angels,Oakland Athletics,2,5
+19980713,Texas Rangers,Seattle Mariners,3,10
+19980713,Boston Red Sox,Tampa Bay Devil Rays,2,0
+19980713,Houston Colts,Arizona Diamondbacks,3,5
+19980713,San Diego Padres,Colorado Rockies,5,9
+19980713,Montreal Expos,Florida Marlins,7,8
+19980713,San  Francisco Giants,Los Angeles Dodgers,5,7
+19980713,Philadelpia Phillies,Milwaukee Brewers,2,4
+19980713,Chicago Cubs,Pittsburgh Pirates,2,6
+19980713,Cincinnati Reds,St. Louis Cardinals,6,5
+19980714,Toronto Blue Jays,Baltimore Orioles,5,11
+19980714,Minensota Twins,Chicago White Sox,5,8
+19980714,New York Yankees,Cleveland Indians,7,1
+19980714,Kansas City Royals,Detroit Tigers,3,8
+19980714,Anaheim Angels,Oakland Athletics,2,6
+19980714,Texas Rangers,Seattle Mariners,3,6
+19980714,Boston Red Sox,Tampa Bay Devil Rays,4,5
+19980714,Houston Colts,Arizona Diamondbacks,4,2
+19980714,San Diego Padres,Colorado Rockies,8,7
+19980714,Montreal Expos,Florida Marlins,2,1
+19980714,San  Francisco Giants,Los Angeles Dodgers,1,2
+19980714,Philadelpia Phillies,Milwaukee Brewers,4,2
+19980714,Atlanta Braves,New York Mets,4,2
+19980714,Chicago Cubs,Pittsburgh Pirates,7,4
+19980714,Cincinnati Reds,St. Louis Cardinals,7,4
+19980715,Tampa Bay Devil Rays,Anaheim Angels,2,4
+19980715,Cleveland Indians,Boston Red Sox,0,1
+19980715,Toronto Blue Jays,Chicago White Sox,3,9
+19980715,Toronto Blue Jays,Chicago White Sox,2,5
+19980715,New York Yankees,Detroit Tigers,11,0
+19980715,Kansas City Royals,Oakland Athletics,5,1
+19980715,Minensota Twins,Seattle Mariners,1,4
+19980715,Baltimore Orioles,Texas Rangers,14,3
+19980715,Houston Colts,Arizona Diamondbacks,8,9
+19980715,San Diego Padres,Colorado Rockies,6,2
+19980715,Montreal Expos,Florida Marlins,9,5
+19980715,San  Francisco Giants,Los Angeles Dodgers,5,3
+19980715,Philadelpia Phillies,Milwaukee Brewers,2,3
+19980715,Atlanta Braves,New York Mets,12,1
+19980715,Chicago Cubs,Pittsburgh Pirates,0,3
+19980715,Cincinnati Reds,St. Louis Cardinals,4,2
+19980716,Tampa Bay Devil Rays,Anaheim Angels,8,1
+19980716,Cleveland Indians,Boston Red Sox,5,15
+19980716,Toronto Blue Jays,Chicago White Sox,5,2
+19980716,New York Yankees,Detroit Tigers,1,3
+19980716,Kansas City Royals,Oakland Athletics,3,5
+19980716,Minensota Twins,Seattle Mariners,0,3
+19980716,Baltimore Orioles,Texas Rangers,9,3
+19980716,Milwaukee Brewers,Atlanta Braves,3,4
+19980716,Pittsburgh Pirates,Montreal Expos,5,10
+19980716,Philadelpia Phillies,New York Mets,4,2
+19980716,Los Angeles Dodgers,St. Louis Cardinals,8,2
+19980717,Baltimore Orioles,Anaheim Angels,4,1
+19980717,Cleveland Indians,Chicago White Sox,3,4
+19980717,Boston Red Sox,Detroit Tigers,4,6
+19980717,Minensota Twins,Oakland Athletics,8,7
+19980717,Kansas City Royals,Seattle Mariners,5,18
+19980717,Tampa Bay Devil Rays,Texas Rangers,4,7
+19980717,New York Yankees,Toronto Blue Jays,6,9
+19980717,Colorado Rockies,Arizona Diamondbacks,6,9
+19980717,Milwaukee Brewers,Atlanta Braves,1,4
+19980717,San Diego Padres,Cincinnati Reds,13,3
+19980717,Chicago Cubs,Florida Marlins,6,1
+19980717,San  Francisco Giants,Houston Colts,7,10
+19980717,Pittsburgh Pirates,Montreal Expos,5,1
+19980717,Philadelpia Phillies,New York Mets,0,6
+19980717,Los Angeles Dodgers,St. Louis Cardinals,1,4
+19980718,Baltimore Orioles,Anaheim Angels,3,8
+19980718,Cleveland Indians,Chicago White Sox,15,9
+19980718,Boston Red Sox,Detroit Tigers,9,4
+19980718,Minensota Twins,Oakland Athletics,4,3
+19980718,Kansas City Royals,Seattle Mariners,5,8
+19980718,Tampa Bay Devil Rays,Texas Rangers,8,9
+19980718,New York Yankees,Toronto Blue Jays,10,3
+19980718,Colorado Rockies,Arizona Diamondbacks,2,4
+19980718,Milwaukee Brewers,Atlanta Braves,7,1
+19980718,San Diego Padres,Cincinnati Reds,2,1
+19980718,Chicago Cubs,Florida Marlins,1,2
+19980718,San  Francisco Giants,Houston Colts,2,7
+19980718,Pittsburgh Pirates,Montreal Expos,5,2
+19980718,Philadelpia Phillies,New York Mets,0,7
+19980718,Los Angeles Dodgers,St. Louis Cardinals,10,8
+19980719,Baltimore Orioles,Anaheim Angels,7,4
+19980719,Cleveland Indians,Chicago White Sox,1,8
+19980719,Boston Red Sox,Detroit Tigers,1,3
+19980719,Minensota Twins,Oakland Athletics,2,5
+19980719,Kansas City Royals,Seattle Mariners,4,1
+19980719,Tampa Bay Devil Rays,Texas Rangers,4,7
+19980719,New York Yankees,Toronto Blue Jays,3,9
+19980719,Colorado Rockies,Arizona Diamondbacks,4,6
+19980719,Milwaukee Brewers,Atlanta Braves,6,11
+19980719,San Diego Padres,Cincinnati Reds,7,6
+19980719,Chicago Cubs,Florida Marlins,7,6
+19980719,San  Francisco Giants,Houston Colts,3,4
+19980719,Pittsburgh Pirates,Montreal Expos,6,1
+19980719,Philadelpia Phillies,New York Mets,7,6
+19980719,Los Angeles Dodgers,St. Louis Cardinals,4,5
+19980720,Cleveland Indians,Chicago White Sox,5,4
+19980720,Detroit Tigers,New York Yankees,4,3
+19980720,Detroit Tigers,New York Yankees,3,4
+19980720,Chicago Cubs,Atlanta Braves,11,4
+19980720,Milwaukee Brewers,Florida Marlins,5,3
+19980720,Colorado Rockies,Houston Colts,9,10
+19980720,Cincinnati Reds,Los Angeles Dodgers,0,2
+19980720,Philadelpia Phillies,Montreal Expos,3,1
+19980720,Pittsburgh Pirates,New York Mets,3,1
+19980720,St. Louis Cardinals,San Diego Padres,13,1
+19980720,Arizona Diamondbacks,San  Francisco Giants,3,5
+19980721,Oakland Athletics,Baltimore Orioles,1,7
+19980721,Boston Red Sox,Cleveland Indians,10,7
+19980721,Boston Red Sox,Cleveland Indians,2,4
+19980721,Texas Rangers,Kansas City Royals,15,5
+19980721,Anaheim Angels,Minensota Twins,2,4
+19980721,Detroit Tigers,New York Yankees,1,5
+19980721,Seattle Mariners,Tampa Bay Devil Rays,8,3
+19980721,Chicago White Sox,Toronto Blue Jays,6,3
+19980721,Chicago Cubs,Atlanta Braves,3,0
+19980721,Milwaukee Brewers,Florida Marlins,6,4
+19980721,Colorado Rockies,Houston Colts,5,0
+19980721,Cincinnati Reds,Los Angeles Dodgers,2,4
+19980721,Philadelpia Phillies,Montreal Expos,3,2
+19980721,Pittsburgh Pirates,New York Mets,0,4
+19980721,St. Louis Cardinals,San Diego Padres,3,6
+19980721,Arizona Diamondbacks,San  Francisco Giants,5,3
+19980722,Oakland Athletics,Baltimore Orioles,4,5
+19980722,Boston Red Sox,Cleveland Indians,3,4
+19980722,Texas Rangers,Kansas City Royals,4,7
+19980722,Anaheim Angels,Minensota Twins,5,3
+19980722,Detroit Tigers,New York Yankees,2,13
+19980722,Seattle Mariners,Tampa Bay Devil Rays,5,7
+19980722,Chicago White Sox,Toronto Blue Jays,0,4
+19980722,Montreal Expos,Chicago Cubs,5,9
+19980722,Houston Colts,Los Angeles Dodgers,4,6
+19980722,New York Mets,Milwaukee Brewers,7,5
+19980722,New York Mets,Milwaukee Brewers,6,1
+19980722,Atlanta Braves,Philadelpia Phillies,14,2
+19980722,Florida Marlins,Pittsburgh Pirates,4,6
+19980722,Arizona Diamondbacks,San Diego Padres,3,9
+19980722,St. Louis Cardinals,San  Francisco Giants,3,2
+19980723,Oakland Athletics,Baltimore Orioles,7,9
+19980723,Toronto Blue Jays,Boston Red Sox,7,8
+19980723,Detroit Tigers,Cleveland Indians,3,2
+19980723,Texas Rangers,Kansas City Royals,8,4
+19980723,Anaheim Angels,Minensota Twins,6,5
+19980723,Montreal Expos,Chicago Cubs,1,2
+19980723,Cincinnati Reds,Colorado Rockies,4,6
+19980723,Cincinnati Reds,Colorado Rockies,4,6
+19980723,Houston Colts,Los Angeles Dodgers,8,6
+19980723,New York Mets,Milwaukee Brewers,6,5
+19980723,Atlanta Braves,Philadelpia Phillies,3,2
+19980723,Florida Marlins,Pittsburgh Pirates,1,9
+19980723,Arizona Diamondbacks,San Diego Padres,0,3
+19980723,St. Louis Cardinals,San  Francisco Giants,8,1
+19980724,Seattle Mariners,Baltimore Orioles,4,7
+19980724,Toronto Blue Jays,Boston Red Sox,10,6
+19980724,Detroit Tigers,Cleveland Indians,1,2
+19980724,Anaheim Angels,Kansas City Royals,3,4
+19980724,Texas Rangers,Minensota Twins,3,5
+19980724,Chicago White Sox,New York Yankees,4,5
+19980724,Oakland Athletics,Tampa Bay Devil Rays,0,6
+19980724,New York Mets,Chicago Cubs,5,0
+19980724,New York Mets,Chicago Cubs,7,3
+19980724,St. Louis Cardinals,Colorado Rockies,3,12
+19980724,Arizona Diamondbacks,Los Angeles Dodgers,1,3
+19980724,Montreal Expos,Milwaukee Brewers,7,10
+19980724,Montreal Expos,Milwaukee Brewers,11,2
+19980724,Florida Marlins,Philadelpia Phillies,4,6
+19980724,Florida Marlins,Philadelpia Phillies,6,7
+19980724,Atlanta Braves,Pittsburgh Pirates,3,0
+19980724,Houston Colts,San Diego Padres,2,1
+19980724,Cincinnati Reds,San  Francisco Giants,2,12
+19980725,Seattle Mariners,Baltimore Orioles,4,2
+19980725,Toronto Blue Jays,Boston Red Sox,3,5
+19980725,Detroit Tigers,Cleveland Indians,5,6
+19980725,Anaheim Angels,Kansas City Royals,6,5
+19980725,Texas Rangers,Minensota Twins,6,7
+19980725,Chicago White Sox,New York Yankees,6,2
+19980725,Oakland Athletics,Tampa Bay Devil Rays,5,7
+19980725,New York Mets,Chicago Cubs,2,3
+19980725,St. Louis Cardinals,Colorado Rockies,2,5
+19980725,Arizona Diamondbacks,Los Angeles Dodgers,5,3
+19980725,Montreal Expos,Milwaukee Brewers,3,4
+19980725,Florida Marlins,Philadelpia Phillies,5,4
+19980725,Atlanta Braves,Pittsburgh Pirates,1,4
+19980725,Houston Colts,San Diego Padres,5,6
+19980725,Cincinnati Reds,San  Francisco Giants,9,8
+19980726,Seattle Mariners,Baltimore Orioles,10,4
+19980726,Toronto Blue Jays,Boston Red Sox,3,6
+19980726,Detroit Tigers,Cleveland Indians,8,1
+19980726,Anaheim Angels,Kansas City Royals,4,9
+19980726,Texas Rangers,Minensota Twins,3,11
+19980726,Chicago White Sox,New York Yankees,3,6
+19980726,Oakland Athletics,Tampa Bay Devil Rays,1,3
+19980726,New York Mets,Chicago Cubs,1,3
+19980726,St. Louis Cardinals,Colorado Rockies,3,1
+19980726,Arizona Diamondbacks,Los Angeles Dodgers,3,5
+19980726,Montreal Expos,Milwaukee Brewers,5,6
+19980726,Florida Marlins,Philadelpia Phillies,9,10
+19980726,Atlanta Braves,Pittsburgh Pirates,2,1
+19980726,Houston Colts,San Diego Padres,4,5
+19980726,Cincinnati Reds,San  Francisco Giants,1,2
+19980727,Anaheim Angels,Kansas City Royals,6,1
+19980727,Oakland Athletics,Tampa Bay Devil Rays,5,11
+19980727,Chicago Cubs,Arizona Diamondbacks,6,2
+19980727,Atlanta Braves,Cincinnati Reds,3,2
+19980727,Pittsburgh Pirates,Colorado Rockies,7,8
+19980727,Florida Marlins,Houston Colts,1,9
+19980728,New York Yankees,Anaheim Angels,9,3
+19980728,Tampa Bay Devil Rays,Chicago White Sox,1,4
+19980728,Baltimore Orioles,Detroit Tigers,6,5
+19980728,Minensota Twins,Kansas City Royals,3,0
+19980728,Boston Red Sox,Oakland Athletics,8,4
+19980728,Cleveland Indians,Seattle Mariners,4,3
+19980728,Texas Rangers,Toronto Blue Jays,3,8
+19980728,Chicago Cubs,Arizona Diamondbacks,5,7
+19980728,Atlanta Braves,Cincinnati Reds,1,13
+19980728,Pittsburgh Pirates,Colorado Rockies,6,12
+19980728,Florida Marlins,Houston Colts,3,7
+19980728,San  Francisco Giants,Montreal Expos,7,1
+19980728,San Diego Padres,New York Mets,3,7
+19980728,Los Angeles Dodgers,Philadelpia Phillies,7,3
+19980728,Milwaukee Brewers,St. Louis Cardinals,13,10
+19980729,New York Yankees,Anaheim Angels,5,10
+19980729,Tampa Bay Devil Rays,Chicago White Sox,7,2
+19980729,Baltimore Orioles,Detroit Tigers,14,2
+19980729,Minensota Twins,Kansas City Royals,5,3
+19980729,Boston Red Sox,Oakland Athletics,10,2
+19980729,Cleveland Indians,Seattle Mariners,8,7
+19980729,Texas Rangers,Toronto Blue Jays,9,6
+19980729,Chicago Cubs,Arizona Diamondbacks,7,3
+19980729,Atlanta Braves,Cincinnati Reds,11,5
+19980729,Pittsburgh Pirates,Colorado Rockies,12,1
+19980729,Florida Marlins,Houston Colts,6,10
+19980729,San  Francisco Giants,Montreal Expos,0,6
+19980729,San Diego Padres,New York Mets,6,7
+19980729,Los Angeles Dodgers,Philadelpia Phillies,3,8
+19980729,Milwaukee Brewers,St. Louis Cardinals,2,1
+19980730,New York Yankees,Anaheim Angels,3,0
+19980730,Baltimore Orioles,Detroit Tigers,6,4
+19980730,Minensota Twins,Kansas City Royals,3,7
+19980730,Boston Red Sox,Oakland Athletics,5,6
+19980730,Cleveland Indians,Seattle Mariners,9,8
+19980730,Texas Rangers,Toronto Blue Jays,0,1
+19980730,Chicago Cubs,Arizona Diamondbacks,0,4
+19980730,Atlanta Braves,Cincinnati Reds,13,3
+19980730,Florida Marlins,Houston Colts,4,3
+19980730,San  Francisco Giants,Montreal Expos,6,12
+19980730,San Diego Padres,New York Mets,3,1
+19980730,Los Angeles Dodgers,Philadelpia Phillies,3,1
+19980730,Milwaukee Brewers,St. Louis Cardinals,2,3
+19980731,Boston Red Sox,Anaheim Angels,7,2
+19980731,Baltimore Orioles,Kansas City Royals,6,9
+19980731,Toronto Blue Jays,Minensota Twins,4,6
+19980731,Cleveland Indians,Oakland Athletics,2,12
+19980731,New York Yankees,Seattle Mariners,5,3
+19980731,Detroit Tigers,Tampa Bay Devil Rays,1,5
+19980731,Chicago White Sox,Texas Rangers,10,2
+19980731,St. Louis Cardinals,Atlanta Braves,3,2
+19980731,Colorado Rockies,Chicago Cubs,1,9
+19980731,Cincinnati Reds,Florida Marlins,3,2
+19980731,Arizona Diamondbacks,Milwaukee Brewers,8,2
+19980731,San Diego Padres,Montreal Expos,5,4
+19980731,Los Angeles Dodgers,New York Mets,4,3
+19980731,San  Francisco Giants,Philadelpia Phillies,7,6
+19980731,Houston Colts,Pittsburgh Pirates,7,4
+19980801,Boston Red Sox,Anaheim Angels,11,3
+19980801,Baltimore Orioles,Kansas City Royals,5,9
+19980801,Toronto Blue Jays,Minensota Twins,10,9
+19980801,Cleveland Indians,Oakland Athletics,5,6
+19980801,New York Yankees,Seattle Mariners,5,2
+19980801,Detroit Tigers,Tampa Bay Devil Rays,8,0
+19980801,Chicago White Sox,Texas Rangers,1,8
+19980801,St. Louis Cardinals,Atlanta Braves,1,3
+19980801,Colorado Rockies,Chicago Cubs,2,3
+19980801,Cincinnati Reds,Florida Marlins,9,7
+19980801,Arizona Diamondbacks,Milwaukee Brewers,5,4
+19980801,San Diego Padres,Montreal Expos,2,4
+19980801,Los Angeles Dodgers,New York Mets,1,2
+19980801,San  Francisco Giants,Philadelpia Phillies,8,7
+19980801,Houston Colts,Pittsburgh Pirates,2,1
+19980802,Boston Red Sox,Anaheim Angels,8,7
+19980802,Baltimore Orioles,Kansas City Royals,9,2
+19980802,Toronto Blue Jays,Minensota Twins,6,4
+19980802,Cleveland Indians,Oakland Athletics,5,7
+19980802,New York Yankees,Seattle Mariners,3,6
+19980802,Detroit Tigers,Tampa Bay Devil Rays,3,2
+19980802,Chicago White Sox,Texas Rangers,3,12
+19980802,St. Louis Cardinals,Atlanta Braves,3,4
+19980802,Colorado Rockies,Chicago Cubs,6,3
+19980802,Cincinnati Reds,Florida Marlins,5,1
+19980802,Arizona Diamondbacks,Milwaukee Brewers,2,7
+19980802,San Diego Padres,Montreal Expos,4,1
+19980802,Los Angeles Dodgers,New York Mets,3,9
+19980802,San  Francisco Giants,Philadelpia Phillies,15,3
+19980802,Houston Colts,Pittsburgh Pirates,6,2
+19980803,Cleveland Indians,Anaheim Angels,4,11
+19980803,New York Yankees,Oakland Athletics,14,1
+19980803,Boston Red Sox,Seattle Mariners,1,3
+19980803,Chicago White Sox,Tampa Bay Devil Rays,6,1
+19980803,Arizona Diamondbacks,Chicago Cubs,6,5
+19980803,Houston Colts,Florida Marlins,3,11
+19980803,St. Louis Cardinals,Milwaukee Brewers,5,6
+19980803,San Diego Padres,Montreal Expos,1,6
+19980803,Los Angeles Dodgers,New York Mets,8,5
+19980803,San  Francisco Giants,Philadelpia Phillies,6,1
+19980803,Colorado Rockies,Pittsburgh Pirates,7,2
+19980804,Cleveland Indians,Anaheim Angels,4,5
+19980804,Detroit Tigers,Baltimore Orioles,0,4
+19980804,Kansas City Royals,Minensota Twins,12,4
+19980804,New York Yankees,Oakland Athletics,10,4
+19980804,New York Yankees,Oakland Athletics,10,5
+19980804,Boston Red Sox,Seattle Mariners,2,1
+19980804,Chicago White Sox,Tampa Bay Devil Rays,8,6
+19980804,Toronto Blue Jays,Texas Rangers,9,11
+19980804,Cincinnati Reds,Atlanta Braves,2,4
+19980804,Arizona Diamondbacks,Chicago Cubs,0,2
+19980804,Houston Colts,Florida Marlins,9,5
+19980804,St. Louis Cardinals,Milwaukee Brewers,2,1
+19980804,Los Angeles Dodgers,Montreal Expos,4,5
+19980804,San  Francisco Giants,New York Mets,6,7
+19980804,Colorado Rockies,Pittsburgh Pirates,5,13
+19980804,Philadelpia Phillies,San Diego Padres,1,3
+19980805,Cleveland Indians,Anaheim Angels,6,5
+19980805,Detroit Tigers,Baltimore Orioles,1,6
+19980805,Kansas City Royals,Minensota Twins,4,3
+19980805,New York Yankees,Oakland Athletics,1,3
+19980805,Chicago White Sox,Tampa Bay Devil Rays,3,7
+19980805,Toronto Blue Jays,Texas Rangers,3,4
+19980805,Cincinnati Reds,Atlanta Braves,13,9
+19980805,Arizona Diamondbacks,Chicago Cubs,10,7
+19980805,Houston Colts,Florida Marlins,3,5
+19980805,St. Louis Cardinals,Milwaukee Brewers,5,1
+19980805,Los Angeles Dodgers,Montreal Expos,1,5
+19980805,San  Francisco Giants,New York Mets,6,4
+19980805,Colorado Rockies,Pittsburgh Pirates,6,2
+19980805,Philadelpia Phillies,San Diego Padres,0,4
+19980806,Kansas City Royals,Minensota Twins,8,7
+19980806,Boston Red Sox,Texas Rangers,4,7
+19980806,Cincinnati Reds,Atlanta Braves,0,5
+19980806,Los Angeles Dodgers,Montreal Expos,0,9
+19980806,San  Francisco Giants,New York Mets,8,9
+19980806,Colorado Rockies,Pittsburgh Pirates,5,1
+19980806,Philadelpia Phillies,San Diego Padres,3,2
+19980807,Seattle Mariners,Detroit Tigers,6,3
+19980807,Seattle Mariners,Detroit Tigers,7,1
+19980807,Baltimore Orioles,Minensota Twins,16,9
+19980807,Kansas City Royals,New York Yankees,2,8
+19980807,Kansas City Royals,New York Yankees,2,14
+19980807,Cleveland Indians,Tampa Bay Devil Rays,5,1
+19980807,Boston Red Sox,Texas Rangers,3,4
+19980807,Oakland Athletics,Toronto Blue Jays,7,6
+19980807,Milwaukee Brewers,Cincinnati Reds,0,17
+19980807,New York Mets,Colorado Rockies,8,7
+19980807,Philadelpia Phillies,Houston Colts,0,9
+19980807,Pittsburgh Pirates,Los Angeles Dodgers,1,3
+19980807,Arizona Diamondbacks,Montreal Expos,6,4
+19980807,Florida Marlins,San Diego Padres,3,6
+19980807,Atlanta Braves,San  Francisco Giants,5,0
+19980807,Chicago Cubs,St. Louis Cardinals,3,16
+19980808,Anaheim Angels,Chicago White Sox,5,7
+19980808,Anaheim Angels,Chicago White Sox,3,4
+19980808,Seattle Mariners,Detroit Tigers,9,3
+19980808,Baltimore Orioles,Minensota Twins,6,3
+19980808,Kansas City Royals,New York Yankees,1,14
+19980808,Cleveland Indians,Tampa Bay Devil Rays,6,2
+19980808,Boston Red Sox,Texas Rangers,11,1
+19980808,Oakland Athletics,Toronto Blue Jays,5,6
+19980808,Milwaukee Brewers,Cincinnati Reds,0,4
+19980808,New York Mets,Colorado Rockies,4,3
+19980808,Philadelpia Phillies,Houston Colts,6,7
+19980808,Pittsburgh Pirates,Los Angeles Dodgers,1,2
+19980808,Arizona Diamondbacks,Montreal Expos,3,5
+19980808,Atlanta Braves,San  Francisco Giants,14,6
+19980808,Chicago Cubs,St. Louis Cardinals,8,9
+19980809,Anaheim Angels,Chicago White Sox,9,0
+19980809,Seattle Mariners,Detroit Tigers,6,3
+19980809,Baltimore Orioles,Minensota Twins,4,5
+19980809,Kansas City Royals,New York Yankees,4,5
+19980809,Cleveland Indians,Tampa Bay Devil Rays,1,2
+19980809,Boston Red Sox,Texas Rangers,14,8
+19980809,Oakland Athletics,Toronto Blue Jays,3,4
+19980809,Milwaukee Brewers,Cincinnati Reds,4,3
+19980809,New York Mets,Colorado Rockies,4,11
+19980809,Philadelpia Phillies,Houston Colts,2,11
+19980809,Pittsburgh Pirates,Los Angeles Dodgers,2,1
+19980809,Arizona Diamondbacks,Montreal Expos,2,8
+19980809,Florida Marlins,San Diego Padres,5,6
+19980809,Atlanta Braves,San  Francisco Giants,7,5
+19980809,Chicago Cubs,St. Louis Cardinals,1,2
+19980810,Oakland Athletics,Chicago White Sox,3,5
+19980810,Anaheim Angels,Detroit Tigers,6,2
+19980810,Minensota Twins,New York Yankees,3,7
+19980810,Baltimore Orioles,Tampa Bay Devil Rays,2,1
+19980810,Philadelpia Phillies,Arizona Diamondbacks,3,0
+19980810,Montreal Expos,Colorado Rockies,2,6
+19980810,Milwaukee Brewers,Houston Colts,2,5
+19980810,Florida Marlins,San Diego Padres,3,2
+19980810,Chicago Cubs,San  Francisco Giants,8,5
+19980810,New York Mets,St. Louis Cardinals,4,2
+19980811,Kansas City Royals,Boston Red Sox,4,7
+19980811,Oakland Athletics,Chicago White Sox,6,4
+19980811,Texas Rangers,Cleveland Indians,2,1
+19980811,Anaheim Angels,Detroit Tigers,5,4
+19980811,Minensota Twins,New York Yankees,0,7
+19980811,Baltimore Orioles,Tampa Bay Devil Rays,1,2
+19980811,Seattle Mariners,Toronto Blue Jays,4,7
+19980811,Philadelpia Phillies,Arizona Diamondbacks,3,7
+19980811,Pittsburgh Pirates,Cincinnati Reds,7,0
+19980811,Montreal Expos,Colorado Rockies,6,15
+19980811,Milwaukee Brewers,Houston Colts,5,6
+19980811,Florida Marlins,Los Angeles Dodgers,8,6
+19980811,Atlanta Braves,San Diego Padres,1,3
+19980811,Chicago Cubs,San  Francisco Giants,7,8
+19980811,New York Mets,St. Louis Cardinals,8,3
+19980812,Kansas City Royals,Boston Red Sox,8,4
+19980812,Oakland Athletics,Chicago White Sox,0,2
+19980812,Texas Rangers,Cleveland Indians,3,6
+19980812,Anaheim Angels,Detroit Tigers,3,2
+19980812,Minensota Twins,New York Yankees,2,11
+19980812,Baltimore Orioles,Tampa Bay Devil Rays,7,0
+19980812,Seattle Mariners,Toronto Blue Jays,5,11
+19980812,Philadelpia Phillies,Arizona Diamondbacks,7,4
+19980812,Pittsburgh Pirates,Cincinnati Reds,5,4
+19980812,Montreal Expos,Colorado Rockies,2,3
+19980812,Milwaukee Brewers,Houston Colts,0,3
+19980812,Florida Marlins,Los Angeles Dodgers,3,2
+19980812,Atlanta Braves,San Diego Padres,1,5
+19980812,Chicago Cubs,San  Francisco Giants,10,2
+19980812,New York Mets,St. Louis Cardinals,4,5
+19980813,Minensota Twins,Boston Red Sox,7,8
+19980813,Baltimore Orioles,Cleveland Indians,7,4
+19980813,Tampa Bay Devil Rays,Kansas City Royals,4,6
+19980813,Texas Rangers,New York Yankees,0,2
+19980813,Anaheim Angels,Toronto Blue Jays,3,4
+19980813,Pittsburgh Pirates,Cincinnati Reds,9,6
+19980813,Milwaukee Brewers,Houston Colts,2,6
+19980813,Florida Marlins,Los Angeles Dodgers,2,5
+19980813,Atlanta Braves,San Diego Padres,5,0
+19980814,Minensota Twins,Boston Red Sox,12,13
+19980814,Seattle Mariners,Chicago White Sox,2,14
+19980814,Baltimore Orioles,Cleveland Indians,15,3
+19980814,Oakland Athletics,Detroit Tigers,4,13
+19980814,Tampa Bay Devil Rays,Kansas City Royals,9,11
+19980814,Texas Rangers,New York Yankees,4,6
+19980814,Anaheim Angels,Toronto Blue Jays,7,5
+19980814,New York Mets,Arizona Diamondbacks,3,2
+19980814,Montreal Expos,Cincinnati Reds,2,3
+19980814,Philadelpia Phillies,Colorado Rockies,6,2
+19980814,Chicago Cubs,Houston Colts,6,4
+19980814,Atlanta Braves,Los Angeles Dodgers,5,2
+19980814,Milwaukee Brewers,San Diego Padres,0,7
+19980814,Florida Marlins,San  Francisco Giants,0,10
+19980814,Pittsburgh Pirates,St. Louis Cardinals,5,10
+19980815,Minensota Twins,Boston Red Sox,3,2
+19980815,Seattle Mariners,Chicago White Sox,13,7
+19980815,Baltimore Orioles,Cleveland Indians,9,8
+19980815,Oakland Athletics,Detroit Tigers,10,8
+19980815,Tampa Bay Devil Rays,Kansas City Royals,8,6
+19980815,Texas Rangers,New York Yankees,16,5
+19980815,Anaheim Angels,Toronto Blue Jays,6,3
+19980815,New York Mets,Arizona Diamondbacks,5,4
+19980815,Montreal Expos,Cincinnati Reds,4,6
+19980815,Philadelpia Phillies,Colorado Rockies,3,7
+19980815,Chicago Cubs,Houston Colts,4,5
+19980815,Atlanta Braves,Los Angeles Dodgers,5,3
+19980815,Florida Marlins,San  Francisco Giants,3,4
+19980815,Pittsburgh Pirates,St. Louis Cardinals,7,8
+19980816,Minensota Twins,Boston Red Sox,6,3
+19980816,Seattle Mariners,Chicago White Sox,3,5
+19980816,Baltimore Orioles,Cleveland Indians,3,5
+19980816,Oakland Athletics,Detroit Tigers,4,6
+19980816,Tampa Bay Devil Rays,Kansas City Royals,8,3
+19980816,Texas Rangers,New York Yankees,5,6
+19980816,Anaheim Angels,Toronto Blue Jays,4,6
+19980816,New York Mets,Arizona Diamondbacks,1,6
+19980816,Montreal Expos,Cincinnati Reds,1,8
+19980816,Philadelpia Phillies,Colorado Rockies,8,7
+19980816,Chicago Cubs,Houston Colts,2,1
+19980816,Atlanta Braves,Los Angeles Dodgers,0,1
+19980816,Milwaukee Brewers,San Diego Padres,0,4
+19980816,Milwaukee Brewers,San Diego Padres,4,2
+19980816,Florida Marlins,San  Francisco Giants,2,3
+19980816,Pittsburgh Pirates,St. Louis Cardinals,4,1
+19980817,Chicago White Sox,Anaheim Angels,2,7
+19980817,Minensota Twins,Baltimore Orioles,2,3
+19980817,Tampa Bay Devil Rays,Cleveland Indians,3,4
+19980817,New York Yankees,Kansas City Royals,7,1
+19980817,Toronto Blue Jays,Oakland Athletics,4,2
+19980817,Detroit Tigers,Seattle Mariners,1,3
+19980817,Montreal Expos,Arizona Diamondbacks,1,6
+19980817,Houston Colts,Philadelpia Phillies,0,4
+19980818,Chicago White Sox,Anaheim Angels,4,3
+19980818,Minensota Twins,Baltimore Orioles,1,7
+19980818,Texas Rangers,Boston Red Sox,1,4
+19980818,Texas Rangers,Boston Red Sox,4,5
+19980818,Tampa Bay Devil Rays,Cleveland Indians,2,4
+19980818,New York Yankees,Kansas City Royals,3,2
+19980818,Toronto Blue Jays,Oakland Athletics,5,10
+19980818,Detroit Tigers,Seattle Mariners,7,6
+19980818,Montreal Expos,Arizona Diamondbacks,7,1
+19980818,San  Francisco Giants,Atlanta Braves,4,8
+19980818,St. Louis Cardinals,Chicago Cubs,1,4
+19980818,San Diego Padres,Florida Marlins,7,5
+19980818,Cincinnati Reds,Milwaukee Brewers,4,8
+19980818,Colorado Rockies,New York Mets,2,6
+19980818,Colorado Rockies,New York Mets,3,6
+19980818,Houston Colts,Philadelpia Phillies,8,2
+19980818,Los Angeles Dodgers,Pittsburgh Pirates,4,6
+19980819,Detroit Tigers,Anaheim Angels,0,2
+19980819,Tampa Bay Devil Rays,Baltimore Orioles,4,6
+19980819,Boston Red Sox,Kansas City Royals,11,1
+19980819,New York Yankees,Minensota Twins,3,5
+19980819,Chicago White Sox,Oakland Athletics,0,6
+19980819,Toronto Blue Jays,Seattle Mariners,16,2
+19980819,Cleveland Indians,Texas Rangers,1,3
+19980819,Montreal Expos,Arizona Diamondbacks,8,2
+19980819,San  Francisco Giants,Atlanta Braves,6,2
+19980819,St. Louis Cardinals,Chicago Cubs,8,6
+19980819,San Diego Padres,Florida Marlins,0,6
+19980819,Cincinnati Reds,Milwaukee Brewers,8,2
+19980819,Colorado Rockies,New York Mets,1,2
+19980819,Houston Colts,Philadelpia Phillies,4,3
+19980819,Los Angeles Dodgers,Pittsburgh Pirates,5,6
+19980820,Detroit Tigers,Anaheim Angels,2,13
+19980820,Tampa Bay Devil Rays,Baltimore Orioles,4,2
+19980820,Boston Red Sox,Kansas City Royals,2,8
+19980820,New York Yankees,Minensota Twins,4,9
+19980820,Chicago White Sox,Oakland Athletics,1,3
+19980820,Toronto Blue Jays,Seattle Mariners,7,0
+19980820,Cleveland Indians,Texas Rangers,2,8
+19980820,San Diego Padres,Atlanta Braves,2,0
+19980820,San  Francisco Giants,Chicago Cubs,3,7
+19980820,Los Angeles Dodgers,Florida Marlins,2,1
+19980820,Houston Colts,Milwaukee Brewers,5,6
+19980820,Colorado Rockies,Montreal Expos,6,3
+19980820,St. Louis Cardinals,New York Mets,2,0
+19980820,St. Louis Cardinals,New York Mets,4,5
+19980820,Arizona Diamondbacks,Philadelpia Phillies,1,11
+19980820,Arizona Diamondbacks,Philadelpia Phillies,12,9
+19980820,Cincinnati Reds,Pittsburgh Pirates,5,6
+19980821,Toronto Blue Jays,Anaheim Angels,9,4
+19980821,Cleveland Indians,Baltimore Orioles,6,3
+19980821,Boston Red Sox,Minensota Twins,9,2
+19980821,Detroit Tigers,Oakland Athletics,2,4
+19980821,Chicago White Sox,Seattle Mariners,4,5
+19980821,Kansas City Royals,Tampa Bay Devil Rays,6,5
+19980821,New York Yankees,Texas Rangers,5,0
+19980821,San Diego Padres,Atlanta Braves,4,5
+19980821,San  Francisco Giants,Chicago Cubs,5,6
+19980821,Los Angeles Dodgers,Florida Marlins,5,1
+19980821,Houston Colts,Milwaukee Brewers,5,2
+19980821,Colorado Rockies,Montreal Expos,3,2
+19980821,St. Louis Cardinals,New York Mets,10,5
+19980821,St. Louis Cardinals,New York Mets,0,1
+19980821,Arizona Diamondbacks,Philadelpia Phillies,0,1
+19980821,Cincinnati Reds,Pittsburgh Pirates,2,14
+19980822,Toronto Blue Jays,Anaheim Angels,1,5
+19980822,Cleveland Indians,Baltimore Orioles,3,6
+19980822,Boston Red Sox,Minensota Twins,3,4
+19980822,Detroit Tigers,Oakland Athletics,2,7
+19980822,Detroit Tigers,Oakland Athletics,1,7
+19980822,Chicago White Sox,Seattle Mariners,4,5
+19980822,Kansas City Royals,Tampa Bay Devil Rays,3,2
+19980822,New York Yankees,Texas Rangers,12,9
+19980822,Los Angeles Dodgers,Atlanta Braves,5,7
+19980822,Houston Colts,Chicago Cubs,8,3
+19980822,San  Francisco Giants,Florida Marlins,5,4
+19980822,San Diego Padres,Milwaukee Brewers,4,8
+19980822,Cincinnati Reds,Montreal Expos,4,0
+19980822,Arizona Diamondbacks,New York Mets,4,9
+19980822,Colorado Rockies,Philadelpia Phillies,1,6
+19980822,St. Louis Cardinals,Pittsburgh Pirates,4,14
+19980823,Toronto Blue Jays,Anaheim Angels,2,3
+19980823,Cleveland Indians,Baltimore Orioles,4,1
+19980823,Boston Red Sox,Minensota Twins,5,1
+19980823,Detroit Tigers,Oakland Athletics,5,4
+19980823,Chicago White Sox,Seattle Mariners,2,3
+19980823,Kansas City Royals,Tampa Bay Devil Rays,11,5
+19980823,New York Yankees,Texas Rangers,10,12
+19980823,Los Angeles Dodgers,Atlanta Braves,7,12
+19980823,Houston Colts,Chicago Cubs,13,3
+19980823,San  Francisco Giants,Florida Marlins,10,5
+19980823,San Diego Padres,Milwaukee Brewers,13,11
+19980823,Cincinnati Reds,Montreal Expos,10,0
+19980823,Arizona Diamondbacks,New York Mets,4,3
+19980823,Colorado Rockies,Philadelpia Phillies,5,2
+19980823,St. Louis Cardinals,Pittsburgh Pirates,3,4
+19980824,Anaheim Angels,New York Yankees,7,3
+19980824,Chicago White Sox,Seattle Mariners,10,11
+19980824,Detroit Tigers,Texas Rangers,5,6
+19980824,Kansas City Royals,Toronto Blue Jays,7,3
+19980824,Los Angeles Dodgers,Atlanta Braves,3,4
+19980824,Houston Colts,Chicago Cubs,12,3
+19980824,San  Francisco Giants,Florida Marlins,7,4
+19980824,San Diego Padres,Milwaukee Brewers,7,2
+19980824,Cincinnati Reds,Montreal Expos,8,1
+19980824,Arizona Diamondbacks,New York Mets,9,5
+19980824,Colorado Rockies,Philadelpia Phillies,3,1
+19980824,St. Louis Cardinals,Pittsburgh Pirates,5,5
+19980825,Oakland Athletics,Boston Red Sox,2,3
+19980825,Baltimore Orioles,Chicago White Sox,4,6
+19980825,Seattle Mariners,Cleveland Indians,4,10
+19980825,Anaheim Angels,New York Yankees,7,6
+19980825,Minensota Twins,Tampa Bay Devil Rays,4,1
+19980825,Detroit Tigers,Texas Rangers,8,7
+19980825,Kansas City Royals,Toronto Blue Jays,0,3
+19980825,Pittsburgh Pirates,Arizona Diamondbacks,9,6
+19980825,Chicago Cubs,Cincinnati Reds,9,10
+19980825,Milwaukee Brewers,Colorado Rockies,6,11
+19980825,Atlanta Braves,Houston Colts,2,3
+19980825,Montreal Expos,Los Angeles Dodgers,3,4
+19980825,San Diego Padres,Philadelpia Phillies,5,3
+19980825,New York Mets,San  Francisco Giants,3,7
+19980825,Florida Marlins,St. Louis Cardinals,4,3
+19980826,Oakland Athletics,Boston Red Sox,4,7
+19980826,Baltimore Orioles,Chicago White Sox,5,12
+19980826,Seattle Mariners,Cleveland Indians,3,5
+19980826,Anaheim Angels,New York Yankees,6,4
+19980826,Anaheim Angels,New York Yankees,6,7
+19980826,Minensota Twins,Tampa Bay Devil Rays,7,3
+19980826,Detroit Tigers,Texas Rangers,6,8
+19980826,Kansas City Royals,Toronto Blue Jays,7,2
+19980826,Pittsburgh Pirates,Arizona Diamondbacks,4,3
+19980826,Chicago Cubs,Cincinnati Reds,9,2
+19980826,Milwaukee Brewers,Colorado Rockies,6,5
+19980826,Atlanta Braves,Houston Colts,6,2
+19980826,Montreal Expos,Los Angeles Dodgers,3,4
+19980826,San Diego Padres,Philadelpia Phillies,2,0
+19980826,New York Mets,San  Francisco Giants,4,1
+19980826,Florida Marlins,St. Louis Cardinals,7,6
+19980827,Oakland Athletics,Boston Red Sox,6,3
+19980827,Baltimore Orioles,Chicago White Sox,4,7
+19980827,Seattle Mariners,Cleveland Indians,10,4
+19980827,Anaheim Angels,New York Yankees,5,6
+19980827,Minensota Twins,Tampa Bay Devil Rays,3,10
+19980827,Kansas City Royals,Toronto Blue Jays,1,11
+19980827,Milwaukee Brewers,Arizona Diamondbacks,4,0
+19980827,Florida Marlins,Cincinnati Reds,3,12
+19980827,Chicago Cubs,Colorado Rockies,11,10
+19980827,Montreal Expos,Los Angeles Dodgers,9,10
+19980827,San Diego Padres,Philadelpia Phillies,8,1
+19980827,New York Mets,San  Francisco Giants,3,11
+19980827,Atlanta Braves,St. Louis Cardinals,6,4
+19980828,Kansas City Royals,Baltimore Orioles,6,5
+19980828,Anaheim Angels,Boston Red Sox,7,6
+19980828,Texas Rangers,Chicago White Sox,6,5
+19980828,Texas Rangers,Chicago White Sox,7,8
+19980828,Oakland Athletics,Cleveland Indians,14,6
+19980828,Tampa Bay Devil Rays,Detroit Tigers,4,3
+19980828,Seattle Mariners,New York Yankees,3,10
+19980828,Minensota Twins,Toronto Blue Jays,6,7
+19980828,Milwaukee Brewers,Arizona Diamondbacks,3,6
+19980828,Florida Marlins,Cincinnati Reds,8,10
+19980828,Chicago Cubs,Colorado Rockies,10,5
+19980828,Pittsburgh Pirates,Houston Colts,0,2
+19980828,New York Mets,Los Angeles Dodgers,5,4
+19980828,Montreal Expos,San Diego Padres,8,12
+19980828,Philadelpia Phillies,San  Francisco Giants,4,3
+19980828,Atlanta Braves,St. Louis Cardinals,4,5
+19980829,Kansas City Royals,Baltimore Orioles,2,1
+19980829,Anaheim Angels,Boston Red Sox,1,6
+19980829,Texas Rangers,Chicago White Sox,5,3
+19980829,Oakland Athletics,Cleveland Indians,11,6
+19980829,Tampa Bay Devil Rays,Detroit Tigers,10,6
+19980829,Tampa Bay Devil Rays,Detroit Tigers,2,8
+19980829,Seattle Mariners,New York Yankees,6,11
+19980829,Minensota Twins,Toronto Blue Jays,7,14
+19980829,Milwaukee Brewers,Arizona Diamondbacks,3,4
+19980829,Florida Marlins,Cincinnati Reds,5,7
+19980829,Chicago Cubs,Colorado Rockies,3,7
+19980829,Pittsburgh Pirates,Houston Colts,3,6
+19980829,New York Mets,Los Angeles Dodgers,4,3
+19980829,Montreal Expos,San Diego Padres,3,1
+19980829,Philadelpia Phillies,San  Francisco Giants,3,10
+19980829,Atlanta Braves,St. Louis Cardinals,4,3
+19980830,Kansas City Royals,Baltimore Orioles,3,2
+19980830,Anaheim Angels,Boston Red Sox,8,6
+19980830,Texas Rangers,Chicago White Sox,3,5
+19980830,Oakland Athletics,Cleveland Indians,4,9
+19980830,Tampa Bay Devil Rays,Detroit Tigers,10,5
+19980830,Seattle Mariners,New York Yankees,13,3
+19980830,Minensota Twins,Toronto Blue Jays,0,6
+19980830,Milwaukee Brewers,Arizona Diamondbacks,3,7
+19980830,Florida Marlins,Cincinnati Reds,7,14
+19980830,Chicago Cubs,Colorado Rockies,4,3
+19980830,Pittsburgh Pirates,Houston Colts,4,11
+19980830,New York Mets,Los Angeles Dodgers,2,4
+19980830,Montreal Expos,San Diego Padres,2,1
+19980830,Philadelpia Phillies,San  Francisco Giants,5,4
+19980830,Atlanta Braves,St. Louis Cardinals,7,8
+19980831,Chicago White Sox,Baltimore Orioles,4,1
+19980831,Seattle Mariners,Boston Red Sox,1,5
+19980831,Oakland Athletics,Cleveland Indians,6,15
+19980831,Texas Rangers,Detroit Tigers,13,2
+19980831,Tampa Bay Devil Rays,Minensota Twins,1,2
+19980831,Houston Colts,Atlanta Braves,4,3
+19980831,Cincinnati Reds,Chicago Cubs,4,5
+19980831,St. Louis Cardinals,Florida Marlins,5,3
+19980831,New York Mets,Los Angeles Dodgers,8,3
+19980831,Montreal Expos,San Diego Padres,2,5
+19980831,Philadelpia Phillies,San  Francisco Giants,2,6
+19980901,Chicago White Sox,Baltimore Orioles,9,5
+19980901,Seattle Mariners,Boston Red Sox,7,3
+19980901,Anaheim Angels,Cleveland Indians,6,7
+19980901,Texas Rangers,Detroit Tigers,8,12
+19980901,Toronto Blue Jays,Kansas City Royals,2,1
+19980901,Tampa Bay Devil Rays,Minensota Twins,5,6
+19980901,Oakland Athletics,New York Yankees,0,7
+19980901,Houston Colts,Atlanta Braves,4,6
+19980901,Cincinnati Reds,Chicago Cubs,5,6
+19980901,St. Louis Cardinals,Florida Marlins,7,1
+19980901,Philadelpia Phillies,Los Angeles Dodgers,2,3
+19980901,Colorado Rockies,Milwaukee Brewers,12,3
+19980901,Arizona Diamondbacks,Pittsburgh Pirates,4,3
+19980901,New York Mets,San Diego Padres,8,9
+19980901,Montreal Expos,San  Francisco Giants,7,9
+19980902,Chicago White Sox,Baltimore Orioles,3,2
+19980902,Seattle Mariners,Boston Red Sox,3,7
+19980902,Anaheim Angels,Cleveland Indians,13,5
+19980902,Texas Rangers,Detroit Tigers,5,3
+19980902,Toronto Blue Jays,Kansas City Royals,5,0
+19980902,Tampa Bay Devil Rays,Minensota Twins,4,1
+19980902,Oakland Athletics,New York Yankees,2,0
+19980902,Houston Colts,Atlanta Braves,4,2
+19980902,Cincinnati Reds,Chicago Cubs,2,4
+19980902,St. Louis Cardinals,Florida Marlins,14,4
+19980902,Philadelpia Phillies,Los Angeles Dodgers,0,6
+19980902,Colorado Rockies,Milwaukee Brewers,4,8
+19980902,Arizona Diamondbacks,Pittsburgh Pirates,2,1
+19980902,New York Mets,San Diego Padres,4,1
+19980902,Montreal Expos,San  Francisco Giants,3,12
+19980903,Cleveland Indians,Detroit Tigers,2,1
+19980903,Tampa Bay Devil Rays,Minensota Twins,4,5
+19980903,Boston Red Sox,Toronto Blue Jays,3,4
+19980903,Colorado Rockies,Milwaukee Brewers,3,7
+19980903,Arizona Diamondbacks,Pittsburgh Pirates,1,0
+19980904,Kansas City Royals,Anaheim Angels,5,3
+19980904,New York Yankees,Chicago White Sox,11,6
+19980904,Cleveland Indians,Detroit Tigers,10,2
+19980904,Tampa Bay Devil Rays,Oakland Athletics,5,2
+19980904,Baltimore Orioles,Seattle Mariners,10,1
+19980904,Minensota Twins,Texas Rangers,3,9
+19980904,Boston Red Sox,Toronto Blue Jays,1,12
+19980904,Houston Colts,Arizona Diamondbacks,1,3
+19980904,San Diego Padres,Colorado Rockies,5,11
+19980904,Montreal Expos,Florida Marlins,8,0
+19980904,San  Francisco Giants,Los Angeles Dodgers,5,8
+19980904,Philadelpia Phillies,Milwaukee Brewers,6,2
+19980904,Atlanta Braves,New York Mets,1,2
+19980904,Chicago Cubs,Pittsburgh Pirates,5,2
+19980904,Cincinnati Reds,St. Louis Cardinals,3,2
+19980905,Kansas City Royals,Anaheim Angels,1,2
+19980905,New York Yankees,Chicago White Sox,5,9
+19980905,Cleveland Indians,Detroit Tigers,5,4
+19980905,Tampa Bay Devil Rays,Oakland Athletics,0,3
+19980905,Baltimore Orioles,Seattle Mariners,5,6
+19980905,Minensota Twins,Texas Rangers,7,4
+19980905,Boston Red Sox,Toronto Blue Jays,3,4
+19980905,Houston Colts,Arizona Diamondbacks,6,5
+19980905,San Diego Padres,Colorado Rockies,4,2
+19980905,Montreal Expos,Florida Marlins,7,1
+19980905,San  Francisco Giants,Los Angeles Dodgers,3,6
+19980905,Philadelpia Phillies,Milwaukee Brewers,2,3
+19980905,Atlanta Braves,New York Mets,4,5
+19980905,Chicago Cubs,Pittsburgh Pirates,8,4
+19980905,Cincinnati Reds,St. Louis Cardinals,0,7
+19980906,Kansas City Royals,Anaheim Angels,0,3
+19980906,New York Yankees,Chicago White Sox,5,6
+19980906,Cleveland Indians,Detroit Tigers,2,3
+19980906,Tampa Bay Devil Rays,Oakland Athletics,2,9
+19980906,Baltimore Orioles,Seattle Mariners,5,2
+19980906,Minensota Twins,Texas Rangers,6,5
+19980906,Boston Red Sox,Toronto Blue Jays,7,8
+19980906,Houston Colts,Arizona Diamondbacks,10,1
+19980906,San Diego Padres,Colorado Rockies,2,12
+19980906,Montreal Expos,Florida Marlins,2,6
+19980906,San  Francisco Giants,Los Angeles Dodgers,6,2
+19980906,Philadelpia Phillies,Milwaukee Brewers,4,5
+19980906,Atlanta Braves,New York Mets,4,0
+19980906,Chicago Cubs,Pittsburgh Pirates,3,4
+19980906,Cincinnati Reds,St. Louis Cardinals,2,5
+19980907,New York Yankees,Boston Red Sox,3,4
+19980907,Detroit Tigers,Chicago White Sox,5,7
+19980907,Baltimore Orioles,Seattle Mariners,1,11
+19980907,Minensota Twins,Texas Rangers,0,6
+19980907,Cleveland Indians,Toronto Blue Jays,1,15
+19980907,Los Angeles Dodgers,Arizona Diamondbacks,2,4
+19980907,Florida Marlins,Colorado Rockies,10,15
+19980907,Cincinnati Reds,Houston Colts,0,1
+19980907,Atlanta Braves,New York Mets,7,8
+19980907,Milwaukee Brewers,Pittsburgh Pirates,6,3
+19980907,San  Francisco Giants,San Diego Padres,5,4
+19980907,Chicago Cubs,St. Louis Cardinals,2,3
+19980908,Minensota Twins,Anaheim Angels,5,0
+19980908,New York Yankees,Boston Red Sox,3,2
+19980908,Detroit Tigers,Chicago White Sox,6,12
+19980908,Baltimore Orioles,Oakland Athletics,5,2
+19980908,Tampa Bay Devil Rays,Seattle Mariners,10,0
+19980908,Kansas City Royals,Texas Rangers,6,7
+19980908,Los Angeles Dodgers,Arizona Diamondbacks,6,5
+19980908,Florida Marlins,Colorado Rockies,10,11
+19980908,Cincinnati Reds,Houston Colts,7,13
+19980908,Atlanta Braves,Montreal Expos,3,6
+19980908,New York Mets,Philadelpia Phillies,4,16
+19980908,Milwaukee Brewers,Pittsburgh Pirates,7,8
+19980908,San  Francisco Giants,San Diego Padres,5,1
+19980908,Chicago Cubs,St. Louis Cardinals,3,6
+19980909,Minensota Twins,Anaheim Angels,8,10
+19980909,New York Yankees,Boston Red Sox,7,5
+19980909,Detroit Tigers,Chicago White Sox,8,6
+19980909,Baltimore Orioles,Oakland Athletics,6,2
+19980909,Tampa Bay Devil Rays,Seattle Mariners,2,5
+19980909,Kansas City Royals,Texas Rangers,0,8
+19980909,Cleveland Indians,Toronto Blue Jays,6,3
+19980909,Los Angeles Dodgers,Arizona Diamondbacks,6,2
+19980909,Pittsburgh Pirates,Chicago Cubs,2,4
+19980909,St. Louis Cardinals,Cincinnati Reds,3,6
+19980909,Florida Marlins,Colorado Rockies,8,9
+19980909,Milwaukee Brewers,Houston Colts,2,6
+19980909,Atlanta Braves,Montreal Expos,2,3
+19980909,New York Mets,Philadelpia Phillies,6,2
+19980909,San  Francisco Giants,San Diego Padres,3,8
+19980910,Toronto Blue Jays,New York Yankees,5,8
+19980910,Pittsburgh Pirates,Chicago Cubs,2,5
+19980910,St. Louis Cardinals,Cincinnati Reds,8,7
+19980910,Florida Marlins,Colorado Rockies,1,3
+19980910,Milwaukee Brewers,Houston Colts,1,7
+19980910,Atlanta Braves,Montreal Expos,7,4
+19980910,New York Mets,Philadelpia Phillies,7,5
+19980910,Los Angeles Dodgers,San Diego Padres,4,3
+19980911,Anaheim Angels,Baltimore Orioles,3,8
+19980911,Detroit Tigers,Boston Red Sox,2,6
+19980911,Chicago White Sox,Cleveland Indians,3,2
+19980911,Seattle Mariners,Kansas City Royals,6,3
+19980911,Seattle Mariners,Kansas City Royals,5,8
+19980911,Oakland Athletics,Minensota Twins,3,2
+19980911,Toronto Blue Jays,New York Yankees,5,4
+19980911,Texas Rangers,Tampa Bay Devil Rays,2,3
+19980911,Florida Marlins,Atlanta Braves,2,8
+19980911,Milwaukee Brewers,Chicago Cubs,13,11
+19980911,Arizona Diamondbacks,Cincinnati Reds,1,13
+19980911,St. Louis Cardinals,Houston Colts,2,8
+19980911,New York Mets,Montreal Expos,1,5
+19980911,Pittsburgh Pirates,Philadelpia Phillies,6,1
+19980911,Los Angeles Dodgers,San Diego Padres,0,1
+19980911,Colorado Rockies,San  Francisco Giants,7,6
+19980912,Anaheim Angels,Baltimore Orioles,2,3
+19980912,Detroit Tigers,Boston Red Sox,3,2
+19980912,Chicago White Sox,Cleveland Indians,6,4
+19980912,Seattle Mariners,Kansas City Royals,2,5
+19980912,Oakland Athletics,Minensota Twins,6,5
+19980912,Toronto Blue Jays,New York Yankees,5,3
+19980912,Texas Rangers,Tampa Bay Devil Rays,8,2
+19980912,Florida Marlins,Atlanta Braves,2,4
+19980912,Milwaukee Brewers,Chicago Cubs,12,15
+19980912,Arizona Diamondbacks,Cincinnati Reds,0,3
+19980912,St. Louis Cardinals,Houston Colts,2,3
+19980912,New York Mets,Montreal Expos,3,5
+19980912,Pittsburgh Pirates,Philadelpia Phillies,4,13
+19980912,Los Angeles Dodgers,San Diego Padres,7,8
+19980912,Colorado Rockies,San  Francisco Giants,1,0
+19980913,Anaheim Angels,Baltimore Orioles,7,12
+19980913,Detroit Tigers,Boston Red Sox,4,1
+19980913,Chicago White Sox,Cleveland Indians,3,6
+19980913,Oakland Athletics,Minensota Twins,9,6
+19980913,Toronto Blue Jays,New York Yankees,5,3
+19980913,Texas Rangers,Tampa Bay Devil Rays,5,10
+19980913,Florida Marlins,Atlanta Braves,6,5
+19980913,Milwaukee Brewers,Chicago Cubs,10,11
+19980913,Arizona Diamondbacks,Cincinnati Reds,5,0
+19980913,St. Louis Cardinals,Houston Colts,3,2
+19980913,New York Mets,Montreal Expos,1,0
+19980913,Pittsburgh Pirates,Philadelpia Phillies,1,4
+19980913,Los Angeles Dodgers,San Diego Padres,5,4
+19980913,Colorado Rockies,San  Francisco Giants,3,4
+19980914,Texas Rangers,Baltimore Orioles,0,1
+19980914,Toronto Blue Jays,Cleveland Indians,3,6
+19980914,Chicago White Sox,Detroit Tigers,17,16
+19980914,Oakland Athletics,Kansas City Royals,6,16
+19980914,Seattle Mariners,Minensota Twins,10,3
+19980914,Boston Red Sox,New York Yankees,0,3
+19980914,Anaheim Angels,Tampa Bay Devil Rays,4,2
+19980914,San  Francisco Giants,Arizona Diamondbacks,2,14
+19980914,Philadelpia Phillies,Atlanta Braves,2,4
+19980914,Milwaukee Brewers,Cincinnati Reds,2,1
+19980914,New York Mets,Houston Colts,7,4
+19980914,Colorado Rockies,Los Angeles Dodgers,1,4
+19980914,Florida Marlins,Montreal Expos,2,4
+19980914,Chicago Cubs,San Diego Padres,3,4
+19980914,Pittsburgh Pirates,St. Louis Cardinals,3,7
+19980915,Texas Rangers,Baltimore Orioles,6,5
+19980915,Toronto Blue Jays,Cleveland Indians,5,7
+19980915,Chicago White Sox,Detroit Tigers,0,2
+19980915,Oakland Athletics,Kansas City Royals,3,6
+19980915,Seattle Mariners,Minensota Twins,12,7
+19980915,Boston Red Sox,New York Yankees,9,4
+19980915,Anaheim Angels,Tampa Bay Devil Rays,1,8
+19980915,San  Francisco Giants,Arizona Diamondbacks,6,7
+19980915,Philadelpia Phillies,Atlanta Braves,0,3
+19980915,Milwaukee Brewers,Cincinnati Reds,1,5
+19980915,New York Mets,Houston Colts,5,6
+19980915,New York Mets,Houston Colts,8,4
+19980915,Colorado Rockies,Los Angeles Dodgers,5,4
+19980915,Florida Marlins,Montreal Expos,7,4
+19980915,Chicago Cubs,San Diego Padres,4,2
+19980915,Pittsburgh Pirates,St. Louis Cardinals,8,6
+19980915,Pittsburgh Pirates,St. Louis Cardinals,3,9
+19980916,Boston Red Sox,Baltimore Orioles,4,3
+19980916,Kansas City Royals,Chicago White Sox,4,9
+19980916,Minensota Twins,Cleveland Indians,6,8
+19980916,Toronto Blue Jays,Detroit Tigers,2,1
+19980916,Seattle Mariners,Oakland Athletics,4,1
+19980916,New York Yankees,Tampa Bay Devil Rays,0,7
+19980916,Anaheim Angels,Texas Rangers,3,5
+19980916,San  Francisco Giants,Arizona Diamondbacks,6,5
+19980916,Philadelpia Phillies,Atlanta Braves,1,5
+19980916,Milwaukee Brewers,Cincinnati Reds,2,0
+19980916,New York Mets,Houston Colts,4,3
+19980916,Colorado Rockies,Los Angeles Dodgers,0,2
+19980916,Florida Marlins,Montreal Expos,2,3
+19980916,Chicago Cubs,San Diego Padres,6,3
+19980916,Pittsburgh Pirates,St. Louis Cardinals,0,4
+19980917,Boston Red Sox,Baltimore Orioles,3,2
+19980917,Kansas City Royals,Chicago White Sox,13,4
+19980917,Minensota Twins,Cleveland Indians,1,9
+19980917,Toronto Blue Jays,Detroit Tigers,4,7
+19980917,Seattle Mariners,Oakland Athletics,8,0
+19980917,New York Yankees,Tampa Bay Devil Rays,4,0
+19980917,Anaheim Angels,Texas Rangers,6,7
+19980917,Atlanta Braves,Arizona Diamondbacks,1,0
+19980917,Chicago Cubs,San Diego Padres,4,3
+19980918,Seattle Mariners,Anaheim Angels,5,3
+19980918,New York Yankees,Baltimore Orioles,15,5
+19980918,Boston Red Sox,Chicago White Sox,9,11
+19980918,Kansas City Royals,Cleveland Indians,1,4
+19980918,Minensota Twins,Detroit Tigers,4,5
+19980918,Toronto Blue Jays,Tampa Bay Devil Rays,1,6
+19980918,Oakland Athletics,Texas Rangers,1,3
+19980918,Atlanta Braves,Arizona Diamondbacks,0,5
+19980918,Cincinnati Reds,Chicago Cubs,6,4
+19980918,St. Louis Cardinals,Milwaukee Brewers,5,2
+19980918,Florida Marlins,New York Mets,7,6
+19980918,Montreal Expos,Philadelpia Phillies,11,4
+19980918,Houston Colts,Pittsburgh Pirates,5,2
+19980918,Colorado Rockies,San Diego Padres,4,1
+19980918,Los Angeles Dodgers,San  Francisco Giants,3,4
+19980919,Seattle Mariners,Anaheim Angels,3,5
+19980919,New York Yankees,Baltimore Orioles,3,5
+19980919,Boston Red Sox,Chicago White Sox,2,5
+19980919,Kansas City Royals,Cleveland Indians,7,6
+19980919,Minensota Twins,Detroit Tigers,7,8
+19980919,Toronto Blue Jays,Tampa Bay Devil Rays,5,7
+19980919,Oakland Athletics,Texas Rangers,8,4
+19980919,Atlanta Braves,Arizona Diamondbacks,5,0
+19980919,Cincinnati Reds,Chicago Cubs,7,2
+19980919,St. Louis Cardinals,Milwaukee Brewers,7,4
+19980919,Florida Marlins,New York Mets,3,4
+19980919,Montreal Expos,Philadelpia Phillies,3,4
+19980919,Houston Colts,Pittsburgh Pirates,1,7
+19980919,Colorado Rockies,San Diego Padres,1,4
+19980919,Los Angeles Dodgers,San  Francisco Giants,4,18
+19980920,Seattle Mariners,Anaheim Angels,1,3
+19980920,New York Yankees,Baltimore Orioles,5,4
+19980920,Boston Red Sox,Chicago White Sox,4,6
+19980920,Kansas City Royals,Cleveland Indians,3,5
+19980920,Minensota Twins,Detroit Tigers,3,0
+19980920,Toronto Blue Jays,Tampa Bay Devil Rays,7,5
+19980920,Oakland Athletics,Texas Rangers,6,3
+19980920,Atlanta Braves,Arizona Diamondbacks,10,0
+19980920,Cincinnati Reds,Chicago Cubs,7,3
+19980920,St. Louis Cardinals,Milwaukee Brewers,11,6
+19980920,Florida Marlins,New York Mets,0,5
+19980920,Montreal Expos,Philadelpia Phillies,3,6
+19980920,Houston Colts,Pittsburgh Pirates,2,0
+19980920,Colorado Rockies,San Diego Padres,1,0
+19980920,Los Angeles Dodgers,San  Francisco Giants,1,0
+19980921,Texas Rangers,Anaheim Angels,9,1
+19980921,Tampa Bay Devil Rays,Boston Red Sox,3,4
+19980921,Tampa Bay Devil Rays,Boston Red Sox,8,4
+19980921,Detroit Tigers,Kansas City Royals,7,5
+19980921,Chicago White Sox,Minensota Twins,7,1
+19980921,Cleveland Indians,New York Yankees,4,1
+19980921,Oakland Athletics,Seattle Mariners,2,5
+19980921,Baltimore Orioles,Toronto Blue Jays,1,3
+19980921,Philadelpia Phillies,Cincinnati Reds,5,8
+19980921,Pittsburgh Pirates,San  Francisco Giants,1,8
+19980922,Texas Rangers,Anaheim Angels,9,1
+19980922,Tampa Bay Devil Rays,Boston Red Sox,2,11
+19980922,Detroit Tigers,Kansas City Royals,14,4
+19980922,Chicago White Sox,Minensota Twins,4,1
+19980922,Cleveland Indians,New York Yankees,4,10
+19980922,Cleveland Indians,New York Yankees,1,5
+19980922,Oakland Athletics,Seattle Mariners,6,7
+19980922,Baltimore Orioles,Toronto Blue Jays,3,7
+19980922,Philadelpia Phillies,Cincinnati Reds,10,8
+19980922,Arizona Diamondbacks,Colorado Rockies,8,6
+19980922,Atlanta Braves,Florida Marlins,4,1
+19980922,San Diego Padres,Los Angeles Dodgers,2,3
+19980922,Chicago Cubs,Milwaukee Brewers,5,2
+19980922,Montreal Expos,New York Mets,5,3
+19980922,Pittsburgh Pirates,San  Francisco Giants,2,14
+19980922,Houston Colts,St. Louis Cardinals,0,4
+19980923,Texas Rangers,Anaheim Angels,7,1
+19980923,Tampa Bay Devil Rays,Boston Red Sox,4,5
+19980923,Detroit Tigers,Kansas City Royals,5,1
+19980923,Chicago White Sox,Minensota Twins,6,7
+19980923,Cleveland Indians,New York Yankees,4,8
+19980923,Oakland Athletics,Seattle Mariners,8,3
+19980923,Baltimore Orioles,Toronto Blue Jays,3,6
+19980923,Philadelpia Phillies,Cincinnati Reds,4,2
+19980923,Arizona Diamondbacks,Colorado Rockies,11,14
+19980923,Atlanta Braves,Florida Marlins,11,0
+19980923,San Diego Padres,Los Angeles Dodgers,3,2
+19980923,Chicago Cubs,Milwaukee Brewers,7,8
+19980923,Montreal Expos,New York Mets,3,0
+19980923,Pittsburgh Pirates,San  Francisco Giants,1,4
+19980923,Houston Colts,St. Louis Cardinals,7,1
+19980924,Baltimore Orioles,Boston Red Sox,6,9
+19980924,Chicago White Sox,Kansas City Royals,4,6
+19980924,Cleveland Indians,Minensota Twins,0,2
+19980924,Tampa Bay Devil Rays,New York Yankees,2,5
+19980924,Anaheim Angels,Oakland Athletics,10,6
+19980924,Texas Rangers,Seattle Mariners,9,3
+19980924,Milwaukee Brewers,Los Angeles Dodgers,1,4
+19980924,Pittsburgh Pirates,San  Francisco Giants,2,6
+19980924,Montreal Expos,St. Louis Cardinals,3,6
+19980925,Baltimore Orioles,Boston Red Sox,3,8
+19980925,Chicago White Sox,Kansas City Royals,3,0
+19980925,Cleveland Indians,Minensota Twins,4,5
+19980925,Tampa Bay Devil Rays,New York Yankees,1,6
+19980925,Anaheim Angels,Oakland Athletics,2,7
+19980925,Texas Rangers,Seattle Mariners,4,15
+19980925,Detroit Tigers,Toronto Blue Jays,7,5
+19980925,San Diego Padres,Arizona Diamondbacks,3,6
+19980925,New York Mets,Atlanta Braves,5,6
+19980925,Pittsburgh Pirates,Cincinnati Reds,1,4
+19980925,San  Francisco Giants,Colorado Rockies,8,6
+19980925,Chicago Cubs,Houston Colts,2,6
+19980925,Milwaukee Brewers,Los Angeles Dodgers,2,3
+19980925,Montreal Expos,St. Louis Cardinals,5,6
+19980926,Baltimore Orioles,Boston Red Sox,5,2
+19980926,Chicago White Sox,Kansas City Royals,13,5
+19980926,Cleveland Indians,Minensota Twins,9,5
+19980926,Tampa Bay Devil Rays,New York Yankees,1,3
+19980926,Anaheim Angels,Oakland Athletics,3,4
+19980926,Texas Rangers,Seattle Mariners,2,5
+19980926,Detroit Tigers,Toronto Blue Jays,4,5
+19980926,San Diego Padres,Arizona Diamondbacks,2,3
+19980926,New York Mets,Atlanta Braves,0,4
+19980926,Pittsburgh Pirates,Cincinnati Reds,2,6
+19980926,San  Francisco Giants,Colorado Rockies,8,4
+19980926,Philadelpia Phillies,Florida Marlins,3,4
+19980926,Philadelpia Phillies,Florida Marlins,0,1
+19980926,Chicago Cubs,Houston Colts,3,2
+19980926,Milwaukee Brewers,Los Angeles Dodgers,6,1
+19980926,Montreal Expos,St. Louis Cardinals,7,6
+19980927,Baltimore Orioles,Boston Red Sox,4,6
+19980927,Chicago White Sox,Kansas City Royals,7,6
+19980927,Cleveland Indians,Minensota Twins,2,6
+19980927,Tampa Bay Devil Rays,New York Yankees,3,8
+19980927,Anaheim Angels,Oakland Athletics,4,2
+19980927,Texas Rangers,Seattle Mariners,12,6
+19980927,Detroit Tigers,Toronto Blue Jays,1,2
+19980927,San Diego Padres,Arizona Diamondbacks,3,2
+19980927,New York Mets,Atlanta Braves,2,7
+19980927,Pittsburgh Pirates,Cincinnati Reds,1,4
+19980927,San  Francisco Giants,Colorado Rockies,8,9
+19980927,Philadelpia Phillies,Florida Marlins,5,6
+19980927,Philadelpia Phillies,Florida Marlins,7,3
+19980927,Chicago Cubs,Houston Colts,3,4
+19980927,Milwaukee Brewers,Los Angeles Dodgers,1,2
+19980927,Montreal Expos,St. Louis Cardinals,3,6
+19980928,San  Francisco Giants,Chicago Cubs,3,5

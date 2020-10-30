@@ -1,0 +1,2270 @@
+Date,away_team,home_team,away_team_score,home_team_score
+19930405,Texas Rangers,Baltimore Orioles,7,4
+19930405,New York Yankees,Cleveland Indians,9,1
+19930405,Boston Red Sox,Kansas City Royals,3,1
+19930405,Detroit Tigers,Oakland Athletics,4,9
+19930405,Atlanta Braves,Chicago Cubs,1,0
+19930405,Montreal Expos,Cincinnati Reds,1,2
+19930405,Los Angeles Dodgers,Florida Marlins,3,6
+19930405,Philadelpia Phillies,Houston Colts,3,1
+19930405,Colorado Rockies,New York Mets,0,3
+19930406,Milwaukee Brewers,California Angels,1,3
+19930406,Chicago White Sox,Minensota Twins,10,5
+19930406,Toronto Blue Jays,Seattle Mariners,1,8
+19930406,Atlanta Braves,Chicago Cubs,0,1
+19930406,Los Angeles Dodgers,Florida Marlins,4,2
+19930406,Philadelpia Phillies,Houston Colts,5,3
+19930406,San Diego Padres,Pittsburgh Pirates,4,9
+19930406,San  Francisco Giants,St. Louis Cardinals,2,1
+19930407,Texas Rangers,Baltimore Orioles,3,1
+19930407,Milwaukee Brewers,California Angels,3,2
+19930407,New York Yankees,Cleveland Indians,2,4
+19930407,Boston Red Sox,Kansas City Royals,3,2
+19930407,Chicago White Sox,Minensota Twins,1,6
+19930407,Detroit Tigers,Oakland Athletics,7,12
+19930407,Toronto Blue Jays,Seattle Mariners,2,0
+19930407,Atlanta Braves,Chicago Cubs,5,4
+19930407,Montreal Expos,Cincinnati Reds,5,1
+19930407,Los Angeles Dodgers,Florida Marlins,4,2
+19930407,Philadelpia Phillies,Houston Colts,6,3
+19930407,Colorado Rockies,New York Mets,1,6
+19930407,San  Francisco Giants,St. Louis Cardinals,2,6
+19930408,New York Yankees,Cleveland Indians,5,15
+19930408,Boston Red Sox,Kansas City Royals,9,4
+19930408,Chicago White Sox,Minensota Twins,9,4
+19930408,Detroit Tigers,Oakland Athletics,3,2
+19930408,Los Angeles Dodgers,Atlanta Braves,1,6
+19930408,Montreal Expos,Cincinnati Reds,14,11
+19930408,San Diego Padres,Pittsburgh Pirates,4,5
+19930408,San  Francisco Giants,St. Louis Cardinals,1,2
+19930409,Detroit Tigers,California Angels,5,7
+19930409,New York Yankees,Chicago White Sox,11,6
+19930409,Minensota Twins,Kansas City Royals,8,7
+19930409,Milwaukee Brewers,Oakland Athletics,6,5
+19930409,Baltimore Orioles,Seattle Mariners,0,6
+19930409,Boston Red Sox,Texas Rangers,1,3
+19930409,Cleveland Indians,Toronto Blue Jays,10,13
+19930409,Los Angeles Dodgers,Atlanta Braves,0,2
+19930409,Montreal Expos,Colorado Rockies,4,11
+19930409,San Diego Padres,Florida Marlins,2,1
+19930409,Houston Colts,New York Mets,7,3
+19930409,Chicago Cubs,Philadelpia Phillies,11,7
+19930409,San  Francisco Giants,Pittsburgh Pirates,5,6
+19930409,Cincinnati Reds,St. Louis Cardinals,2,8
+19930410,Detroit Tigers,California Angels,5,2
+19930410,New York Yankees,Chicago White Sox,12,0
+19930410,Minensota Twins,Kansas City Royals,3,2
+19930410,Milwaukee Brewers,Oakland Athletics,3,4
+19930410,Baltimore Orioles,Seattle Mariners,5,3
+19930410,Boston Red Sox,Texas Rangers,10,2
+19930410,Cleveland Indians,Toronto Blue Jays,4,5
+19930410,Los Angeles Dodgers,Atlanta Braves,2,1
+19930410,Montreal Expos,Colorado Rockies,5,9
+19930410,San Diego Padres,Florida Marlins,1,2
+19930410,Houston Colts,New York Mets,6,3
+19930410,Chicago Cubs,Philadelpia Phillies,4,5
+19930410,San  Francisco Giants,Pittsburgh Pirates,12,5
+19930410,Cincinnati Reds,St. Louis Cardinals,1,2
+19930411,Detroit Tigers,California Angels,6,7
+19930411,New York Yankees,Chicago White Sox,4,6
+19930411,Minensota Twins,Kansas City Royals,1,2
+19930411,Milwaukee Brewers,Oakland Athletics,2,8
+19930411,Baltimore Orioles,Seattle Mariners,6,7
+19930411,Boston Red Sox,Texas Rangers,1,4
+19930411,Cleveland Indians,Toronto Blue Jays,10,6
+19930411,Los Angeles Dodgers,Atlanta Braves,0,3
+19930411,Montreal Expos,Colorado Rockies,19,9
+19930411,San Diego Padres,Florida Marlins,6,2
+19930411,Houston Colts,New York Mets,5,4
+19930411,Chicago Cubs,Philadelpia Phillies,0,3
+19930411,San  Francisco Giants,Pittsburgh Pirates,4,3
+19930411,Cincinnati Reds,St. Louis Cardinals,4,3
+19930412,Minensota Twins,Chicago White Sox,3,2
+19930412,California Angels,Milwaukee Brewers,12,5
+19930412,Kansas City Royals,New York Yankees,1,4
+19930412,Baltimore Orioles,Texas Rangers,3,6
+19930412,Chicago Cubs,Atlanta Braves,5,1
+19930412,Cincinnati Reds,Philadelpia Phillies,4,5
+19930412,Pittsburgh Pirates,San Diego Padres,4,2
+19930412,Florida Marlins,San  Francisco Giants,3,4
+19930413,Cleveland Indians,Boston Red Sox,2,6
+19930413,Minensota Twins,Chicago White Sox,0,4
+19930413,Oakland Athletics,Detroit Tigers,4,20
+19930413,Baltimore Orioles,Texas Rangers,3,8
+19930413,Seattle Mariners,Toronto Blue Jays,5,6
+19930413,Chicago Cubs,Atlanta Braves,2,3
+19930413,New York Mets,Colorado Rockies,8,4
+19930413,St. Louis Cardinals,Los Angeles Dodgers,9,7
+19930413,Houston Colts,Montreal Expos,9,6
+19930413,Cincinnati Reds,Philadelpia Phillies,1,4
+19930413,Pittsburgh Pirates,San Diego Padres,6,4
+19930413,Florida Marlins,San  Francisco Giants,1,3
+19930414,Cleveland Indians,Boston Red Sox,7,12
+19930414,California Angels,Milwaukee Brewers,12,2
+19930414,Kansas City Royals,New York Yankees,5,6
+19930414,Baltimore Orioles,Texas Rangers,6,5
+19930414,Seattle Mariners,Toronto Blue Jays,10,9
+19930414,Chicago Cubs,Atlanta Braves,6,0
+19930414,New York Mets,Colorado Rockies,6,3
+19930414,St. Louis Cardinals,Los Angeles Dodgers,2,1
+19930414,Houston Colts,Montreal Expos,9,5
+19930414,Cincinnati Reds,Philadelpia Phillies,2,9
+19930414,Pittsburgh Pirates,San Diego Padres,11,7
+19930414,Florida Marlins,San  Francisco Giants,6,4
+19930415,Cleveland Indians,Boston Red Sox,3,4
+19930415,Oakland Athletics,Detroit Tigers,2,3
+19930415,Kansas City Royals,New York Yankees,5,4
+19930415,Seattle Mariners,Toronto Blue Jays,1,3
+19930415,New York Mets,Colorado Rockies,3,5
+19930415,St. Louis Cardinals,Los Angeles Dodgers,4,2
+19930415,Houston Colts,Montreal Expos,1,2
+19930415,Pittsburgh Pirates,San Diego Padres,5,4
+19930415,Atlanta Braves,San  Francisco Giants,1,6
+19930416,California Angels,Baltimore Orioles,1,4
+19930416,Chicago White Sox,Boston Red Sox,9,4
+19930416,Toronto Blue Jays,Cleveland Indians,1,13
+19930416,Seattle Mariners,Detroit Tigers,0,5
+19930416,Kansas City Royals,Minensota Twins,3,4
+19930416,Texas Rangers,New York Yankees,3,5
+19930416,Philadelpia Phillies,Chicago Cubs,1,3
+19930416,New York Mets,Cincinnati Reds,3,1
+19930416,Florida Marlins,Houston Colts,3,9
+19930416,Pittsburgh Pirates,Los Angeles Dodgers,4,7
+19930416,Colorado Rockies,Montreal Expos,2,3
+19930416,St. Louis Cardinals,San Diego Padres,1,5
+19930416,Atlanta Braves,San  Francisco Giants,0,1
+19930417,California Angels,Baltimore Orioles,7,5
+19930417,Chicago White Sox,Boston Red Sox,1,5
+19930417,Toronto Blue Jays,Cleveland Indians,8,1
+19930417,Seattle Mariners,Detroit Tigers,3,20
+19930417,Oakland Athletics,Milwaukee Brewers,3,6
+19930417,Kansas City Royals,Minensota Twins,2,8
+19930417,Texas Rangers,New York Yankees,9,0
+19930417,Philadelpia Phillies,Chicago Cubs,3,6
+19930417,New York Mets,Cincinnati Reds,4,1
+19930417,Florida Marlins,Houston Colts,9,4
+19930417,Pittsburgh Pirates,Los Angeles Dodgers,3,6
+19930417,Colorado Rockies,Montreal Expos,9,1
+19930417,St. Louis Cardinals,San Diego Padres,1,2
+19930417,Atlanta Braves,San  Francisco Giants,2,0
+19930418,California Angels,Baltimore Orioles,3,4
+19930418,Chicago White Sox,Boston Red Sox,0,4
+19930418,Toronto Blue Jays,Cleveland Indians,5,6
+19930418,Seattle Mariners,Detroit Tigers,7,8
+19930418,Oakland Athletics,Milwaukee Brewers,0,8
+19930418,Kansas City Royals,Minensota Twins,5,4
+19930418,Texas Rangers,New York Yankees,12,2
+19930418,Philadelpia Phillies,Chicago Cubs,11,10
+19930418,New York Mets,Cincinnati Reds,2,3
+19930418,Florida Marlins,Houston Colts,0,3
+19930418,Pittsburgh Pirates,Los Angeles Dodgers,4,6
+19930418,Colorado Rockies,Montreal Expos,2,4
+19930418,St. Louis Cardinals,San Diego Padres,6,10
+19930418,Atlanta Braves,San  Francisco Giants,12,13
+19930419,Chicago White Sox,Boston Red Sox,0,6
+19930419,Toronto Blue Jays,Cleveland Indians,7,1
+19930419,Seattle Mariners,Detroit Tigers,10,6
+19930420,Chicago White Sox,Baltimore Orioles,2,1
+19930420,Cleveland Indians,California Angels,2,7
+19930420,Texas Rangers,Detroit Tigers,1,3
+19930420,Toronto Blue Jays,Kansas City Royals,2,8
+19930420,Milwaukee Brewers,Minensota Twins,0,10
+19930420,New York Yankees,Oakland Athletics,7,9
+19930420,Boston Red Sox,Seattle Mariners,5,2
+19930420,Houston Colts,Chicago Cubs,1,2
+19930420,Atlanta Braves,Florida Marlins,5,4
+19930420,Los Angeles Dodgers,Montreal Expos,3,7
+19930420,San  Francisco Giants,New York Mets,4,1
+19930420,San Diego Padres,Philadelpia Phillies,3,4
+19930420,Cincinnati Reds,Pittsburgh Pirates,5,0
+19930420,Colorado Rockies,St. Louis Cardinals,0,5
+19930421,Cleveland Indians,California Angels,6,7
+19930421,Texas Rangers,Detroit Tigers,4,5
+19930421,Toronto Blue Jays,Kansas City Royals,5,6
+19930421,Milwaukee Brewers,Minensota Twins,10,8
+19930421,New York Yankees,Oakland Athletics,5,3
+19930421,Boston Red Sox,Seattle Mariners,0,5
+19930421,Houston Colts,Chicago Cubs,2,0
+19930421,Atlanta Braves,Florida Marlins,7,4
+19930421,Los Angeles Dodgers,Montreal Expos,4,6
+19930421,San  Francisco Giants,New York Mets,0,10
+19930421,Cincinnati Reds,Pittsburgh Pirates,8,7
+19930421,Colorado Rockies,St. Louis Cardinals,11,2
+19930422,Chicago White Sox,Baltimore Orioles,3,2
+19930422,Cleveland Indians,California Angels,0,8
+19930422,Toronto Blue Jays,Kansas City Royals,6,3
+19930422,Milwaukee Brewers,Minensota Twins,4,5
+19930422,New York Yankees,Oakland Athletics,5,1
+19930422,Boston Red Sox,Seattle Mariners,0,7
+19930422,Atlanta Braves,Florida Marlins,3,4
+19930422,Los Angeles Dodgers,Montreal Expos,1,3
+19930422,San  Francisco Giants,New York Mets,13,4
+19930422,San Diego Padres,Philadelpia Phillies,2,1
+19930422,Cincinnati Reds,Pittsburgh Pirates,4,5
+19930422,Colorado Rockies,St. Louis Cardinals,2,5
+19930423,Boston Red Sox,California Angels,1,4
+19930423,Baltimore Orioles,Kansas City Royals,6,7
+19930423,Texas Rangers,Milwaukee Brewers,0,3
+19930423,Detroit Tigers,Minensota Twins,12,4
+19930423,New York Yankees,Seattle Mariners,3,6
+19930423,Chicago White Sox,Toronto Blue Jays,5,4
+19930423,Cincinnati Reds,Chicago Cubs,4,7
+19930423,Florida Marlins,Colorado Rockies,4,5
+19930423,San  Francisco Giants,Montreal Expos,2,7
+19930423,San Diego Padres,New York Mets,1,6
+19930423,Los Angeles Dodgers,Philadelpia Phillies,0,2
+19930423,Houston Colts,Pittsburgh Pirates,4,2
+19930423,Atlanta Braves,St. Louis Cardinals,3,1
+19930424,Boston Red Sox,California Angels,5,8
+19930424,Baltimore Orioles,Kansas City Royals,6,5
+19930424,Texas Rangers,Milwaukee Brewers,15,4
+19930424,Detroit Tigers,Minensota Twins,17,1
+19930424,Cleveland Indians,Oakland Athletics,10,3
+19930424,New York Yankees,Seattle Mariners,1,0
+19930424,Chicago White Sox,Toronto Blue Jays,4,10
+19930424,Cincinnati Reds,Chicago Cubs,15,5
+19930424,Florida Marlins,Colorado Rockies,2,1
+19930424,San  Francisco Giants,Montreal Expos,1,6
+19930424,San Diego Padres,New York Mets,5,3
+19930424,Los Angeles Dodgers,Philadelpia Phillies,3,7
+19930424,Houston Colts,Pittsburgh Pirates,8,4
+19930424,Atlanta Braves,St. Louis Cardinals,11,0
+19930425,Boston Red Sox,California Angels,1,2
+19930425,Baltimore Orioles,Kansas City Royals,2,3
+19930425,Texas Rangers,Milwaukee Brewers,6,1
+19930425,Detroit Tigers,Minensota Twins,16,5
+19930425,Cleveland Indians,Oakland Athletics,6,0
+19930425,New York Yankees,Seattle Mariners,10,9
+19930425,Chicago White Sox,Toronto Blue Jays,0,1
+19930425,Cincinnati Reds,Chicago Cubs,1,2
+19930425,Florida Marlins,Colorado Rockies,11,1
+19930425,San  Francisco Giants,Montreal Expos,4,1
+19930425,San Diego Padres,New York Mets,9,8
+19930425,Los Angeles Dodgers,Philadelpia Phillies,2,5
+19930425,Houston Colts,Pittsburgh Pirates,2,7
+19930425,Atlanta Braves,St. Louis Cardinals,3,7
+19930426,Baltimore Orioles,Chicago White Sox,0,7
+19930426,Detroit Tigers,Kansas City Royals,5,3
+19930426,Minensota Twins,Milwaukee Brewers,3,10
+19930426,Cleveland Indians,Seattle Mariners,3,6
+19930426,Texas Rangers,Toronto Blue Jays,6,8
+19930426,Pittsburgh Pirates,Atlanta Braves,4,3
+19930426,Florida Marlins,Cincinnati Reds,0,3
+19930426,Chicago Cubs,Colorado Rockies,6,3
+19930426,St. Louis Cardinals,Houston Colts,3,2
+19930426,San  Francisco Giants,Philadelpia Phillies,8,9
+19930426,Montreal Expos,San Diego Padres,6,4
+19930427,New York Yankees,California Angels,5,0
+19930427,Baltimore Orioles,Chicago White Sox,4,9
+19930427,Detroit Tigers,Kansas City Royals,3,4
+19930427,Minensota Twins,Milwaukee Brewers,2,3
+19930427,Boston Red Sox,Oakland Athletics,2,7
+19930427,Cleveland Indians,Seattle Mariners,0,4
+19930427,Texas Rangers,Toronto Blue Jays,3,4
+19930427,Pittsburgh Pirates,Atlanta Braves,6,2
+19930427,Florida Marlins,Cincinnati Reds,4,3
+19930427,Chicago Cubs,Colorado Rockies,2,11
+19930427,St. Louis Cardinals,Houston Colts,2,9
+19930427,Los Angeles Dodgers,New York Mets,4,1
+19930427,San  Francisco Giants,Philadelpia Phillies,6,3
+19930427,Montreal Expos,San Diego Padres,1,4
+19930428,Minensota Twins,Baltimore Orioles,4,8
+19930428,New York Yankees,California Angels,2,3
+19930428,Milwaukee Brewers,Chicago White Sox,2,11
+19930428,Boston Red Sox,Oakland Athletics,3,1
+19930428,Cleveland Indians,Seattle Mariners,0,4
+19930428,Detroit Tigers,Texas Rangers,5,6
+19930428,Kansas City Royals,Toronto Blue Jays,5,3
+19930428,Florida Marlins,Atlanta Braves,3,1
+19930428,Pittsburgh Pirates,Cincinnati Reds,2,4
+19930428,St. Louis Cardinals,Colorado Rockies,7,6
+19930428,Chicago Cubs,Houston Colts,1,6
+19930428,Montreal Expos,Los Angeles Dodgers,1,6
+19930428,Philadelpia Phillies,San Diego Padres,5,3
+19930428,New York Mets,San  Francisco Giants,3,4
+19930429,Minensota Twins,Baltimore Orioles,0,11
+19930429,Milwaukee Brewers,Chicago White Sox,4,7
+19930429,Detroit Tigers,Texas Rangers,3,1
+19930429,Kansas City Royals,Toronto Blue Jays,0,8
+19930429,Florida Marlins,Atlanta Braves,6,5
+19930429,St. Louis Cardinals,Colorado Rockies,5,2
+19930429,Chicago Cubs,Houston Colts,4,5
+19930429,Montreal Expos,Los Angeles Dodgers,7,3
+19930429,Philadelpia Phillies,San Diego Padres,5,3
+19930429,New York Mets,San  Francisco Giants,5,10
+19930430,Kansas City Royals,Baltimore Orioles,5,12
+19930430,California Angels,Boston Red Sox,1,6
+19930430,Toronto Blue Jays,Chicago White Sox,2,10
+19930430,Oakland Athletics,Cleveland Indians,8,2
+19930430,Minensota Twins,Detroit Tigers,0,8
+19930430,Seattle Mariners,New York Yankees,0,3
+19930430,Milwaukee Brewers,Texas Rangers,5,4
+19930430,St. Louis Cardinals,Atlanta Braves,2,3
+19930430,Chicago Cubs,Cincinnati Reds,7,3
+19930430,Colorado Rockies,Florida Marlins,6,2
+19930430,Pittsburgh Pirates,Houston Colts,2,11
+19930430,Philadelpia Phillies,Los Angeles Dodgers,7,6
+19930430,New York Mets,San Diego Padres,6,7
+19930430,Montreal Expos,San  Francisco Giants,2,5
+19930501,Kansas City Royals,Baltimore Orioles,5,4
+19930501,California Angels,Boston Red Sox,1,3
+19930501,Toronto Blue Jays,Chicago White Sox,2,8
+19930501,Oakland Athletics,Cleveland Indians,0,1
+19930501,Minensota Twins,Detroit Tigers,5,2
+19930501,Seattle Mariners,New York Yankees,2,6
+19930501,Milwaukee Brewers,Texas Rangers,4,3
+19930501,St. Louis Cardinals,Atlanta Braves,10,3
+19930501,Chicago Cubs,Cincinnati Reds,4,9
+19930501,Colorado Rockies,Florida Marlins,6,7
+19930501,Pittsburgh Pirates,Houston Colts,3,7
+19930501,Philadelpia Phillies,Los Angeles Dodgers,1,5
+19930501,New York Mets,San Diego Padres,3,5
+19930501,Montreal Expos,San  Francisco Giants,3,7
+19930502,Kansas City Royals,Baltimore Orioles,3,4
+19930502,California Angels,Boston Red Sox,3,4
+19930502,Toronto Blue Jays,Chicago White Sox,6,1
+19930502,Oakland Athletics,Cleveland Indians,2,10
+19930502,Minensota Twins,Detroit Tigers,6,3
+19930502,Seattle Mariners,New York Yankees,2,3
+19930502,Milwaukee Brewers,Texas Rangers,2,13
+19930502,St. Louis Cardinals,Atlanta Braves,3,4
+19930502,Chicago Cubs,Cincinnati Reds,4,3
+19930502,Colorado Rockies,Florida Marlins,2,1
+19930502,Pittsburgh Pirates,Houston Colts,6,2
+19930502,Philadelpia Phillies,Los Angeles Dodgers,9,1
+19930502,New York Mets,San Diego Padres,3,2
+19930502,Montreal Expos,San  Francisco Giants,3,4
+19930503,Seattle Mariners,Boston Red Sox,2,0
+19930503,California Angels,Cleveland Indians,4,5
+19930503,Oakland Athletics,New York Yankees,4,2
+19930503,Milwaukee Brewers,Texas Rangers,2,9
+19930504,Seattle Mariners,Boston Red Sox,7,6
+19930504,California Angels,Cleveland Indians,3,5
+19930504,Kansas City Royals,Detroit Tigers,3,5
+19930504,Chicago White Sox,Milwaukee Brewers,1,6
+19930504,Baltimore Orioles,Minensota Twins,3,4
+19930504,Oakland Athletics,New York Yankees,2,4
+19930504,Toronto Blue Jays,Texas Rangers,2,3
+19930504,Colorado Rockies,Chicago Cubs,14,13
+19930504,Cincinnati Reds,Florida Marlins,6,9
+19930504,New York Mets,Los Angeles Dodgers,4,8
+19930504,San Diego Padres,Montreal Expos,1,6
+19930504,Atlanta Braves,Pittsburgh Pirates,3,2
+19930504,Philadelpia Phillies,San  Francisco Giants,4,3
+19930504,Houston Colts,St. Louis Cardinals,1,6
+19930505,Oakland Athletics,Boston Red Sox,1,3
+19930505,Seattle Mariners,Cleveland Indians,2,3
+19930505,Kansas City Royals,Detroit Tigers,4,3
+19930505,Chicago White Sox,Milwaukee Brewers,3,1
+19930505,Baltimore Orioles,Minensota Twins,3,0
+19930505,California Angels,New York Yankees,6,2
+19930505,Toronto Blue Jays,Texas Rangers,1,7
+19930505,Colorado Rockies,Chicago Cubs,2,3
+19930505,Cincinnati Reds,Florida Marlins,6,2
+19930505,New York Mets,Los Angeles Dodgers,5,6
+19930505,San Diego Padres,Montreal Expos,5,6
+19930505,Atlanta Braves,Pittsburgh Pirates,1,4
+19930505,Philadelpia Phillies,San  Francisco Giants,2,11
+19930505,Houston Colts,St. Louis Cardinals,6,3
+19930506,Oakland Athletics,Boston Red Sox,6,3
+19930506,Seattle Mariners,Cleveland Indians,9,5
+19930506,California Angels,New York Yankees,3,1
+19930506,Baltimore Orioles,Toronto Blue Jays,8,10
+19930506,Atlanta Braves,Colorado Rockies,13,3
+19930506,Cincinnati Reds,Houston Colts,5,4
+19930507,Oakland Athletics,California Angels,3,4
+19930507,Cleveland Indians,Chicago White Sox,5,6
+19930507,New York Yankees,Detroit Tigers,6,7
+19930507,Texas Rangers,Kansas City Royals,4,9
+19930507,Boston Red Sox,Milwaukee Brewers,1,0
+19930507,Minensota Twins,Seattle Mariners,5,4
+19930507,Baltimore Orioles,Toronto Blue Jays,2,3
+19930507,San Diego Padres,Chicago Cubs,2,1
+19930507,Atlanta Braves,Colorado Rockies,13,5
+19930507,Cincinnati Reds,Houston Colts,7,5
+19930507,Florida Marlins,New York Mets,0,4
+19930507,St. Louis Cardinals,Philadelpia Phillies,3,4
+19930507,Montreal Expos,Pittsburgh Pirates,1,0
+19930507,Los Angeles Dodgers,San  Francisco Giants,5,8
+19930508,Oakland Athletics,California Angels,6,2
+19930508,Cleveland Indians,Chicago White Sox,7,10
+19930508,New York Yankees,Detroit Tigers,10,8
+19930508,Boston Red Sox,Milwaukee Brewers,3,6
+19930508,Minensota Twins,Seattle Mariners,2,7
+19930508,Baltimore Orioles,Toronto Blue Jays,6,3
+19930508,San Diego Padres,Chicago Cubs,6,8
+19930508,Atlanta Braves,Colorado Rockies,8,7
+19930508,Cincinnati Reds,Houston Colts,1,12
+19930508,Florida Marlins,New York Mets,4,2
+19930508,St. Louis Cardinals,Philadelpia Phillies,1,2
+19930508,Montreal Expos,Pittsburgh Pirates,9,10
+19930508,Los Angeles Dodgers,San  Francisco Giants,5,2
+19930509,Oakland Athletics,California Angels,6,7
+19930509,Cleveland Indians,Chicago White Sox,5,6
+19930509,New York Yankees,Detroit Tigers,11,2
+19930509,Texas Rangers,Kansas City Royals,2,1
+19930509,Boston Red Sox,Milwaukee Brewers,0,6
+19930509,Minensota Twins,Seattle Mariners,4,6
+19930509,Baltimore Orioles,Toronto Blue Jays,4,3
+19930509,San Diego Padres,Chicago Cubs,5,4
+19930509,Atlanta Braves,Colorado Rockies,12,7
+19930509,Cincinnati Reds,Houston Colts,3,6
+19930509,Florida Marlins,New York Mets,6,4
+19930509,St. Louis Cardinals,Philadelpia Phillies,5,6
+19930509,Montreal Expos,Pittsburgh Pirates,5,6
+19930509,Los Angeles Dodgers,San  Francisco Giants,6,4
+19930510,Boston Red Sox,Baltimore Orioles,1,2
+19930510,Minensota Twins,California Angels,13,3
+19930510,New York Yankees,Detroit Tigers,1,2
+19930510,Texas Rangers,Oakland Athletics,7,4
+19930510,Chicago White Sox,Seattle Mariners,13,2
+19930510,Los Angeles Dodgers,Chicago Cubs,2,6
+19930510,San Diego Padres,Cincinnati Reds,5,6
+19930510,San  Francisco Giants,Colorado Rockies,4,7
+19930510,Atlanta Braves,Houston Colts,2,5
+19930510,Florida Marlins,New York Mets,0,1
+19930510,Pittsburgh Pirates,Philadelpia Phillies,1,5
+19930511,Boston Red Sox,Baltimore Orioles,4,0
+19930511,Minensota Twins,California Angels,3,5
+19930511,Kansas City Royals,Cleveland Indians,7,6
+19930511,Milwaukee Brewers,New York Yankees,1,5
+19930511,Texas Rangers,Oakland Athletics,0,6
+19930511,Chicago White Sox,Seattle Mariners,3,4
+19930511,Detroit Tigers,Toronto Blue Jays,12,7
+19930511,Los Angeles Dodgers,Chicago Cubs,1,2
+19930511,San Diego Padres,Cincinnati Reds,2,4
+19930511,San  Francisco Giants,Colorado Rockies,5,3
+19930511,Atlanta Braves,Houston Colts,5,4
+19930511,Florida Marlins,Montreal Expos,4,6
+19930511,Pittsburgh Pirates,Philadelpia Phillies,8,4
+19930511,New York Mets,St. Louis Cardinals,4,7
+19930512,Boston Red Sox,Baltimore Orioles,2,0
+19930512,Minensota Twins,California Angels,5,2
+19930512,Kansas City Royals,Cleveland Indians,2,6
+19930512,Milwaukee Brewers,New York Yankees,4,1
+19930512,Texas Rangers,Oakland Athletics,7,8
+19930512,Chicago White Sox,Seattle Mariners,6,5
+19930512,Detroit Tigers,Toronto Blue Jays,13,8
+19930512,Los Angeles Dodgers,Chicago Cubs,9,3
+19930512,San Diego Padres,Cincinnati Reds,2,3
+19930512,San  Francisco Giants,Colorado Rockies,8,2
+19930512,Atlanta Braves,Houston Colts,5,2
+19930512,Florida Marlins,Montreal Expos,10,7
+19930512,Pittsburgh Pirates,Philadelpia Phillies,1,4
+19930512,New York Mets,St. Louis Cardinals,5,6
+19930513,Kansas City Royals,Cleveland Indians,7,3
+19930513,Milwaukee Brewers,New York Yankees,2,4
+19930513,Texas Rangers,Oakland Athletics,9,5
+19930513,Detroit Tigers,Toronto Blue Jays,5,6
+19930513,San Diego Padres,Cincinnati Reds,1,7
+19930513,San  Francisco Giants,Colorado Rockies,13,8
+19930513,Florida Marlins,Montreal Expos,4,5
+19930513,New York Mets,St. Louis Cardinals,4,0
+19930514,Kansas City Royals,California Angels,2,1
+19930514,Baltimore Orioles,Detroit Tigers,3,4
+19930514,Cleveland Indians,Milwaukee Brewers,2,5
+19930514,Boston Red Sox,Minensota Twins,3,4
+19930514,Toronto Blue Jays,New York Yankees,8,6
+19930514,Seattle Mariners,Oakland Athletics,1,2
+19930514,Chicago White Sox,Texas Rangers,4,0
+19930514,Philadelpia Phillies,Atlanta Braves,7,10
+19930514,Pittsburgh Pirates,Chicago Cubs,2,3
+19930514,Colorado Rockies,Cincinnati Reds,5,13
+19930514,Los Angeles Dodgers,Houston Colts,1,9
+19930514,New York Mets,Montreal Expos,7,8
+19930514,San  Francisco Giants,San Diego Padres,1,3
+19930514,Florida Marlins,St. Louis Cardinals,2,7
+19930515,Kansas City Royals,California Angels,3,5
+19930515,Baltimore Orioles,Detroit Tigers,3,5
+19930515,Cleveland Indians,Milwaukee Brewers,9,5
+19930515,Boston Red Sox,Minensota Twins,4,7
+19930515,Toronto Blue Jays,New York Yankees,3,4
+19930515,Seattle Mariners,Oakland Athletics,1,2
+19930515,Chicago White Sox,Texas Rangers,4,6
+19930515,Philadelpia Phillies,Atlanta Braves,3,5
+19930515,Pittsburgh Pirates,Chicago Cubs,5,14
+19930515,Colorado Rockies,Cincinnati Reds,3,5
+19930515,Los Angeles Dodgers,Houston Colts,1,7
+19930515,New York Mets,Montreal Expos,1,2
+19930515,San  Francisco Giants,San Diego Padres,3,0
+19930515,Florida Marlins,St. Louis Cardinals,8,0
+19930516,Kansas City Royals,California Angels,4,2
+19930516,Baltimore Orioles,Detroit Tigers,3,2
+19930516,Cleveland Indians,Milwaukee Brewers,3,5
+19930516,Boston Red Sox,Minensota Twins,11,5
+19930516,Toronto Blue Jays,New York Yankees,12,6
+19930516,Seattle Mariners,Oakland Athletics,7,0
+19930516,Chicago White Sox,Texas Rangers,15,8
+19930516,Philadelpia Phillies,Atlanta Braves,5,4
+19930516,Pittsburgh Pirates,Chicago Cubs,5,3
+19930516,Colorado Rockies,Cincinnati Reds,2,14
+19930516,Los Angeles Dodgers,Houston Colts,2,3
+19930516,New York Mets,Montreal Expos,3,4
+19930516,San  Francisco Giants,San Diego Padres,9,4
+19930516,Florida Marlins,St. Louis Cardinals,0,1
+19930517,Cleveland Indians,Baltimore Orioles,2,0
+19930517,Toronto Blue Jays,Boston Red Sox,9,3
+19930517,California Angels,Chicago White Sox,11,4
+19930517,New York Yankees,Minensota Twins,11,5
+19930517,Seattle Mariners,Texas Rangers,16,9
+19930517,Montreal Expos,Atlanta Braves,2,5
+19930517,Philadelpia Phillies,Florida Marlins,10,3
+19930517,Cincinnati Reds,Los Angeles Dodgers,4,5
+19930517,Pittsburgh Pirates,New York Mets,9,4
+19930517,Colorado Rockies,San Diego Padres,0,4
+19930517,Houston Colts,San  Francisco Giants,7,8
+19930518,Cleveland Indians,Baltimore Orioles,0,7
+19930518,California Angels,Chicago White Sox,4,7
+19930518,Oakland Athletics,Kansas City Royals,1,6
+19930518,Detroit Tigers,Milwaukee Brewers,5,1
+19930518,New York Yankees,Minensota Twins,5,3
+19930518,Seattle Mariners,Texas Rangers,2,3
+19930518,Montreal Expos,Atlanta Braves,1,0
+19930518,Philadelpia Phillies,Florida Marlins,6,0
+19930518,Cincinnati Reds,Los Angeles Dodgers,1,9
+19930518,Pittsburgh Pirates,New York Mets,10,8
+19930518,Colorado Rockies,San Diego Padres,2,1
+19930518,Houston Colts,San  Francisco Giants,2,7
+19930518,Chicago Cubs,St. Louis Cardinals,4,1
+19930519,Cleveland Indians,Baltimore Orioles,3,6
+19930519,Toronto Blue Jays,Boston Red Sox,5,10
+19930519,California Angels,Chicago White Sox,2,0
+19930519,Oakland Athletics,Kansas City Royals,8,13
+19930519,Detroit Tigers,Milwaukee Brewers,8,6
+19930519,New York Yankees,Minensota Twins,11,6
+19930519,Seattle Mariners,Texas Rangers,3,4
+19930519,Montreal Expos,Atlanta Braves,0,1
+19930519,Philadelpia Phillies,Florida Marlins,3,5
+19930519,Cincinnati Reds,Los Angeles Dodgers,2,5
+19930519,Pittsburgh Pirates,New York Mets,4,6
+19930519,Colorado Rockies,San Diego Padres,3,7
+19930519,Houston Colts,San  Francisco Giants,3,6
+19930519,Chicago Cubs,St. Louis Cardinals,5,3
+19930520,Cleveland Indians,Baltimore Orioles,3,1
+19930520,Toronto Blue Jays,Boston Red Sox,4,3
+19930520,Oakland Athletics,Kansas City Royals,4,1
+19930520,Detroit Tigers,Milwaukee Brewers,6,2
+19930520,Seattle Mariners,Texas Rangers,7,4
+19930520,Montreal Expos,Philadelpia Phillies,3,9
+19930520,Colorado Rockies,San Diego Padres,4,5
+19930520,Cincinnati Reds,San  Francisco Giants,1,6
+19930520,Chicago Cubs,St. Louis Cardinals,3,6
+19930521,Milwaukee Brewers,Baltimore Orioles,9,3
+19930521,New York Yankees,Boston Red Sox,2,7
+19930521,Oakland Athletics,Chicago White Sox,12,11
+19930521,Detroit Tigers,Cleveland Indians,5,10
+19930521,Seattle Mariners,Kansas City Royals,1,2
+19930521,California Angels,Texas Rangers,4,6
+19930521,Minensota Twins,Toronto Blue Jays,2,11
+19930521,Chicago Cubs,Florida Marlins,3,5
+19930521,Colorado Rockies,Los Angeles Dodgers,0,8
+19930521,Atlanta Braves,New York Mets,4,2
+19930521,Montreal Expos,Philadelpia Phillies,6,2
+19930521,St. Louis Cardinals,Pittsburgh Pirates,10,8
+19930521,Houston Colts,San Diego Padres,2,3
+19930521,Cincinnati Reds,San  Francisco Giants,0,3
+19930522,Milwaukee Brewers,Baltimore Orioles,4,5
+19930522,New York Yankees,Boston Red Sox,7,3
+19930522,Oakland Athletics,Chicago White Sox,6,4
+19930522,Detroit Tigers,Cleveland Indians,5,1
+19930522,Seattle Mariners,Kansas City Royals,1,4
+19930522,California Angels,Texas Rangers,2,4
+19930522,Minensota Twins,Toronto Blue Jays,0,7
+19930522,Chicago Cubs,Florida Marlins,2,1
+19930522,Colorado Rockies,Los Angeles Dodgers,3,4
+19930522,Atlanta Braves,New York Mets,1,6
+19930522,Montreal Expos,Philadelpia Phillies,6,5
+19930522,St. Louis Cardinals,Pittsburgh Pirates,2,4
+19930522,Houston Colts,San Diego Padres,4,9
+19930522,Cincinnati Reds,San  Francisco Giants,6,2
+19930523,Milwaukee Brewers,Baltimore Orioles,9,1
+19930523,New York Yankees,Boston Red Sox,2,5
+19930523,Oakland Athletics,Chicago White Sox,4,5
+19930523,Detroit Tigers,Cleveland Indians,4,2
+19930523,Seattle Mariners,Kansas City Royals,10,7
+19930523,California Angels,Texas Rangers,6,2
+19930523,Minensota Twins,Toronto Blue Jays,1,2
+19930523,Chicago Cubs,Florida Marlins,2,4
+19930523,Colorado Rockies,Los Angeles Dodgers,0,4
+19930523,Atlanta Braves,New York Mets,2,1
+19930523,Montreal Expos,Philadelpia Phillies,7,14
+19930523,St. Louis Cardinals,Pittsburgh Pirates,4,3
+19930523,Houston Colts,San Diego Padres,9,7
+19930523,Cincinnati Reds,San  Francisco Giants,2,3
+19930524,Texas Rangers,Cleveland Indians,1,4
+19930524,Boston Red Sox,Detroit Tigers,6,5
+19930524,Baltimore Orioles,New York Yankees,8,6
+19930524,California Angels,Seattle Mariners,3,4
+19930524,Milwaukee Brewers,Toronto Blue Jays,1,4
+19930524,San Diego Padres,Los Angeles Dodgers,4,5
+19930524,St. Louis Cardinals,Montreal Expos,4,1
+19930524,New York Mets,Philadelpia Phillies,3,6
+19930525,Kansas City Royals,Chicago White Sox,3,2
+19930525,Texas Rangers,Cleveland Indians,5,1
+19930525,Boston Red Sox,Detroit Tigers,1,4
+19930525,Baltimore Orioles,New York Yankees,0,1
+19930525,Minensota Twins,Oakland Athletics,1,3
+19930525,California Angels,Seattle Mariners,6,3
+19930525,Milwaukee Brewers,Toronto Blue Jays,2,4
+19930525,San  Francisco Giants,Chicago Cubs,5,4
+19930525,Atlanta Braves,Cincinnati Reds,5,0
+19930525,Colorado Rockies,Houston Colts,7,5
+19930525,San Diego Padres,Los Angeles Dodgers,9,10
+19930525,St. Louis Cardinals,Montreal Expos,2,4
+19930525,New York Mets,Philadelpia Phillies,2,4
+19930525,Florida Marlins,Pittsburgh Pirates,0,2
+19930526,Kansas City Royals,Chicago White Sox,4,3
+19930526,Texas Rangers,Cleveland Indians,6,7
+19930526,Boston Red Sox,Detroit Tigers,2,4
+19930526,Baltimore Orioles,New York Yankees,6,2
+19930526,Minensota Twins,Oakland Athletics,12,11
+19930526,California Angels,Seattle Mariners,0,2
+19930526,Milwaukee Brewers,Toronto Blue Jays,8,1
+19930526,San  Francisco Giants,Chicago Cubs,2,4
+19930526,Atlanta Braves,Cincinnati Reds,0,4
+19930526,Colorado Rockies,Houston Colts,3,2
+19930526,San Diego Padres,Los Angeles Dodgers,3,8
+19930526,St. Louis Cardinals,Montreal Expos,0,6
+19930526,New York Mets,Philadelpia Phillies,5,4
+19930526,Florida Marlins,Pittsburgh Pirates,5,4
+19930527,Kansas City Royals,Chicago White Sox,6,4
+19930527,Baltimore Orioles,New York Yankees,4,3
+19930527,California Angels,Seattle Mariners,5,0
+19930527,Milwaukee Brewers,Toronto Blue Jays,9,3
+19930527,San  Francisco Giants,Chicago Cubs,4,5
+19930527,Atlanta Braves,Cincinnati Reds,4,5
+19930527,Colorado Rockies,Houston Colts,0,8
+19930527,Florida Marlins,Pittsburgh Pirates,8,13
+19930528,Texas Rangers,Boston Red Sox,1,4
+19930528,Baltimore Orioles,California Angels,4,8
+19930528,Kansas City Royals,Milwaukee Brewers,1,5
+19930528,Cleveland Indians,Minensota Twins,6,7
+19930528,Chicago White Sox,New York Yankees,0,4
+19930528,Toronto Blue Jays,Oakland Athletics,2,3
+19930528,Detroit Tigers,Seattle Mariners,3,4
+19930528,San  Francisco Giants,Atlanta Braves,4,7
+19930528,Montreal Expos,Chicago Cubs,2,2
+19930528,Philadelpia Phillies,Colorado Rockies,15,9
+19930528,Houston Colts,Florida Marlins,4,5
+19930528,Cincinnati Reds,New York Mets,5,2
+19930528,Los Angeles Dodgers,Pittsburgh Pirates,7,2
+19930528,San Diego Padres,St. Louis Cardinals,2,3
+19930529,Texas Rangers,Boston Red Sox,1,15
+19930529,Baltimore Orioles,California Angels,3,6
+19930529,Kansas City Royals,Milwaukee Brewers,6,5
+19930529,Cleveland Indians,Minensota Twins,3,9
+19930529,Chicago White Sox,New York Yankees,2,8
+19930529,Toronto Blue Jays,Oakland Athletics,5,3
+19930529,Detroit Tigers,Seattle Mariners,3,2
+19930529,San  Francisco Giants,Atlanta Braves,6,3
+19930529,Montreal Expos,Chicago Cubs,5,4
+19930529,Philadelpia Phillies,Colorado Rockies,6,0
+19930529,Houston Colts,Florida Marlins,4,2
+19930529,Cincinnati Reds,New York Mets,3,4
+19930529,Los Angeles Dodgers,Pittsburgh Pirates,6,1
+19930529,San Diego Padres,St. Louis Cardinals,7,4
+19930530,Texas Rangers,Boston Red Sox,5,6
+19930530,Baltimore Orioles,California Angels,5,7
+19930530,Kansas City Royals,Milwaukee Brewers,2,8
+19930530,Cleveland Indians,Minensota Twins,2,8
+19930530,Chicago White Sox,New York Yankees,3,6
+19930530,Toronto Blue Jays,Oakland Athletics,13,11
+19930530,Detroit Tigers,Seattle Mariners,5,9
+19930530,San  Francisco Giants,Atlanta Braves,4,3
+19930530,Montreal Expos,Chicago Cubs,2,5
+19930530,Philadelpia Phillies,Colorado Rockies,18,1
+19930530,Houston Colts,Florida Marlins,2,1
+19930530,Cincinnati Reds,New York Mets,8,4
+19930530,Los Angeles Dodgers,Pittsburgh Pirates,3,5
+19930530,San Diego Padres,St. Louis Cardinals,4,10
+19930531,Kansas City Royals,Boston Red Sox,5,3
+19930531,Toronto Blue Jays,California Angels,10,5
+19930531,Texas Rangers,Minensota Twins,1,0
+19930531,Cleveland Indians,New York Yankees,2,8
+19930531,Baltimore Orioles,Oakland Athletics,3,1
+19930531,San Diego Padres,Atlanta Braves,1,2
+19930531,New York Mets,Chicago Cubs,9,5
+19930531,Philadelpia Phillies,Cincinnati Reds,4,6
+19930531,Pittsburgh Pirates,Colorado Rockies,2,6
+19930531,Montreal Expos,Houston Colts,1,2
+19930531,Los Angeles Dodgers,St. Louis Cardinals,5,1
+19930601,Kansas City Royals,Boston Red Sox,4,3
+19930601,Toronto Blue Jays,California Angels,8,0
+19930601,Chicago White Sox,Detroit Tigers,4,2
+19930601,Texas Rangers,Minensota Twins,5,7
+19930601,Cleveland Indians,New York Yankees,15,6
+19930601,Baltimore Orioles,Oakland Athletics,1,4
+19930601,Milwaukee Brewers,Seattle Mariners,10,0
+19930601,San Diego Padres,Atlanta Braves,2,1
+19930601,New York Mets,Chicago Cubs,3,8
+19930601,Philadelpia Phillies,Cincinnati Reds,6,3
+19930601,Pittsburgh Pirates,Colorado Rockies,8,6
+19930601,San  Francisco Giants,Florida Marlins,3,7
+19930601,San  Francisco Giants,Florida Marlins,4,3
+19930601,Montreal Expos,Houston Colts,2,1
+19930601,Los Angeles Dodgers,St. Louis Cardinals,11,6
+19930602,Kansas City Royals,Boston Red Sox,7,2
+19930602,Toronto Blue Jays,California Angels,7,6
+19930602,Chicago White Sox,Detroit Tigers,10,1
+19930602,Texas Rangers,Minensota Twins,3,6
+19930602,Cleveland Indians,New York Yankees,5,8
+19930602,Baltimore Orioles,Oakland Athletics,5,2
+19930602,Milwaukee Brewers,Seattle Mariners,3,6
+19930602,San Diego Padres,Atlanta Braves,2,5
+19930602,New York Mets,Chicago Cubs,11,3
+19930602,Philadelpia Phillies,Cincinnati Reds,5,2
+19930602,Pittsburgh Pirates,Colorado Rockies,5,3
+19930602,San  Francisco Giants,Florida Marlins,3,2
+19930602,Montreal Expos,Houston Colts,4,5
+19930602,Los Angeles Dodgers,St. Louis Cardinals,4,5
+19930603,Chicago White Sox,Detroit Tigers,3,5
+19930603,Milwaukee Brewers,Kansas City Royals,5,6
+19930603,San Diego Padres,Atlanta Braves,12,4
+19930603,St. Louis Cardinals,Cincinnati Reds,9,2
+19930603,Chicago Cubs,Montreal Expos,1,7
+19930603,Pittsburgh Pirates,San  Francisco Giants,2,1
+19930604,Seattle Mariners,Baltimore Orioles,5,6
+19930604,Boston Red Sox,Chicago White Sox,1,0
+19930604,Minensota Twins,Cleveland Indians,3,2
+19930604,California Angels,Detroit Tigers,6,3
+19930604,Milwaukee Brewers,Kansas City Royals,2,3
+19930604,New York Yankees,Texas Rangers,3,5
+19930604,Oakland Athletics,Toronto Blue Jays,3,4
+19930604,New York Mets,Houston Colts,2,7
+19930604,Atlanta Braves,Los Angeles Dodgers,4,5
+19930604,Chicago Cubs,Montreal Expos,1,3
+19930604,Colorado Rockies,Philadelpia Phillies,2,1
+19930604,Florida Marlins,San Diego Padres,6,2
+19930604,Pittsburgh Pirates,San  Francisco Giants,3,2
+19930605,Seattle Mariners,Baltimore Orioles,3,5
+19930605,Boston Red Sox,Chicago White Sox,3,11
+19930605,Minensota Twins,Cleveland Indians,6,7
+19930605,California Angels,Detroit Tigers,1,5
+19930605,Milwaukee Brewers,Kansas City Royals,8,2
+19930605,New York Yankees,Texas Rangers,9,6
+19930605,Oakland Athletics,Toronto Blue Jays,5,9
+19930605,St. Louis Cardinals,Cincinnati Reds,2,6
+19930605,New York Mets,Houston Colts,5,7
+19930605,Atlanta Braves,Los Angeles Dodgers,1,5
+19930605,Chicago Cubs,Montreal Expos,3,6
+19930605,Colorado Rockies,Philadelpia Phillies,2,6
+19930605,Florida Marlins,San Diego Padres,3,1
+19930605,Pittsburgh Pirates,San  Francisco Giants,2,3
+19930606,Seattle Mariners,Baltimore Orioles,2,5
+19930606,Boston Red Sox,Chicago White Sox,3,4
+19930606,Minensota Twins,Cleveland Indians,5,4
+19930606,California Angels,Detroit Tigers,4,11
+19930606,Milwaukee Brewers,Kansas City Royals,7,8
+19930606,New York Yankees,Texas Rangers,3,4
+19930606,Oakland Athletics,Toronto Blue Jays,10,3
+19930606,St. Louis Cardinals,Cincinnati Reds,5,1
+19930606,New York Mets,Houston Colts,4,5
+19930606,Atlanta Braves,Los Angeles Dodgers,2,0
+19930606,Chicago Cubs,Montreal Expos,4,1
+19930606,Colorado Rockies,Philadelpia Phillies,7,11
+19930606,Florida Marlins,San Diego Padres,9,2
+19930606,Pittsburgh Pirates,San  Francisco Giants,1,7
+19930607,Oakland Athletics,Baltimore Orioles,2,3
+19930607,Detroit Tigers,Chicago White Sox,3,7
+19930607,New York Yankees,Kansas City Royals,3,8
+19930607,Seattle Mariners,Milwaukee Brewers,3,5
+19930607,Minensota Twins,Texas Rangers,2,8
+19930607,California Angels,Toronto Blue Jays,2,4
+19930607,Florida Marlins,Los Angeles Dodgers,5,3
+19930607,Cincinnati Reds,Montreal Expos,12,3
+19930607,Chicago Cubs,New York Mets,2,7
+19930607,Houston Colts,Philadelpia Phillies,5,7
+19930607,Atlanta Braves,San Diego Padres,4,0
+19930608,Oakland Athletics,Baltimore Orioles,4,6
+19930608,Detroit Tigers,Chicago White Sox,6,4
+19930608,Boston Red Sox,Cleveland Indians,4,5
+19930608,New York Yankees,Kansas City Royals,9,4
+19930608,Seattle Mariners,Milwaukee Brewers,1,2
+19930608,Minensota Twins,Texas Rangers,3,2
+19930608,California Angels,Toronto Blue Jays,6,14
+19930608,Florida Marlins,Los Angeles Dodgers,1,2
+19930608,Cincinnati Reds,Montreal Expos,2,4
+19930608,Chicago Cubs,New York Mets,5,1
+19930608,Houston Colts,Philadelpia Phillies,6,3
+19930608,Colorado Rockies,Pittsburgh Pirates,4,1
+19930608,Atlanta Braves,San Diego Padres,4,5
+19930608,St. Louis Cardinals,San  Francisco Giants,4,3
+19930609,Oakland Athletics,Baltimore Orioles,4,7
+19930609,Detroit Tigers,Chicago White Sox,7,4
+19930609,Boston Red Sox,Cleveland Indians,2,3
+19930609,New York Yankees,Kansas City Royals,3,10
+19930609,Seattle Mariners,Milwaukee Brewers,6,1
+19930609,California Angels,Toronto Blue Jays,6,4
+19930609,Cincinnati Reds,Montreal Expos,3,2
+19930609,Chicago Cubs,New York Mets,8,3
+19930609,Houston Colts,Philadelpia Phillies,0,8
+19930609,Colorado Rockies,Pittsburgh Pirates,1,4
+19930609,St. Louis Cardinals,San  Francisco Giants,1,3
+19930610,Baltimore Orioles,Boston Red Sox,2,1
+19930610,Toronto Blue Jays,Detroit Tigers,3,5
+19930610,New York Yankees,Milwaukee Brewers,3,1
+19930610,Minensota Twins,Texas Rangers,6,5
+19930610,Cincinnati Reds,Atlanta Braves,3,1
+19930610,Pittsburgh Pirates,Florida Marlins,3,4
+19930610,Philadelpia Phillies,New York Mets,7,6
+19930610,Los Angeles Dodgers,San Diego Padres,2,14
+19930610,Montreal Expos,St. Louis Cardinals,4,7
+19930611,Baltimore Orioles,Boston Red Sox,16,4
+19930611,Seattle Mariners,California Angels,2,8
+19930611,Toronto Blue Jays,Detroit Tigers,1,6
+19930611,Chicago White Sox,Kansas City Royals,6,1
+19930611,New York Yankees,Milwaukee Brewers,5,4
+19930611,Oakland Athletics,Minensota Twins,8,11
+19930611,Cleveland Indians,Texas Rangers,8,3
+19930611,Cincinnati Reds,Atlanta Braves,5,6
+19930611,Houston Colts,Colorado Rockies,4,5
+19930611,Pittsburgh Pirates,Florida Marlins,3,11
+19930611,Philadelpia Phillies,New York Mets,5,2
+19930611,Los Angeles Dodgers,San Diego Padres,4,5
+19930611,Chicago Cubs,San  Francisco Giants,2,7
+19930611,Montreal Expos,St. Louis Cardinals,0,1
+19930612,Baltimore Orioles,Boston Red Sox,5,1
+19930612,Seattle Mariners,California Angels,2,0
+19930612,Toronto Blue Jays,Detroit Tigers,1,12
+19930612,Chicago White Sox,Kansas City Royals,2,1
+19930612,New York Yankees,Milwaukee Brewers,1,9
+19930612,Oakland Athletics,Minensota Twins,2,7
+19930612,Cleveland Indians,Texas Rangers,10,9
+19930612,Cincinnati Reds,Atlanta Braves,2,7
+19930612,Houston Colts,Colorado Rockies,11,14
+19930612,Pittsburgh Pirates,Florida Marlins,2,5
+19930612,Philadelpia Phillies,New York Mets,3,0
+19930612,Los Angeles Dodgers,San Diego Padres,6,4
+19930612,Chicago Cubs,San  Francisco Giants,4,5
+19930612,Montreal Expos,St. Louis Cardinals,3,13
+19930613,Baltimore Orioles,Boston Red Sox,2,4
+19930613,Seattle Mariners,California Angels,12,7
+19930613,Toronto Blue Jays,Detroit Tigers,13,4
+19930613,Chicago White Sox,Kansas City Royals,4,5
+19930613,New York Yankees,Milwaukee Brewers,9,5
+19930613,Oakland Athletics,Minensota Twins,7,6
+19930613,Cleveland Indians,Texas Rangers,1,5
+19930613,Cincinnati Reds,Atlanta Braves,2,9
+19930613,Houston Colts,Colorado Rockies,1,9
+19930613,Pittsburgh Pirates,Florida Marlins,2,5
+19930613,Philadelpia Phillies,New York Mets,5,3
+19930613,Los Angeles Dodgers,San Diego Padres,2,1
+19930613,Chicago Cubs,San  Francisco Giants,3,5
+19930613,Montreal Expos,St. Louis Cardinals,3,1
+19930614,Texas Rangers,California Angels,2,8
+19930614,Cleveland Indians,Detroit Tigers,3,7
+19930614,Baltimore Orioles,Milwaukee Brewers,8,5
+19930614,Toronto Blue Jays,Minensota Twins,3,4
+19930614,Boston Red Sox,New York Yankees,0,4
+19930614,Chicago White Sox,Oakland Athletics,3,7
+19930614,Kansas City Royals,Seattle Mariners,3,6
+19930614,New York Mets,Atlanta Braves,7,4
+19930614,Florida Marlins,Chicago Cubs,3,6
+19930614,Los Angeles Dodgers,Colorado Rockies,9,4
+19930614,Philadelpia Phillies,Montreal Expos,10,3
+19930614,Pittsburgh Pirates,St. Louis Cardinals,3,8
+19930615,Texas Rangers,California Angels,6,5
+19930615,Cleveland Indians,Detroit Tigers,4,10
+19930615,Baltimore Orioles,Milwaukee Brewers,4,2
+19930615,Toronto Blue Jays,Minensota Twins,6,3
+19930615,Boston Red Sox,New York Yankees,7,9
+19930615,Chicago White Sox,Oakland Athletics,4,0
+19930615,Kansas City Royals,Seattle Mariners,1,6
+19930615,New York Mets,Atlanta Braves,1,2
+19930615,Florida Marlins,Chicago Cubs,0,3
+19930615,San  Francisco Giants,Cincinnati Reds,5,10
+19930615,Los Angeles Dodgers,Colorado Rockies,12,4
+19930615,San Diego Padres,Houston Colts,3,0
+19930615,Philadelpia Phillies,Montreal Expos,4,8
+19930615,Pittsburgh Pirates,St. Louis Cardinals,3,6
+19930616,Texas Rangers,California Angels,2,5
+19930616,Cleveland Indians,Detroit Tigers,8,2
+19930616,Baltimore Orioles,Milwaukee Brewers,2,7
+19930616,Toronto Blue Jays,Minensota Twins,4,0
+19930616,Boston Red Sox,New York Yankees,7,1
+19930616,Chicago White Sox,Oakland Athletics,4,0
+19930616,Kansas City Royals,Seattle Mariners,5,1
+19930616,New York Mets,Atlanta Braves,2,5
+19930616,Florida Marlins,Chicago Cubs,4,6
+19930616,San  Francisco Giants,Cincinnati Reds,6,5
+19930616,Los Angeles Dodgers,Colorado Rockies,6,7
+19930616,San Diego Padres,Houston Colts,4,5
+19930616,Philadelpia Phillies,Montreal Expos,3,4
+19930616,Pittsburgh Pirates,St. Louis Cardinals,2,3
+19930617,Texas Rangers,California Angels,18,2
+19930617,Cleveland Indians,Detroit Tigers,5,9
+19930617,Minensota Twins,New York Yankees,5,6
+19930617,Chicago White Sox,Oakland Athletics,2,5
+19930617,Boston Red Sox,Toronto Blue Jays,0,7
+19930617,St. Louis Cardinals,Chicago Cubs,11,10
+19930617,San  Francisco Giants,Cincinnati Reds,5,1
+19930617,San Diego Padres,Houston Colts,1,4
+19930617,Florida Marlins,Philadelpia Phillies,4,1
+19930617,New York Mets,Pittsburgh Pirates,2,6
+19930618,Chicago White Sox,California Angels,8,9
+19930618,Baltimore Orioles,Cleveland Indians,4,1
+19930618,Milwaukee Brewers,Detroit Tigers,6,3
+19930618,Minensota Twins,New York Yankees,0,5
+19930618,Kansas City Royals,Oakland Athletics,9,10
+19930618,Texas Rangers,Seattle Mariners,2,3
+19930618,Boston Red Sox,Toronto Blue Jays,2,11
+19930618,St. Louis Cardinals,Chicago Cubs,3,8
+19930618,Los Angeles Dodgers,Cincinnati Reds,3,4
+19930618,San Diego Padres,Colorado Rockies,11,1
+19930618,San  Francisco Giants,Houston Colts,5,0
+19930618,Atlanta Braves,Montreal Expos,1,2
+19930618,Florida Marlins,Philadelpia Phillies,3,7
+19930618,New York Mets,Pittsburgh Pirates,2,5
+19930619,Chicago White Sox,California Angels,4,5
+19930619,Baltimore Orioles,Cleveland Indians,0,3
+19930619,Milwaukee Brewers,Detroit Tigers,7,10
+19930619,Minensota Twins,New York Yankees,4,8
+19930619,Kansas City Royals,Oakland Athletics,3,0
+19930619,Texas Rangers,Seattle Mariners,5,6
+19930619,Boston Red Sox,Toronto Blue Jays,4,9
+19930619,St. Louis Cardinals,Chicago Cubs,6,4
+19930619,Los Angeles Dodgers,Cincinnati Reds,4,8
+19930619,San Diego Padres,Colorado Rockies,3,17
+19930619,San  Francisco Giants,Houston Colts,10,3
+19930619,Atlanta Braves,Montreal Expos,4,3
+19930619,Florida Marlins,Philadelpia Phillies,2,5
+19930619,New York Mets,Pittsburgh Pirates,3,8
+19930620,Chicago White Sox,California Angels,11,6
+19930620,Baltimore Orioles,Cleveland Indians,6,3
+19930620,Milwaukee Brewers,Detroit Tigers,3,7
+19930620,Minensota Twins,New York Yankees,0,8
+19930620,Kansas City Royals,Oakland Athletics,1,4
+19930620,Texas Rangers,Seattle Mariners,2,13
+19930620,Boston Red Sox,Toronto Blue Jays,2,3
+19930620,St. Louis Cardinals,Chicago Cubs,7,4
+19930620,Los Angeles Dodgers,Cincinnati Reds,6,3
+19930620,San Diego Padres,Colorado Rockies,1,3
+19930620,San  Francisco Giants,Houston Colts,8,5
+19930620,Atlanta Braves,Montreal Expos,5,1
+19930620,Florida Marlins,Philadelpia Phillies,3,4
+19930620,New York Mets,Pittsburgh Pirates,2,3
+19930621,Minensota Twins,Boston Red Sox,3,6
+19930621,Texas Rangers,Chicago White Sox,6,7
+19930621,Milwaukee Brewers,Cleveland Indians,0,3
+19930621,California Angels,Kansas City Royals,4,3
+19930621,Oakland Athletics,Seattle Mariners,5,3
+19930621,Cincinnati Reds,Colorado Rockies,4,5
+19930621,St. Louis Cardinals,Florida Marlins,4,3
+19930621,Houston Colts,Los Angeles Dodgers,0,7
+19930621,Montreal Expos,New York Mets,3,8
+19930621,Atlanta Braves,Philadelpia Phillies,8,1
+19930621,Chicago Cubs,Pittsburgh Pirates,5,1
+19930621,San Diego Padres,San  Francisco Giants,1,2
+19930622,Detroit Tigers,Baltimore Orioles,9,12
+19930622,Minensota Twins,Boston Red Sox,1,4
+19930622,Texas Rangers,Chicago White Sox,2,3
+19930622,Milwaukee Brewers,Cleveland Indians,2,3
+19930622,California Angels,Kansas City Royals,3,5
+19930622,Oakland Athletics,Seattle Mariners,10,3
+19930622,New York Yankees,Toronto Blue Jays,4,5
+19930622,Cincinnati Reds,Colorado Rockies,16,13
+19930622,St. Louis Cardinals,Florida Marlins,5,7
+19930622,Houston Colts,Los Angeles Dodgers,5,1
+19930622,Montreal Expos,New York Mets,6,3
+19930622,Atlanta Braves,Philadelpia Phillies,3,5
+19930622,Chicago Cubs,Pittsburgh Pirates,2,7
+19930622,San Diego Padres,San  Francisco Giants,2,1
+19930623,Detroit Tigers,Baltimore Orioles,2,6
+19930623,Minensota Twins,Boston Red Sox,1,3
+19930623,Texas Rangers,Chicago White Sox,4,7
+19930623,Milwaukee Brewers,Cleveland Indians,1,3
+19930623,California Angels,Kansas City Royals,8,7
+19930623,Oakland Athletics,Seattle Mariners,7,8
+19930623,New York Yankees,Toronto Blue Jays,4,3
+19930623,Cincinnati Reds,Colorado Rockies,5,15
+19930623,St. Louis Cardinals,Florida Marlins,4,3
+19930623,Houston Colts,Los Angeles Dodgers,5,3
+19930623,Montreal Expos,New York Mets,4,3
+19930623,Atlanta Braves,Philadelpia Phillies,3,8
+19930623,Chicago Cubs,Pittsburgh Pirates,4,9
+19930623,San Diego Padres,San  Francisco Giants,2,6
+19930624,Detroit Tigers,Baltimore Orioles,2,6
+19930624,Milwaukee Brewers,Cleveland Indians,5,3
+19930624,California Angels,Kansas City Royals,1,7
+19930624,Oakland Athletics,Seattle Mariners,3,2
+19930624,New York Yankees,Toronto Blue Jays,2,7
+19930624,Houston Colts,Los Angeles Dodgers,1,0
+19930624,Cincinnati Reds,San Diego Padres,6,4
+19930624,Colorado Rockies,San  Francisco Giants,2,17
+19930625,New York Yankees,Baltimore Orioles,6,7
+19930625,Detroit Tigers,Boston Red Sox,2,8
+19930625,Seattle Mariners,Chicago White Sox,3,2
+19930625,Kansas City Royals,Cleveland Indians,1,6
+19930625,Toronto Blue Jays,Milwaukee Brewers,5,6
+19930625,California Angels,Minensota Twins,5,8
+19930625,Houston Colts,Atlanta Braves,2,8
+19930625,Montreal Expos,Florida Marlins,1,3
+19930625,Chicago Cubs,Los Angeles Dodgers,8,5
+19930625,St. Louis Cardinals,New York Mets,8,5
+19930625,Philadelpia Phillies,Pittsburgh Pirates,8,6
+19930625,Cincinnati Reds,San Diego Padres,6,2
+19930625,Colorado Rockies,San  Francisco Giants,2,7
+19930626,New York Yankees,Baltimore Orioles,10,12
+19930626,Detroit Tigers,Boston Red Sox,4,13
+19930626,Seattle Mariners,Chicago White Sox,4,7
+19930626,Kansas City Royals,Cleveland Indians,4,7
+19930626,Toronto Blue Jays,Milwaukee Brewers,3,2
+19930626,California Angels,Minensota Twins,4,0
+19930626,Oakland Athletics,Texas Rangers,7,10
+19930626,Houston Colts,Atlanta Braves,5,6
+19930626,Montreal Expos,Florida Marlins,4,2
+19930626,Chicago Cubs,Los Angeles Dodgers,4,5
+19930626,St. Louis Cardinals,New York Mets,4,2
+19930626,Philadelpia Phillies,Pittsburgh Pirates,2,4
+19930626,Cincinnati Reds,San Diego Padres,0,2
+19930626,Colorado Rockies,San  Francisco Giants,5,1
+19930627,New York Yankees,Baltimore Orioles,9,5
+19930627,Detroit Tigers,Boston Red Sox,2,8
+19930627,Seattle Mariners,Chicago White Sox,4,6
+19930627,Kansas City Royals,Cleveland Indians,2,3
+19930627,Toronto Blue Jays,Milwaukee Brewers,5,4
+19930627,California Angels,Minensota Twins,0,2
+19930627,Oakland Athletics,Texas Rangers,0,4
+19930627,Houston Colts,Atlanta Braves,3,0
+19930627,Montreal Expos,Florida Marlins,2,9
+19930627,Chicago Cubs,Los Angeles Dodgers,1,3
+19930627,St. Louis Cardinals,New York Mets,5,3
+19930627,Philadelpia Phillies,Pittsburgh Pirates,3,4
+19930627,Cincinnati Reds,San Diego Padres,7,1
+19930627,Colorado Rockies,San  Francisco Giants,0,5
+19930628,Toronto Blue Jays,Baltimore Orioles,7,2
+19930628,Milwaukee Brewers,Boston Red Sox,3,4
+19930628,Chicago White Sox,Cleveland Indians,0,2
+19930628,Seattle Mariners,Minensota Twins,4,1
+19930628,Detroit Tigers,New York Yankees,2,8
+19930628,Kansas City Royals,Texas Rangers,4,2
+19930628,San  Francisco Giants,Los Angeles Dodgers,0,4
+19930628,Pittsburgh Pirates,Montreal Expos,9,5
+19930628,Chicago Cubs,San Diego Padres,4,3
+19930628,Philadelpia Phillies,St. Louis Cardinals,1,3
+19930629,Toronto Blue Jays,Baltimore Orioles,2,1
+19930629,Milwaukee Brewers,Boston Red Sox,7,6
+19930629,Chicago White Sox,Cleveland Indians,2,8
+19930629,Seattle Mariners,Minensota Twins,5,7
+19930629,Detroit Tigers,New York Yankees,3,4
+19930629,California Angels,Oakland Athletics,7,8
+19930629,Kansas City Royals,Texas Rangers,3,4
+19930629,Colorado Rockies,Atlanta Braves,4,6
+19930629,Houston Colts,Cincinnati Reds,0,3
+19930629,New York Mets,Florida Marlins,10,9
+19930629,San  Francisco Giants,Los Angeles Dodgers,3,1
+19930629,Pittsburgh Pirates,Montreal Expos,2,9
+19930629,Chicago Cubs,San Diego Padres,10,5
+19930629,Philadelpia Phillies,St. Louis Cardinals,13,10
+19930630,Toronto Blue Jays,Baltimore Orioles,0,6
+19930630,Milwaukee Brewers,Boston Red Sox,2,12
+19930630,Chicago White Sox,Cleveland Indians,2,4
+19930630,Seattle Mariners,Minensota Twins,5,3
+19930630,Detroit Tigers,New York Yankees,0,7
+19930630,California Angels,Oakland Athletics,4,5
+19930630,Kansas City Royals,Texas Rangers,4,5
+19930630,Colorado Rockies,Atlanta Braves,2,3
+19930630,Houston Colts,Cincinnati Reds,4,5
+19930630,New York Mets,Florida Marlins,7,1
+19930630,San  Francisco Giants,Los Angeles Dodgers,3,5
+19930630,Pittsburgh Pirates,Montreal Expos,1,9
+19930630,Chicago Cubs,San Diego Padres,4,1
+19930630,Philadelpia Phillies,St. Louis Cardinals,3,9
+19930701,Baltimore Orioles,Chicago White Sox,1,0
+19930701,Texas Rangers,Detroit Tigers,8,5
+19930701,Seattle Mariners,Minensota Twins,6,1
+19930701,California Angels,Oakland Athletics,3,6
+19930701,Colorado Rockies,Atlanta Braves,0,4
+19930701,Houston Colts,Cincinnati Reds,8,1
+19930701,New York Mets,Florida Marlins,5,7
+19930701,Pittsburgh Pirates,Montreal Expos,5,7
+19930701,Philadelpia Phillies,St. Louis Cardinals,5,14
+19930702,Cleveland Indians,California Angels,10,8
+19930702,Baltimore Orioles,Chicago White Sox,1,12
+19930702,Texas Rangers,Detroit Tigers,4,6
+19930702,Toronto Blue Jays,Kansas City Royals,2,3
+19930702,Milwaukee Brewers,Minensota Twins,10,11
+19930702,New York Yankees,Oakland Athletics,3,4
+19930702,Boston Red Sox,Seattle Mariners,9,8
+19930702,Florida Marlins,Atlanta Braves,4,2
+19930702,Pittsburgh Pirates,Cincinnati Reds,10,9
+19930702,Pittsburgh Pirates,Cincinnati Reds,1,9
+19930702,Chicago Cubs,Colorado Rockies,11,8
+19930702,St. Louis Cardinals,Houston Colts,1,7
+19930702,Los Angeles Dodgers,Montreal Expos,4,3
+19930702,San  Francisco Giants,New York Mets,3,1
+19930702,San Diego Padres,Philadelpia Phillies,5,2
+19930702,San Diego Padres,Philadelpia Phillies,5,6
+19930703,Cleveland Indians,California Angels,5,3
+19930703,Baltimore Orioles,Chicago White Sox,9,6
+19930703,Texas Rangers,Detroit Tigers,11,5
+19930703,Toronto Blue Jays,Kansas City Royals,2,3
+19930703,Milwaukee Brewers,Minensota Twins,3,1
+19930703,New York Yankees,Oakland Athletics,4,5
+19930703,Boston Red Sox,Seattle Mariners,6,5
+19930703,Florida Marlins,Atlanta Braves,2,11
+19930703,Pittsburgh Pirates,Cincinnati Reds,3,5
+19930703,Chicago Cubs,Colorado Rockies,4,5
+19930703,St. Louis Cardinals,Houston Colts,0,6
+19930703,Los Angeles Dodgers,Montreal Expos,4,6
+19930703,San  Francisco Giants,New York Mets,3,6
+19930703,San Diego Padres,Philadelpia Phillies,6,4
+19930704,Cleveland Indians,California Angels,6,7
+19930704,Baltimore Orioles,Chicago White Sox,1,3
+19930704,Texas Rangers,Detroit Tigers,8,6
+19930704,Toronto Blue Jays,Kansas City Royals,1,3
+19930704,Milwaukee Brewers,Minensota Twins,3,4
+19930704,New York Yankees,Oakland Athletics,6,7
+19930704,Boston Red Sox,Seattle Mariners,6,0
+19930704,Florida Marlins,Atlanta Braves,3,4
+19930704,Pittsburgh Pirates,Cincinnati Reds,2,7
+19930704,Chicago Cubs,Colorado Rockies,1,3
+19930704,St. Louis Cardinals,Houston Colts,4,9
+19930704,Los Angeles Dodgers,Montreal Expos,1,0
+19930704,San  Francisco Giants,New York Mets,10,8
+19930704,San Diego Padres,Philadelpia Phillies,4,8
+19930705,Boston Red Sox,California Angels,4,3
+19930705,Baltimore Orioles,Kansas City Royals,1,7
+19930705,Texas Rangers,Milwaukee Brewers,5,4
+19930705,Detroit Tigers,Minensota Twins,3,13
+19930705,Cleveland Indians,Oakland Athletics,5,6
+19930705,Cleveland Indians,Oakland Athletics,6,2
+19930705,New York Yankees,Seattle Mariners,6,3
+19930705,Chicago White Sox,Toronto Blue Jays,4,3
+19930705,Florida Marlins,Atlanta Braves,7,9
+19930705,Pittsburgh Pirates,Cincinnati Reds,4,6
+19930705,Chicago Cubs,Colorado Rockies,10,1
+19930705,St. Louis Cardinals,Houston Colts,10,4
+19930705,San  Francisco Giants,Montreal Expos,10,4
+19930705,San Diego Padres,New York Mets,12,7
+19930705,Los Angeles Dodgers,Philadelpia Phillies,5,9
+19930706,Boston Red Sox,California Angels,2,3
+19930706,Baltimore Orioles,Kansas City Royals,8,0
+19930706,Texas Rangers,Milwaukee Brewers,11,1
+19930706,Detroit Tigers,Minensota Twins,4,1
+19930706,Cleveland Indians,Oakland Athletics,11,8
+19930706,New York Yankees,Seattle Mariners,4,12
+19930706,Chicago White Sox,Toronto Blue Jays,1,5
+19930706,Cincinnati Reds,Chicago Cubs,2,3
+19930706,Florida Marlins,Colorado Rockies,3,8
+19930706,Pittsburgh Pirates,Houston Colts,10,3
+19930706,San  Francisco Giants,Montreal Expos,13,5
+19930706,San Diego Padres,New York Mets,7,9
+19930706,Los Angeles Dodgers,Philadelpia Phillies,7,5
+19930706,Atlanta Braves,St. Louis Cardinals,4,5
+19930707,Boston Red Sox,California Angels,6,7
+19930707,Baltimore Orioles,Kansas City Royals,8,3
+19930707,Texas Rangers,Milwaukee Brewers,6,7
+19930707,Detroit Tigers,Minensota Twins,8,4
+19930707,Cleveland Indians,Oakland Athletics,0,3
+19930707,New York Yankees,Seattle Mariners,5,6
+19930707,Chicago White Sox,Toronto Blue Jays,5,2
+19930707,Cincinnati Reds,Chicago Cubs,4,3
+19930707,Florida Marlins,Colorado Rockies,5,6
+19930707,Pittsburgh Pirates,Houston Colts,5,2
+19930707,San  Francisco Giants,Montreal Expos,0,3
+19930707,San Diego Padres,New York Mets,2,0
+19930707,Los Angeles Dodgers,Philadelpia Phillies,6,7
+19930707,Atlanta Braves,St. Louis Cardinals,1,3
+19930708,Chicago White Sox,Baltimore Orioles,12,5
+19930708,New York Yankees,California Angels,3,4
+19930708,Detroit Tigers,Kansas City Royals,5,6
+19930708,Minensota Twins,Milwaukee Brewers,3,15
+19930708,Boston Red Sox,Oakland Athletics,11,9
+19930708,Texas Rangers,Toronto Blue Jays,6,1
+19930708,Cincinnati Reds,Chicago Cubs,7,3
+19930708,Florida Marlins,Colorado Rockies,2,3
+19930708,Pittsburgh Pirates,Houston Colts,4,10
+19930708,San Diego Padres,Montreal Expos,4,5
+19930708,Los Angeles Dodgers,New York Mets,11,8
+19930708,Los Angeles Dodgers,New York Mets,3,6
+19930708,San  Francisco Giants,Philadelpia Phillies,13,2
+19930708,Atlanta Braves,St. Louis Cardinals,1,7
+19930709,Chicago White Sox,Baltimore Orioles,6,15
+19930709,New York Yankees,California Angels,3,2
+19930709,Detroit Tigers,Kansas City Royals,10,5
+19930709,Minensota Twins,Milwaukee Brewers,10,6
+19930709,Boston Red Sox,Oakland Athletics,2,4
+19930709,Cleveland Indians,Seattle Mariners,4,6
+19930709,Texas Rangers,Toronto Blue Jays,4,2
+19930709,Houston Colts,Chicago Cubs,2,5
+19930709,Atlanta Braves,Florida Marlins,5,1
+19930709,San Diego Padres,Montreal Expos,1,6
+19930709,Los Angeles Dodgers,New York Mets,6,2
+19930709,San  Francisco Giants,Philadelpia Phillies,15,8
+19930709,Cincinnati Reds,Pittsburgh Pirates,1,4
+19930709,Colorado Rockies,St. Louis Cardinals,5,4
+19930710,Chicago White Sox,Baltimore Orioles,0,6
+19930710,New York Yankees,California Angels,2,4
+19930710,Detroit Tigers,Kansas City Royals,9,8
+19930710,Minensota Twins,Milwaukee Brewers,4,5
+19930710,Boston Red Sox,Oakland Athletics,5,0
+19930710,Cleveland Indians,Seattle Mariners,6,7
+19930710,Texas Rangers,Toronto Blue Jays,10,7
+19930710,Houston Colts,Chicago Cubs,4,0
+19930710,Houston Colts,Chicago Cubs,5,2
+19930710,Atlanta Braves,Florida Marlins,2,5
+19930710,San Diego Padres,Montreal Expos,2,3
+19930710,Los Angeles Dodgers,New York Mets,6,7
+19930710,San  Francisco Giants,Philadelpia Phillies,3,8
+19930710,Cincinnati Reds,Pittsburgh Pirates,10,7
+19930710,Colorado Rockies,St. Louis Cardinals,3,9
+19930711,Chicago White Sox,Baltimore Orioles,11,5
+19930711,New York Yankees,California Angels,2,3
+19930711,Detroit Tigers,Kansas City Royals,2,6
+19930711,Minensota Twins,Milwaukee Brewers,4,5
+19930711,Boston Red Sox,Oakland Athletics,3,2
+19930711,Cleveland Indians,Seattle Mariners,4,5
+19930711,Texas Rangers,Toronto Blue Jays,11,6
+19930711,Houston Colts,Chicago Cubs,10,1
+19930711,Atlanta Braves,Florida Marlins,6,3
+19930711,San Diego Padres,Montreal Expos,4,5
+19930711,Los Angeles Dodgers,New York Mets,2,1
+19930711,San  Francisco Giants,Philadelpia Phillies,10,2
+19930711,Cincinnati Reds,Pittsburgh Pirates,2,3
+19930711,Colorado Rockies,St. Louis Cardinals,4,1
+19930715,Minensota Twins,Baltimore Orioles,3,5
+19930715,Seattle Mariners,Boston Red Sox,3,2
+19930715,California Angels,Cleveland Indians,3,7
+19930715,Chicago White Sox,Milwaukee Brewers,6,4
+19930715,Oakland Athletics,New York Yankees,8,3
+19930715,Detroit Tigers,Texas Rangers,7,12
+19930715,Kansas City Royals,Toronto Blue Jays,2,7
+19930715,Pittsburgh Pirates,Atlanta Braves,0,4
+19930715,Colorado Rockies,Chicago Cubs,0,1
+19930715,Florida Marlins,Cincinnati Reds,4,7
+19930715,Montreal Expos,Los Angeles Dodgers,2,3
+19930715,Philadelpia Phillies,San Diego Padres,2,5
+19930715,New York Mets,San  Francisco Giants,1,8
+19930715,Houston Colts,St. Louis Cardinals,2,4
+19930716,Minensota Twins,Baltimore Orioles,7,9
+19930716,Seattle Mariners,Boston Red Sox,3,5
+19930716,California Angels,Cleveland Indians,2,1
+19930716,Chicago White Sox,Milwaukee Brewers,4,3
+19930716,Oakland Athletics,New York Yankees,3,10
+19930716,Detroit Tigers,Texas Rangers,6,9
+19930716,Kansas City Royals,Toronto Blue Jays,7,3
+19930716,Pittsburgh Pirates,Atlanta Braves,2,3
+19930716,Colorado Rockies,Chicago Cubs,2,8
+19930716,Florida Marlins,Cincinnati Reds,0,4
+19930716,Montreal Expos,Los Angeles Dodgers,1,2
+19930716,Philadelpia Phillies,San Diego Padres,3,5
+19930716,New York Mets,San  Francisco Giants,2,4
+19930716,Houston Colts,St. Louis Cardinals,7,6
+19930717,Minensota Twins,Baltimore Orioles,4,2
+19930717,Seattle Mariners,Boston Red Sox,3,4
+19930717,California Angels,Cleveland Indians,0,3
+19930717,Chicago White Sox,Milwaukee Brewers,9,4
+19930717,Oakland Athletics,New York Yankees,5,9
+19930717,Detroit Tigers,Texas Rangers,6,4
+19930717,Kansas City Royals,Toronto Blue Jays,5,4
+19930717,Pittsburgh Pirates,Atlanta Braves,4,3
+19930717,Colorado Rockies,Chicago Cubs,1,5
+19930717,Florida Marlins,Cincinnati Reds,6,3
+19930717,Montreal Expos,Los Angeles Dodgers,9,6
+19930717,Philadelpia Phillies,San Diego Padres,2,4
+19930717,New York Mets,San  Francisco Giants,3,1
+19930717,Houston Colts,St. Louis Cardinals,3,5
+19930718,Minensota Twins,Baltimore Orioles,2,7
+19930718,Seattle Mariners,Boston Red Sox,6,7
+19930718,California Angels,Cleveland Indians,1,2
+19930718,Chicago White Sox,Milwaukee Brewers,3,1
+19930718,Oakland Athletics,New York Yankees,6,13
+19930718,Detroit Tigers,Texas Rangers,2,0
+19930718,Kansas City Royals,Toronto Blue Jays,3,4
+19930718,Pittsburgh Pirates,Atlanta Braves,0,2
+19930718,Colorado Rockies,Chicago Cubs,2,12
+19930718,Florida Marlins,Cincinnati Reds,3,5
+19930718,Montreal Expos,Los Angeles Dodgers,1,2
+19930718,Philadelpia Phillies,San Diego Padres,6,3
+19930718,New York Mets,San  Francisco Giants,12,6
+19930718,Houston Colts,St. Louis Cardinals,6,7
+19930719,Kansas City Royals,Baltimore Orioles,5,6
+19930719,California Angels,Boston Red Sox,6,8
+19930719,Toronto Blue Jays,Chicago White Sox,15,7
+19930719,Oakland Athletics,Cleveland Indians,2,4
+19930719,Minensota Twins,Detroit Tigers,4,2
+19930719,Seattle Mariners,New York Yankees,2,8
+19930719,Milwaukee Brewers,Texas Rangers,3,5
+19930719,St. Louis Cardinals,Atlanta Braves,4,0
+19930719,Chicago Cubs,Cincinnati Reds,6,4
+19930719,Colorado Rockies,Florida Marlins,1,3
+19930719,Philadelpia Phillies,Los Angeles Dodgers,7,5
+19930719,Houston Colts,Pittsburgh Pirates,4,2
+19930719,New York Mets,San Diego Padres,2,1
+19930719,Montreal Expos,San  Francisco Giants,2,6
+19930720,Kansas City Royals,Baltimore Orioles,0,7
+19930720,California Angels,Boston Red Sox,1,2
+19930720,Toronto Blue Jays,Chicago White Sox,1,2
+19930720,Oakland Athletics,Cleveland Indians,5,9
+19930720,Minensota Twins,Detroit Tigers,4,3
+19930720,Seattle Mariners,New York Yankees,9,5
+19930720,Milwaukee Brewers,Texas Rangers,1,5
+19930720,St. Louis Cardinals,Atlanta Braves,5,8
+19930720,Chicago Cubs,Cincinnati Reds,3,8
+19930720,Colorado Rockies,Florida Marlins,6,3
+19930720,Philadelpia Phillies,Los Angeles Dodgers,8,2
+19930720,Houston Colts,Pittsburgh Pirates,1,2
+19930720,New York Mets,San Diego Padres,1,4
+19930720,Montreal Expos,San  Francisco Giants,3,8
+19930721,Kansas City Royals,Baltimore Orioles,8,6
+19930721,California Angels,Boston Red Sox,1,4
+19930721,Toronto Blue Jays,Chicago White Sox,4,1
+19930721,Oakland Athletics,Cleveland Indians,7,2
+19930721,Minensota Twins,Detroit Tigers,7,2
+19930721,Seattle Mariners,New York Yankees,10,3
+19930721,St. Louis Cardinals,Atlanta Braves,2,14
+19930721,Chicago Cubs,Cincinnati Reds,4,1
+19930721,Colorado Rockies,Florida Marlins,4,6
+19930721,Philadelpia Phillies,Los Angeles Dodgers,7,0
+19930721,Houston Colts,Pittsburgh Pirates,5,3
+19930721,New York Mets,San Diego Padres,5,2
+19930721,Montreal Expos,San  Francisco Giants,3,4
+19930722,Oakland Athletics,Boston Red Sox,7,9
+19930722,Milwaukee Brewers,Chicago White Sox,2,7
+19930722,Seattle Mariners,Cleveland Indians,3,2
+19930722,Kansas City Royals,Detroit Tigers,12,6
+19930722,Baltimore Orioles,Minensota Twins,4,8
+19930722,California Angels,New York Yankees,1,12
+19930722,Toronto Blue Jays,Texas Rangers,8,7
+19930722,St. Louis Cardinals,Colorado Rockies,6,7
+19930722,Cincinnati Reds,Florida Marlins,7,3
+19930722,Chicago Cubs,Houston Colts,4,9
+19930722,New York Mets,Los Angeles Dodgers,10,5
+19930722,Atlanta Braves,Pittsburgh Pirates,7,8
+19930722,Montreal Expos,San Diego Padres,10,5
+19930722,Philadelpia Phillies,San  Francisco Giants,1,4
+19930723,Oakland Athletics,Boston Red Sox,5,6
+19930723,Milwaukee Brewers,Chicago White Sox,3,2
+19930723,Seattle Mariners,Cleveland Indians,4,9
+19930723,Kansas City Royals,Detroit Tigers,7,6
+19930723,Baltimore Orioles,Minensota Twins,5,1
+19930723,California Angels,New York Yankees,2,5
+19930723,Toronto Blue Jays,Texas Rangers,5,6
+19930723,St. Louis Cardinals,Colorado Rockies,13,11
+19930723,Cincinnati Reds,Florida Marlins,3,2
+19930723,Chicago Cubs,Houston Colts,1,5
+19930723,New York Mets,Los Angeles Dodgers,2,5
+19930723,Atlanta Braves,Pittsburgh Pirates,6,2
+19930723,Montreal Expos,San Diego Padres,5,0
+19930723,Philadelpia Phillies,San  Francisco Giants,2,1
+19930724,Oakland Athletics,Boston Red Sox,3,5
+19930724,Milwaukee Brewers,Chicago White Sox,5,6
+19930724,Seattle Mariners,Cleveland Indians,6,5
+19930724,Kansas City Royals,Detroit Tigers,6,3
+19930724,Baltimore Orioles,Minensota Twins,9,2
+19930724,California Angels,New York Yankees,3,5
+19930724,Toronto Blue Jays,Texas Rangers,5,1
+19930724,St. Louis Cardinals,Colorado Rockies,8,9
+19930724,Cincinnati Reds,Florida Marlins,0,2
+19930724,Chicago Cubs,Houston Colts,7,6
+19930724,New York Mets,Los Angeles Dodgers,4,5
+19930724,Atlanta Braves,Pittsburgh Pirates,11,6
+19930724,Montreal Expos,San Diego Padres,4,11
+19930724,Philadelpia Phillies,San  Francisco Giants,4,5
+19930725,Oakland Athletics,Boston Red Sox,1,8
+19930725,Milwaukee Brewers,Chicago White Sox,7,3
+19930725,Seattle Mariners,Cleveland Indians,9,11
+19930725,Kansas City Royals,Detroit Tigers,0,3
+19930725,Baltimore Orioles,Minensota Twins,2,5
+19930725,California Angels,New York Yankees,8,9
+19930725,Toronto Blue Jays,Texas Rangers,9,7
+19930725,St. Louis Cardinals,Colorado Rockies,5,4
+19930725,Cincinnati Reds,Florida Marlins,3,7
+19930725,Chicago Cubs,Houston Colts,3,1
+19930725,New York Mets,Los Angeles Dodgers,4,0
+19930725,Atlanta Braves,Pittsburgh Pirates,13,1
+19930725,Montreal Expos,San Diego Padres,5,4
+19930725,Philadelpia Phillies,San  Francisco Giants,2,5
+19930726,Oakland Athletics,California Angels,11,4
+19930726,Cleveland Indians,Chicago White Sox,3,4
+19930726,New York Yankees,Detroit Tigers,2,5
+19930726,Texas Rangers,Kansas City Royals,3,12
+19930726,Texas Rangers,Kansas City Royals,5,6
+19930726,Boston Red Sox,Milwaukee Brewers,2,3
+19930726,San Diego Padres,Chicago Cubs,6,9
+19930726,Atlanta Braves,Colorado Rockies,12,7
+19930726,Cincinnati Reds,Houston Colts,6,1
+19930726,Los Angeles Dodgers,San  Francisco Giants,15,1
+19930727,Oakland Athletics,California Angels,8,15
+19930727,Cleveland Indians,Chicago White Sox,4,7
+19930727,New York Yankees,Detroit Tigers,5,2
+19930727,Texas Rangers,Kansas City Royals,1,0
+19930727,Boston Red Sox,Milwaukee Brewers,2,3
+19930727,Minensota Twins,Seattle Mariners,8,10
+19930727,Baltimore Orioles,Toronto Blue Jays,5,6
+19930727,San Diego Padres,Chicago Cubs,8,0
+19930727,Atlanta Braves,Colorado Rockies,10,5
+19930727,Cincinnati Reds,Houston Colts,5,6
+19930727,Florida Marlins,New York Mets,3,4
+19930727,St. Louis Cardinals,Philadelpia Phillies,7,10
+19930727,Montreal Expos,Pittsburgh Pirates,8,6
+19930727,Los Angeles Dodgers,San  Francisco Giants,2,3
+19930728,Oakland Athletics,California Angels,2,3
+19930728,Cleveland Indians,Chicago White Sox,4,9
+19930728,New York Yankees,Detroit Tigers,12,7
+19930728,Texas Rangers,Kansas City Royals,10,3
+19930728,Boston Red Sox,Milwaukee Brewers,8,4
+19930728,Minensota Twins,Seattle Mariners,5,1
+19930728,Baltimore Orioles,Toronto Blue Jays,4,5
+19930728,San Diego Padres,Chicago Cubs,6,8
+19930728,Atlanta Braves,Colorado Rockies,3,2
+19930728,Cincinnati Reds,Houston Colts,2,4
+19930728,Florida Marlins,New York Mets,4,5
+19930728,St. Louis Cardinals,Philadelpia Phillies,6,14
+19930728,Montreal Expos,Pittsburgh Pirates,2,3
+19930728,Los Angeles Dodgers,San  Francisco Giants,2,1
+19930729,Oakland Athletics,California Angels,2,1
+19930729,Texas Rangers,Kansas City Royals,4,9
+19930729,Boston Red Sox,Milwaukee Brewers,7,3
+19930729,Minensota Twins,Seattle Mariners,3,4
+19930729,Detroit Tigers,Toronto Blue Jays,4,7
+19930729,Atlanta Braves,Houston Colts,0,2
+19930729,Florida Marlins,New York Mets,2,1
+19930729,St. Louis Cardinals,Philadelpia Phillies,4,6
+19930729,Montreal Expos,Pittsburgh Pirates,3,2
+19930730,Boston Red Sox,Baltimore Orioles,8,7
+19930730,Minensota Twins,California Angels,2,4
+19930730,Cleveland Indians,Kansas City Royals,0,3
+19930730,Milwaukee Brewers,New York Yankees,4,8
+19930730,Texas Rangers,Oakland Athletics,1,4
+19930730,Chicago White Sox,Seattle Mariners,6,4
+19930730,Detroit Tigers,Toronto Blue Jays,8,5
+19930730,Los Angeles Dodgers,Chicago Cubs,1,2
+19930730,San Diego Padres,Cincinnati Reds,11,9
+19930730,San  Francisco Giants,Colorado Rockies,10,4
+19930730,Atlanta Braves,Houston Colts,4,1
+19930730,Florida Marlins,Montreal Expos,1,11
+19930730,Pittsburgh Pirates,Philadelpia Phillies,4,2
+19930730,New York Mets,St. Louis Cardinals,2,3
+19930731,Boston Red Sox,Baltimore Orioles,0,4
+19930731,Minensota Twins,California Angels,3,4
+19930731,Cleveland Indians,Kansas City Royals,6,4
+19930731,Milwaukee Brewers,New York Yankees,4,5
+19930731,Texas Rangers,Oakland Athletics,8,2
+19930731,Chicago White Sox,Seattle Mariners,13,10
+19930731,Detroit Tigers,Toronto Blue Jays,1,3
+19930731,Los Angeles Dodgers,Chicago Cubs,7,2
+19930731,San Diego Padres,Cincinnati Reds,3,6
+19930731,San  Francisco Giants,Colorado Rockies,4,3
+19930731,Atlanta Braves,Houston Colts,4,3
+19930731,Florida Marlins,Montreal Expos,5,6
+19930731,Pittsburgh Pirates,Philadelpia Phillies,2,10
+19930731,New York Mets,St. Louis Cardinals,3,4
+19930801,Boston Red Sox,Baltimore Orioles,2,1
+19930801,Minensota Twins,California Angels,9,2
+19930801,Cleveland Indians,Kansas City Royals,9,5
+19930801,Milwaukee Brewers,New York Yankees,9,2
+19930801,Texas Rangers,Oakland Athletics,5,9
+19930801,Chicago White Sox,Seattle Mariners,4,0
+19930801,Detroit Tigers,Toronto Blue Jays,1,2
+19930801,Los Angeles Dodgers,Chicago Cubs,4,10
+19930801,San Diego Padres,Cincinnati Reds,3,1
+19930801,San  Francisco Giants,Colorado Rockies,6,5
+19930801,Atlanta Braves,Houston Colts,3,2
+19930801,Florida Marlins,Montreal Expos,5,4
+19930801,Pittsburgh Pirates,Philadelpia Phillies,4,5
+19930801,New York Mets,St. Louis Cardinals,10,3
+19930802,Milwaukee Brewers,Baltimore Orioles,5,7
+19930802,Toronto Blue Jays,New York Yankees,4,0
+19930802,Chicago White Sox,Texas Rangers,8,9
+19930802,Pittsburgh Pirates,Chicago Cubs,10,12
+19930802,Colorado Rockies,Cincinnati Reds,2,6
+19930802,New York Mets,Montreal Expos,4,3
+19930802,Florida Marlins,St. Louis Cardinals,3,5
+19930803,Milwaukee Brewers,Baltimore Orioles,8,13
+19930803,Kansas City Royals,California Angels,2,3
+19930803,Detroit Tigers,Cleveland Indians,4,9
+19930803,Boston Red Sox,Minensota Twins,1,6
+19930803,Toronto Blue Jays,New York Yankees,8,6
+19930803,Seattle Mariners,Oakland Athletics,5,4
+19930803,Chicago White Sox,Texas Rangers,11,6
+19930803,Philadelpia Phillies,Atlanta Braves,5,3
+19930803,Pittsburgh Pirates,Chicago Cubs,7,3
+19930803,Colorado Rockies,Cincinnati Reds,4,5
+19930803,Los Angeles Dodgers,Houston Colts,1,6
+19930803,New York Mets,Montreal Expos,1,3
+19930803,San  Francisco Giants,San Diego Padres,12,7
+19930803,Florida Marlins,St. Louis Cardinals,1,0
+19930804,Milwaukee Brewers,Baltimore Orioles,6,8
+19930804,Kansas City Royals,California Angels,3,2
+19930804,Detroit Tigers,Cleveland Indians,8,3
+19930804,Boston Red Sox,Minensota Twins,5,4
+19930804,Toronto Blue Jays,New York Yankees,2,6
+19930804,Seattle Mariners,Oakland Athletics,4,5
+19930804,Chicago White Sox,Texas Rangers,2,5
+19930804,Philadelpia Phillies,Atlanta Braves,8,9
+19930804,Pittsburgh Pirates,Chicago Cubs,6,5
+19930804,Colorado Rockies,Cincinnati Reds,3,9
+19930804,Los Angeles Dodgers,Houston Colts,4,2
+19930804,New York Mets,Montreal Expos,1,3
+19930804,San  Francisco Giants,San Diego Padres,10,11
+19930804,Florida Marlins,St. Louis Cardinals,2,10
+19930805,Milwaukee Brewers,Baltimore Orioles,1,3
+19930805,Kansas City Royals,California Angels,4,5
+19930805,Detroit Tigers,Cleveland Indians,4,8
+19930805,Boston Red Sox,Minensota Twins,2,1
+19930805,Toronto Blue Jays,New York Yankees,4,5
+19930805,Seattle Mariners,Oakland Athletics,3,2
+19930805,Chicago White Sox,Texas Rangers,1,7
+19930805,Philadelpia Phillies,Atlanta Braves,10,4
+19930805,Pittsburgh Pirates,Chicago Cubs,5,2
+19930805,Colorado Rockies,Cincinnati Reds,4,11
+19930805,Los Angeles Dodgers,Houston Colts,5,2
+19930805,New York Mets,Montreal Expos,12,9
+19930805,San  Francisco Giants,San Diego Padres,5,3
+19930805,Florida Marlins,St. Louis Cardinals,6,16
+19930806,Cleveland Indians,Baltimore Orioles,1,8
+19930806,California Angels,Chicago White Sox,7,3
+19930806,Boston Red Sox,Detroit Tigers,1,5
+19930806,Oakland Athletics,Kansas City Royals,5,2
+19930806,New York Yankees,Minensota Twins,3,4
+19930806,Seattle Mariners,Texas Rangers,3,5
+19930806,Milwaukee Brewers,Toronto Blue Jays,10,11
+19930806,Montreal Expos,Atlanta Braves,8,2
+19930806,Philadelpia Phillies,Florida Marlins,3,4
+19930806,Cincinnati Reds,Los Angeles Dodgers,2,3
+19930806,Colorado Rockies,San Diego Padres,3,6
+19930806,Colorado Rockies,San Diego Padres,2,6
+19930806,Houston Colts,San  Francisco Giants,3,4
+19930806,Chicago Cubs,St. Louis Cardinals,6,4
+19930807,Cleveland Indians,Baltimore Orioles,6,8
+19930807,California Angels,Chicago White Sox,4,6
+19930807,Boston Red Sox,Detroit Tigers,4,1
+19930807,Oakland Athletics,Kansas City Royals,2,5
+19930807,New York Yankees,Minensota Twins,5,6
+19930807,Seattle Mariners,Texas Rangers,2,1
+19930807,Milwaukee Brewers,Toronto Blue Jays,7,1
+19930807,Montreal Expos,Atlanta Braves,5,3
+19930807,Philadelpia Phillies,Florida Marlins,8,7
+19930807,Cincinnati Reds,Los Angeles Dodgers,9,6
+19930807,Pittsburgh Pirates,New York Mets,2,1
+19930807,Pittsburgh Pirates,New York Mets,8,10
+19930807,Houston Colts,San  Francisco Giants,6,5
+19930807,Chicago Cubs,St. Louis Cardinals,1,4
+19930808,Cleveland Indians,Baltimore Orioles,6,7
+19930808,California Angels,Chicago White Sox,2,1
+19930808,Boston Red Sox,Detroit Tigers,1,5
+19930808,Oakland Athletics,Kansas City Royals,3,4
+19930808,New York Yankees,Minensota Twins,8,6
+19930808,Seattle Mariners,Texas Rangers,1,7
+19930808,Milwaukee Brewers,Toronto Blue Jays,5,2
+19930808,Montreal Expos,Atlanta Braves,2,3
+19930808,Philadelpia Phillies,Florida Marlins,5,6
+19930808,Cincinnati Reds,Los Angeles Dodgers,8,5
+19930808,Pittsburgh Pirates,New York Mets,3,2
+19930808,Colorado Rockies,San Diego Padres,5,2
+19930808,Houston Colts,San  Francisco Giants,4,1
+19930808,Chicago Cubs,St. Louis Cardinals,2,1
+19930809,Oakland Athletics,Chicago White Sox,4,5
+19930809,Baltimore Orioles,Detroit Tigers,4,1
+19930809,Seattle Mariners,Kansas City Royals,6,7
+19930809,Chicago Cubs,Florida Marlins,2,3
+19930809,Colorado Rockies,Los Angeles Dodgers,3,2
+19930809,St. Louis Cardinals,Pittsburgh Pirates,7,3
+19930809,Houston Colts,San Diego Padres,5,4
+19930809,Cincinnati Reds,San  Francisco Giants,7,10
+19930810,New York Yankees,Boston Red Sox,0,5
+19930810,Oakland Athletics,Chicago White Sox,0,4
+19930810,Baltimore Orioles,Detroit Tigers,1,15
+19930810,Seattle Mariners,Kansas City Royals,1,4
+19930810,Cleveland Indians,Milwaukee Brewers,4,5
+19930810,California Angels,Texas Rangers,3,6
+19930810,Minensota Twins,Toronto Blue Jays,3,6
+19930810,Chicago Cubs,Florida Marlins,2,3
+19930810,Colorado Rockies,Los Angeles Dodgers,4,2
+19930810,Atlanta Braves,New York Mets,3,2
+19930810,Montreal Expos,Philadelpia Phillies,2,5
+19930810,St. Louis Cardinals,Pittsburgh Pirates,4,2
+19930810,Houston Colts,San Diego Padres,2,7
+19930810,Cincinnati Reds,San  Francisco Giants,1,2
+19930811,New York Yankees,Boston Red Sox,8,3
+19930811,Oakland Athletics,Chicago White Sox,3,1
+19930811,Baltimore Orioles,Detroit Tigers,5,15
+19930811,Seattle Mariners,Kansas City Royals,4,3
+19930811,Cleveland Indians,Milwaukee Brewers,7,5
+19930811,California Angels,Texas Rangers,4,1
+19930811,Minensota Twins,Toronto Blue Jays,2,4
+19930811,Chicago Cubs,Florida Marlins,11,12
+19930811,Colorado Rockies,Los Angeles Dodgers,3,2
+19930811,Atlanta Braves,New York Mets,4,2
+19930811,Montreal Expos,Philadelpia Phillies,5,6
+19930811,St. Louis Cardinals,Pittsburgh Pirates,6,8
+19930811,Houston Colts,San Diego Padres,9,6
+19930811,Cincinnati Reds,San  Francisco Giants,0,6
+19930812,New York Yankees,Boston Red Sox,4,1
+19930812,Kansas City Royals,Chicago White Sox,4,2
+19930812,Baltimore Orioles,Detroit Tigers,11,17
+19930812,Cleveland Indians,Milwaukee Brewers,8,6
+19930812,California Angels,Texas Rangers,2,4
+19930812,Minensota Twins,Toronto Blue Jays,9,2
+19930812,Chicago Cubs,Florida Marlins,5,1
+19930812,Colorado Rockies,Los Angeles Dodgers,4,1
+19930812,Atlanta Braves,New York Mets,8,4
+19930812,Montreal Expos,Philadelpia Phillies,4,7
+19930812,St. Louis Cardinals,Pittsburgh Pirates,4,5
+19930812,Houston Colts,San Diego Padres,5,3
+19930813,Toronto Blue Jays,Boston Red Sox,3,5
+19930813,Kansas City Royals,Chicago White Sox,4,5
+19930813,Texas Rangers,Cleveland Indians,3,6
+19930813,Detroit Tigers,Milwaukee Brewers,1,6
+19930813,Detroit Tigers,Milwaukee Brewers,1,7
+19930813,Baltimore Orioles,New York Yankees,1,4
+19930813,Minensota Twins,Oakland Athletics,5,2
+19930813,California Angels,Seattle Mariners,1,2
+19930813,San  Francisco Giants,Chicago Cubs,4,1
+19930813,Atlanta Braves,Cincinnati Reds,14,0
+19930813,Colorado Rockies,Houston Colts,5,3
+19930813,San Diego Padres,Los Angeles Dodgers,4,1
+19930813,St. Louis Cardinals,Montreal Expos,3,4
+19930813,New York Mets,Philadelpia Phillies,5,9
+19930813,Florida Marlins,Pittsburgh Pirates,3,8
+19930814,Toronto Blue Jays,Boston Red Sox,5,2
+19930814,Kansas City Royals,Chicago White Sox,1,4
+19930814,Texas Rangers,Cleveland Indians,5,8
+19930814,Detroit Tigers,Milwaukee Brewers,5,1
+19930814,Baltimore Orioles,New York Yankees,2,4
+19930814,Minensota Twins,Oakland Athletics,5,1
+19930814,Minensota Twins,Oakland Athletics,6,2
+19930814,California Angels,Seattle Mariners,2,7
+19930814,San  Francisco Giants,Chicago Cubs,2,3
+19930814,Atlanta Braves,Cincinnati Reds,4,2
+19930814,Colorado Rockies,Houston Colts,0,9
+19930814,San Diego Padres,Los Angeles Dodgers,3,4
+19930814,St. Louis Cardinals,Montreal Expos,2,0
+19930814,New York Mets,Philadelpia Phillies,9,5
+19930814,Florida Marlins,Pittsburgh Pirates,8,3
+19930815,Toronto Blue Jays,Boston Red Sox,9,1
+19930815,Kansas City Royals,Chicago White Sox,7,5
+19930815,Texas Rangers,Cleveland Indians,4,1
+19930815,Detroit Tigers,Milwaukee Brewers,4,6
+19930815,Baltimore Orioles,New York Yankees,0,1
+19930815,Minensota Twins,Oakland Athletics,12,5
+19930815,California Angels,Seattle Mariners,14,2
+19930815,San  Francisco Giants,Chicago Cubs,9,7
+19930815,Atlanta Braves,Cincinnati Reds,1,0
+19930815,Colorado Rockies,Houston Colts,4,3
+19930815,San Diego Padres,Los Angeles Dodgers,2,4
+19930815,St. Louis Cardinals,Montreal Expos,1,7
+19930815,New York Mets,Philadelpia Phillies,4,5
+19930815,Florida Marlins,Pittsburgh Pirates,3,4
+19930816,Detroit Tigers,California Angels,7,2
+19930816,Toronto Blue Jays,Cleveland Indians,4,1
+19930816,Milwaukee Brewers,Oakland Athletics,1,4
+19930816,Baltimore Orioles,Seattle Mariners,6,8
+19930816,New York Mets,Cincinnati Reds,6,2
+19930817,Chicago White Sox,Boston Red Sox,3,2
+19930817,Detroit Tigers,California Angels,9,3
+19930817,Toronto Blue Jays,Cleveland Indians,6,4
+19930817,Kansas City Royals,Minensota Twins,3,2
+19930817,Texas Rangers,New York Yankees,4,11
+19930817,Texas Rangers,New York Yankees,3,2
+19930817,Milwaukee Brewers,Oakland Athletics,3,6
+19930817,Baltimore Orioles,Seattle Mariners,3,5
+19930817,Los Angeles Dodgers,Atlanta Braves,2,3
+19930817,Montreal Expos,Chicago Cubs,2,7
+19930817,Montreal Expos,Chicago Cubs,6,4
+19930817,New York Mets,Cincinnati Reds,0,6
+19930817,Philadelpia Phillies,Colorado Rockies,10,7
+19930817,Florida Marlins,Houston Colts,0,4
+19930817,San  Francisco Giants,Pittsburgh Pirates,3,10
+19930817,San Diego Padres,St. Louis Cardinals,4,8
+19930818,Chicago White Sox,Boston Red Sox,0,5
+19930818,Detroit Tigers,California Angels,8,6
+19930818,Toronto Blue Jays,Cleveland Indians,7,6
+19930818,Kansas City Royals,Minensota Twins,5,2
+19930818,Texas Rangers,New York Yankees,4,2
+19930818,Milwaukee Brewers,Oakland Athletics,1,2
+19930818,Baltimore Orioles,Seattle Mariners,8,1
+19930818,Los Angeles Dodgers,Atlanta Braves,4,5
+19930818,Montreal Expos,Chicago Cubs,0,2
+19930818,New York Mets,Cincinnati Reds,12,2
+19930818,Philadelpia Phillies,Colorado Rockies,7,6
+19930818,Florida Marlins,Houston Colts,1,2
+19930818,San  Francisco Giants,Pittsburgh Pirates,9,6
+19930818,San Diego Padres,St. Louis Cardinals,0,4
+19930819,Cleveland Indians,Boston Red Sox,5,1
+19930819,Milwaukee Brewers,California Angels,4,5
+19930819,Kansas City Royals,Minensota Twins,4,2
+19930819,Los Angeles Dodgers,Atlanta Braves,7,5
+19930819,Montreal Expos,Chicago Cubs,10,2
+19930819,Philadelpia Phillies,Colorado Rockies,5,6
+19930819,Florida Marlins,Houston Colts,3,8
+19930819,San  Francisco Giants,Pittsburgh Pirates,6,3
+19930819,San Diego Padres,St. Louis Cardinals,2,3
+19930820,Texas Rangers,Baltimore Orioles,5,10
+19930820,Cleveland Indians,Boston Red Sox,7,6
+19930820,Milwaukee Brewers,California Angels,7,2
+19930820,Oakland Athletics,Detroit Tigers,7,6
+19930820,Chicago White Sox,Minensota Twins,4,2
+19930820,Kansas City Royals,New York Yankees,2,7
+19930820,Seattle Mariners,Toronto Blue Jays,4,1
+19930820,Atlanta Braves,Chicago Cubs,3,6
+19930820,Montreal Expos,Cincinnati Reds,2,4
+19930820,Philadelpia Phillies,Houston Colts,6,4
+19930820,Pittsburgh Pirates,San Diego Padres,7,6
+19930820,Florida Marlins,San  Francisco Giants,5,4
+19930820,Los Angeles Dodgers,St. Louis Cardinals,3,2
+19930821,Texas Rangers,Baltimore Orioles,5,6
+19930821,Cleveland Indians,Boston Red Sox,10,5
+19930821,Milwaukee Brewers,California Angels,6,7
+19930821,Oakland Athletics,Detroit Tigers,3,4
+19930821,Chicago White Sox,Minensota Twins,9,4
+19930821,Kansas City Royals,New York Yankees,2,3
+19930821,Seattle Mariners,Toronto Blue Jays,5,2
+19930821,Atlanta Braves,Chicago Cubs,6,3
+19930821,Montreal Expos,Cincinnati Reds,6,3
+19930821,New York Mets,Colorado Rockies,3,4
+19930821,New York Mets,Colorado Rockies,6,8
+19930821,Philadelpia Phillies,Houston Colts,2,3
+19930821,Florida Marlins,San  Francisco Giants,4,7
+19930821,Los Angeles Dodgers,St. Louis Cardinals,8,4
+19930822,Texas Rangers,Baltimore Orioles,11,4
+19930822,Cleveland Indians,Boston Red Sox,3,2
+19930822,Milwaukee Brewers,California Angels,7,5
+19930822,Oakland Athletics,Detroit Tigers,3,5
+19930822,Chicago White Sox,Minensota Twins,1,0
+19930822,Kansas City Royals,New York Yankees,7,0
+19930822,Seattle Mariners,Toronto Blue Jays,7,12
+19930822,Atlanta Braves,Chicago Cubs,4,3
+19930822,Montreal Expos,Cincinnati Reds,7,2
+19930822,New York Mets,Colorado Rockies,3,4
+19930822,Philadelpia Phillies,Houston Colts,3,7
+19930822,Pittsburgh Pirates,San Diego Padres,10,5
+19930822,Florida Marlins,San  Francisco Giants,6,7
+19930822,Los Angeles Dodgers,St. Louis Cardinals,3,0
+19930823,Texas Rangers,Baltimore Orioles,13,6
+19930823,New York Yankees,Chicago White Sox,6,5
+19930823,Oakland Athletics,Detroit Tigers,0,9
+19930823,Minensota Twins,Kansas City Royals,3,2
+19930823,Cleveland Indians,Toronto Blue Jays,9,8
+19930823,Pittsburgh Pirates,Los Angeles Dodgers,1,6
+19930823,Chicago Cubs,Montreal Expos,0,1
+19930823,Cincinnati Reds,New York Mets,6,2
+19930823,Colorado Rockies,Philadelpia Phillies,3,2
+19930823,St. Louis Cardinals,San Diego Padres,5,7
+19930823,Atlanta Braves,San  Francisco Giants,5,3
+19930824,California Angels,Baltimore Orioles,0,1
+19930824,New York Yankees,Chicago White Sox,2,4
+19930824,Seattle Mariners,Detroit Tigers,1,4
+19930824,Minensota Twins,Kansas City Royals,3,5
+19930824,Oakland Athletics,Milwaukee Brewers,2,9
+19930824,Oakland Athletics,Milwaukee Brewers,6,7
+19930824,Boston Red Sox,Texas Rangers,3,4
+19930824,Cleveland Indians,Toronto Blue Jays,6,8
+19930824,Houston Colts,Florida Marlins,4,0
+19930824,Pittsburgh Pirates,Los Angeles Dodgers,4,13
+19930824,Chicago Cubs,Montreal Expos,6,5
+19930824,Cincinnati Reds,New York Mets,4,5
+19930824,Colorado Rockies,Philadelpia Phillies,2,4
+19930824,St. Louis Cardinals,San Diego Padres,4,17
+19930824,Atlanta Braves,San  Francisco Giants,6,4
+19930825,California Angels,Baltimore Orioles,2,1
+19930825,New York Yankees,Chicago White Sox,7,5
+19930825,Seattle Mariners,Detroit Tigers,4,7
+19930825,Minensota Twins,Kansas City Royals,4,2
+19930825,Oakland Athletics,Milwaukee Brewers,2,12
+19930825,Boston Red Sox,Texas Rangers,2,10
+19930825,Cleveland Indians,Toronto Blue Jays,7,10
+19930825,Houston Colts,Florida Marlins,3,2
+19930825,Pittsburgh Pirates,Los Angeles Dodgers,2,1
+19930825,Chicago Cubs,Montreal Expos,3,7
+19930825,Cincinnati Reds,New York Mets,4,1
+19930825,Colorado Rockies,Philadelpia Phillies,5,8
+19930825,St. Louis Cardinals,San Diego Padres,1,2
+19930825,Atlanta Braves,San  Francisco Giants,9,1
+19930826,California Angels,Baltimore Orioles,4,9
+19930826,New York Yankees,Cleveland Indians,4,0
+19930826,Minensota Twins,Kansas City Royals,0,3
+19930826,Oakland Athletics,Milwaukee Brewers,3,5
+19930826,Toronto Blue Jays,Seattle Mariners,3,6
+19930826,Boston Red Sox,Texas Rangers,3,1
+19930826,Houston Colts,Florida Marlins,4,5
+19930826,Colorado Rockies,New York Mets,1,7
+19930827,Minensota Twins,Chicago White Sox,3,7
+19930827,Minensota Twins,Chicago White Sox,7,2
+19930827,New York Yankees,Cleveland Indians,2,9
+19930827,Boston Red Sox,Kansas City Royals,5,0
+19930827,California Angels,Milwaukee Brewers,6,7
+19930827,California Angels,Milwaukee Brewers,3,4
+19930827,Detroit Tigers,Oakland Athletics,13,4
+19930827,Toronto Blue Jays,Seattle Mariners,6,7
+19930827,Baltimore Orioles,Texas Rangers,4,5
+19930827,Chicago Cubs,Atlanta Braves,9,7
+19930827,San  Francisco Giants,Florida Marlins,4,7
+19930827,St. Louis Cardinals,Los Angeles Dodgers,3,2
+19930827,Houston Colts,Montreal Expos,1,3
+19930827,Colorado Rockies,New York Mets,2,3
+19930827,Cincinnati Reds,Philadelpia Phillies,8,5
+19930827,San Diego Padres,Pittsburgh Pirates,10,6
+19930828,Minensota Twins,Chicago White Sox,1,4
+19930828,New York Yankees,Cleveland Indians,4,8
+19930828,Boston Red Sox,Kansas City Royals,2,1
+19930828,California Angels,Milwaukee Brewers,6,2
+19930828,Detroit Tigers,Oakland Athletics,5,3
+19930828,Toronto Blue Jays,Seattle Mariners,1,2
+19930828,Baltimore Orioles,Texas Rangers,1,11
+19930828,Chicago Cubs,Atlanta Braves,1,5
+19930828,St. Louis Cardinals,Los Angeles Dodgers,4,3
+19930828,Houston Colts,Montreal Expos,3,7
+19930828,Colorado Rockies,New York Mets,7,5
+19930828,Cincinnati Reds,Philadelpia Phillies,9,5
+19930828,San Diego Padres,Pittsburgh Pirates,5,3
+19930829,Minensota Twins,Chicago White Sox,5,13
+19930829,New York Yankees,Cleveland Indians,14,8
+19930829,Boston Red Sox,Kansas City Royals,4,5
+19930829,California Angels,Milwaukee Brewers,6,1
+19930829,Detroit Tigers,Oakland Athletics,3,7
+19930829,Toronto Blue Jays,Seattle Mariners,6,2
+19930829,Baltimore Orioles,Texas Rangers,6,3
+19930829,Chicago Cubs,Atlanta Braves,2,8
+19930829,San  Francisco Giants,Florida Marlins,9,3
+19930829,St. Louis Cardinals,Los Angeles Dodgers,3,8
+19930829,Houston Colts,Montreal Expos,2,3
+19930829,Colorado Rockies,New York Mets,6,1
+19930829,Cincinnati Reds,Philadelpia Phillies,0,12
+19930829,San Diego Padres,Pittsburgh Pirates,4,7
+19930829,San Diego Padres,Pittsburgh Pirates,11,0
+19930830,Texas Rangers,Boston Red Sox,3,7
+19930830,Minensota Twins,Chicago White Sox,1,4
+19930830,Kansas City Royals,Milwaukee Brewers,1,2
+19930830,Toronto Blue Jays,Oakland Athletics,4,2
+19930830,Detroit Tigers,Seattle Mariners,13,2
+19930830,Philadelpia Phillies,Chicago Cubs,6,10
+19930830,Montreal Expos,Colorado Rockies,6,1
+19930830,San  Francisco Giants,Florida Marlins,5,1
+19930830,Houston Colts,New York Mets,4,5
+19930830,Cincinnati Reds,St. Louis Cardinals,10,3
+19930831,Texas Rangers,Boston Red Sox,8,1
+19930831,Baltimore Orioles,California Angels,8,2
+19930831,Kansas City Royals,Milwaukee Brewers,6,5
+19930831,Cleveland Indians,Minensota Twins,4,5
+19930831,Chicago White Sox,New York Yankees,11,3
+19930831,Toronto Blue Jays,Oakland Athletics,3,2
+19930831,Detroit Tigers,Seattle Mariners,4,5
+19930831,San  Francisco Giants,Atlanta Braves,2,8
+19930831,Philadelpia Phillies,Chicago Cubs,7,0
+19930831,Montreal Expos,Colorado Rockies,14,3
+19930831,San Diego Padres,Florida Marlins,1,2
+19930831,Houston Colts,New York Mets,10,2
+19930831,Los Angeles Dodgers,Pittsburgh Pirates,2,6
+19930831,Cincinnati Reds,St. Louis Cardinals,6,7
+19930901,Texas Rangers,Boston Red Sox,9,7
+19930901,Baltimore Orioles,California Angels,5,1
+19930901,Kansas City Royals,Milwaukee Brewers,1,7
+19930901,Cleveland Indians,Minensota Twins,12,7
+19930901,Chicago White Sox,New York Yankees,5,3
+19930901,Toronto Blue Jays,Oakland Athletics,8,3
+19930901,Detroit Tigers,Seattle Mariners,3,9
+19930901,San  Francisco Giants,Atlanta Braves,3,2
+19930901,Philadelpia Phillies,Chicago Cubs,4,1
+19930901,Montreal Expos,Colorado Rockies,11,3
+19930901,San Diego Padres,Florida Marlins,13,5
+19930901,Houston Colts,New York Mets,3,2
+19930901,Los Angeles Dodgers,Pittsburgh Pirates,1,5
+19930901,Cincinnati Reds,St. Louis Cardinals,4,7
+19930902,Baltimore Orioles,California Angels,4,3
+19930902,Cleveland Indians,Minensota Twins,4,3
+19930902,Chicago White Sox,New York Yankees,1,7
+19930902,Milwaukee Brewers,Seattle Mariners,1,8
+19930902,San  Francisco Giants,Atlanta Braves,3,5
+19930902,New York Mets,Chicago Cubs,8,3
+19930902,San Diego Padres,Florida Marlins,2,8
+19930902,Los Angeles Dodgers,Pittsburgh Pirates,4,0
+19930903,Kansas City Royals,Boston Red Sox,5,1
+19930903,Toronto Blue Jays,California Angels,1,4
+19930903,Chicago White Sox,Detroit Tigers,8,6
+19930903,Texas Rangers,Minensota Twins,5,9
+19930903,Cleveland Indians,New York Yankees,7,3
+19930903,Baltimore Orioles,Oakland Athletics,5,4
+19930903,Milwaukee Brewers,Seattle Mariners,7,4
+19930903,San Diego Padres,Atlanta Braves,3,7
+19930903,New York Mets,Chicago Cubs,3,4
+19930903,Philadelpia Phillies,Cincinnati Reds,14,2
+19930903,Pittsburgh Pirates,Colorado Rockies,6,7
+19930903,Los Angeles Dodgers,Florida Marlins,5,4
+19930903,Montreal Expos,Houston Colts,3,0
+19930903,San  Francisco Giants,St. Louis Cardinals,6,1
+19930904,Kansas City Royals,Boston Red Sox,4,2
+19930904,Toronto Blue Jays,California Angels,2,4
+19930904,Chicago White Sox,Detroit Tigers,11,2
+19930904,Texas Rangers,Minensota Twins,6,4
+19930904,Cleveland Indians,New York Yankees,0,4
+19930904,Baltimore Orioles,Oakland Athletics,6,3
+19930904,Milwaukee Brewers,Seattle Mariners,1,6
+19930904,San Diego Padres,Atlanta Braves,2,3
+19930904,New York Mets,Chicago Cubs,8,9
+19930904,Philadelpia Phillies,Cincinnati Reds,5,6
+19930904,Pittsburgh Pirates,Colorado Rockies,4,10
+19930904,Los Angeles Dodgers,Florida Marlins,9,4
+19930904,Montreal Expos,Houston Colts,7,5
+19930904,San  Francisco Giants,St. Louis Cardinals,3,1
+19930905,Kansas City Royals,Boston Red Sox,5,2
+19930905,Toronto Blue Jays,California Angels,1,5
+19930905,Chicago White Sox,Detroit Tigers,5,3
+19930905,Texas Rangers,Minensota Twins,3,8
+19930905,Cleveland Indians,New York Yankees,2,7
+19930905,Baltimore Orioles,Oakland Athletics,9,2
+19930905,Milwaukee Brewers,Seattle Mariners,2,3
+19930905,San Diego Padres,Atlanta Braves,2,3
+19930905,New York Mets,Chicago Cubs,1,2
+19930905,Philadelpia Phillies,Cincinnati Reds,5,3
+19930905,Pittsburgh Pirates,Colorado Rockies,1,4
+19930905,Los Angeles Dodgers,Florida Marlins,3,4
+19930905,Montreal Expos,Houston Colts,1,7
+19930905,San  Francisco Giants,St. Louis Cardinals,6,7
+19930906,Seattle Mariners,Baltimore Orioles,1,5
+19930906,Boston Red Sox,Chicago White Sox,3,1
+19930906,Milwaukee Brewers,Kansas City Royals,3,2
+19930906,New York Yankees,Texas Rangers,5,8
+19930906,New York Mets,Houston Colts,2,7
+19930906,Atlanta Braves,Los Angeles Dodgers,1,2
+19930906,Colorado Rockies,Montreal Expos,3,4
+19930906,Chicago Cubs,Philadelpia Phillies,7,6
+19930906,Florida Marlins,San Diego Padres,2,0
+19930906,Pittsburgh Pirates,San  Francisco Giants,1,4
+19930907,Seattle Mariners,Baltimore Orioles,3,2
+19930907,Boston Red Sox,Chicago White Sox,4,3
+19930907,Minensota Twins,Cleveland Indians,6,0
+19930907,California Angels,Detroit Tigers,6,10
+19930907,New York Yankees,Texas Rangers,4,5
+19930907,Oakland Athletics,Toronto Blue Jays,11,7
+19930907,St. Louis Cardinals,Cincinnati Reds,13,14
+19930907,St. Louis Cardinals,Cincinnati Reds,15,2
+19930907,New York Mets,Houston Colts,3,4
+19930907,Atlanta Braves,Los Angeles Dodgers,1,0
+19930907,Colorado Rockies,Montreal Expos,3,4
+19930907,Chicago Cubs,Philadelpia Phillies,5,4
+19930907,Florida Marlins,San Diego Padres,4,6
+19930907,Pittsburgh Pirates,San  Francisco Giants,4,3
+19930908,Seattle Mariners,Baltimore Orioles,3,6
+19930908,Boston Red Sox,Chicago White Sox,1,8
+19930908,Minensota Twins,Cleveland Indians,8,15
+19930908,California Angels,Detroit Tigers,2,4
+19930908,Milwaukee Brewers,Kansas City Royals,2,1
+19930908,New York Yankees,Texas Rangers,1,4
+19930908,Oakland Athletics,Toronto Blue Jays,2,1
+19930908,St. Louis Cardinals,Cincinnati Reds,2,6
+19930908,New York Mets,Houston Colts,1,7
+19930908,Atlanta Braves,Los Angeles Dodgers,8,2
+19930908,Colorado Rockies,Montreal Expos,1,6
+19930908,Chicago Cubs,Philadelpia Phillies,8,5
+19930908,Florida Marlins,San Diego Padres,2,3
+19930909,Minensota Twins,Cleveland Indians,5,3
+19930909,California Angels,Detroit Tigers,6,0
+19930909,Oakland Athletics,Toronto Blue Jays,7,4
+19930909,Florida Marlins,Los Angeles Dodgers,5,6
+19930909,Chicago Cubs,Philadelpia Phillies,8,10
+19930909,Colorado Rockies,Pittsburgh Pirates,10,7
+19930909,Atlanta Braves,San Diego Padres,1,0
+19930909,St. Louis Cardinals,San  Francisco Giants,9,4
+19930910,Oakland Athletics,Baltimore Orioles,12,9
+19930910,Detroit Tigers,Chicago White Sox,4,0
+19930910,Boston Red Sox,Cleveland Indians,4,7
+19930910,Boston Red Sox,Cleveland Indians,5,4
+19930910,New York Yankees,Kansas City Royals,5,6
+19930910,Seattle Mariners,Milwaukee Brewers,10,3
+19930910,Minensota Twins,Texas Rangers,3,4
+19930910,Minensota Twins,Texas Rangers,2,3
+19930910,California Angels,Toronto Blue Jays,4,10
+19930910,Florida Marlins,Los Angeles Dodgers,2,1
+19930910,Cincinnati Reds,Montreal Expos,3,4
+19930910,Chicago Cubs,New York Mets,12,10
+19930910,Houston Colts,Philadelpia Phillies,2,6
+19930910,Colorado Rockies,Pittsburgh Pirates,9,8
+19930910,Atlanta Braves,San Diego Padres,3,2
+19930910,St. Louis Cardinals,San  Francisco Giants,6,2
+19930911,Oakland Athletics,Baltimore Orioles,1,3
+19930911,Detroit Tigers,Chicago White Sox,1,3
+19930911,Boston Red Sox,Cleveland Indians,3,9
+19930911,New York Yankees,Kansas City Royals,12,5
+19930911,Seattle Mariners,Milwaukee Brewers,7,3
+19930911,Minensota Twins,Texas Rangers,4,7
+19930911,California Angels,Toronto Blue Jays,5,9
+19930911,Florida Marlins,Los Angeles Dodgers,3,2
+19930911,Cincinnati Reds,Montreal Expos,2,4
+19930911,Chicago Cubs,New York Mets,4,3
+19930911,Houston Colts,Philadelpia Phillies,4,1
+19930911,Colorado Rockies,Pittsburgh Pirates,3,2
+19930911,Atlanta Braves,San Diego Padres,13,1
+19930911,St. Louis Cardinals,San  Francisco Giants,3,1
+19930912,Oakland Athletics,Baltimore Orioles,5,14
+19930912,Detroit Tigers,Chicago White Sox,6,3
+19930912,Boston Red Sox,Cleveland Indians,11,1
+19930912,New York Yankees,Kansas City Royals,2,10
+19930912,Seattle Mariners,Milwaukee Brewers,5,4
+19930912,Minensota Twins,Texas Rangers,4,2
+19930912,California Angels,Toronto Blue Jays,1,4
+19930912,Florida Marlins,Los Angeles Dodgers,0,1
+19930912,Cincinnati Reds,Montreal Expos,2,3
+19930912,Chicago Cubs,New York Mets,0,5
+19930912,Houston Colts,Philadelpia Phillies,9,2
+19930912,Colorado Rockies,Pittsburgh Pirates,3,4
+19930912,Atlanta Braves,San Diego Padres,4,5
+19930912,St. Louis Cardinals,San  Francisco Giants,4,2
+19930913,Baltimore Orioles,Boston Red Sox,4,6
+19930913,Seattle Mariners,California Angels,10,1
+19930913,Chicago White Sox,Kansas City Royals,0,9
+19930913,New York Yankees,Milwaukee Brewers,3,1
+19930913,Oakland Athletics,Minensota Twins,7,2
+19930913,Cleveland Indians,Texas Rangers,1,12
+19930913,Philadelpia Phillies,New York Mets,5,0
+19930913,Los Angeles Dodgers,San Diego Padres,3,4
+19930913,Chicago Cubs,San  Francisco Giants,6,5
+19930914,Baltimore Orioles,Boston Red Sox,11,3
+19930914,Seattle Mariners,California Angels,2,9
+19930914,Toronto Blue Jays,Detroit Tigers,9,5
+19930914,Chicago White Sox,Kansas City Royals,8,3
+19930914,New York Yankees,Milwaukee Brewers,12,5
+19930914,Oakland Athletics,Minensota Twins,8,3
+19930914,Cleveland Indians,Texas Rangers,2,0
+19930914,Cincinnati Reds,Atlanta Braves,3,10
+19930914,Houston Colts,Colorado Rockies,4,9
+19930914,Houston Colts,Colorado Rockies,5,6
+19930914,Pittsburgh Pirates,Florida Marlins,1,0
+19930914,Philadelpia Phillies,New York Mets,4,5
+19930914,Los Angeles Dodgers,San Diego Padres,5,3
+19930914,Chicago Cubs,San  Francisco Giants,8,1
+19930914,Montreal Expos,St. Louis Cardinals,12,9
+19930915,Baltimore Orioles,Boston Red Sox,5,6
+19930915,Seattle Mariners,California Angels,1,15
+19930915,Toronto Blue Jays,Detroit Tigers,14,8
+19930915,Chicago White Sox,Kansas City Royals,10,6
+19930915,New York Yankees,Milwaukee Brewers,5,15
+19930915,Oakland Athletics,Minensota Twins,15,2
+19930915,Cleveland Indians,Texas Rangers,4,7
+19930915,Cincinnati Reds,Atlanta Braves,6,7
+19930915,Houston Colts,Colorado Rockies,4,6
+19930915,Pittsburgh Pirates,Florida Marlins,8,1
+19930915,Philadelpia Phillies,New York Mets,6,3
+19930915,Los Angeles Dodgers,San Diego Padres,5,4
+19930915,Chicago Cubs,San  Francisco Giants,3,1
+19930915,Montreal Expos,St. Louis Cardinals,4,5
+19930916,Oakland Athletics,Minensota Twins,4,5
+19930916,Boston Red Sox,New York Yankees,6,4
+19930916,Kansas City Royals,Seattle Mariners,1,14
+19930916,Cincinnati Reds,Atlanta Braves,2,3
+19930916,Houston Colts,Colorado Rockies,3,6
+19930916,Pittsburgh Pirates,Florida Marlins,10,0
+19930916,Montreal Expos,St. Louis Cardinals,4,3
+19930917,Texas Rangers,California Angels,1,2
+19930917,Cleveland Indians,Detroit Tigers,3,1
+19930917,Baltimore Orioles,Milwaukee Brewers,0,2
+19930917,Toronto Blue Jays,Minensota Twins,4,2
+19930917,Boston Red Sox,New York Yankees,4,5
+19930917,Chicago White Sox,Oakland Athletics,8,0
+19930917,Kansas City Royals,Seattle Mariners,6,3
+19930917,New York Mets,Atlanta Braves,1,2
+19930917,Florida Marlins,Chicago Cubs,2,0
+19930917,San  Francisco Giants,Cincinnati Reds,13,0
+19930917,Los Angeles Dodgers,Colorado Rockies,3,12
+19930917,San Diego Padres,Houston Colts,0,3
+19930917,Philadelpia Phillies,Montreal Expos,7,8
+19930917,Pittsburgh Pirates,St. Louis Cardinals,2,1
+19930918,Texas Rangers,California Angels,9,2
+19930918,Cleveland Indians,Detroit Tigers,6,7
+19930918,Baltimore Orioles,Milwaukee Brewers,0,3
+19930918,Toronto Blue Jays,Minensota Twins,5,1
+19930918,Boston Red Sox,New York Yankees,3,4
+19930918,Chicago White Sox,Oakland Athletics,2,3
+19930918,Kansas City Royals,Seattle Mariners,1,0
+19930918,New York Mets,Atlanta Braves,3,2
+19930918,Florida Marlins,Chicago Cubs,5,6
+19930918,San  Francisco Giants,Cincinnati Reds,6,1
+19930918,Los Angeles Dodgers,Colorado Rockies,9,0
+19930918,San Diego Padres,Houston Colts,2,4
+19930918,Philadelpia Phillies,Montreal Expos,5,4
+19930918,Pittsburgh Pirates,St. Louis Cardinals,1,8
+19930919,Texas Rangers,California Angels,8,9
+19930919,Cleveland Indians,Detroit Tigers,12,2
+19930919,Baltimore Orioles,Milwaukee Brewers,8,4
+19930919,Toronto Blue Jays,Minensota Twins,10,0
+19930919,Boston Red Sox,New York Yankees,8,3
+19930919,Chicago White Sox,Oakland Athletics,3,1
+19930919,Kansas City Royals,Seattle Mariners,1,4
+19930919,New York Mets,Atlanta Braves,2,11
+19930919,Florida Marlins,Chicago Cubs,2,1
+19930919,San  Francisco Giants,Cincinnati Reds,7,3
+19930919,Los Angeles Dodgers,Colorado Rockies,5,8
+19930919,San Diego Padres,Houston Colts,6,3
+19930919,Philadelpia Phillies,Montreal Expos,5,6
+19930919,Pittsburgh Pirates,St. Louis Cardinals,6,7
+19930920,Chicago White Sox,California Angels,10,2
+19930920,Baltimore Orioles,Cleveland Indians,4,6
+19930920,Milwaukee Brewers,Detroit Tigers,3,6
+19930920,Kansas City Royals,Oakland Athletics,1,2
+19930920,Texas Rangers,Seattle Mariners,2,1
+19930920,St. Louis Cardinals,Chicago Cubs,5,6
+19930920,Los Angeles Dodgers,Cincinnati Reds,5,2
+19930920,San Diego Padres,Colorado Rockies,11,7
+19930920,San  Francisco Giants,Houston Colts,7,2
+19930920,Florida Marlins,Philadelpia Phillies,1,7
+19930920,New York Mets,Pittsburgh Pirates,2,6
+19930921,Chicago White Sox,California Angels,0,8
+19930921,Baltimore Orioles,Cleveland Indians,7,6
+19930921,Milwaukee Brewers,Detroit Tigers,7,4
+19930921,Minensota Twins,New York Yankees,5,4
+19930921,Kansas City Royals,Oakland Athletics,6,9
+19930921,Texas Rangers,Seattle Mariners,0,8
+19930921,Boston Red Sox,Toronto Blue Jays,0,5
+19930921,St. Louis Cardinals,Chicago Cubs,3,13
+19930921,Los Angeles Dodgers,Cincinnati Reds,5,3
+19930921,San Diego Padres,Colorado Rockies,4,15
+19930921,San  Francisco Giants,Houston Colts,0,6
+19930921,Atlanta Braves,Montreal Expos,18,5
+19930921,Florida Marlins,Philadelpia Phillies,3,5
+19930921,New York Mets,Pittsburgh Pirates,4,3
+19930922,Chicago White Sox,California Angels,1,0
+19930922,Baltimore Orioles,Cleveland Indians,2,4
+19930922,Milwaukee Brewers,Detroit Tigers,4,8
+19930922,Minensota Twins,New York Yankees,5,2
+19930922,Kansas City Royals,Oakland Athletics,3,2
+19930922,Texas Rangers,Seattle Mariners,4,7
+19930922,Boston Red Sox,Toronto Blue Jays,7,5
+19930922,St. Louis Cardinals,Chicago Cubs,9,11
+19930922,Los Angeles Dodgers,Cincinnati Reds,3,1
+19930922,San Diego Padres,Colorado Rockies,4,11
+19930922,San  Francisco Giants,Houston Colts,1,0
+19930922,Atlanta Braves,Montreal Expos,1,6
+19930922,Florida Marlins,Philadelpia Phillies,1,2
+19930922,New York Mets,Pittsburgh Pirates,6,5
+19930923,Chicago White Sox,California Angels,7,1
+19930923,Kansas City Royals,Oakland Athletics,1,2
+19930923,Boston Red Sox,Toronto Blue Jays,1,5
+19930923,Los Angeles Dodgers,Cincinnati Reds,2,11
+19930923,San  Francisco Giants,Houston Colts,7,0
+19930923,Atlanta Braves,Montreal Expos,6,3
+19930924,Detroit Tigers,Baltimore Orioles,2,0
+19930924,Minensota Twins,Boston Red Sox,4,7
+19930924,Texas Rangers,Chicago White Sox,4,5
+19930924,Milwaukee Brewers,Cleveland Indians,11,8
+19930924,California Angels,Kansas City Royals,2,7
+19930924,Oakland Athletics,Seattle Mariners,5,3
+19930924,New York Yankees,Toronto Blue Jays,3,7
+19930924,Cincinnati Reds,Colorado Rockies,2,9
+19930924,St. Louis Cardinals,Florida Marlins,9,5
+19930924,Houston Colts,Los Angeles Dodgers,3,6
+19930924,Montreal Expos,New York Mets,6,3
+19930924,Atlanta Braves,Philadelpia Phillies,0,3
+19930924,Chicago Cubs,Pittsburgh Pirates,8,3
+19930924,San Diego Padres,San  Francisco Giants,3,4
+19930925,Minensota Twins,Boston Red Sox,9,7
+19930925,Milwaukee Brewers,Cleveland Indians,2,6
+19930925,California Angels,Kansas City Royals,6,2
+19930925,Oakland Athletics,Seattle Mariners,7,2
+19930925,New York Yankees,Toronto Blue Jays,1,3
+19930925,Cincinnati Reds,Colorado Rockies,6,0
+19930925,St. Louis Cardinals,Florida Marlins,1,2
+19930925,Houston Colts,Los Angeles Dodgers,12,4
+19930925,Montreal Expos,New York Mets,4,1
+19930925,Atlanta Braves,Philadelpia Phillies,9,7
+19930925,San Diego Padres,San  Francisco Giants,1,3
+19930926,Detroit Tigers,Baltimore Orioles,9,4
+19930926,Detroit Tigers,Baltimore Orioles,6,5
+19930926,Minensota Twins,Boston Red Sox,5,2
+19930926,Texas Rangers,Chicago White Sox,3,5
+19930926,Texas Rangers,Chicago White Sox,3,2
+19930926,Milwaukee Brewers,Cleveland Indians,4,6
+19930926,California Angels,Kansas City Royals,8,9
+19930926,Oakland Athletics,Seattle Mariners,3,2
+19930926,New York Yankees,Toronto Blue Jays,7,3
+19930926,Cincinnati Reds,Colorado Rockies,7,12
+19930926,St. Louis Cardinals,Florida Marlins,10,7
+19930926,Houston Colts,Los Angeles Dodgers,5,4
+19930926,Montreal Expos,New York Mets,3,9
+19930926,Atlanta Braves,Philadelpia Phillies,7,2
+19930926,Chicago Cubs,Pittsburgh Pirates,1,5
+19930926,Chicago Cubs,Pittsburgh Pirates,0,1
+19930926,San Diego Padres,San  Francisco Giants,2,5
+19930927,New York Yankees,Baltimore Orioles,9,1
+19930927,Seattle Mariners,Chicago White Sox,2,4
+19930927,Cleveland Indians,Kansas City Royals,5,6
+19930927,Toronto Blue Jays,Milwaukee Brewers,2,0
+19930927,California Angels,Minensota Twins,3,11
+19930927,Montreal Expos,Florida Marlins,1,3
+19930927,Chicago Cubs,Los Angeles Dodgers,7,3
+19930927,St. Louis Cardinals,New York Mets,4,3
+19930927,Philadelpia Phillies,Pittsburgh Pirates,6,4
+19930927,San Diego Padres,San  Francisco Giants,4,8
+19930928,New York Yankees,Baltimore Orioles,1,9
+19930928,Detroit Tigers,Boston Red Sox,6,11
+19930928,Detroit Tigers,Boston Red Sox,7,6
+19930928,Seattle Mariners,Chicago White Sox,5,2
+19930928,Cleveland Indians,Kansas City Royals,3,2
+19930928,Toronto Blue Jays,Milwaukee Brewers,6,4
+19930928,California Angels,Minensota Twins,1,2
+19930928,Oakland Athletics,Texas Rangers,0,2
+19930928,Oakland Athletics,Texas Rangers,10,3
+19930928,Houston Colts,Atlanta Braves,5,2
+19930928,Montreal Expos,Florida Marlins,3,2
+19930928,Chicago Cubs,Los Angeles Dodgers,5,6
+19930928,St. Louis Cardinals,New York Mets,1,6
+19930928,Philadelpia Phillies,Pittsburgh Pirates,10,7
+19930928,Cincinnati Reds,San Diego Padres,4,11
+19930928,Colorado Rockies,San  Francisco Giants,4,6
+19930929,New York Yankees,Baltimore Orioles,8,3
+19930929,Detroit Tigers,Boston Red Sox,8,7
+19930929,Seattle Mariners,Chicago White Sox,2,3
+19930929,Cleveland Indians,Kansas City Royals,2,3
+19930929,Toronto Blue Jays,Milwaukee Brewers,9,6
+19930929,California Angels,Minensota Twins,2,3
+19930929,Oakland Athletics,Texas Rangers,6,11
+19930929,Houston Colts,Atlanta Braves,3,6
+19930929,Montreal Expos,Florida Marlins,7,1
+19930929,Chicago Cubs,Los Angeles Dodgers,6,1
+19930929,St. Louis Cardinals,New York Mets,0,1
+19930929,Philadelpia Phillies,Pittsburgh Pirates,1,9
+19930929,Cincinnati Reds,San Diego Padres,8,0
+19930929,Colorado Rockies,San  Francisco Giants,5,3
+19930930,Toronto Blue Jays,Baltimore Orioles,6,2
+19930930,Detroit Tigers,Boston Red Sox,7,4
+19930930,Seattle Mariners,Chicago White Sox,2,1
+19930930,California Angels,Minensota Twins,3,4
+19930930,Oakland Athletics,Texas Rangers,2,6
+19930930,Houston Colts,Atlanta Braves,10,8
+19930930,Montreal Expos,Florida Marlins,5,3
+19930930,San  Francisco Giants,Los Angeles Dodgers,3,1
+19930930,St. Louis Cardinals,New York Mets,2,3
+19930930,Philadelpia Phillies,Pittsburgh Pirates,0,5
+19931001,Toronto Blue Jays,Baltimore Orioles,2,7
+19931001,Milwaukee Brewers,Boston Red Sox,8,4
+19931001,Chicago White Sox,Cleveland Indians,4,2
+19931001,Seattle Mariners,Minensota Twins,8,2
+19931001,Detroit Tigers,New York Yankees,6,9
+19931001,California Angels,Oakland Athletics,2,7
+19931001,Kansas City Royals,Texas Rangers,0,2
+19931001,Colorado Rockies,Atlanta Braves,4,7
+19931001,Houston Colts,Cincinnati Reds,2,0
+19931001,New York Mets,Florida Marlins,4,1
+19931001,San  Francisco Giants,Los Angeles Dodgers,8,7
+19931001,Pittsburgh Pirates,Montreal Expos,3,6
+19931001,Chicago Cubs,San Diego Padres,8,5
+19931001,Philadelpia Phillies,St. Louis Cardinals,4,2
+19931002,Toronto Blue Jays,Baltimore Orioles,4,8
+19931002,Milwaukee Brewers,Boston Red Sox,8,5
+19931002,Chicago White Sox,Cleveland Indians,4,2
+19931002,Seattle Mariners,Minensota Twins,7,3
+19931002,Detroit Tigers,New York Yankees,4,1
+19931002,California Angels,Oakland Athletics,6,2
+19931002,Kansas City Royals,Texas Rangers,7,4
+19931002,Colorado Rockies,Atlanta Braves,1,10
+19931002,Houston Colts,Cincinnati Reds,3,1
+19931002,New York Mets,Florida Marlins,7,1
+19931002,San  Francisco Giants,Los Angeles Dodgers,5,3
+19931002,Pittsburgh Pirates,Montreal Expos,4,2
+19931002,Chicago Cubs,San Diego Padres,3,7
+19931002,Philadelpia Phillies,St. Louis Cardinals,4,5
+19931003,Toronto Blue Jays,Baltimore Orioles,11,6
+19931003,Milwaukee Brewers,Boston Red Sox,6,3
+19931003,Chicago White Sox,Cleveland Indians,4,0
+19931003,Seattle Mariners,Minensota Twins,2,7
+19931003,Detroit Tigers,New York Yankees,1,2
+19931003,California Angels,Oakland Athletics,7,3
+19931003,Kansas City Royals,Texas Rangers,4,1
+19931003,Colorado Rockies,Atlanta Braves,3,5
+19931003,Houston Colts,Cincinnati Reds,4,7
+19931003,New York Mets,Florida Marlins,9,2
+19931003,San  Francisco Giants,Los Angeles Dodgers,1,12
+19931003,Pittsburgh Pirates,Montreal Expos,1,3
+19931003,Chicago Cubs,San Diego Padres,4,1
+19931003,Philadelpia Phillies,St. Louis Cardinals,0,2

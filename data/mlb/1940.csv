@@ -1,0 +1,1237 @@
+Date,away_team,home_team,away_team_score,home_team_score
+19400416,Cleveland Indians,Chicago White Sox,1,0
+19400416,St. Louis Browns,Detroit Tigers,5,1
+19400416,New York Yankees,Philadelphia Athletics,1,2
+19400416,Boston Red Sox,Washington Senators,1,0
+19400416,Brooklyn Dodgers,Boston Braves,5,0
+19400416,Chicago Cubs,Cincinnati Reds,1,2
+19400416,Philadelpia Phillies,New York Giants,3,1
+19400416,Pittsburgh Pirates,St. Louis Cardinals,6,4
+19400417,New York Yankees,Philadelphia Athletics,4,1
+19400418,St. Louis Browns,Detroit Tigers,2,4
+19400418,Boston Red Sox,Washington Senators,7,0
+19400418,Chicago Cubs,Cincinnati Reds,1,2
+19400419,Philadelphia Athletics,Boston Red Sox,6,7
+19400419,Philadelphia Athletics,Boston Red Sox,3,1
+19400419,Detroit Tigers,Cleveland Indians,0,4
+19400419,Washington Senators,New York Yankees,3,5
+19400419,New York Giants,Brooklyn Dodgers,0,12
+19400419,St. Louis Cardinals,Chicago Cubs,0,5
+19400420,Chicago White Sox,St. Louis Browns,1,11
+19400420,St. Louis Cardinals,Chicago Cubs,3,4
+19400421,Detroit Tigers,Cleveland Indians,12,2
+19400421,Chicago White Sox,St. Louis Browns,6,2
+19400421,St. Louis Cardinals,Chicago Cubs,5,4
+19400422,Detroit Tigers,Chicago White Sox,6,5
+19400422,Cleveland Indians,St. Louis Browns,5,2
+19400422,St. Louis Cardinals,Cincinnati Reds,1,6
+19400422,Chicago Cubs,Pittsburgh Pirates,5,9
+19400423,Washington Senators,Boston Red Sox,2,7
+19400423,Philadelphia Athletics,New York Yankees,3,0
+19400423,Boston Braves,Brooklyn Dodgers,3,8
+19400423,New York Giants,Philadelpia Phillies,1,0
+19400423,Chicago Cubs,Pittsburgh Pirates,2,3
+19400424,Washington Senators,Boston Red Sox,9,6
+19400424,Detroit Tigers,Chicago White Sox,2,1
+19400424,Philadelphia Athletics,New York Yankees,4,9
+19400424,Cleveland Indians,St. Louis Browns,6,4
+19400424,Boston Braves,Brooklyn Dodgers,6,8
+19400424,New York Giants,Philadelpia Phillies,5,2
+19400424,Chicago Cubs,Pittsburgh Pirates,9,4
+19400425,Chicago White Sox,Cleveland Indians,1,3
+19400425,Detroit Tigers,St. Louis Browns,4,2
+19400425,Philadelphia Athletics,Washington Senators,6,7
+19400425,Cincinnati Reds,Chicago Cubs,2,4
+19400425,Boston Braves,New York Giants,1,9
+19400425,Brooklyn Dodgers,Philadelpia Phillies,3,1
+19400425,St. Louis Cardinals,Pittsburgh Pirates,10,9
+19400426,New York Yankees,Boston Red Sox,1,8
+19400426,Chicago White Sox,Cleveland Indians,11,1
+19400426,Philadelphia Athletics,Washington Senators,6,8
+19400426,Cincinnati Reds,Chicago Cubs,2,6
+19400426,Boston Braves,New York Giants,3,5
+19400426,Brooklyn Dodgers,Philadelpia Phillies,6,0
+19400426,St. Louis Cardinals,Pittsburgh Pirates,4,10
+19400427,St. Louis Browns,Chicago White Sox,6,2
+19400427,Cleveland Indians,Detroit Tigers,4,2
+19400427,Boston Red Sox,Philadelphia Athletics,3,8
+19400427,New York Yankees,Washington Senators,2,3
+19400427,Philadelpia Phillies,Boston Braves,5,4
+19400427,Pittsburgh Pirates,Cincinnati Reds,0,3
+19400427,Brooklyn Dodgers,New York Giants,4,1
+19400427,Chicago Cubs,St. Louis Cardinals,4,0
+19400428,St. Louis Browns,Chicago White Sox,11,8
+19400428,Cleveland Indians,Detroit Tigers,11,9
+19400428,Boston Red Sox,Philadelphia Athletics,5,4
+19400428,New York Yankees,Washington Senators,2,3
+19400428,Pittsburgh Pirates,Cincinnati Reds,2,8
+19400428,Brooklyn Dodgers,New York Giants,5,3
+19400428,Chicago Cubs,St. Louis Cardinals,5,7
+19400428,Philadelpia Phillies,Boston Braves,2,3
+19400429,Cleveland Indians,Detroit Tigers,3,4
+19400429,Boston Red Sox,Philadelphia Athletics,11,3
+19400429,New York Yankees,Washington Senators,5,4
+19400429,Pittsburgh Pirates,Cincinnati Reds,2,3
+19400429,Chicago Cubs,St. Louis Cardinals,5,6
+19400430,Chicago White Sox,Boston Red Sox,9,4
+19400430,St. Louis Browns,New York Yankees,2,1
+19400430,Cleveland Indians,Philadelphia Athletics,10,5
+19400430,Detroit Tigers,Washington Senators,4,9
+19400430,Boston Braves,Chicago Cubs,7,8
+19400430,Brooklyn Dodgers,Cincinnati Reds,3,0
+19400430,Philadelpia Phillies,Pittsburgh Pirates,6,2
+19400501,Chicago White Sox,Boston Red Sox,4,12
+19400501,St. Louis Browns,New York Yankees,3,5
+19400501,Cleveland Indians,Philadelphia Athletics,1,5
+19400501,Detroit Tigers,Washington Senators,10,7
+19400501,Brooklyn Dodgers,Cincinnati Reds,2,9
+19400502,Detroit Tigers,Washington Senators,5,3
+19400502,New York Giants,St. Louis Cardinals,7,4
+19400503,St. Louis Browns,Boston Red Sox,8,9
+19400503,Chicago White Sox,New York Yankees,4,8
+19400503,Boston Braves,St. Louis Cardinals,4,2
+19400504,St. Louis Browns,Boston Red Sox,1,4
+19400504,Chicago White Sox,New York Yankees,10,3
+19400504,Detroit Tigers,Philadelphia Athletics,5,14
+19400504,Cleveland Indians,Washington Senators,12,4
+19400504,New York Giants,Chicago Cubs,2,3
+19400504,Philadelpia Phillies,Cincinnati Reds,2,3
+19400504,Boston Braves,St. Louis Cardinals,1,3
+19400505,Cleveland Indians,Boston Red Sox,6,1
+19400505,Detroit Tigers,New York Yankees,6,4
+19400505,Chicago White Sox,Philadelphia Athletics,6,5
+19400505,St. Louis Browns,Washington Senators,7,3
+19400505,New York Giants,Cincinnati Reds,2,3
+19400505,Boston Braves,Pittsburgh Pirates,5,1
+19400505,Brooklyn Dodgers,St. Louis Cardinals,9,6
+19400505,Philadelpia Phillies,Chicago Cubs,7,5
+19400506,Cleveland Indians,Boston Red Sox,5,8
+19400506,Detroit Tigers,New York Yankees,6,4
+19400506,Chicago White Sox,Philadelphia Athletics,2,3
+19400506,St. Louis Browns,Washington Senators,11,9
+19400506,Philadelpia Phillies,Chicago Cubs,4,5
+19400506,New York Giants,Cincinnati Reds,1,9
+19400506,Boston Braves,Pittsburgh Pirates,10,7
+19400506,Brooklyn Dodgers,St. Louis Cardinals,6,2
+19400507,Cleveland Indians,Boston Red Sox,4,6
+19400507,Detroit Tigers,New York Yankees,4,2
+19400507,Chicago White Sox,Philadelphia Athletics,6,3
+19400507,St. Louis Browns,Washington Senators,5,6
+19400507,Philadelpia Phillies,Chicago Cubs,1,0
+19400507,New York Giants,Cincinnati Reds,6,7
+19400507,Boston Braves,Pittsburgh Pirates,11,9
+19400507,Brooklyn Dodgers,St. Louis Cardinals,2,18
+19400508,Cleveland Indians,New York Yankees,10,4
+19400508,St. Louis Browns,Philadelphia Athletics,8,10
+19400508,Chicago White Sox,Washington Senators,6,3
+19400508,Detroit Tigers,Boston Red Sox,4,5
+19400508,Boston Braves,Cincinnati Reds,10,4
+19400508,New York Giants,Pittsburgh Pirates,10,6
+19400508,Philadelpia Phillies,St. Louis Cardinals,4,7
+19400509,Detroit Tigers,Boston Red Sox,5,6
+19400509,Cleveland Indians,New York Yankees,4,0
+19400509,St. Louis Browns,Philadelphia Athletics,4,2
+19400509,Chicago White Sox,Washington Senators,4,8
+19400509,Brooklyn Dodgers,Chicago Cubs,4,1
+19400509,Boston Braves,Cincinnati Reds,1,4
+19400509,New York Giants,Pittsburgh Pirates,17,6
+19400509,Philadelpia Phillies,St. Louis Cardinals,4,8
+19400510,St. Louis Browns,Cleveland Indians,4,9
+19400510,Chicago White Sox,Detroit Tigers,0,3
+19400510,Boston Red Sox,New York Yankees,3,2
+19400510,Washington Senators,Philadelphia Athletics,7,8
+19400510,New York Giants,Brooklyn Dodgers,7,2
+19400510,Pittsburgh Pirates,Chicago Cubs,8,3
+19400511,St. Louis Browns,Cleveland Indians,0,1
+19400511,Chicago White Sox,Detroit Tigers,1,0
+19400511,Boston Red Sox,New York Yankees,9,8
+19400511,Washington Senators,Philadelphia Athletics,9,6
+19400511,Philadelpia Phillies,Brooklyn Dodgers,5,4
+19400511,New York Giants,Boston Braves,10,2
+19400511,Pittsburgh Pirates,Chicago Cubs,5,7
+19400511,Cincinnati Reds,St. Louis Cardinals,12,5
+19400512,St. Louis Browns,Cleveland Indians,5,2
+19400512,Boston Red Sox,New York Yankees,0,4
+19400512,Washington Senators,Philadelphia Athletics,2,4
+19400512,Chicago White Sox,Detroit Tigers,4,3
+19400512,Philadelpia Phillies,Brooklyn Dodgers,3,5
+19400512,New York Giants,Boston Braves,3,2
+19400512,Pittsburgh Pirates,Chicago Cubs,5,7
+19400512,Cincinnati Reds,St. Louis Cardinals,7,1
+19400512,Cincinnati Reds,St. Louis Cardinals,13,4
+19400513,Philadelpia Phillies,Brooklyn Dodgers,3,6
+19400513,New York Giants,Boston Braves,11,5
+19400513,St. Louis Cardinals,Cincinnati Reds,8,8
+19400514,Boston Red Sox,Chicago White Sox,7,6
+19400514,Philadelphia Athletics,Cleveland Indians,9,7
+19400514,Washington Senators,Detroit Tigers,4,2
+19400514,Cincinnati Reds,Brooklyn Dodgers,5,6
+19400514,Pittsburgh Pirates,New York Giants,7,2
+19400514,St. Louis Cardinals,Philadelpia Phillies,0,4
+19400515,Cincinnati Reds,Brooklyn Dodgers,5,2
+19400515,Chicago Cubs,Boston Braves,2,0
+19400515,Pittsburgh Pirates,New York Giants,2,5
+19400515,St. Louis Cardinals,Philadelpia Phillies,3,6
+19400516,Boston Red Sox,St. Louis Browns,7,5
+19400516,Chicago Cubs,Boston Braves,5,4
+19400517,New York Yankees,Chicago White Sox,6,1
+19400517,Washington Senators,Cleveland Indians,1,18
+19400517,St. Louis Cardinals,Brooklyn Dodgers,3,4
+19400517,Chicago Cubs,New York Giants,4,0
+19400517,Cincinnati Reds,Philadelpia Phillies,7,2
+19400518,New York Yankees,Chicago White Sox,3,0
+19400518,Washington Senators,Cleveland Indians,3,2
+19400518,Philadelphia Athletics,Detroit Tigers,6,8
+19400518,St. Louis Cardinals,Brooklyn Dodgers,6,2
+19400518,Pittsburgh Pirates,Boston Braves,5,15
+19400518,Chicago Cubs,New York Giants,4,6
+19400518,Cincinnati Reds,Philadelpia Phillies,3,8
+19400519,Washington Senators,Chicago White Sox,12,10
+19400519,New York Yankees,Cleveland Indians,1,5
+19400519,Philadelphia Athletics,St. Louis Browns,4,10
+19400519,Chicago Cubs,Brooklyn Dodgers,7,6
+19400519,Cincinnati Reds,Boston Braves,8,4
+19400519,St. Louis Cardinals,New York Giants,6,5
+19400519,Pittsburgh Pirates,Philadelpia Phillies,5,6
+19400520,Washington Senators,Chicago White Sox,4,5
+19400520,New York Yankees,Cleveland Indians,2,10
+19400520,Boston Red Sox,Detroit Tigers,7,10
+19400520,Philadelphia Athletics,St. Louis Browns,8,4
+19400520,Chicago Cubs,Brooklyn Dodgers,6,4
+19400520,Cincinnati Reds,Boston Braves,4,13
+19400520,St. Louis Cardinals,New York Giants,0,6
+19400520,Pittsburgh Pirates,Philadelpia Phillies,7,8
+19400521,Washington Senators,Chicago White Sox,8,9
+19400521,New York Yankees,Cleveland Indians,10,2
+19400521,Boston Red Sox,Detroit Tigers,11,8
+19400521,Chicago Cubs,Brooklyn Dodgers,3,4
+19400522,Philadelphia Athletics,Chicago White Sox,1,10
+19400522,Boston Red Sox,Cleveland Indians,6,9
+19400522,New York Yankees,Detroit Tigers,8,2
+19400522,Washington Senators,St. Louis Browns,9,2
+19400522,Pittsburgh Pirates,Brooklyn Dodgers,1,3
+19400522,Cincinnati Reds,New York Giants,4,6
+19400523,Philadelphia Athletics,Chicago White Sox,4,13
+19400523,New York Yankees,Detroit Tigers,2,3
+19400523,Washington Senators,St. Louis Browns,7,8
+19400523,Chicago Cubs,Philadelpia Phillies,4,3
+19400524,Detroit Tigers,Chicago White Sox,1,2
+19400524,Cleveland Indians,St. Louis Browns,3,2
+19400524,Boston Braves,New York Giants,1,8
+19400525,Detroit Tigers,Chicago White Sox,10,4
+19400525,Philadelphia Athletics,Washington Senators,2,4
+19400525,St. Louis Cardinals,Cincinnati Reds,2,7
+19400525,St. Louis Cardinals,Cincinnati Reds,5,1
+19400525,Chicago Cubs,Pittsburgh Pirates,7,12
+19400526,New York Yankees,Boston Red Sox,7,2
+19400526,Cleveland Indians,St. Louis Browns,3,5
+19400526,Cleveland Indians,St. Louis Browns,13,1
+19400526,Philadelphia Athletics,Washington Senators,3,4
+19400526,St. Louis Cardinals,Cincinnati Reds,0,4
+19400526,Boston Braves,New York Giants,8,10
+19400526,Brooklyn Dodgers,Philadelpia Phillies,2,1
+19400526,Chicago Cubs,Pittsburgh Pirates,2,3
+19400527,Detroit Tigers,Cleveland Indians,6,1
+19400527,Washington Senators,New York Yankees,0,5
+19400527,Chicago White Sox,St. Louis Browns,7,5
+19400527,Philadelpia Phillies,Brooklyn Dodgers,0,6
+19400527,New York Giants,Boston Braves,1,7
+19400527,St. Louis Cardinals,Chicago Cubs,1,7
+19400527,Cincinnati Reds,Pittsburgh Pirates,2,1
+19400527,Cincinnati Reds,Pittsburgh Pirates,7,3
+19400528,Detroit Tigers,Cleveland Indians,8,5
+19400528,Washington Senators,New York Yankees,4,12
+19400528,Washington Senators,New York Yankees,1,3
+19400528,Boston Red Sox,Philadelphia Athletics,4,1
+19400528,Chicago White Sox,St. Louis Browns,9,10
+19400528,Chicago White Sox,St. Louis Browns,5,7
+19400528,Philadelpia Phillies,Brooklyn Dodgers,2,4
+19400528,St. Louis Cardinals,Chicago Cubs,5,0
+19400528,Cincinnati Reds,Pittsburgh Pirates,2,5
+19400529,Detroit Tigers,Cleveland Indians,4,7
+19400529,Washington Senators,New York Yankees,1,2
+19400529,Boston Red Sox,Philadelphia Athletics,8,3
+19400529,Chicago White Sox,St. Louis Browns,4,3
+19400529,Philadelpia Phillies,Boston Braves,1,3
+19400529,St. Louis Cardinals,Chicago Cubs,8,2
+19400529,Cincinnati Reds,Pittsburgh Pirates,4,0
+19400530,Chicago White Sox,Cleveland Indians,1,3
+19400530,Chicago White Sox,Cleveland Indians,1,3
+19400530,St. Louis Browns,Detroit Tigers,1,2
+19400530,St. Louis Browns,Detroit Tigers,6,15
+19400530,Boston Red Sox,New York Yankees,0,4
+19400530,Boston Red Sox,New York Yankees,11,4
+19400530,Washington Senators,Philadelphia Athletics,6,7
+19400530,Washington Senators,Philadelphia Athletics,14,2
+19400530,New York Giants,Brooklyn Dodgers,7,0
+19400530,New York Giants,Brooklyn Dodgers,12,5
+19400530,Philadelpia Phillies,Boston Braves,5,1
+19400530,Philadelpia Phillies,Boston Braves,1,5
+19400530,Cincinnati Reds,Chicago Cubs,4,2
+19400530,Cincinnati Reds,Chicago Cubs,9,8
+19400601,Chicago White Sox,Boston Red Sox,1,2
+19400601,St. Louis Browns,New York Yankees,5,8
+19400601,Cleveland Indians,Philadelphia Athletics,1,6
+19400601,Detroit Tigers,Washington Senators,12,3
+19400601,Brooklyn Dodgers,Chicago Cubs,3,4
+19400601,Boston Braves,Cincinnati Reds,2,3
+19400601,Philadelpia Phillies,St. Louis Cardinals,5,4
+19400602,Chicago White Sox,Boston Red Sox,6,0
+19400602,Chicago White Sox,Boston Red Sox,8,10
+19400602,St. Louis Browns,New York Yankees,4,13
+19400602,St. Louis Browns,New York Yankees,1,11
+19400602,Cleveland Indians,Philadelphia Athletics,7,2
+19400602,Cleveland Indians,Philadelphia Athletics,6,12
+19400602,Detroit Tigers,Washington Senators,8,6
+19400602,Brooklyn Dodgers,Chicago Cubs,3,2
+19400602,Brooklyn Dodgers,Chicago Cubs,2,1
+19400602,Boston Braves,Cincinnati Reds,1,11
+19400602,Boston Braves,Cincinnati Reds,2,0
+19400602,New York Giants,Pittsburgh Pirates,1,2
+19400602,New York Giants,Pittsburgh Pirates,7,3
+19400602,Philadelpia Phillies,St. Louis Cardinals,4,2
+19400602,Philadelpia Phillies,St. Louis Cardinals,2,9
+19400603,Chicago White Sox,Boston Red Sox,7,4
+19400603,St. Louis Browns,New York Yankees,1,7
+19400603,Cleveland Indians,Philadelphia Athletics,4,0
+19400603,Detroit Tigers,Washington Senators,3,9
+19400603,Brooklyn Dodgers,Chicago Cubs,3,2
+19400603,Boston Braves,Cincinnati Reds,2,3
+19400603,New York Giants,Pittsburgh Pirates,4,3
+19400604,St. Louis Browns,Boston Red Sox,5,3
+19400604,Chicago White Sox,New York Yankees,7,3
+19400604,Detroit Tigers,Philadelphia Athletics,6,8
+19400604,Cleveland Indians,Washington Senators,2,7
+19400604,Cleveland Indians,Washington Senators,3,2
+19400604,Philadelpia Phillies,Chicago Cubs,6,12
+19400604,New York Giants,Cincinnati Reds,5,4
+19400604,Boston Braves,Pittsburgh Pirates,2,14
+19400604,Brooklyn Dodgers,St. Louis Cardinals,10,1
+19400605,St. Louis Browns,Boston Red Sox,4,3
+19400605,Chicago White Sox,New York Yankees,5,7
+19400605,Detroit Tigers,Philadelphia Athletics,9,1
+19400605,Cleveland Indians,Washington Senators,1,6
+19400605,Philadelpia Phillies,Chicago Cubs,2,3
+19400605,New York Giants,Cincinnati Reds,2,7
+19400606,St. Louis Browns,Boston Red Sox,1,3
+19400606,Chicago White Sox,New York Yankees,4,3
+19400606,Detroit Tigers,Philadelphia Athletics,4,7
+19400606,Cleveland Indians,Washington Senators,5,4
+19400606,Philadelpia Phillies,Chicago Cubs,5,11
+19400606,Boston Braves,Pittsburgh Pirates,6,7
+19400606,Brooklyn Dodgers,St. Louis Cardinals,9,5
+19400607,Detroit Tigers,Boston Red Sox,7,1
+19400607,Cleveland Indians,New York Yankees,4,5
+19400607,St. Louis Browns,Philadelphia Athletics,2,3
+19400607,Chicago White Sox,Washington Senators,2,3
+19400607,Boston Braves,Chicago Cubs,3,5
+19400607,Brooklyn Dodgers,Cincinnati Reds,4,2
+19400607,New York Giants,St. Louis Cardinals,2,3
+19400607,Philadelpia Phillies,Pittsburgh Pirates,4,10
+19400608,Detroit Tigers,Boston Red Sox,4,2
+19400608,Cleveland Indians,New York Yankees,3,0
+19400608,St. Louis Browns,Philadelphia Athletics,15,1
+19400608,Chicago White Sox,Washington Senators,12,6
+19400608,Boston Braves,Chicago Cubs,1,3
+19400608,Brooklyn Dodgers,Cincinnati Reds,2,23
+19400608,Philadelpia Phillies,Pittsburgh Pirates,5,6
+19400608,New York Giants,St. Louis Cardinals,4,2
+19400608,New York Giants,St. Louis Cardinals,5,2
+19400609,Cleveland Indians,New York Yankees,3,4
+19400609,St. Louis Browns,Philadelphia Athletics,8,7
+19400609,St. Louis Browns,Philadelphia Athletics,4,2
+19400609,Chicago White Sox,Washington Senators,4,3
+19400609,Boston Braves,Chicago Cubs,1,7
+19400609,Brooklyn Dodgers,Cincinnati Reds,9,1
+19400609,Brooklyn Dodgers,Cincinnati Reds,2,6
+19400609,Philadelpia Phillies,Pittsburgh Pirates,6,1
+19400609,Philadelpia Phillies,Pittsburgh Pirates,5,11
+19400609,New York Giants,St. Louis Cardinals,11,9
+19400609,New York Giants,St. Louis Cardinals,7,4
+19400609,Boston Braves,Chicago Cubs,8,15
+19400610,St. Louis Browns,Washington Senators,7,4
+19400610,Brooklyn Dodgers,Pittsburgh Pirates,8,7
+19400610,Boston Braves,St. Louis Cardinals,12,2
+19400611,Cleveland Indians,Boston Red Sox,2,9
+19400611,Detroit Tigers,New York Yankees,6,1
+19400611,Chicago White Sox,Philadelphia Athletics,5,4
+19400611,St. Louis Browns,Washington Senators,5,2
+19400611,New York Giants,Chicago Cubs,4,0
+19400611,New York Giants,Chicago Cubs,3,1
+19400611,Philadelpia Phillies,Cincinnati Reds,4,1
+19400612,Cleveland Indians,Boston Red Sox,5,9
+19400612,Detroit Tigers,New York Yankees,5,7
+19400612,Chicago White Sox,Philadelphia Athletics,2,3
+19400612,St. Louis Browns,Washington Senators,2,3
+19400612,Philadelpia Phillies,Cincinnati Reds,1,2
+19400612,Brooklyn Dodgers,Pittsburgh Pirates,5,4
+19400613,Detroit Tigers,Cleveland Indians,2,3
+19400614,Boston Red Sox,Chicago White Sox,5,1
+19400614,Philadelphia Athletics,Cleveland Indians,0,8
+19400614,New York Yankees,St. Louis Browns,12,3
+19400614,Washington Senators,Detroit Tigers,1,10
+19400614,Cincinnati Reds,Brooklyn Dodgers,0,2
+19400614,Chicago Cubs,Boston Braves,2,4
+19400614,Pittsburgh Pirates,New York Giants,6,8
+19400614,St. Louis Cardinals,Philadelpia Phillies,6,2
+19400615,Boston Red Sox,Chicago White Sox,5,2
+19400615,Philadelphia Athletics,Cleveland Indians,7,4
+19400615,New York Yankees,St. Louis Browns,7,6
+19400615,Washington Senators,Detroit Tigers,1,11
+19400615,Washington Senators,Detroit Tigers,0,8
+19400615,Cincinnati Reds,Brooklyn Dodgers,6,11
+19400615,Chicago Cubs,Boston Braves,11,5
+19400615,Pittsburgh Pirates,New York Giants,1,12
+19400615,St. Louis Cardinals,Philadelpia Phillies,14,1
+19400616,Boston Red Sox,Chicago White Sox,4,3
+19400616,Boston Red Sox,Chicago White Sox,14,5
+19400616,Philadelphia Athletics,Cleveland Indians,2,4
+19400616,Philadelphia Athletics,Cleveland Indians,3,4
+19400616,Washington Senators,Detroit Tigers,7,8
+19400616,New York Yankees,St. Louis Browns,6,12
+19400616,New York Yankees,St. Louis Browns,5,6
+19400616,Cincinnati Reds,Brooklyn Dodgers,1,0
+19400616,Cincinnati Reds,Brooklyn Dodgers,5,2
+19400616,Pittsburgh Pirates,New York Giants,5,0
+19400616,Pittsburgh Pirates,New York Giants,5,3
+19400616,St. Louis Cardinals,Philadelpia Phillies,9,3
+19400616,Chicago Cubs,Boston Braves,4,5
+19400616,Chicago Cubs,Boston Braves,9,1
+19400616,St. Louis Cardinals,Philadelpia Phillies,3,1
+19400617,St. Louis Cardinals,Brooklyn Dodgers,3,1
+19400617,Pittsburgh Pirates,Boston Braves,3,5
+19400617,Pittsburgh Pirates,Boston Braves,1,5
+19400617,Chicago Cubs,New York Giants,1,2
+19400617,Cincinnati Reds,Philadelpia Phillies,6,2
+19400618,New York Yankees,Chicago White Sox,3,5
+19400618,Washington Senators,Cleveland Indians,1,2
+19400618,Boston Red Sox,St. Louis Browns,7,11
+19400618,St. Louis Cardinals,Brooklyn Dodgers,7,5
+19400618,Chicago Cubs,New York Giants,6,1
+19400618,Cincinnati Reds,Philadelpia Phillies,1,3
+19400619,New York Yankees,Chicago White Sox,0,1
+19400619,Washington Senators,Cleveland Indians,1,4
+19400619,Philadelphia Athletics,Detroit Tigers,4,5
+19400619,Philadelphia Athletics,Detroit Tigers,4,9
+19400619,Boston Red Sox,St. Louis Browns,4,6
+19400619,St. Louis Cardinals,Brooklyn Dodgers,3,8
+19400619,Pittsburgh Pirates,Boston Braves,5,1
+19400620,New York Yankees,Chicago White Sox,0,1
+19400620,Washington Senators,Cleveland Indians,1,12
+19400620,Philadelphia Athletics,Detroit Tigers,6,4
+19400620,Boston Red Sox,St. Louis Browns,1,2
+19400620,Boston Red Sox,St. Louis Browns,4,11
+19400620,Pittsburgh Pirates,Boston Braves,8,7
+19400620,Chicago Cubs,New York Giants,3,6
+19400620,Cincinnati Reds,Philadelpia Phillies,3,4
+19400621,Philadelphia Athletics,Chicago White Sox,12,1
+19400621,Boston Red Sox,Cleveland Indians,4,7
+19400621,New York Yankees,Detroit Tigers,12,7
+19400621,Washington Senators,St. Louis Browns,1,0
+19400621,Pittsburgh Pirates,Brooklyn Dodgers,8,10
+19400621,Cincinnati Reds,New York Giants,3,4
+19400621,Chicago Cubs,Philadelpia Phillies,5,6
+19400622,Boston Red Sox,Cleveland Indians,5,7
+19400622,New York Yankees,Detroit Tigers,2,3
+19400622,Washington Senators,St. Louis Browns,11,10
+19400622,Pittsburgh Pirates,Brooklyn Dodgers,7,2
+19400622,St. Louis Cardinals,Boston Braves,9,2
+19400622,Cincinnati Reds,New York Giants,3,1
+19400622,Chicago Cubs,Philadelpia Phillies,10,2
+19400623,Boston Red Sox,Cleveland Indians,1,4
+19400623,Boston Red Sox,Cleveland Indians,2,0
+19400623,Washington Senators,St. Louis Browns,12,5
+19400623,Washington Senators,St. Louis Browns,2,3
+19400623,New York Yankees,Detroit Tigers,2,9
+19400623,Pittsburgh Pirates,Brooklyn Dodgers,8,5
+19400623,Pittsburgh Pirates,Brooklyn Dodgers,4,4
+19400623,St. Louis Cardinals,Boston Braves,5,7
+19400623,Cincinnati Reds,New York Giants,7,4
+19400623,Cincinnati Reds,New York Giants,2,0
+19400623,Chicago Cubs,Philadelpia Phillies,3,2
+19400623,St. Louis Cardinals,Boston Braves,5,10
+19400623,Chicago Cubs,Philadelpia Phillies,7,2
+19400624,New York Yankees,Cleveland Indians,1,7
+19400624,Philadelphia Athletics,St. Louis Browns,4,9
+19400625,Washington Senators,Chicago White Sox,7,6
+19400625,New York Yankees,Cleveland Indians,3,5
+19400625,Boston Red Sox,Detroit Tigers,11,7
+19400625,Boston Red Sox,Detroit Tigers,1,5
+19400625,Philadelphia Athletics,St. Louis Browns,10,12
+19400625,Chicago Cubs,Brooklyn Dodgers,8,3
+19400625,Pittsburgh Pirates,Philadelpia Phillies,9,7
+19400626,Washington Senators,Chicago White Sox,6,7
+19400626,New York Yankees,Cleveland Indians,3,1
+19400626,Philadelphia Athletics,St. Louis Browns,9,4
+19400626,Boston Red Sox,Detroit Tigers,3,1
+19400626,St. Louis Cardinals,New York Giants,9,10
+19400626,Pittsburgh Pirates,Philadelpia Phillies,2,4
+19400626,Pittsburgh Pirates,Philadelpia Phillies,11,6
+19400627,Detroit Tigers,St. Louis Browns,2,1
+19400627,Chicago Cubs,Brooklyn Dodgers,4,5
+19400627,New York Giants,Philadelpia Phillies,7,0
+19400628,Washington Senators,Boston Red Sox,4,3
+19400628,Philadelphia Athletics,New York Yankees,1,4
+19400628,Boston Braves,Brooklyn Dodgers,1,2
+19400628,Chicago Cubs,Cincinnati Reds,3,2
+19400628,St. Louis Cardinals,Pittsburgh Pirates,8,2
+19400629,Washington Senators,Boston Red Sox,9,7
+19400629,Cleveland Indians,Chicago White Sox,7,3
+19400629,Philadelphia Athletics,New York Yankees,9,12
+19400629,Detroit Tigers,St. Louis Browns,9,5
+19400629,Detroit Tigers,St. Louis Browns,9,9
+19400629,Boston Braves,Brooklyn Dodgers,4,10
+19400629,Chicago Cubs,Cincinnati Reds,1,4
+19400629,New York Giants,Philadelpia Phillies,5,0
+19400630,Cleveland Indians,Chicago White Sox,7,5
+19400630,Cleveland Indians,Chicago White Sox,1,3
+19400630,Philadelphia Athletics,New York Yankees,3,4
+19400630,Philadelphia Athletics,New York Yankees,3,2
+19400630,Washington Senators,Boston Red Sox,5,6
+19400630,Washington Senators,Boston Red Sox,4,5
+19400630,Detroit Tigers,St. Louis Browns,6,7
+19400630,Detroit Tigers,St. Louis Browns,10,1
+19400630,Boston Braves,Brooklyn Dodgers,2,9
+19400630,Boston Braves,Brooklyn Dodgers,7,2
+19400630,Chicago Cubs,Cincinnati Reds,4,7
+19400630,Chicago Cubs,Cincinnati Reds,6,7
+19400630,St. Louis Cardinals,Pittsburgh Pirates,1,0
+19400630,St. Louis Cardinals,Pittsburgh Pirates,0,2
+19400630,New York Giants,Philadelpia Phillies,4,7
+19400630,New York Giants,Philadelpia Phillies,7,3
+19400701,Philadelphia Athletics,Boston Red Sox,9,1
+19400701,St. Louis Browns,Cleveland Indians,2,1
+19400701,Chicago White Sox,Detroit Tigers,1,3
+19400701,New York Yankees,Washington Senators,8,4
+19400701,Pittsburgh Pirates,Chicago Cubs,4,3
+19400701,Boston Braves,New York Giants,1,7
+19400701,Brooklyn Dodgers,Philadelpia Phillies,4,3
+19400701,Cincinnati Reds,St. Louis Cardinals,2,3
+19400702,Philadelphia Athletics,Boston Red Sox,4,3
+19400702,Philadelphia Athletics,Boston Red Sox,9,15
+19400702,St. Louis Browns,Cleveland Indians,5,3
+19400702,Chicago White Sox,Detroit Tigers,9,10
+19400702,New York Yankees,Washington Senators,6,2
+19400702,Pittsburgh Pirates,Chicago Cubs,0,10
+19400702,Boston Braves,New York Giants,5,3
+19400702,Brooklyn Dodgers,Philadelpia Phillies,4,1
+19400702,Cincinnati Reds,St. Louis Cardinals,0,4
+19400703,Philadelphia Athletics,Boston Red Sox,11,12
+19400703,St. Louis Browns,Cleveland Indians,2,5
+19400703,Chicago White Sox,Detroit Tigers,12,7
+19400703,Pittsburgh Pirates,Chicago Cubs,5,7
+19400703,Brooklyn Dodgers,New York Giants,7,3
+19400703,Boston Braves,Philadelpia Phillies,8,3
+19400704,New York Yankees,Boston Red Sox,12,4
+19400704,New York Yankees,Boston Red Sox,7,3
+19400704,St. Louis Browns,Chicago White Sox,3,7
+19400704,St. Louis Browns,Chicago White Sox,5,8
+19400704,Cleveland Indians,Detroit Tigers,3,5
+19400704,Cleveland Indians,Detroit Tigers,2,1
+19400704,Philadelphia Athletics,Washington Senators,1,5
+19400704,Philadelphia Athletics,Washington Senators,5,9
+19400704,Pittsburgh Pirates,Cincinnati Reds,1,9
+19400704,Pittsburgh Pirates,Cincinnati Reds,1,3
+19400704,Brooklyn Dodgers,New York Giants,5,1
+19400704,Brooklyn Dodgers,New York Giants,6,1
+19400704,Boston Braves,Philadelpia Phillies,3,4
+19400704,Boston Braves,Philadelpia Phillies,5,4
+19400704,Chicago Cubs,St. Louis Cardinals,4,3
+19400704,Chicago Cubs,St. Louis Cardinals,2,5
+19400705,St. Louis Browns,Chicago White Sox,8,10
+19400705,New York Yankees,Philadelphia Athletics,3,6
+19400705,Boston Red Sox,Washington Senators,9,4
+19400705,Brooklyn Dodgers,Boston Braves,6,2
+19400705,Pittsburgh Pirates,Cincinnati Reds,4,5
+19400705,Chicago Cubs,St. Louis Cardinals,11,5
+19400705,Philadelpia Phillies,New York Giants,2,15
+19400706,Chicago White Sox,Cleveland Indians,3,7
+19400706,St. Louis Browns,Detroit Tigers,2,11
+19400706,New York Yankees,Philadelphia Athletics,7,8
+19400706,Boston Red Sox,Washington Senators,5,3
+19400706,St. Louis Browns,Detroit Tigers,0,2
+19400706,Brooklyn Dodgers,Boston Braves,2,0
+19400706,Cincinnati Reds,Chicago Cubs,4,0
+19400706,Philadelpia Phillies,New York Giants,8,2
+19400706,Pittsburgh Pirates,St. Louis Cardinals,15,8
+19400706,Pittsburgh Pirates,St. Louis Cardinals,4,3
+19400707,Chicago White Sox,Cleveland Indians,3,1
+19400707,St. Louis Browns,Detroit Tigers,2,5
+19400707,New York Yankees,Philadelphia Athletics,6,3
+19400707,New York Yankees,Philadelphia Athletics,5,10
+19400707,Boston Red Sox,Washington Senators,7,1
+19400707,Boston Red Sox,Washington Senators,4,7
+19400707,Brooklyn Dodgers,Boston Braves,0,1
+19400707,Brooklyn Dodgers,Boston Braves,1,2
+19400707,Cincinnati Reds,Chicago Cubs,4,3
+19400707,Philadelpia Phillies,New York Giants,4,6
+19400707,Philadelpia Phillies,New York Giants,4,2
+19400707,Pittsburgh Pirates,St. Louis Cardinals,7,6
+19400707,Pittsburgh Pirates,St. Louis Cardinals,4,1
+19400711,Chicago White Sox,Boston Red Sox,2,3
+19400711,St. Louis Browns,New York Yankees,4,6
+19400711,Cleveland Indians,Philadelphia Athletics,8,5
+19400711,Detroit Tigers,Washington Senators,3,7
+19400711,Brooklyn Dodgers,Cincinnati Reds,5,6
+19400711,New York Giants,St. Louis Cardinals,8,6
+19400711,Boston Braves,Chicago Cubs,2,8
+19400711,Boston Braves,Chicago Cubs,2,1
+19400712,Cleveland Indians,Philadelphia Athletics,1,0
+19400712,Boston Braves,Chicago Cubs,0,2
+19400712,Philadelpia Phillies,Pittsburgh Pirates,6,3
+19400713,Chicago White Sox,Boston Red Sox,5,0
+19400713,Chicago White Sox,Boston Red Sox,7,0
+19400713,St. Louis Browns,New York Yankees,4,10
+19400713,St. Louis Browns,New York Yankees,6,12
+19400713,Cleveland Indians,Philadelphia Athletics,6,4
+19400713,Detroit Tigers,Washington Senators,4,3
+19400713,Detroit Tigers,Washington Senators,4,0
+19400713,Boston Braves,Chicago Cubs,5,0
+19400713,Brooklyn Dodgers,Cincinnati Reds,6,7
+19400713,Brooklyn Dodgers,Cincinnati Reds,3,1
+19400713,Philadelpia Phillies,Pittsburgh Pirates,8,9
+19400713,New York Giants,St. Louis Cardinals,6,7
+19400713,New York Giants,St. Louis Cardinals,3,4
+19400714,St. Louis Browns,Boston Red Sox,4,5
+19400714,St. Louis Browns,Boston Red Sox,3,7
+19400714,Chicago White Sox,New York Yankees,0,4
+19400714,Detroit Tigers,Philadelphia Athletics,2,8
+19400714,Detroit Tigers,Philadelphia Athletics,2,5
+19400714,Cleveland Indians,Washington Senators,5,6
+19400714,New York Giants,Chicago Cubs,5,6
+19400714,New York Giants,Chicago Cubs,2,0
+19400714,Philadelpia Phillies,Cincinnati Reds,2,3
+19400714,Philadelpia Phillies,Cincinnati Reds,1,7
+19400714,Brooklyn Dodgers,Pittsburgh Pirates,2,6
+19400714,Brooklyn Dodgers,Pittsburgh Pirates,2,0
+19400714,Boston Braves,St. Louis Cardinals,7,8
+19400714,Boston Braves,St. Louis Cardinals,1,3
+19400715,St. Louis Browns,Boston Red Sox,6,10
+19400715,Chicago White Sox,New York Yankees,3,2
+19400715,Detroit Tigers,Philadelphia Athletics,9,8
+19400715,Cleveland Indians,Washington Senators,6,8
+19400715,New York Giants,Chicago Cubs,3,5
+19400715,Philadelpia Phillies,Cincinnati Reds,2,3
+19400715,Brooklyn Dodgers,Pittsburgh Pirates,10,1
+19400715,Brooklyn Dodgers,Pittsburgh Pirates,3,4
+19400715,Boston Braves,St. Louis Cardinals,2,12
+19400716,Chicago White Sox,New York Yankees,5,1
+19400716,Detroit Tigers,Philadelphia Athletics,1,3
+19400716,Cleveland Indians,Washington Senators,8,11
+19400716,New York Giants,Chicago Cubs,0,2
+19400716,Brooklyn Dodgers,Pittsburgh Pirates,3,5
+19400716,Boston Braves,St. Louis Cardinals,3,4
+19400717,Detroit Tigers,Boston Red Sox,3,8
+19400717,Detroit Tigers,Boston Red Sox,5,8
+19400717,Cleveland Indians,New York Yankees,3,4
+19400717,Chicago White Sox,Washington Senators,2,5
+19400717,Brooklyn Dodgers,Chicago Cubs,2,1
+19400717,Boston Braves,Cincinnati Reds,3,4
+19400717,Philadelpia Phillies,St. Louis Cardinals,3,0
+19400718,Detroit Tigers,Boston Red Sox,10,8
+19400718,Cleveland Indians,New York Yankees,6,9
+19400718,St. Louis Browns,Philadelphia Athletics,3,10
+19400718,Chicago White Sox,Washington Senators,4,5
+19400718,Brooklyn Dodgers,Chicago Cubs,7,4
+19400718,New York Giants,Pittsburgh Pirates,6,1
+19400719,Detroit Tigers,Boston Red Sox,4,0
+19400719,Cleveland Indians,New York Yankees,6,15
+19400719,St. Louis Browns,Philadelphia Athletics,9,7
+19400719,Chicago White Sox,Washington Senators,9,1
+19400719,Brooklyn Dodgers,Chicago Cubs,4,11
+19400719,Boston Braves,Cincinnati Reds,8,7
+19400719,New York Giants,Pittsburgh Pirates,5,2
+19400719,Philadelpia Phillies,St. Louis Cardinals,2,3
+19400719,Philadelpia Phillies,St. Louis Cardinals,3,5
+19400720,Cleveland Indians,Boston Red Sox,9,6
+19400720,Detroit Tigers,New York Yankees,3,1
+19400720,Chicago White Sox,Philadelphia Athletics,19,7
+19400720,St. Louis Browns,Washington Senators,4,1
+19400720,Philadelpia Phillies,Chicago Cubs,9,3
+19400720,New York Giants,Cincinnati Reds,1,5
+19400720,Boston Braves,Pittsburgh Pirates,6,17
+19400720,Brooklyn Dodgers,St. Louis Cardinals,2,3
+19400721,Cleveland Indians,Boston Red Sox,3,2
+19400721,Cleveland Indians,Boston Red Sox,2,0
+19400721,Detroit Tigers,New York Yankees,4,3
+19400721,Detroit Tigers,New York Yankees,3,2
+19400721,Chicago White Sox,Philadelphia Athletics,10,8
+19400721,Chicago White Sox,Philadelphia Athletics,7,2
+19400721,St. Louis Browns,Washington Senators,8,4
+19400721,St. Louis Browns,Washington Senators,4,5
+19400721,Philadelpia Phillies,Chicago Cubs,8,2
+19400721,Philadelpia Phillies,Chicago Cubs,5,8
+19400721,New York Giants,Cincinnati Reds,1,6
+19400721,New York Giants,Cincinnati Reds,2,4
+19400721,Boston Braves,Pittsburgh Pirates,3,5
+19400721,Boston Braves,Pittsburgh Pirates,2,16
+19400721,Brooklyn Dodgers,St. Louis Cardinals,3,1
+19400721,Brooklyn Dodgers,St. Louis Cardinals,2,5
+19400723,Philadelphia Athletics,Cleveland Indians,0,1
+19400723,Washington Senators,Detroit Tigers,6,3
+19400723,New York Yankees,St. Louis Browns,5,9
+19400723,Boston Red Sox,Chicago White Sox,7,8
+19400723,Cincinnati Reds,Brooklyn Dodgers,4,3
+19400723,Cincinnati Reds,Brooklyn Dodgers,9,2
+19400723,Chicago Cubs,Boston Braves,6,1
+19400723,Pittsburgh Pirates,New York Giants,1,9
+19400723,St. Louis Cardinals,Philadelpia Phillies,7,3
+19400724,Boston Red Sox,Chicago White Sox,10,12
+19400724,Philadelphia Athletics,Cleveland Indians,6,7
+19400724,New York Yankees,St. Louis Browns,12,14
+19400724,Washington Senators,Detroit Tigers,5,7
+19400724,Cincinnati Reds,Brooklyn Dodgers,6,3
+19400724,Chicago Cubs,Boston Braves,3,4
+19400725,Boston Red Sox,Chicago White Sox,4,6
+19400725,Philadelphia Athletics,Cleveland Indians,7,6
+19400725,Washington Senators,Detroit Tigers,2,5
+19400725,New York Yankees,St. Louis Browns,13,8
+19400725,Chicago Cubs,Boston Braves,8,4
+19400725,Pittsburgh Pirates,New York Giants,2,1
+19400726,New York Yankees,Chicago White Sox,10,2
+19400726,Washington Senators,Cleveland Indians,2,13
+19400726,Philadelphia Athletics,Detroit Tigers,7,4
+19400726,Boston Red Sox,St. Louis Browns,14,7
+19400726,St. Louis Cardinals,Brooklyn Dodgers,3,3
+19400726,Pittsburgh Pirates,Boston Braves,9,0
+19400726,Cincinnati Reds,Philadelpia Phillies,9,5
+19400726,Chicago Cubs,New York Giants,14,1
+19400727,New York Yankees,Chicago White Sox,5,6
+19400727,Washington Senators,Cleveland Indians,7,1
+19400727,Philadelphia Athletics,Detroit Tigers,2,15
+19400727,Philadelphia Athletics,Detroit Tigers,7,8
+19400727,Boston Red Sox,St. Louis Browns,5,13
+19400727,St. Louis Cardinals,Brooklyn Dodgers,4,2
+19400727,St. Louis Cardinals,Brooklyn Dodgers,6,3
+19400727,Chicago Cubs,New York Giants,0,1
+19400727,Cincinnati Reds,Philadelpia Phillies,3,5
+19400727,Pittsburgh Pirates,Boston Braves,10,4
+19400728,New York Yankees,Chicago White Sox,10,9
+19400728,New York Yankees,Chicago White Sox,4,8
+19400728,Washington Senators,Cleveland Indians,3,6
+19400728,Washington Senators,Cleveland Indians,9,1
+19400728,Boston Red Sox,St. Louis Browns,3,1
+19400728,Boston Red Sox,St. Louis Browns,13,10
+19400728,Philadelphia Athletics,Detroit Tigers,9,5
+19400728,St. Louis Cardinals,Brooklyn Dodgers,0,3
+19400728,St. Louis Cardinals,Brooklyn Dodgers,4,7
+19400728,Chicago Cubs,New York Giants,4,8
+19400728,Cincinnati Reds,Philadelpia Phillies,7,2
+19400728,Cincinnati Reds,Philadelpia Phillies,1,4
+19400728,Pittsburgh Pirates,Boston Braves,5,2
+19400728,Pittsburgh Pirates,Boston Braves,7,3
+19400729,Philadelphia Athletics,Detroit Tigers,9,7
+19400729,Pittsburgh Pirates,Brooklyn Dodgers,6,7
+19400729,St. Louis Cardinals,Boston Braves,8,3
+19400729,Cincinnati Reds,New York Giants,3,4
+19400729,Chicago Cubs,Philadelpia Phillies,7,3
+19400730,Philadelphia Athletics,Chicago White Sox,1,3
+19400730,Boston Red Sox,Cleveland Indians,1,2
+19400730,New York Yankees,Detroit Tigers,8,6
+19400730,Washington Senators,St. Louis Browns,4,0
+19400730,Pittsburgh Pirates,Brooklyn Dodgers,8,2
+19400730,St. Louis Cardinals,Boston Braves,13,5
+19400730,Cincinnati Reds,New York Giants,6,3
+19400730,Chicago Cubs,Philadelpia Phillies,5,7
+19400731,Philadelphia Athletics,Chicago White Sox,4,3
+19400731,Boston Red Sox,Cleveland Indians,11,12
+19400731,New York Yankees,Detroit Tigers,6,7
+19400731,Washington Senators,St. Louis Browns,13,5
+19400731,St. Louis Cardinals,Boston Braves,3,1
+19400731,St. Louis Cardinals,Boston Braves,17,8
+19400731,Cincinnati Reds,New York Giants,4,5
+19400731,Chicago Cubs,Philadelpia Phillies,3,7
+19400801,Philadelphia Athletics,Chicago White Sox,4,5
+19400801,Boston Red Sox,Cleveland Indians,5,2
+19400801,New York Yankees,Detroit Tigers,2,11
+19400801,Pittsburgh Pirates,Brooklyn Dodgers,3,8
+19400801,Pittsburgh Pirates,Brooklyn Dodgers,7,8
+19400802,Washington Senators,Chicago White Sox,2,10
+19400802,New York Yankees,Cleveland Indians,10,2
+19400802,Philadelphia Athletics,St. Louis Browns,0,5
+19400802,Boston Red Sox,Detroit Tigers,12,9
+19400802,Chicago Cubs,Brooklyn Dodgers,4,3
+19400802,Cincinnati Reds,Boston Braves,3,10
+19400802,Cincinnati Reds,Boston Braves,3,4
+19400802,St. Louis Cardinals,New York Giants,4,5
+19400802,St. Louis Cardinals,New York Giants,3,1
+19400802,Pittsburgh Pirates,Philadelpia Phillies,5,2
+19400803,Washington Senators,Chicago White Sox,6,7
+19400803,New York Yankees,Cleveland Indians,1,5
+19400803,Boston Red Sox,Detroit Tigers,4,6
+19400803,Philadelphia Athletics,St. Louis Browns,11,7
+19400803,Boston Red Sox,Detroit Tigers,2,14
+19400803,Chicago Cubs,Brooklyn Dodgers,2,1
+19400803,Cincinnati Reds,Boston Braves,3,1
+19400803,Cincinnati Reds,Boston Braves,2,5
+19400803,St. Louis Cardinals,New York Giants,8,3
+19400803,Pittsburgh Pirates,Philadelpia Phillies,8,0
+19400804,Washington Senators,Chicago White Sox,4,3
+19400804,Washington Senators,Chicago White Sox,1,0
+19400804,New York Yankees,Cleveland Indians,1,3
+19400804,Boston Red Sox,Detroit Tigers,7,3
+19400804,Philadelphia Athletics,St. Louis Browns,4,5
+19400804,Philadelphia Athletics,St. Louis Browns,4,6
+19400804,Chicago Cubs,Brooklyn Dodgers,11,3
+19400804,Chicago Cubs,Brooklyn Dodgers,6,7
+19400804,Cincinnati Reds,Boston Braves,3,5
+19400804,Cincinnati Reds,Boston Braves,12,9
+19400804,St. Louis Cardinals,New York Giants,2,3
+19400804,St. Louis Cardinals,New York Giants,6,3
+19400804,Pittsburgh Pirates,Philadelpia Phillies,6,1
+19400804,Pittsburgh Pirates,Philadelpia Phillies,6,4
+19400805,New York Yankees,Boston Red Sox,1,4
+19400805,Cleveland Indians,Chicago White Sox,10,1
+19400805,Detroit Tigers,St. Louis Browns,9,2
+19400805,Detroit Tigers,St. Louis Browns,0,4
+19400805,New York Giants,Brooklyn Dodgers,0,6
+19400806,New York Yankees,Boston Red Sox,3,8
+19400806,Cleveland Indians,Chicago White Sox,1,5
+19400806,Cleveland Indians,Chicago White Sox,3,2
+19400806,Philadelphia Athletics,Washington Senators,0,11
+19400806,Detroit Tigers,St. Louis Browns,6,2
+19400806,Boston Braves,Philadelpia Phillies,3,0
+19400806,Boston Braves,Philadelpia Phillies,12,2
+19400806,St. Louis Cardinals,Pittsburgh Pirates,1,3
+19400807,New York Yankees,Boston Red Sox,7,10
+19400807,New York Yankees,Boston Red Sox,6,3
+19400807,Cleveland Indians,Chicago White Sox,9,3
+19400807,Detroit Tigers,St. Louis Browns,7,5
+19400807,Chicago Cubs,Cincinnati Reds,5,3
+19400807,Brooklyn Dodgers,New York Giants,8,4
+19400807,St. Louis Cardinals,Pittsburgh Pirates,9,10
+19400807,St. Louis Cardinals,Pittsburgh Pirates,6,12
+19400807,Boston Braves,Philadelpia Phillies,6,3
+19400808,New York Yankees,Boston Red Sox,5,6
+19400808,Cleveland Indians,St. Louis Browns,7,4
+19400808,Cleveland Indians,St. Louis Browns,1,2
+19400808,Philadelphia Athletics,Washington Senators,6,4
+19400808,Chicago Cubs,Cincinnati Reds,1,3
+19400808,Brooklyn Dodgers,New York Giants,6,3
+19400808,Boston Braves,Philadelpia Phillies,6,2
+19400809,Detroit Tigers,Chicago White Sox,2,3
+19400809,Philadelphia Athletics,New York Yankees,0,2
+19400809,Cleveland Indians,St. Louis Browns,3,4
+19400809,Boston Red Sox,Washington Senators,5,6
+19400809,Brooklyn Dodgers,Boston Braves,1,0
+19400809,St. Louis Cardinals,Cincinnati Reds,2,7
+19400809,Chicago Cubs,Pittsburgh Pirates,2,6
+19400810,Detroit Tigers,Chicago White Sox,5,2
+19400810,Philadelphia Athletics,New York Yankees,0,13
+19400810,Boston Red Sox,Washington Senators,3,0
+19400810,Brooklyn Dodgers,Boston Braves,3,4
+19400810,St. Louis Cardinals,Cincinnati Reds,0,5
+19400810,New York Giants,Philadelpia Phillies,1,0
+19400810,Chicago Cubs,Pittsburgh Pirates,1,0
+19400811,Detroit Tigers,Chicago White Sox,3,4
+19400811,Detroit Tigers,Chicago White Sox,3,4
+19400811,Philadelphia Athletics,New York Yankees,6,7
+19400811,Cleveland Indians,St. Louis Browns,12,4
+19400811,Cleveland Indians,St. Louis Browns,6,7
+19400811,Boston Red Sox,Washington Senators,1,2
+19400811,Brooklyn Dodgers,Boston Braves,2,3
+19400811,Brooklyn Dodgers,Boston Braves,3,0
+19400811,St. Louis Cardinals,Cincinnati Reds,3,2
+19400811,St. Louis Cardinals,Cincinnati Reds,3,1
+19400811,New York Giants,Philadelpia Phillies,0,2
+19400811,New York Giants,Philadelpia Phillies,8,2
+19400811,Chicago Cubs,Pittsburgh Pirates,3,7
+19400811,Chicago Cubs,Pittsburgh Pirates,1,5
+19400812,Detroit Tigers,Cleveland Indians,5,8
+19400812,Chicago White Sox,St. Louis Browns,6,5
+19400812,Cincinnati Reds,Pittsburgh Pirates,2,4
+19400813,Detroit Tigers,Cleveland Indians,5,6
+19400813,Boston Red Sox,New York Yankees,1,9
+19400813,Boston Red Sox,New York Yankees,8,19
+19400813,Washington Senators,Philadelphia Athletics,3,6
+19400813,Chicago White Sox,St. Louis Browns,4,3
+19400813,New York Giants,Boston Braves,1,4
+19400813,St. Louis Cardinals,Chicago Cubs,5,1
+19400813,Cincinnati Reds,Pittsburgh Pirates,4,3
+19400814,Chicago White Sox,Cleveland Indians,0,4
+19400814,St. Louis Browns,Detroit Tigers,7,13
+19400814,Boston Red Sox,New York Yankees,3,8
+19400814,Washington Senators,Philadelphia Athletics,5,3
+19400814,Philadelpia Phillies,Brooklyn Dodgers,5,6
+19400814,Philadelpia Phillies,Brooklyn Dodgers,9,6
+19400814,New York Giants,Boston Braves,1,0
+19400814,New York Giants,Boston Braves,0,6
+19400814,Pittsburgh Pirates,St. Louis Cardinals,6,7
+19400815,Chicago White Sox,Cleveland Indians,4,5
+19400815,St. Louis Browns,Detroit Tigers,2,5
+19400815,Boston Red Sox,New York Yankees,11,1
+19400815,Washington Senators,Philadelphia Athletics,9,4
+19400815,Washington Senators,Philadelphia Athletics,5,6
+19400815,Philadelpia Phillies,Brooklyn Dodgers,4,2
+19400815,New York Giants,Boston Braves,1,12
+19400815,Cincinnati Reds,Chicago Cubs,0,1
+19400816,Washington Senators,Boston Red Sox,6,7
+19400816,St. Louis Browns,Cleveland Indians,3,8
+19400816,Chicago White Sox,Detroit Tigers,13,4
+19400816,Boston Braves,Brooklyn Dodgers,2,1
+19400816,Cincinnati Reds,Chicago Cubs,9,4
+19400816,Cincinnati Reds,Chicago Cubs,6,3
+19400816,Philadelpia Phillies,New York Giants,3,5
+19400816,Pittsburgh Pirates,St. Louis Cardinals,6,5
+19400816,Pittsburgh Pirates,St. Louis Cardinals,5,9
+19400817,Washington Senators,Boston Red Sox,9,12
+19400817,St. Louis Browns,Cleveland Indians,2,1
+19400817,Chicago White Sox,Detroit Tigers,9,5
+19400817,Pittsburgh Pirates,Chicago Cubs,5,6
+19400818,Washington Senators,Boston Red Sox,2,4
+19400818,St. Louis Browns,Cleveland Indians,2,2
+19400818,New York Yankees,Philadelphia Athletics,9,1
+19400818,New York Yankees,Philadelphia Athletics,3,7
+19400818,Chicago White Sox,Detroit Tigers,7,5
+19400818,Boston Braves,Brooklyn Dodgers,2,7
+19400818,Boston Braves,Brooklyn Dodgers,1,3
+19400818,Pittsburgh Pirates,Chicago Cubs,1,9
+19400818,Cincinnati Reds,St. Louis Cardinals,1,3
+19400818,Cincinnati Reds,St. Louis Cardinals,4,5
+19400818,Philadelpia Phillies,New York Giants,6,3
+19400818,Philadelpia Phillies,New York Giants,8,6
+19400819,Cleveland Indians,Boston Red Sox,7,16
+19400819,New York Giants,Cincinnati Reds,9,2
+19400819,Boston Braves,Pittsburgh Pirates,3,0
+19400820,Cleveland Indians,Boston Red Sox,11,6
+19400820,Detroit Tigers,New York Yankees,3,4
+19400820,Detroit Tigers,New York Yankees,2,4
+19400820,Chicago White Sox,Philadelphia Athletics,6,1
+19400820,Chicago White Sox,Philadelphia Athletics,3,4
+19400820,St. Louis Browns,Washington Senators,6,3
+19400820,Philadelpia Phillies,Chicago Cubs,0,4
+19400820,New York Giants,Cincinnati Reds,2,3
+19400820,Boston Braves,Pittsburgh Pirates,3,6
+19400820,Brooklyn Dodgers,St. Louis Cardinals,0,3
+19400820,Brooklyn Dodgers,St. Louis Cardinals,3,4
+19400821,Cleveland Indians,Boston Red Sox,4,2
+19400821,Detroit Tigers,New York Yankees,5,6
+19400821,Chicago White Sox,Philadelphia Athletics,0,3
+19400821,St. Louis Browns,Washington Senators,0,3
+19400821,Philadelpia Phillies,Chicago Cubs,7,5
+19400821,New York Giants,Cincinnati Reds,5,4
+19400821,Brooklyn Dodgers,St. Louis Cardinals,5,7
+19400821,Boston Braves,Pittsburgh Pirates,2,3
+19400822,Cleveland Indians,New York Yankees,2,15
+19400822,St. Louis Browns,Philadelphia Athletics,8,4
+19400822,Detroit Tigers,Boston Red Sox,9,8
+19400822,Brooklyn Dodgers,Chicago Cubs,0,5
+19400822,Boston Braves,Cincinnati Reds,2,3
+19400822,New York Giants,Pittsburgh Pirates,5,4
+19400822,New York Giants,Pittsburgh Pirates,0,4
+19400822,Philadelpia Phillies,St. Louis Cardinals,0,9
+19400823,Cleveland Indians,New York Yankees,3,5
+19400823,St. Louis Browns,Philadelphia Athletics,4,6
+19400823,Chicago White Sox,Washington Senators,2,3
+19400823,Brooklyn Dodgers,Chicago Cubs,4,5
+19400823,Boston Braves,Cincinnati Reds,7,2
+19400823,New York Giants,Pittsburgh Pirates,10,13
+19400823,Philadelpia Phillies,St. Louis Cardinals,2,5
+19400824,Detroit Tigers,Boston Red Sox,12,1
+19400824,Detroit Tigers,Boston Red Sox,7,8
+19400824,Cleveland Indians,New York Yankees,2,3
+19400824,St. Louis Browns,Philadelphia Athletics,6,5
+19400824,Chicago White Sox,Washington Senators,4,2
+19400824,Chicago White Sox,Washington Senators,2,1
+19400824,Brooklyn Dodgers,Chicago Cubs,11,3
+19400824,Boston Braves,Cincinnati Reds,0,5
+19400824,New York Giants,Pittsburgh Pirates,7,6
+19400824,Philadelpia Phillies,St. Louis Cardinals,0,1
+19400825,St. Louis Browns,Boston Red Sox,7,2
+19400825,St. Louis Browns,Boston Red Sox,3,17
+19400825,Chicago White Sox,New York Yankees,1,0
+19400825,Chicago White Sox,New York Yankees,1,3
+19400825,Detroit Tigers,Philadelphia Athletics,7,3
+19400825,Cleveland Indians,Washington Senators,4,5
+19400825,New York Giants,Chicago Cubs,4,5
+19400825,New York Giants,Chicago Cubs,12,8
+19400825,Philadelpia Phillies,Cincinnati Reds,2,3
+19400825,Philadelpia Phillies,Cincinnati Reds,5,6
+19400825,Brooklyn Dodgers,Pittsburgh Pirates,3,4
+19400825,Brooklyn Dodgers,Pittsburgh Pirates,8,1
+19400825,Boston Braves,St. Louis Cardinals,4,1
+19400825,Boston Braves,St. Louis Cardinals,5,8
+19400826,St. Louis Browns,Boston Red Sox,6,7
+19400826,Cleveland Indians,Washington Senators,4,3
+19400826,Philadelpia Phillies,Cincinnati Reds,2,3
+19400826,Philadelpia Phillies,Cincinnati Reds,6,1
+19400826,New York Giants,Chicago Cubs,10,5
+19400826,Boston Braves,St. Louis Cardinals,3,1
+19400827,Chicago White Sox,New York Yankees,4,5
+19400827,New York Giants,Chicago Cubs,1,3
+19400827,Boston Braves,St. Louis Cardinals,3,4
+19400828,Chicago White Sox,Boston Red Sox,3,2
+19400828,Boston Braves,Chicago Cubs,8,3
+19400828,Philadelpia Phillies,Pittsburgh Pirates,0,5
+19400828,Philadelpia Phillies,Pittsburgh Pirates,2,5
+19400828,New York Giants,St. Louis Cardinals,5,2
+19400829,Chicago White Sox,Boston Red Sox,3,4
+19400829,St. Louis Browns,New York Yankees,3,10
+19400829,St. Louis Browns,New York Yankees,5,6
+19400829,Detroit Tigers,Washington Senators,3,2
+19400829,Detroit Tigers,Washington Senators,6,0
+19400829,Boston Braves,Chicago Cubs,3,1
+19400829,Brooklyn Dodgers,Cincinnati Reds,3,9
+19400829,New York Giants,St. Louis Cardinals,0,5
+19400829,Philadelpia Phillies,Pittsburgh Pirates,0,4
+19400830,Cleveland Indians,Chicago White Sox,4,2
+19400830,Boston Red Sox,Philadelphia Athletics,5,4
+19400830,Brooklyn Dodgers,Cincinnati Reds,6,2
+19400831,Cleveland Indians,Chicago White Sox,5,4
+19400831,Washington Senators,New York Yankees,1,7
+19400831,Boston Red Sox,Philadelphia Athletics,10,6
+19400831,Detroit Tigers,St. Louis Browns,6,1
+19400831,New York Giants,Brooklyn Dodgers,6,7
+19400831,Philadelpia Phillies,Boston Braves,4,9
+19400831,Chicago Cubs,Cincinnati Reds,4,5
+19400901,Cleveland Indians,Chicago White Sox,7,4
+19400901,Washington Senators,New York Yankees,2,3
+19400901,Washington Senators,New York Yankees,0,3
+19400901,Detroit Tigers,St. Louis Browns,2,8
+19400901,New York Giants,Brooklyn Dodgers,1,4
+19400901,New York Giants,Brooklyn Dodgers,3,7
+19400901,Philadelpia Phillies,Boston Braves,1,2
+19400901,Chicago Cubs,Cincinnati Reds,5,6
+19400901,Chicago Cubs,Cincinnati Reds,1,2
+19400901,St. Louis Cardinals,Pittsburgh Pirates,0,10
+19400901,St. Louis Cardinals,Pittsburgh Pirates,5,5
+19400901,Philadelpia Phillies,Boston Braves,0,10
+19400902,Detroit Tigers,Chicago White Sox,1,2
+19400902,Detroit Tigers,Chicago White Sox,0,4
+19400902,St. Louis Browns,Cleveland Indians,2,1
+19400902,St. Louis Browns,Cleveland Indians,3,0
+19400902,Philadelphia Athletics,New York Yankees,3,6
+19400902,Philadelphia Athletics,New York Yankees,3,0
+19400902,Boston Red Sox,Washington Senators,0,1
+19400902,Boston Red Sox,Washington Senators,4,5
+19400902,Brooklyn Dodgers,Boston Braves,6,7
+19400902,Brooklyn Dodgers,Boston Braves,6,2
+19400902,St. Louis Cardinals,Cincinnati Reds,1,2
+19400902,St. Louis Cardinals,Cincinnati Reds,7,4
+19400902,New York Giants,Philadelpia Phillies,2,11
+19400902,Chicago Cubs,Pittsburgh Pirates,2,5
+19400902,Chicago Cubs,Pittsburgh Pirates,7,1
+19400902,New York Giants,Philadelpia Phillies,5,6
+19400903,Detroit Tigers,Chicago White Sox,2,10
+19400903,St. Louis Cardinals,Cincinnati Reds,3,4
+19400904,Philadelphia Athletics,Boston Red Sox,5,6
+19400904,Philadelphia Athletics,Boston Red Sox,4,5
+19400904,St. Louis Browns,Chicago White Sox,4,1
+19400904,Cleveland Indians,Detroit Tigers,2,7
+19400904,New York Yankees,Washington Senators,5,6
+19400904,Pittsburgh Pirates,Cincinnati Reds,2,3
+19400904,Boston Braves,New York Giants,2,0
+19400904,Brooklyn Dodgers,Philadelpia Phillies,3,0
+19400904,Chicago Cubs,St. Louis Cardinals,2,4
+19400905,Philadelphia Athletics,Boston Red Sox,7,9
+19400905,Cleveland Indians,Detroit Tigers,3,11
+19400905,New York Yankees,Washington Senators,2,1
+19400905,New York Yankees,Washington Senators,8,1
+19400905,St. Louis Browns,Chicago White Sox,2,4
+19400905,Pittsburgh Pirates,Cincinnati Reds,3,6
+19400905,Boston Braves,New York Giants,7,8
+19400905,Brooklyn Dodgers,Philadelpia Phillies,8,5
+19400905,Boston Braves,New York Giants,1,4
+19400906,St. Louis Browns,Chicago White Sox,3,6
+19400906,Cleveland Indians,Detroit Tigers,5,10
+19400906,New York Yankees,Washington Senators,1,3
+19400906,Brooklyn Dodgers,Philadelpia Phillies,3,0
+19400906,Brooklyn Dodgers,Philadelpia Phillies,14,3
+19400906,Chicago Cubs,St. Louis Cardinals,4,6
+19400907,New York Yankees,Boston Red Sox,4,3
+19400907,Chicago White Sox,Cleveland Indians,5,4
+19400907,St. Louis Browns,Detroit Tigers,4,5
+19400907,Philadelphia Athletics,Washington Senators,8,5
+19400907,Cincinnati Reds,Chicago Cubs,7,6
+19400907,Brooklyn Dodgers,New York Giants,1,4
+19400907,Boston Braves,Philadelpia Phillies,3,2
+19400907,Boston Braves,Philadelpia Phillies,3,1
+19400907,Pittsburgh Pirates,St. Louis Cardinals,14,9
+19400908,New York Yankees,Boston Red Sox,9,4
+19400908,Chicago White Sox,Cleveland Indians,4,5
+19400908,St. Louis Browns,Detroit Tigers,4,5
+19400908,Philadelphia Athletics,Washington Senators,6,7
+19400908,Philadelphia Athletics,Washington Senators,4,0
+19400908,Cincinnati Reds,Chicago Cubs,1,3
+19400908,Brooklyn Dodgers,New York Giants,7,2
+19400908,Brooklyn Dodgers,New York Giants,4,2
+19400908,Boston Braves,Philadelpia Phillies,1,2
+19400908,Boston Braves,Philadelpia Phillies,1,3
+19400908,Pittsburgh Pirates,St. Louis Cardinals,16,14
+19400908,Pittsburgh Pirates,St. Louis Cardinals,5,4
+19400909,Chicago White Sox,Cleveland Indians,2,1
+19400909,Brooklyn Dodgers,New York Giants,4,7
+19400910,Washington Senators,Chicago White Sox,5,2
+19400910,Boston Red Sox,Detroit Tigers,6,5
+19400910,Philadelphia Athletics,St. Louis Browns,6,4
+19400910,Pittsburgh Pirates,Philadelpia Phillies,11,3
+19400910,Pittsburgh Pirates,Philadelpia Phillies,11,1
+19400911,Washington Senators,Chicago White Sox,4,7
+19400911,New York Yankees,Cleveland Indians,3,1
+19400911,New York Yankees,Cleveland Indians,3,5
+19400911,Philadelphia Athletics,St. Louis Browns,0,3
+19400911,Boston Red Sox,Detroit Tigers,7,11
+19400911,Chicago Cubs,Brooklyn Dodgers,8,5
+19400911,Chicago Cubs,Brooklyn Dodgers,3,2
+19400911,Cincinnati Reds,Boston Braves,8,0
+19400911,Cincinnati Reds,Boston Braves,3,1
+19400911,St. Louis Cardinals,New York Giants,7,4
+19400911,St. Louis Cardinals,New York Giants,3,2
+19400911,Pittsburgh Pirates,Philadelpia Phillies,9,3
+19400912,Philadelphia Athletics,Chicago White Sox,0,1
+19400912,Philadelphia Athletics,Chicago White Sox,3,4
+19400912,Boston Red Sox,Cleveland Indians,1,8
+19400912,New York Yankees,Detroit Tigers,3,6
+19400912,Washington Senators,St. Louis Browns,7,2
+19400912,Pittsburgh Pirates,Brooklyn Dodgers,0,7
+19400912,Pittsburgh Pirates,Brooklyn Dodgers,4,7
+19400912,St. Louis Cardinals,Boston Braves,7,17
+19400912,St. Louis Cardinals,Boston Braves,1,6
+19400912,Cincinnati Reds,New York Giants,9,4
+19400912,Chicago Cubs,Philadelpia Phillies,5,1
+19400913,Philadelphia Athletics,Chicago White Sox,2,6
+19400913,Philadelphia Athletics,Chicago White Sox,4,8
+19400913,Boston Red Sox,Cleveland Indians,0,1
+19400913,New York Yankees,Detroit Tigers,0,8
+19400913,Washington Senators,St. Louis Browns,3,7
+19400913,Pittsburgh Pirates,Brooklyn Dodgers,2,8
+19400913,St. Louis Cardinals,Boston Braves,9,3
+19400913,Cincinnati Reds,New York Giants,5,2
+19400913,Chicago Cubs,Philadelpia Phillies,1,6
+19400914,Philadelphia Athletics,Chicago White Sox,3,6
+19400914,Boston Red Sox,Cleveland Indians,6,1
+19400914,New York Yankees,Detroit Tigers,16,7
+19400914,Washington Senators,St. Louis Browns,2,5
+19400914,Pittsburgh Pirates,Brooklyn Dodgers,0,5
+19400914,Pittsburgh Pirates,Brooklyn Dodgers,2,4
+19400914,St. Louis Cardinals,Boston Braves,6,5
+19400914,Cincinnati Reds,New York Giants,3,2
+19400914,Chicago Cubs,Philadelpia Phillies,3,5
+19400915,Boston Red Sox,Chicago White Sox,1,5
+19400915,Philadelphia Athletics,Cleveland Indians,0,5
+19400915,Philadelphia Athletics,Cleveland Indians,5,8
+19400915,Washington Senators,Detroit Tigers,6,1
+19400915,New York Yankees,St. Louis Browns,5,10
+19400915,New York Yankees,St. Louis Browns,1,2
+19400915,Boston Red Sox,Chicago White Sox,2,4
+19400915,Cincinnati Reds,Brooklyn Dodgers,13,3
+19400915,Cincinnati Reds,Brooklyn Dodgers,1,1
+19400915,St. Louis Cardinals,Philadelpia Phillies,7,0
+19400915,Chicago Cubs,Boston Braves,3,7
+19400915,Chicago Cubs,Boston Braves,7,4
+19400915,Pittsburgh Pirates,New York Giants,10,3
+19400915,Pittsburgh Pirates,New York Giants,4,3
+19400915,St. Louis Cardinals,Philadelpia Phillies,3,1
+19400916,Boston Red Sox,Chicago White Sox,6,2
+19400916,Philadelphia Athletics,Cleveland Indians,3,8
+19400916,Philadelphia Athletics,Cleveland Indians,3,2
+19400916,Washington Senators,Detroit Tigers,2,9
+19400916,New York Yankees,St. Louis Browns,4,16
+19400916,Cincinnati Reds,Brooklyn Dodgers,4,3
+19400916,Pittsburgh Pirates,New York Giants,7,6
+19400916,St. Louis Cardinals,Philadelpia Phillies,2,3
+19400916,St. Louis Cardinals,Philadelpia Phillies,7,1
+19400917,Philadelphia Athletics,Cleveland Indians,4,3
+19400917,Washington Senators,Detroit Tigers,3,6
+19400917,New York Yankees,St. Louis Browns,9,0
+19400917,St. Louis Cardinals,Brooklyn Dodgers,5,0
+19400917,Pittsburgh Pirates,Boston Braves,5,10
+19400917,Chicago Cubs,New York Giants,9,8
+19400917,Cincinnati Reds,Philadelpia Phillies,2,1
+19400918,New York Yankees,Chicago White Sox,3,6
+19400918,New York Yankees,Chicago White Sox,9,8
+19400918,Washington Senators,Cleveland Indians,1,3
+19400918,Washington Senators,Cleveland Indians,1,2
+19400918,Philadelphia Athletics,Detroit Tigers,0,14
+19400918,Philadelphia Athletics,Detroit Tigers,13,6
+19400918,Boston Red Sox,St. Louis Browns,2,11
+19400918,St. Louis Cardinals,Brooklyn Dodgers,14,7
+19400918,Pittsburgh Pirates,Boston Braves,1,4
+19400918,Chicago Cubs,New York Giants,6,4
+19400918,Cincinnati Reds,Philadelpia Phillies,4,3
+19400919,New York Yankees,Chicago White Sox,10,1
+19400919,Washington Senators,Cleveland Indians,1,3
+19400919,Boston Red Sox,St. Louis Browns,1,2
+19400919,Philadelphia Athletics,Detroit Tigers,2,13
+19400919,Philadelphia Athletics,Detroit Tigers,1,10
+19400919,Chicago Cubs,New York Giants,8,2
+19400919,Cincinnati Reds,Philadelpia Phillies,4,1
+19400919,St. Louis Cardinals,Pittsburgh Pirates,2,1
+19400919,St. Louis Cardinals,Pittsburgh Pirates,8,2
+19400920,Cleveland Indians,Detroit Tigers,5,6
+19400920,Chicago White Sox,St. Louis Browns,6,7
+19400921,Cleveland Indians,Detroit Tigers,0,5
+19400921,Boston Red Sox,New York Yankees,4,5
+19400921,Chicago White Sox,St. Louis Browns,2,3
+19400921,Philadelpia Phillies,Brooklyn Dodgers,4,2
+19400921,New York Giants,Boston Braves,3,1
+19400921,St. Louis Cardinals,Chicago Cubs,3,4
+19400921,Cincinnati Reds,Pittsburgh Pirates,8,1
+19400921,Cincinnati Reds,Pittsburgh Pirates,7,8
+19400922,Cleveland Indians,Detroit Tigers,10,5
+19400922,Boston Red Sox,New York Yankees,3,6
+19400922,Washington Senators,Philadelphia Athletics,5,4
+19400922,Washington Senators,Philadelphia Athletics,5,2
+19400922,Chicago White Sox,St. Louis Browns,10,0
+19400922,New York Giants,Boston Braves,3,4
+19400922,Cincinnati Reds,Pittsburgh Pirates,2,1
+19400922,Cincinnati Reds,Pittsburgh Pirates,1,8
+19400922,New York Giants,Boston Braves,7,3
+19400922,Philadelpia Phillies,Brooklyn Dodgers,2,10
+19400922,Philadelpia Phillies,Brooklyn Dodgers,2,5
+19400922,St. Louis Cardinals,Chicago Cubs,8,1
+19400922,St. Louis Cardinals,Chicago Cubs,2,1
+19400923,New York Giants,Brooklyn Dodgers,2,3
+19400923,Philadelpia Phillies,Boston Braves,6,2
+19400923,Philadelpia Phillies,Boston Braves,0,8
+19400923,St. Louis Cardinals,Chicago Cubs,0,10
+19400923,Cincinnati Reds,Pittsburgh Pirates,9,12
+19400924,St. Louis Browns,Cleveland Indians,7,2
+19400924,Washington Senators,New York Yankees,5,6
+19400924,Washington Senators,New York Yankees,4,9
+19400924,Boston Red Sox,Philadelphia Athletics,16,8
+19400924,Boston Red Sox,Philadelphia Athletics,4,3
+19400924,New York Giants,Brooklyn Dodgers,4,5
+19400925,St. Louis Browns,Cleveland Indians,2,4
+19400925,Chicago White Sox,Detroit Tigers,9,10
+19400925,Chicago White Sox,Detroit Tigers,2,3
+19400925,Cincinnati Reds,St. Louis Cardinals,5,0
+19400925,Cincinnati Reds,St. Louis Cardinals,3,4
+19400925,Pittsburgh Pirates,Chicago Cubs,1,2
+19400925,Pittsburgh Pirates,Chicago Cubs,4,6
+19400926,Washington Senators,Boston Red Sox,6,5
+19400926,New York Yankees,Philadelphia Athletics,5,4
+19400926,New York Yankees,Philadelphia Athletics,2,0
+19400926,Boston Braves,Brooklyn Dodgers,5,2
+19400926,Boston Braves,Brooklyn Dodgers,5,4
+19400926,Pittsburgh Pirates,Chicago Cubs,7,6
+19400926,Philadelpia Phillies,New York Giants,1,3
+19400926,Cincinnati Reds,St. Louis Cardinals,4,3
+19400926,Cincinnati Reds,St. Louis Cardinals,1,5
+19400926,Philadelpia Phillies,New York Giants,1,2
+19400927,Washington Senators,Boston Red Sox,4,24
+19400927,Detroit Tigers,Cleveland Indians,2,0
+19400927,New York Yankees,Philadelphia Athletics,2,6
+19400927,St. Louis Browns,Chicago White Sox,3,4
+19400927,Pittsburgh Pirates,Cincinnati Reds,4,3
+19400927,Philadelpia Phillies,New York Giants,6,0
+19400927,Chicago Cubs,St. Louis Cardinals,1,11
+19400928,Philadelphia Athletics,Boston Red Sox,4,16
+19400928,Philadelphia Athletics,Boston Red Sox,1,8
+19400928,St. Louis Browns,Chicago White Sox,1,5
+19400928,New York Yankees,Washington Senators,3,4
+19400928,New York Yankees,Washington Senators,7,1
+19400928,Detroit Tigers,Cleveland Indians,1,2
+19400928,Pittsburgh Pirates,Cincinnati Reds,5,6
+19400928,Brooklyn Dodgers,Philadelpia Phillies,1,5
+19400928,Boston Braves,New York Giants,1,11
+19400928,Chicago Cubs,St. Louis Cardinals,3,4
+19400929,Philadelphia Athletics,Boston Red Sox,4,9
+19400929,St. Louis Browns,Chicago White Sox,2,1
+19400929,Detroit Tigers,Cleveland Indians,2,3
+19400929,New York Yankees,Washington Senators,4,3
+19400929,Philadelphia Athletics,Boston Red Sox,1,4
+19400929,Pittsburgh Pirates,Cincinnati Reds,3,11
+19400929,Boston Braves,New York Giants,0,14
+19400929,Brooklyn Dodgers,Philadelpia Phillies,5,0
+19400929,Chicago Cubs,St. Louis Cardinals,0,6

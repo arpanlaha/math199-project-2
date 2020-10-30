@@ -1,0 +1,2106 @@
+Date,away_team,home_team,away_team_score,home_team_score
+19870406,Texas Rangers,Baltimore Orioles,1,2
+19870406,New York Yankees,Detroit Tigers,2,1
+19870406,Chicago White Sox,Kansas City Royals,5,4
+19870406,Boston Red Sox,Milwaukee Brewers,1,5
+19870406,Cleveland Indians,Toronto Blue Jays,3,7
+19870406,Montreal Expos,Cincinnati Reds,5,11
+19870406,Los Angeles Dodgers,Houston Colts,3,4
+19870406,San Diego Padres,San  Francisco Giants,3,4
+19870407,Seattle Mariners,California Angels,1,7
+19870407,Oakland Athletics,Minensota Twins,4,5
+19870407,Philadelpia Phillies,Atlanta Braves,0,6
+19870407,St. Louis Cardinals,Chicago Cubs,9,3
+19870407,Los Angeles Dodgers,Houston Colts,5,6
+19870407,Pittsburgh Pirates,New York Mets,2,3
+19870407,San Diego Padres,San  Francisco Giants,3,4
+19870408,Texas Rangers,Baltimore Orioles,6,4
+19870408,Seattle Mariners,California Angels,1,7
+19870408,New York Yankees,Detroit Tigers,6,5
+19870408,Chicago White Sox,Kansas City Royals,3,9
+19870408,Boston Red Sox,Milwaukee Brewers,2,3
+19870408,Oakland Athletics,Minensota Twins,1,4
+19870408,Cleveland Indians,Toronto Blue Jays,1,5
+19870408,Montreal Expos,Cincinnati Reds,2,7
+19870408,Los Angeles Dodgers,Houston Colts,3,7
+19870408,San Diego Padres,San  Francisco Giants,1,2
+19870409,Texas Rangers,Baltimore Orioles,6,8
+19870409,Seattle Mariners,California Angels,7,2
+19870409,New York Yankees,Detroit Tigers,3,9
+19870409,Chicago White Sox,Kansas City Royals,6,0
+19870409,Boston Red Sox,Milwaukee Brewers,11,12
+19870409,Oakland Athletics,Minensota Twins,4,5
+19870409,Cleveland Indians,Toronto Blue Jays,14,3
+19870409,Philadelpia Phillies,Atlanta Braves,7,8
+19870409,St. Louis Cardinals,Chicago Cubs,4,2
+19870409,San  Francisco Giants,Los Angeles Dodgers,8,1
+19870409,Pittsburgh Pirates,New York Mets,2,4
+19870410,Toronto Blue Jays,Boston Red Sox,0,3
+19870410,Detroit Tigers,Chicago White Sox,11,4
+19870410,Baltimore Orioles,Cleveland Indians,12,11
+19870410,New York Yankees,Kansas City Royals,1,13
+19870410,California Angels,Oakland Athletics,6,4
+19870410,Minensota Twins,Seattle Mariners,8,1
+19870410,Milwaukee Brewers,Texas Rangers,11,8
+19870410,San Diego Padres,Cincinnati Reds,3,6
+19870410,Montreal Expos,Houston Colts,1,6
+19870410,San  Francisco Giants,Los Angeles Dodgers,5,4
+19870410,Atlanta Braves,New York Mets,3,6
+19870410,Chicago Cubs,Philadelpia Phillies,4,3
+19870410,St. Louis Cardinals,Pittsburgh Pirates,3,4
+19870411,Toronto Blue Jays,Boston Red Sox,11,1
+19870411,Detroit Tigers,Chicago White Sox,7,1
+19870411,Baltimore Orioles,Cleveland Indians,7,3
+19870411,New York Yankees,Kansas City Royals,15,2
+19870411,California Angels,Oakland Athletics,6,3
+19870411,Minensota Twins,Seattle Mariners,5,6
+19870411,Milwaukee Brewers,Texas Rangers,8,6
+19870411,San Diego Padres,Cincinnati Reds,1,5
+19870411,Montreal Expos,Houston Colts,2,3
+19870411,San  Francisco Giants,Los Angeles Dodgers,1,5
+19870411,Atlanta Braves,New York Mets,4,3
+19870411,Chicago Cubs,Philadelpia Phillies,9,1
+19870411,St. Louis Cardinals,Pittsburgh Pirates,6,3
+19870412,Toronto Blue Jays,Boston Red Sox,3,8
+19870412,Detroit Tigers,Chicago White Sox,7,1
+19870412,Baltimore Orioles,Cleveland Indians,7,1
+19870412,New York Yankees,Kansas City Royals,2,8
+19870412,California Angels,Oakland Athletics,1,7
+19870412,Minensota Twins,Seattle Mariners,8,5
+19870412,Milwaukee Brewers,Texas Rangers,7,5
+19870412,San Diego Padres,Cincinnati Reds,5,2
+19870412,Montreal Expos,Houston Colts,0,1
+19870412,San  Francisco Giants,Los Angeles Dodgers,5,7
+19870412,Atlanta Braves,New York Mets,12,4
+19870412,Chicago Cubs,Philadelpia Phillies,8,9
+19870412,St. Louis Cardinals,Pittsburgh Pirates,4,7
+19870413,Milwaukee Brewers,Baltimore Orioles,6,3
+19870413,Cleveland Indians,New York Yankees,3,11
+19870413,Minensota Twins,Oakland Athletics,3,6
+19870413,California Angels,Seattle Mariners,5,3
+19870413,Cincinnati Reds,Atlanta Braves,7,2
+19870413,Houston Colts,Los Angeles Dodgers,2,4
+19870413,Chicago Cubs,Philadelpia Phillies,5,2
+19870413,St. Louis Cardinals,Pittsburgh Pirates,8,4
+19870413,San  Francisco Giants,San Diego Padres,13,6
+19870414,Milwaukee Brewers,Baltimore Orioles,7,4
+19870414,Texas Rangers,Boston Red Sox,1,4
+19870414,Detroit Tigers,Kansas City Royals,1,10
+19870414,Cleveland Indians,New York Yankees,6,10
+19870414,Minensota Twins,Oakland Athletics,9,8
+19870414,California Angels,Seattle Mariners,4,6
+19870414,Chicago White Sox,Toronto Blue Jays,3,4
+19870414,Cincinnati Reds,Atlanta Braves,6,3
+19870414,Houston Colts,Los Angeles Dodgers,2,3
+19870414,New York Mets,Philadelpia Phillies,7,5
+19870414,San  Francisco Giants,San Diego Padres,3,2
+19870414,Montreal Expos,St. Louis Cardinals,9,4
+19870415,Milwaukee Brewers,Baltimore Orioles,7,0
+19870415,Texas Rangers,Boston Red Sox,4,5
+19870415,Detroit Tigers,Kansas City Royals,1,2
+19870415,Cleveland Indians,New York Yankees,3,4
+19870415,Minensota Twins,Oakland Athletics,5,2
+19870415,California Angels,Seattle Mariners,4,0
+19870415,Chicago White Sox,Toronto Blue Jays,5,0
+19870415,Cincinnati Reds,Atlanta Braves,3,4
+19870415,Pittsburgh Pirates,Chicago Cubs,3,1
+19870415,Houston Colts,Los Angeles Dodgers,4,0
+19870415,New York Mets,Philadelpia Phillies,4,1
+19870415,San  Francisco Giants,San Diego Padres,1,0
+19870416,Oakland Athletics,Seattle Mariners,5,6
+19870416,Boston Red Sox,Toronto Blue Jays,2,4
+19870416,Pittsburgh Pirates,Chicago Cubs,6,0
+19870416,New York Mets,Philadelpia Phillies,9,3
+19870416,Los Angeles Dodgers,San Diego Padres,2,3
+19870416,Montreal Expos,St. Louis Cardinals,4,3
+19870417,Cleveland Indians,Baltimore Orioles,1,4
+19870417,Minensota Twins,California Angels,1,2
+19870417,Chicago White Sox,Detroit Tigers,1,3
+19870417,Texas Rangers,Milwaukee Brewers,2,10
+19870417,Oakland Athletics,Seattle Mariners,2,4
+19870417,Boston Red Sox,Toronto Blue Jays,5,10
+19870417,Montreal Expos,Chicago Cubs,0,7
+19870417,Houston Colts,Cincinnati Reds,8,9
+19870417,Philadelpia Phillies,Pittsburgh Pirates,6,2
+19870417,Los Angeles Dodgers,San Diego Padres,5,3
+19870417,Atlanta Braves,San  Francisco Giants,2,0
+19870417,New York Mets,St. Louis Cardinals,3,4
+19870418,Cleveland Indians,Baltimore Orioles,3,16
+19870418,Minensota Twins,California Angels,0,1
+19870418,Chicago White Sox,Detroit Tigers,2,3
+19870418,Texas Rangers,Milwaukee Brewers,3,4
+19870418,Kansas City Royals,New York Yankees,6,7
+19870418,Oakland Athletics,Seattle Mariners,7,5
+19870418,Boston Red Sox,Toronto Blue Jays,6,4
+19870418,Montreal Expos,Chicago Cubs,4,2
+19870418,Houston Colts,Cincinnati Reds,0,8
+19870418,Philadelpia Phillies,Pittsburgh Pirates,8,6
+19870418,Los Angeles Dodgers,San Diego Padres,5,2
+19870418,Atlanta Braves,San  Francisco Giants,1,2
+19870418,New York Mets,St. Louis Cardinals,8,12
+19870419,Cleveland Indians,Baltimore Orioles,3,0
+19870419,Cleveland Indians,Baltimore Orioles,8,7
+19870419,Minensota Twins,California Angels,6,5
+19870419,Chicago White Sox,Detroit Tigers,7,2
+19870419,Texas Rangers,Milwaukee Brewers,4,6
+19870419,Kansas City Royals,New York Yankees,0,5
+19870419,Kansas City Royals,New York Yankees,0,1
+19870419,Oakland Athletics,Seattle Mariners,1,8
+19870419,Boston Red Sox,Toronto Blue Jays,4,1
+19870419,Montreal Expos,Chicago Cubs,3,1
+19870419,Houston Colts,Cincinnati Reds,7,3
+19870419,Houston Colts,Cincinnati Reds,2,6
+19870419,Philadelpia Phillies,Pittsburgh Pirates,2,5
+19870419,Los Angeles Dodgers,San Diego Padres,9,1
+19870419,Atlanta Braves,San  Francisco Giants,3,4
+19870419,New York Mets,St. Louis Cardinals,2,4
+19870420,Kansas City Royals,Boston Red Sox,10,2
+19870420,Oakland Athletics,California Angels,10,5
+19870420,Milwaukee Brewers,Chicago White Sox,5,4
+19870420,Toronto Blue Jays,Cleveland Indians,8,7
+19870420,Seattle Mariners,Minensota Twins,5,13
+19870420,Detroit Tigers,New York Yankees,2,8
+19870420,Philadelpia Phillies,Montreal Expos,4,3
+19870420,New York Mets,Pittsburgh Pirates,6,9
+19870420,Cincinnati Reds,San Diego Padres,12,3
+19870420,Los Angeles Dodgers,San  Francisco Giants,3,4
+19870421,Kansas City Royals,Boston Red Sox,0,8
+19870421,Oakland Athletics,California Angels,5,8
+19870421,Milwaukee Brewers,Chicago White Sox,1,7
+19870421,Toronto Blue Jays,Cleveland Indians,0,5
+19870421,Seattle Mariners,Minensota Twins,1,6
+19870421,Detroit Tigers,New York Yankees,1,3
+19870421,Baltimore Orioles,Texas Rangers,4,6
+19870421,Atlanta Braves,Houston Colts,6,7
+19870421,New York Mets,Pittsburgh Pirates,9,6
+19870421,Cincinnati Reds,San Diego Padres,2,3
+19870421,Los Angeles Dodgers,San  Francisco Giants,11,8
+19870421,Chicago Cubs,St. Louis Cardinals,5,4
+19870422,Kansas City Royals,Boston Red Sox,0,1
+19870422,Oakland Athletics,California Angels,7,6
+19870422,Toronto Blue Jays,Cleveland Indians,6,3
+19870422,Seattle Mariners,Minensota Twins,4,3
+19870422,Detroit Tigers,New York Yankees,1,4
+19870422,Baltimore Orioles,Texas Rangers,3,2
+19870422,Atlanta Braves,Houston Colts,0,6
+19870422,Philadelpia Phillies,Montreal Expos,3,7
+19870422,New York Mets,Pittsburgh Pirates,8,7
+19870422,Cincinnati Reds,San Diego Padres,3,6
+19870422,Los Angeles Dodgers,San  Francisco Giants,5,3
+19870422,Chicago Cubs,St. Louis Cardinals,5,4
+19870423,New York Yankees,Cleveland Indians,5,4
+19870423,California Angels,Minensota Twins,7,3
+19870423,Baltimore Orioles,Texas Rangers,4,9
+19870423,Atlanta Braves,Houston Colts,3,5
+19870423,Philadelpia Phillies,Montreal Expos,5,6
+19870423,Cincinnati Reds,San Diego Padres,3,2
+19870423,Chicago Cubs,St. Louis Cardinals,2,5
+19870424,Toronto Blue Jays,Chicago White Sox,4,2
+19870424,New York Yankees,Cleveland Indians,5,6
+19870424,Kansas City Royals,Detroit Tigers,7,3
+19870424,Baltimore Orioles,Milwaukee Brewers,4,6
+19870424,California Angels,Minensota Twins,8,1
+19870424,Seattle Mariners,Oakland Athletics,6,3
+19870424,Boston Red Sox,Texas Rangers,4,6
+19870424,San  Francisco Giants,Atlanta Braves,7,5
+19870424,Cincinnati Reds,Houston Colts,4,3
+19870424,San Diego Padres,Los Angeles Dodgers,0,5
+19870424,Chicago Cubs,Montreal Expos,6,4
+19870424,St. Louis Cardinals,New York Mets,1,2
+19870425,Toronto Blue Jays,Chicago White Sox,4,5
+19870425,New York Yankees,Cleveland Indians,1,2
+19870425,Kansas City Royals,Detroit Tigers,2,13
+19870425,Baltimore Orioles,Milwaukee Brewers,2,8
+19870425,California Angels,Minensota Twins,7,8
+19870425,Seattle Mariners,Oakland Athletics,3,7
+19870425,Boston Red Sox,Texas Rangers,1,2
+19870425,San  Francisco Giants,Atlanta Braves,3,5
+19870425,Cincinnati Reds,Houston Colts,3,0
+19870425,San Diego Padres,Los Angeles Dodgers,2,4
+19870425,Chicago Cubs,Montreal Expos,9,4
+19870425,St. Louis Cardinals,New York Mets,3,2
+19870425,Pittsburgh Pirates,Philadelpia Phillies,2,3
+19870426,Toronto Blue Jays,Chicago White Sox,5,2
+19870426,New York Yankees,Cleveland Indians,14,2
+19870426,Kansas City Royals,Detroit Tigers,6,1
+19870426,Baltimore Orioles,Milwaukee Brewers,3,5
+19870426,California Angels,Minensota Twins,5,10
+19870426,Seattle Mariners,Oakland Athletics,8,5
+19870426,Boston Red Sox,Texas Rangers,3,5
+19870426,San  Francisco Giants,Atlanta Braves,6,4
+19870426,Cincinnati Reds,Houston Colts,11,3
+19870426,San Diego Padres,Los Angeles Dodgers,4,0
+19870426,Chicago Cubs,Montreal Expos,7,1
+19870426,St. Louis Cardinals,New York Mets,7,4
+19870426,Pittsburgh Pirates,Philadelpia Phillies,4,6
+19870427,Milwaukee Brewers,California Angels,10,7
+19870427,Boston Red Sox,Oakland Athletics,2,5
+19870427,Detroit Tigers,Seattle Mariners,2,5
+19870427,San  Francisco Giants,Atlanta Braves,7,3
+19870427,Houston Colts,New York Mets,11,1
+19870427,Montreal Expos,Philadelpia Phillies,6,4
+19870428,Milwaukee Brewers,California Angels,5,10
+19870428,Chicago White Sox,Cleveland Indians,0,1
+19870428,Baltimore Orioles,Kansas City Royals,3,0
+19870428,Boston Red Sox,Oakland Athletics,1,7
+19870428,Detroit Tigers,Seattle Mariners,4,6
+19870428,New York Yankees,Texas Rangers,1,3
+19870428,Minensota Twins,Toronto Blue Jays,1,5
+19870428,San  Francisco Giants,Chicago Cubs,6,2
+19870428,Atlanta Braves,Cincinnati Reds,7,3
+19870428,Montreal Expos,Philadelpia Phillies,7,1
+19870428,Los Angeles Dodgers,Pittsburgh Pirates,1,6
+19870428,San Diego Padres,St. Louis Cardinals,5,2
+19870429,Detroit Tigers,California Angels,2,1
+19870429,Chicago White Sox,Cleveland Indians,5,6
+19870429,Baltimore Orioles,Kansas City Royals,4,5
+19870429,Milwaukee Brewers,Oakland Athletics,8,7
+19870429,Boston Red Sox,Seattle Mariners,11,5
+19870429,New York Yankees,Texas Rangers,7,8
+19870429,Minensota Twins,Toronto Blue Jays,1,8
+19870429,San  Francisco Giants,Chicago Cubs,4,8
+19870429,Atlanta Braves,Cincinnati Reds,5,2
+19870429,Houston Colts,New York Mets,1,2
+19870429,Montreal Expos,Philadelpia Phillies,0,5
+19870429,Los Angeles Dodgers,Pittsburgh Pirates,10,2
+19870429,San Diego Padres,St. Louis Cardinals,6,10
+19870430,Detroit Tigers,California Angels,12,4
+19870430,Milwaukee Brewers,Oakland Athletics,1,4
+19870430,Boston Red Sox,Seattle Mariners,2,11
+19870430,San  Francisco Giants,Chicago Cubs,5,4
+19870430,Atlanta Braves,Cincinnati Reds,8,9
+19870430,Montreal Expos,New York Mets,3,11
+19870430,Los Angeles Dodgers,Pittsburgh Pirates,4,5
+19870430,San Diego Padres,St. Louis Cardinals,4,5
+19870501,Chicago White Sox,Baltimore Orioles,5,1
+19870501,Boston Red Sox,California Angels,12,3
+19870501,Cleveland Indians,Kansas City Royals,2,0
+19870501,New York Yankees,Minensota Twins,4,7
+19870501,Detroit Tigers,Oakland Athletics,1,2
+19870501,Milwaukee Brewers,Seattle Mariners,10,8
+19870501,Texas Rangers,Toronto Blue Jays,2,3
+19870501,Houston Colts,Atlanta Braves,12,3
+19870501,San Diego Padres,Chicago Cubs,5,7
+19870501,Montreal Expos,New York Mets,6,7
+19870501,Cincinnati Reds,Philadelpia Phillies,8,5
+19870501,San  Francisco Giants,Pittsburgh Pirates,2,4
+19870501,Los Angeles Dodgers,St. Louis Cardinals,4,5
+19870502,Chicago White Sox,Baltimore Orioles,7,3
+19870502,Boston Red Sox,California Angels,2,4
+19870502,Cleveland Indians,Kansas City Royals,4,5
+19870502,New York Yankees,Minensota Twins,6,4
+19870502,Detroit Tigers,Oakland Athletics,2,3
+19870502,Milwaukee Brewers,Seattle Mariners,6,4
+19870502,Texas Rangers,Toronto Blue Jays,8,9
+19870502,Houston Colts,Atlanta Braves,4,12
+19870502,San Diego Padres,Chicago Cubs,3,7
+19870502,Montreal Expos,New York Mets,11,7
+19870502,Cincinnati Reds,Philadelpia Phillies,3,8
+19870502,San  Francisco Giants,Pittsburgh Pirates,0,1
+19870502,Los Angeles Dodgers,St. Louis Cardinals,7,6
+19870503,Chicago White Sox,Baltimore Orioles,4,3
+19870503,Boston Red Sox,California Angels,4,11
+19870503,Cleveland Indians,Kansas City Royals,1,2
+19870503,New York Yankees,Minensota Twins,3,4
+19870503,Detroit Tigers,Oakland Athletics,0,2
+19870503,Milwaukee Brewers,Seattle Mariners,3,7
+19870503,Texas Rangers,Toronto Blue Jays,1,3
+19870503,Houston Colts,Atlanta Braves,3,5
+19870503,San Diego Padres,Chicago Cubs,2,4
+19870503,Montreal Expos,New York Mets,2,0
+19870503,Cincinnati Reds,Philadelpia Phillies,9,6
+19870504,New York Yankees,Chicago White Sox,6,1
+19870504,Montreal Expos,Atlanta Braves,7,10
+19870504,Los Angeles Dodgers,Chicago Cubs,4,5
+19870504,Pittsburgh Pirates,San Diego Padres,5,9
+19870504,San  Francisco Giants,St. Louis Cardinals,10,7
+19870505,Oakland Athletics,Boston Red Sox,0,6
+19870505,New York Yankees,Chicago White Sox,0,2
+19870505,Seattle Mariners,Detroit Tigers,7,5
+19870505,Toronto Blue Jays,Kansas City Royals,4,6
+19870505,California Angels,Milwaukee Brewers,2,0
+19870505,Baltimore Orioles,Minensota Twins,5,4
+19870505,Cleveland Indians,Texas Rangers,5,6
+19870505,Montreal Expos,Atlanta Braves,6,4
+19870505,Los Angeles Dodgers,Chicago Cubs,3,1
+19870505,Cincinnati Reds,New York Mets,2,0
+19870505,Houston Colts,Philadelpia Phillies,5,1
+19870505,Pittsburgh Pirates,San Diego Padres,10,8
+19870505,San  Francisco Giants,St. Louis Cardinals,10,6
+19870506,Oakland Athletics,Boston Red Sox,2,6
+19870506,New York Yankees,Chicago White Sox,4,1
+19870506,Seattle Mariners,Detroit Tigers,5,7
+19870506,Toronto Blue Jays,Kansas City Royals,3,6
+19870506,California Angels,Milwaukee Brewers,3,0
+19870506,Baltimore Orioles,Minensota Twins,6,0
+19870506,Cleveland Indians,Texas Rangers,2,7
+19870506,Montreal Expos,Atlanta Braves,6,2
+19870506,Pittsburgh Pirates,Los Angeles Dodgers,1,2
+19870506,Cincinnati Reds,New York Mets,2,3
+19870506,Houston Colts,Philadelpia Phillies,3,2
+19870506,St. Louis Cardinals,San Diego Padres,3,0
+19870506,Chicago Cubs,San  Francisco Giants,9,4
+19870507,Baltimore Orioles,Minensota Twins,2,5
+19870507,Pittsburgh Pirates,Los Angeles Dodgers,3,6
+19870507,St. Louis Cardinals,San Diego Padres,17,10
+19870507,Chicago Cubs,San  Francisco Giants,1,11
+19870508,California Angels,Boston Red Sox,4,6
+19870508,Baltimore Orioles,Chicago White Sox,7,6
+19870508,Kansas City Royals,Cleveland Indians,9,6
+19870508,Oakland Athletics,Detroit Tigers,7,2
+19870508,Seattle Mariners,Milwaukee Brewers,4,3
+19870508,Minensota Twins,New York Yankees,7,11
+19870508,Toronto Blue Jays,Texas Rangers,7,4
+19870508,New York Mets,Atlanta Braves,3,4
+19870508,Philadelpia Phillies,Cincinnati Reds,3,4
+19870508,St. Louis Cardinals,Los Angeles Dodgers,5,1
+19870508,Houston Colts,Montreal Expos,3,0
+19870508,Chicago Cubs,San Diego Padres,6,3
+19870508,Pittsburgh Pirates,San  Francisco Giants,2,4
+19870509,California Angels,Boston Red Sox,8,1
+19870509,Baltimore Orioles,Chicago White Sox,15,6
+19870509,Kansas City Royals,Cleveland Indians,4,0
+19870509,Oakland Athletics,Detroit Tigers,8,7
+19870509,Seattle Mariners,Milwaukee Brewers,8,2
+19870509,Minensota Twins,New York Yankees,2,0
+19870509,Toronto Blue Jays,Texas Rangers,15,4
+19870509,New York Mets,Atlanta Braves,4,5
+19870509,Philadelpia Phillies,Cincinnati Reds,4,2
+19870509,St. Louis Cardinals,Los Angeles Dodgers,2,4
+19870509,Houston Colts,Montreal Expos,1,3
+19870509,Chicago Cubs,San Diego Padres,5,2
+19870509,Pittsburgh Pirates,San  Francisco Giants,4,9
+19870510,California Angels,Boston Red Sox,0,7
+19870510,Baltimore Orioles,Chicago White Sox,6,4
+19870510,Kansas City Royals,Cleveland Indians,2,4
+19870510,Oakland Athletics,Detroit Tigers,6,7
+19870510,Seattle Mariners,Milwaukee Brewers,5,1
+19870510,Minensota Twins,New York Yankees,1,6
+19870510,Toronto Blue Jays,Texas Rangers,8,9
+19870510,New York Mets,Atlanta Braves,7,8
+19870510,Philadelpia Phillies,Cincinnati Reds,4,3
+19870510,St. Louis Cardinals,Los Angeles Dodgers,6,7
+19870510,Houston Colts,Montreal Expos,2,6
+19870510,Chicago Cubs,San Diego Padres,2,14
+19870510,Pittsburgh Pirates,San  Francisco Giants,4,1
+19870511,Minensota Twins,Baltimore Orioles,10,4
+19870511,Seattle Mariners,Boston Red Sox,4,3
+19870511,Texas Rangers,Cleveland Indians,6,3
+19870511,California Angels,Detroit Tigers,5,1
+19870511,Chicago White Sox,New York Yankees,2,3
+19870511,Kansas City Royals,Toronto Blue Jays,0,4
+19870511,New York Mets,Cincinnati Reds,2,12
+19870511,Philadelpia Phillies,Houston Colts,7,6
+19870511,Chicago Cubs,Los Angeles Dodgers,6,3
+19870511,Atlanta Braves,Montreal Expos,6,7
+19870512,Minensota Twins,Baltimore Orioles,7,10
+19870512,Seattle Mariners,Boston Red Sox,2,3
+19870512,Texas Rangers,Cleveland Indians,6,1
+19870512,California Angels,Detroit Tigers,2,15
+19870512,Oakland Athletics,Milwaukee Brewers,10,8
+19870512,Chicago White Sox,New York Yankees,4,5
+19870512,Kansas City Royals,Toronto Blue Jays,3,1
+19870512,New York Mets,Cincinnati Reds,6,2
+19870512,Philadelpia Phillies,Houston Colts,2,5
+19870512,Chicago Cubs,Los Angeles Dodgers,0,7
+19870512,Atlanta Braves,Montreal Expos,5,2
+19870512,San Diego Padres,Pittsburgh Pirates,5,12
+19870512,St. Louis Cardinals,San  Francisco Giants,6,5
+19870513,Kansas City Royals,Baltimore Orioles,8,7
+19870513,Seattle Mariners,Boston Red Sox,5,4
+19870513,Cleveland Indians,Chicago White Sox,7,5
+19870513,California Angels,Detroit Tigers,7,10
+19870513,Oakland Athletics,Milwaukee Brewers,8,2
+19870513,Toronto Blue Jays,Minensota Twins,7,0
+19870513,Texas Rangers,New York Yankees,8,6
+19870513,New York Mets,Houston Colts,1,2
+19870513,Chicago Cubs,Los Angeles Dodgers,5,0
+19870513,Cincinnati Reds,Montreal Expos,12,6
+19870513,Atlanta Braves,Philadelpia Phillies,10,5
+19870513,San Diego Padres,Pittsburgh Pirates,5,9
+19870513,St. Louis Cardinals,San  Francisco Giants,7,6
+19870514,Kansas City Royals,Baltimore Orioles,3,4
+19870514,Cleveland Indians,Chicago White Sox,3,4
+19870514,Toronto Blue Jays,Minensota Twins,16,4
+19870514,Texas Rangers,New York Yankees,1,9
+19870514,New York Mets,Houston Colts,4,5
+19870514,Cincinnati Reds,Montreal Expos,10,9
+19870514,Atlanta Braves,Philadelpia Phillies,4,5
+19870514,San Diego Padres,Pittsburgh Pirates,3,10
+19870515,Baltimore Orioles,California Angels,6,7
+19870515,Texas Rangers,Chicago White Sox,0,5
+19870515,Cleveland Indians,Detroit Tigers,3,4
+19870515,Milwaukee Brewers,Kansas City Royals,3,4
+19870515,Boston Red Sox,Minensota Twins,1,3
+19870515,Toronto Blue Jays,Oakland Athletics,3,2
+19870515,New York Yankees,Seattle Mariners,7,3
+19870515,Chicago Cubs,Houston Colts,3,1
+19870515,Los Angeles Dodgers,Montreal Expos,3,6
+19870515,San  Francisco Giants,New York Mets,3,8
+19870515,San Diego Padres,Philadelpia Phillies,4,7
+19870515,Atlanta Braves,Pittsburgh Pirates,9,3
+19870515,Cincinnati Reds,St. Louis Cardinals,4,5
+19870516,Baltimore Orioles,California Angels,4,2
+19870516,Texas Rangers,Chicago White Sox,7,2
+19870516,Cleveland Indians,Detroit Tigers,3,5
+19870516,Milwaukee Brewers,Kansas City Royals,0,13
+19870516,Boston Red Sox,Minensota Twins,6,1
+19870516,Toronto Blue Jays,Oakland Athletics,3,10
+19870516,New York Yankees,Seattle Mariners,8,10
+19870516,Chicago Cubs,Houston Colts,2,1
+19870516,Los Angeles Dodgers,Montreal Expos,3,10
+19870516,San  Francisco Giants,New York Mets,5,4
+19870516,San Diego Padres,Philadelpia Phillies,0,9
+19870516,Atlanta Braves,Pittsburgh Pirates,10,8
+19870516,Cincinnati Reds,St. Louis Cardinals,5,6
+19870517,Baltimore Orioles,California Angels,3,2
+19870517,Texas Rangers,Chicago White Sox,5,8
+19870517,Cleveland Indians,Detroit Tigers,4,8
+19870517,Milwaukee Brewers,Kansas City Royals,2,3
+19870517,Boston Red Sox,Minensota Twins,8,10
+19870517,Toronto Blue Jays,Oakland Athletics,0,3
+19870517,New York Yankees,Seattle Mariners,8,3
+19870517,Chicago Cubs,Houston Colts,6,4
+19870517,Los Angeles Dodgers,Montreal Expos,3,8
+19870517,San  Francisco Giants,New York Mets,4,6
+19870517,San Diego Padres,Philadelpia Phillies,6,5
+19870517,Atlanta Braves,Pittsburgh Pirates,5,6
+19870517,Cincinnati Reds,St. Louis Cardinals,2,10
+19870518,Toronto Blue Jays,California Angels,12,0
+19870518,Boston Red Sox,Kansas City Royals,2,4
+19870518,New York Yankees,Oakland Athletics,2,1
+19870518,Baltimore Orioles,Seattle Mariners,6,0
+19870518,Detroit Tigers,Texas Rangers,6,3
+19870518,San  Francisco Giants,Montreal Expos,2,7
+19870518,San Diego Padres,New York Mets,7,5
+19870518,Los Angeles Dodgers,Philadelpia Phillies,3,5
+19870518,Houston Colts,Pittsburgh Pirates,4,1
+19870519,Toronto Blue Jays,California Angels,1,2
+19870519,Minensota Twins,Cleveland Indians,3,4
+19870519,Boston Red Sox,Kansas City Royals,1,4
+19870519,Chicago White Sox,Milwaukee Brewers,5,1
+19870519,New York Yankees,Oakland Athletics,2,4
+19870519,Baltimore Orioles,Seattle Mariners,15,4
+19870519,Detroit Tigers,Texas Rangers,8,10
+19870519,St. Louis Cardinals,Atlanta Braves,5,6
+19870519,Cincinnati Reds,Chicago Cubs,2,9
+19870519,San  Francisco Giants,Montreal Expos,6,2
+19870519,San Diego Padres,New York Mets,4,5
+19870519,Houston Colts,Pittsburgh Pirates,2,5
+19870520,Toronto Blue Jays,California Angels,4,5
+19870520,Minensota Twins,Cleveland Indians,8,2
+19870520,Boston Red Sox,Kansas City Royals,7,1
+19870520,Chicago White Sox,Milwaukee Brewers,1,5
+19870520,New York Yankees,Oakland Athletics,5,7
+19870520,Baltimore Orioles,Seattle Mariners,2,6
+19870520,Detroit Tigers,Texas Rangers,6,4
+19870520,St. Louis Cardinals,Atlanta Braves,5,4
+19870520,Cincinnati Reds,Chicago Cubs,6,2
+19870520,San  Francisco Giants,Montreal Expos,9,7
+19870520,San Diego Padres,New York Mets,3,10
+19870520,Houston Colts,Pittsburgh Pirates,3,5
+19870521,Minensota Twins,Cleveland Indians,3,6
+19870521,St. Louis Cardinals,Atlanta Braves,7,2
+19870521,Cincinnati Reds,Chicago Cubs,7,8
+19870521,Los Angeles Dodgers,Philadelpia Phillies,3,6
+19870522,Chicago White Sox,Boston Red Sox,4,3
+19870522,New York Yankees,California Angels,7,2
+19870522,Cleveland Indians,Milwaukee Brewers,2,4
+19870522,Detroit Tigers,Minensota Twins,3,2
+19870522,Baltimore Orioles,Oakland Athletics,10,6
+19870522,Toronto Blue Jays,Seattle Mariners,7,5
+19870522,Kansas City Royals,Texas Rangers,8,1
+19870522,Atlanta Braves,Chicago Cubs,9,5
+19870522,Pittsburgh Pirates,Cincinnati Reds,4,1
+19870522,St. Louis Cardinals,Houston Colts,7,5
+19870522,Los Angeles Dodgers,New York Mets,4,6
+19870522,San  Francisco Giants,Philadelpia Phillies,2,1
+19870522,Montreal Expos,San Diego Padres,3,5
+19870523,Chicago White Sox,Boston Red Sox,9,1
+19870523,New York Yankees,California Angels,3,0
+19870523,Cleveland Indians,Milwaukee Brewers,6,2
+19870523,Detroit Tigers,Minensota Twins,5,7
+19870523,Baltimore Orioles,Oakland Athletics,5,4
+19870523,Toronto Blue Jays,Seattle Mariners,6,2
+19870523,Kansas City Royals,Texas Rangers,4,6
+19870523,Atlanta Braves,Chicago Cubs,6,7
+19870523,Pittsburgh Pirates,Cincinnati Reds,3,2
+19870523,St. Louis Cardinals,Houston Colts,4,3
+19870523,Los Angeles Dodgers,New York Mets,4,2
+19870523,San  Francisco Giants,Philadelpia Phillies,8,9
+19870523,Montreal Expos,San Diego Padres,6,0
+19870524,Chicago White Sox,Boston Red Sox,4,1
+19870524,New York Yankees,California Angels,10,8
+19870524,Cleveland Indians,Milwaukee Brewers,5,3
+19870524,Detroit Tigers,Minensota Twins,7,2
+19870524,Baltimore Orioles,Oakland Athletics,4,3
+19870524,Toronto Blue Jays,Seattle Mariners,2,5
+19870524,Kansas City Royals,Texas Rangers,5,2
+19870524,Atlanta Braves,Chicago Cubs,2,3
+19870524,Pittsburgh Pirates,Cincinnati Reds,7,2
+19870524,St. Louis Cardinals,Houston Colts,8,2
+19870524,Los Angeles Dodgers,New York Mets,8,6
+19870524,San  Francisco Giants,Philadelpia Phillies,6,3
+19870524,Montreal Expos,San Diego Padres,2,1
+19870525,Cleveland Indians,Boston Red Sox,6,10
+19870525,New York Yankees,California Angels,6,3
+19870525,Kansas City Royals,Chicago White Sox,6,1
+19870525,Texas Rangers,Detroit Tigers,5,8
+19870525,Baltimore Orioles,Oakland Athletics,4,3
+19870525,Toronto Blue Jays,Seattle Mariners,6,5
+19870525,Chicago Cubs,Cincinnati Reds,4,5
+19870525,Pittsburgh Pirates,Houston Colts,2,7
+19870525,Montreal Expos,Los Angeles Dodgers,3,1
+19870525,Philadelpia Phillies,San Diego Padres,6,4
+19870525,New York Mets,San  Francisco Giants,8,7
+19870525,Atlanta Braves,St. Louis Cardinals,14,5
+19870526,Cleveland Indians,Boston Red Sox,5,6
+19870526,Kansas City Royals,Chicago White Sox,5,4
+19870526,Texas Rangers,Detroit Tigers,7,8
+19870526,Milwaukee Brewers,Minensota Twins,2,4
+19870526,Chicago Cubs,Cincinnati Reds,2,3
+19870526,Pittsburgh Pirates,Houston Colts,3,10
+19870526,Montreal Expos,Los Angeles Dodgers,8,3
+19870526,Philadelpia Phillies,San Diego Padres,3,1
+19870526,New York Mets,San  Francisco Giants,3,2
+19870526,Atlanta Braves,St. Louis Cardinals,5,4
+19870527,California Angels,Baltimore Orioles,6,8
+19870527,Cleveland Indians,Boston Red Sox,0,1
+19870527,Kansas City Royals,Chicago White Sox,2,3
+19870527,Texas Rangers,Detroit Tigers,3,4
+19870527,Milwaukee Brewers,Minensota Twins,2,7
+19870527,Seattle Mariners,New York Yankees,6,5
+19870527,Oakland Athletics,Toronto Blue Jays,4,1
+19870527,Chicago Cubs,Cincinnati Reds,4,1
+19870527,Pittsburgh Pirates,Houston Colts,2,7
+19870527,Montreal Expos,Los Angeles Dodgers,4,6
+19870527,Philadelpia Phillies,San Diego Padres,6,4
+19870527,New York Mets,San  Francisco Giants,4,3
+19870528,California Angels,Baltimore Orioles,7,8
+19870528,Cleveland Indians,Boston Red Sox,8,12
+19870528,Milwaukee Brewers,Minensota Twins,1,13
+19870528,Seattle Mariners,New York Yankees,2,5
+19870528,Oakland Athletics,Toronto Blue Jays,4,3
+19870528,Atlanta Braves,St. Louis Cardinals,5,11
+19870529,Seattle Mariners,Baltimore Orioles,7,3
+19870529,Boston Red Sox,Chicago White Sox,6,8
+19870529,Milwaukee Brewers,Cleveland Indians,6,9
+19870529,Minensota Twins,Detroit Tigers,7,15
+19870529,Texas Rangers,Kansas City Royals,16,5
+19870529,Oakland Athletics,New York Yankees,13,5
+19870529,California Angels,Toronto Blue Jays,1,3
+19870529,Chicago Cubs,Atlanta Braves,5,6
+19870529,Philadelpia Phillies,Los Angeles Dodgers,0,6
+19870529,Cincinnati Reds,Pittsburgh Pirates,13,6
+19870529,New York Mets,San Diego Padres,5,4
+19870529,Montreal Expos,San  Francisco Giants,10,4
+19870529,Houston Colts,St. Louis Cardinals,2,8
+19870530,Seattle Mariners,Baltimore Orioles,12,0
+19870530,Boston Red Sox,Chicago White Sox,2,3
+19870530,Milwaukee Brewers,Cleveland Indians,6,5
+19870530,Texas Rangers,Kansas City Royals,7,12
+19870530,Oakland Athletics,New York Yankees,4,3
+19870530,California Angels,Toronto Blue Jays,3,4
+19870530,Chicago Cubs,Atlanta Braves,11,6
+19870530,Philadelpia Phillies,Los Angeles Dodgers,3,0
+19870530,Cincinnati Reds,Pittsburgh Pirates,6,2
+19870530,New York Mets,San Diego Padres,3,0
+19870530,Montreal Expos,San  Francisco Giants,6,4
+19870530,Houston Colts,St. Louis Cardinals,2,3
+19870531,Seattle Mariners,Baltimore Orioles,8,5
+19870531,Boston Red Sox,Chicago White Sox,10,9
+19870531,Milwaukee Brewers,Cleveland Indians,7,1
+19870531,Minensota Twins,Detroit Tigers,9,5
+19870531,Minensota Twins,Detroit Tigers,11,3
+19870531,Texas Rangers,Kansas City Royals,3,2
+19870531,Oakland Athletics,New York Yankees,5,9
+19870531,California Angels,Toronto Blue Jays,2,7
+19870531,Chicago Cubs,Atlanta Braves,1,2
+19870531,Philadelpia Phillies,Los Angeles Dodgers,3,1
+19870531,Cincinnati Reds,Pittsburgh Pirates,5,2
+19870531,New York Mets,San Diego Padres,0,1
+19870531,Montreal Expos,San  Francisco Giants,0,8
+19870531,Houston Colts,St. Louis Cardinals,8,7
+19870601,Oakland Athletics,Baltimore Orioles,9,6
+19870601,Minensota Twins,Boston Red Sox,9,5
+19870601,Detroit Tigers,Cleveland Indians,6,9
+19870601,Kansas City Royals,Milwaukee Brewers,2,3
+19870601,California Angels,New York Yankees,9,2
+19870601,Chicago White Sox,Texas Rangers,9,11
+19870601,Seattle Mariners,Toronto Blue Jays,2,0
+19870601,Houston Colts,Chicago Cubs,6,5
+19870601,St. Louis Cardinals,Cincinnati Reds,8,6
+19870601,New York Mets,Los Angeles Dodgers,5,2
+19870601,Philadelpia Phillies,San  Francisco Giants,2,9
+19870602,Oakland Athletics,Baltimore Orioles,2,9
+19870602,Minensota Twins,Boston Red Sox,5,6
+19870602,Kansas City Royals,Milwaukee Brewers,3,14
+19870602,California Angels,New York Yankees,2,3
+19870602,Chicago White Sox,Texas Rangers,15,5
+19870602,Seattle Mariners,Toronto Blue Jays,3,4
+19870602,Pittsburgh Pirates,Atlanta Braves,4,1
+19870602,Houston Colts,Chicago Cubs,2,13
+19870602,St. Louis Cardinals,Cincinnati Reds,2,3
+19870602,New York Mets,Los Angeles Dodgers,3,6
+19870602,San Diego Padres,Montreal Expos,2,6
+19870602,Philadelpia Phillies,San  Francisco Giants,7,6
+19870603,Oakland Athletics,Baltimore Orioles,7,3
+19870603,Minensota Twins,Boston Red Sox,6,7
+19870603,Detroit Tigers,Cleveland Indians,15,3
+19870603,Kansas City Royals,Milwaukee Brewers,2,4
+19870603,California Angels,New York Yankees,3,9
+19870603,Chicago White Sox,Texas Rangers,3,14
+19870603,Seattle Mariners,Toronto Blue Jays,2,7
+19870603,Pittsburgh Pirates,Atlanta Braves,4,1
+19870603,Houston Colts,Chicago Cubs,7,22
+19870603,St. Louis Cardinals,Cincinnati Reds,4,6
+19870603,New York Mets,Los Angeles Dodgers,2,5
+19870603,San Diego Padres,Montreal Expos,3,4
+19870603,Philadelpia Phillies,San  Francisco Giants,1,4
+19870604,Detroit Tigers,Boston Red Sox,5,8
+19870604,Chicago White Sox,California Angels,2,3
+19870604,New York Yankees,Milwaukee Brewers,3,9
+19870604,Kansas City Royals,Seattle Mariners,6,1
+19870604,Pittsburgh Pirates,Atlanta Braves,3,8
+19870604,St. Louis Cardinals,Chicago Cubs,3,1
+19870604,San Diego Padres,Montreal Expos,5,8
+19870605,Detroit Tigers,Boston Red Sox,4,2
+19870605,Chicago White Sox,California Angels,4,6
+19870605,New York Yankees,Milwaukee Brewers,13,1
+19870605,Texas Rangers,Minensota Twins,15,9
+19870605,Cleveland Indians,Oakland Athletics,4,3
+19870605,Kansas City Royals,Seattle Mariners,2,7
+19870605,Baltimore Orioles,Toronto Blue Jays,2,6
+19870605,San Diego Padres,Atlanta Braves,10,3
+19870605,St. Louis Cardinals,Chicago Cubs,5,1
+19870605,Los Angeles Dodgers,Cincinnati Reds,6,8
+19870605,San  Francisco Giants,Houston Colts,1,6
+19870605,Pittsburgh Pirates,New York Mets,1,5
+19870605,Montreal Expos,Philadelpia Phillies,6,7
+19870606,Detroit Tigers,Boston Red Sox,5,3
+19870606,Chicago White Sox,California Angels,1,2
+19870606,New York Yankees,Milwaukee Brewers,6,7
+19870606,Texas Rangers,Minensota Twins,2,3
+19870606,Cleveland Indians,Oakland Athletics,4,6
+19870606,Kansas City Royals,Seattle Mariners,5,2
+19870606,Baltimore Orioles,Toronto Blue Jays,5,8
+19870606,San Diego Padres,Atlanta Braves,5,3
+19870606,St. Louis Cardinals,Chicago Cubs,5,6
+19870606,Los Angeles Dodgers,Cincinnati Reds,2,5
+19870606,San  Francisco Giants,Houston Colts,4,3
+19870606,Pittsburgh Pirates,New York Mets,2,4
+19870606,Montreal Expos,Philadelpia Phillies,3,4
+19870607,Detroit Tigers,Boston Red Sox,18,8
+19870607,Chicago White Sox,California Angels,4,0
+19870607,New York Yankees,Milwaukee Brewers,5,3
+19870607,Texas Rangers,Minensota Twins,4,7
+19870607,Cleveland Indians,Oakland Athletics,12,2
+19870607,Kansas City Royals,Seattle Mariners,9,1
+19870607,Baltimore Orioles,Toronto Blue Jays,2,3
+19870607,San Diego Padres,Atlanta Braves,12,13
+19870607,St. Louis Cardinals,Chicago Cubs,13,9
+19870607,Los Angeles Dodgers,Cincinnati Reds,13,7
+19870607,San  Francisco Giants,Houston Colts,0,3
+19870607,Pittsburgh Pirates,New York Mets,4,5
+19870607,Pittsburgh Pirates,New York Mets,10,9
+19870607,Montreal Expos,Philadelpia Phillies,1,3
+19870608,Boston Red Sox,Baltimore Orioles,6,2
+19870608,Cleveland Indians,California Angels,2,0
+19870608,Kansas City Royals,Minensota Twins,3,5
+19870608,Toronto Blue Jays,New York Yankees,11,0
+19870608,Chicago White Sox,Oakland Athletics,3,9
+19870608,Texas Rangers,Seattle Mariners,0,6
+19870608,Los Angeles Dodgers,Atlanta Braves,6,3
+19870608,New York Mets,Chicago Cubs,2,4
+19870608,San  Francisco Giants,Cincinnati Reds,6,7
+19870608,San Diego Padres,Houston Colts,5,4
+19870608,Pittsburgh Pirates,Montreal Expos,1,7
+19870608,St. Louis Cardinals,Philadelpia Phillies,12,8
+19870609,Boston Red Sox,Baltimore Orioles,2,1
+19870609,Cleveland Indians,California Angels,5,6
+19870609,Milwaukee Brewers,Detroit Tigers,5,8
+19870609,Kansas City Royals,Minensota Twins,2,5
+19870609,Toronto Blue Jays,New York Yankees,7,2
+19870609,Chicago White Sox,Oakland Athletics,3,8
+19870609,Texas Rangers,Seattle Mariners,3,0
+19870609,Los Angeles Dodgers,Atlanta Braves,5,3
+19870609,New York Mets,Chicago Cubs,5,6
+19870609,San  Francisco Giants,Cincinnati Reds,10,2
+19870609,San Diego Padres,Houston Colts,0,1
+19870609,Pittsburgh Pirates,Montreal Expos,8,1
+19870609,St. Louis Cardinals,Philadelpia Phillies,2,3
+19870610,Boston Red Sox,Baltimore Orioles,15,4
+19870610,Cleveland Indians,California Angels,7,10
+19870610,Milwaukee Brewers,Detroit Tigers,8,5
+19870610,Kansas City Royals,Minensota Twins,3,4
+19870610,Toronto Blue Jays,New York Yankees,4,1
+19870610,Chicago White Sox,Oakland Athletics,2,5
+19870610,Texas Rangers,Seattle Mariners,9,5
+19870610,Los Angeles Dodgers,Atlanta Braves,1,7
+19870610,New York Mets,Chicago Cubs,13,2
+19870610,San  Francisco Giants,Cincinnati Reds,9,4
+19870610,San Diego Padres,Houston Colts,1,10
+19870610,Pittsburgh Pirates,Montreal Expos,3,4
+19870610,St. Louis Cardinals,Philadelpia Phillies,3,1
+19870611,Toronto Blue Jays,Baltimore Orioles,8,6
+19870611,Milwaukee Brewers,Detroit Tigers,8,5
+19870611,Atlanta Braves,Cincinnati Reds,6,4
+19870611,Houston Colts,Los Angeles Dodgers,1,0
+19870611,San Diego Padres,San  Francisco Giants,0,1
+19870612,Toronto Blue Jays,Baltimore Orioles,8,5
+19870612,Minensota Twins,Chicago White Sox,5,2
+19870612,Minensota Twins,Chicago White Sox,7,4
+19870612,Boston Red Sox,Detroit Tigers,4,11
+19870612,California Angels,Kansas City Royals,0,1
+19870612,Milwaukee Brewers,New York Yankees,3,8
+19870612,Cleveland Indians,Seattle Mariners,10,6
+19870612,Oakland Athletics,Texas Rangers,6,1
+19870612,Atlanta Braves,Cincinnati Reds,4,3
+19870612,Houston Colts,Los Angeles Dodgers,5,1
+19870612,Philadelpia Phillies,Montreal Expos,6,13
+19870612,New York Mets,Pittsburgh Pirates,10,2
+19870612,San Diego Padres,San  Francisco Giants,5,0
+19870612,Chicago Cubs,St. Louis Cardinals,1,4
+19870613,Toronto Blue Jays,Baltimore Orioles,8,2
+19870613,Minensota Twins,Chicago White Sox,2,6
+19870613,Boston Red Sox,Detroit Tigers,4,6
+19870613,California Angels,Kansas City Royals,4,0
+19870613,Milwaukee Brewers,New York Yankees,1,4
+19870613,Cleveland Indians,Seattle Mariners,6,1
+19870613,Oakland Athletics,Texas Rangers,10,8
+19870613,Atlanta Braves,Cincinnati Reds,2,5
+19870613,Houston Colts,Los Angeles Dodgers,1,7
+19870613,Philadelpia Phillies,Montreal Expos,5,7
+19870613,New York Mets,Pittsburgh Pirates,3,4
+19870613,San Diego Padres,San  Francisco Giants,11,2
+19870613,Chicago Cubs,St. Louis Cardinals,2,9
+19870614,Toronto Blue Jays,Baltimore Orioles,5,8
+19870614,Minensota Twins,Chicago White Sox,6,3
+19870614,Boston Red Sox,Detroit Tigers,1,2
+19870614,California Angels,Kansas City Royals,12,0
+19870614,Milwaukee Brewers,New York Yankees,6,4
+19870614,Cleveland Indians,Seattle Mariners,3,4
+19870614,Oakland Athletics,Texas Rangers,1,5
+19870614,Atlanta Braves,Cincinnati Reds,3,4
+19870614,Houston Colts,Los Angeles Dodgers,4,1
+19870614,Philadelpia Phillies,Montreal Expos,11,6
+19870614,New York Mets,Pittsburgh Pirates,7,3
+19870614,San Diego Padres,San  Francisco Giants,4,1
+19870614,Chicago Cubs,St. Louis Cardinals,2,3
+19870615,Texas Rangers,California Angels,9,7
+19870615,Oakland Athletics,Kansas City Royals,7,6
+19870615,Minensota Twins,Milwaukee Brewers,5,0
+19870615,Baltimore Orioles,New York Yankees,2,9
+19870615,Chicago White Sox,Seattle Mariners,2,8
+19870615,Detroit Tigers,Toronto Blue Jays,2,1
+19870615,Philadelpia Phillies,Chicago Cubs,3,2
+19870615,Cincinnati Reds,Houston Colts,0,4
+19870615,New York Mets,Montreal Expos,0,4
+19870615,Pittsburgh Pirates,St. Louis Cardinals,3,1
+19870616,Texas Rangers,California Angels,5,4
+19870616,Boston Red Sox,Cleveland Indians,7,8
+19870616,Oakland Athletics,Kansas City Royals,11,1
+19870616,Minensota Twins,Milwaukee Brewers,7,3
+19870616,Baltimore Orioles,New York Yankees,5,6
+19870616,Chicago White Sox,Seattle Mariners,6,8
+19870616,Detroit Tigers,Toronto Blue Jays,4,10
+19870616,San  Francisco Giants,Atlanta Braves,2,7
+19870616,Philadelpia Phillies,Chicago Cubs,2,7
+19870616,Cincinnati Reds,Houston Colts,1,4
+19870616,New York Mets,Montreal Expos,7,3
+19870616,Los Angeles Dodgers,San Diego Padres,2,3
+19870616,Pittsburgh Pirates,St. Louis Cardinals,1,11
+19870617,Texas Rangers,California Angels,1,6
+19870617,Boston Red Sox,Cleveland Indians,4,0
+19870617,Oakland Athletics,Kansas City Royals,5,10
+19870617,Minensota Twins,Milwaukee Brewers,5,8
+19870617,Baltimore Orioles,New York Yankees,3,4
+19870617,Chicago White Sox,Seattle Mariners,0,2
+19870617,Detroit Tigers,Toronto Blue Jays,3,2
+19870617,San  Francisco Giants,Atlanta Braves,1,6
+19870617,Philadelpia Phillies,Chicago Cubs,3,5
+19870617,Cincinnati Reds,Houston Colts,9,1
+19870617,New York Mets,Montreal Expos,1,9
+19870617,Los Angeles Dodgers,San Diego Padres,7,8
+19870617,Pittsburgh Pirates,St. Louis Cardinals,4,1
+19870618,Kansas City Royals,California Angels,10,4
+19870618,Boston Red Sox,Cleveland Indians,5,7
+19870618,Baltimore Orioles,New York Yankees,3,6
+19870618,Milwaukee Brewers,Toronto Blue Jays,6,3
+19870618,Cincinnati Reds,Atlanta Braves,8,4
+19870618,Philadelpia Phillies,Chicago Cubs,7,9
+19870618,Los Angeles Dodgers,Houston Colts,6,4
+19870618,New York Mets,Montreal Expos,10,7
+19870618,San  Francisco Giants,San Diego Padres,1,3
+19870618,Pittsburgh Pirates,St. Louis Cardinals,6,8
+19870619,Detroit Tigers,Baltimore Orioles,5,3
+19870619,New York Yankees,Boston Red Sox,10,5
+19870619,Kansas City Royals,California Angels,2,0
+19870619,Seattle Mariners,Cleveland Indians,7,4
+19870619,Chicago White Sox,Minensota Twins,6,7
+19870619,Texas Rangers,Oakland Athletics,4,2
+19870619,Milwaukee Brewers,Toronto Blue Jays,6,15
+19870619,Cincinnati Reds,Atlanta Braves,5,16
+19870619,Pittsburgh Pirates,Chicago Cubs,4,0
+19870619,Los Angeles Dodgers,Houston Colts,2,3
+19870619,Philadelpia Phillies,New York Mets,1,8
+19870619,San  Francisco Giants,San Diego Padres,7,6
+19870619,Montreal Expos,St. Louis Cardinals,8,7
+19870620,Detroit Tigers,Baltimore Orioles,5,9
+19870620,New York Yankees,Boston Red Sox,4,9
+19870620,Kansas City Royals,California Angels,8,4
+19870620,Seattle Mariners,Cleveland Indians,2,9
+19870620,Chicago White Sox,Minensota Twins,10,5
+19870620,Texas Rangers,Oakland Athletics,7,6
+19870620,Milwaukee Brewers,Toronto Blue Jays,3,2
+19870620,Cincinnati Reds,Atlanta Braves,6,8
+19870620,Pittsburgh Pirates,Chicago Cubs,8,2
+19870620,Los Angeles Dodgers,Houston Colts,2,3
+19870620,Philadelpia Phillies,New York Mets,2,3
+19870620,San  Francisco Giants,San Diego Padres,4,10
+19870620,Montreal Expos,St. Louis Cardinals,7,5
+19870621,Detroit Tigers,Baltimore Orioles,9,3
+19870621,New York Yankees,Boston Red Sox,2,4
+19870621,Kansas City Royals,California Angels,0,8
+19870621,Seattle Mariners,Cleveland Indians,5,0
+19870621,Chicago White Sox,Minensota Twins,6,8
+19870621,Texas Rangers,Oakland Athletics,3,7
+19870621,Texas Rangers,Oakland Athletics,13,3
+19870621,Milwaukee Brewers,Toronto Blue Jays,6,7
+19870621,Cincinnati Reds,Atlanta Braves,6,5
+19870621,Pittsburgh Pirates,Chicago Cubs,3,6
+19870621,Los Angeles Dodgers,Houston Colts,1,6
+19870621,Philadelpia Phillies,New York Mets,3,8
+19870621,San  Francisco Giants,San Diego Padres,11,2
+19870621,Montreal Expos,St. Louis Cardinals,3,7
+19870622,New York Yankees,Baltimore Orioles,7,3
+19870622,Milwaukee Brewers,Boston Red Sox,2,5
+19870622,Seattle Mariners,Chicago White Sox,3,0
+19870622,Toronto Blue Jays,Detroit Tigers,0,2
+19870622,Kansas City Royals,Oakland Athletics,1,4
+19870622,California Angels,Texas Rangers,7,3
+19870622,Pittsburgh Pirates,Chicago Cubs,2,3
+19870623,New York Yankees,Baltimore Orioles,2,1
+19870623,Milwaukee Brewers,Boston Red Sox,5,9
+19870623,Seattle Mariners,Chicago White Sox,3,13
+19870623,Toronto Blue Jays,Detroit Tigers,8,7
+19870623,Cleveland Indians,Minensota Twins,4,9
+19870623,Kansas City Royals,Oakland Athletics,4,0
+19870623,California Angels,Texas Rangers,8,6
+19870623,Atlanta Braves,Los Angeles Dodgers,2,3
+19870623,Chicago Cubs,New York Mets,4,1
+19870623,Montreal Expos,Pittsburgh Pirates,8,2
+19870623,Houston Colts,San Diego Padres,1,4
+19870623,Cincinnati Reds,San  Francisco Giants,4,1
+19870623,Philadelpia Phillies,St. Louis Cardinals,4,1
+19870624,New York Yankees,Baltimore Orioles,0,4
+19870624,Milwaukee Brewers,Boston Red Sox,7,8
+19870624,Seattle Mariners,Chicago White Sox,10,7
+19870624,Toronto Blue Jays,Detroit Tigers,5,3
+19870624,Cleveland Indians,Minensota Twins,8,14
+19870624,Kansas City Royals,Oakland Athletics,2,4
+19870624,California Angels,Texas Rangers,4,1
+19870624,Atlanta Braves,Los Angeles Dodgers,4,5
+19870624,Chicago Cubs,New York Mets,1,2
+19870624,Montreal Expos,Pittsburgh Pirates,6,9
+19870624,Houston Colts,San Diego Padres,12,7
+19870624,Cincinnati Reds,San  Francisco Giants,5,4
+19870624,Philadelpia Phillies,St. Louis Cardinals,3,5
+19870625,Cleveland Indians,Minensota Twins,3,4
+19870625,Atlanta Braves,Los Angeles Dodgers,1,2
+19870625,Chicago Cubs,New York Mets,2,8
+19870625,Montreal Expos,Pittsburgh Pirates,7,2
+19870625,Houston Colts,San Diego Padres,1,4
+19870625,Cincinnati Reds,San  Francisco Giants,6,7
+19870625,Philadelpia Phillies,St. Louis Cardinals,0,3
+19870626,California Angels,Chicago White Sox,3,1
+19870626,Oakland Athletics,Cleveland Indians,5,0
+19870626,Baltimore Orioles,Detroit Tigers,0,9
+19870626,Seattle Mariners,Kansas City Royals,5,1
+19870626,Toronto Blue Jays,Milwaukee Brewers,5,10
+19870626,Boston Red Sox,New York Yankees,11,12
+19870626,Minensota Twins,Texas Rangers,0,1
+19870626,Cincinnati Reds,Los Angeles Dodgers,6,0
+19870626,St. Louis Cardinals,Montreal Expos,1,5
+19870626,New York Mets,Philadelpia Phillies,2,5
+19870626,Chicago Cubs,Pittsburgh Pirates,2,5
+19870626,Atlanta Braves,San Diego Padres,1,5
+19870626,Houston Colts,San  Francisco Giants,9,6
+19870627,California Angels,Chicago White Sox,3,1
+19870627,Oakland Athletics,Cleveland Indians,13,3
+19870627,Baltimore Orioles,Detroit Tigers,4,2
+19870627,Seattle Mariners,Kansas City Royals,0,6
+19870627,Toronto Blue Jays,Milwaukee Brewers,8,1
+19870627,Boston Red Sox,New York Yankees,1,9
+19870627,Minensota Twins,Texas Rangers,6,11
+19870627,Minensota Twins,Texas Rangers,2,7
+19870627,Cincinnati Reds,Los Angeles Dodgers,3,4
+19870627,St. Louis Cardinals,Montreal Expos,15,5
+19870627,New York Mets,Philadelpia Phillies,5,4
+19870627,Chicago Cubs,Pittsburgh Pirates,0,7
+19870627,Atlanta Braves,San Diego Padres,4,8
+19870627,Houston Colts,San  Francisco Giants,6,5
+19870628,California Angels,Chicago White Sox,13,3
+19870628,Oakland Athletics,Cleveland Indians,10,0
+19870628,Baltimore Orioles,Detroit Tigers,7,8
+19870628,Seattle Mariners,Kansas City Royals,3,8
+19870628,Toronto Blue Jays,Milwaukee Brewers,5,11
+19870628,Boston Red Sox,New York Yankees,6,2
+19870628,Minensota Twins,Texas Rangers,3,6
+19870628,Cincinnati Reds,Los Angeles Dodgers,2,4
+19870628,St. Louis Cardinals,Montreal Expos,7,6
+19870628,New York Mets,Philadelpia Phillies,4,5
+19870628,Chicago Cubs,Pittsburgh Pirates,2,6
+19870628,Atlanta Braves,San Diego Padres,5,2
+19870628,Houston Colts,San  Francisco Giants,4,8
+19870629,Baltimore Orioles,Boston Red Sox,3,14
+19870629,Oakland Athletics,Chicago White Sox,2,5
+19870629,California Angels,Cleveland Indians,11,4
+19870629,Minensota Twins,Kansas City Royals,2,3
+19870629,Detroit Tigers,Milwaukee Brewers,11,1
+19870629,Seattle Mariners,Texas Rangers,3,4
+19870629,New York Yankees,Toronto Blue Jays,15,14
+19870629,San Diego Padres,Los Angeles Dodgers,3,0
+19870629,Chicago Cubs,Montreal Expos,9,5
+19870629,St. Louis Cardinals,New York Mets,8,7
+19870629,Pittsburgh Pirates,Philadelpia Phillies,5,6
+19870629,Pittsburgh Pirates,Philadelpia Phillies,3,11
+19870629,Atlanta Braves,San  Francisco Giants,1,0
+19870630,Baltimore Orioles,Boston Red Sox,9,13
+19870630,Oakland Athletics,Chicago White Sox,3,12
+19870630,California Angels,Cleveland Indians,1,2
+19870630,Minensota Twins,Kansas City Royals,3,1
+19870630,Detroit Tigers,Milwaukee Brewers,8,5
+19870630,Seattle Mariners,Texas Rangers,5,2
+19870630,New York Yankees,Toronto Blue Jays,4,0
+19870630,Houston Colts,Cincinnati Reds,4,5
+19870630,San Diego Padres,Los Angeles Dodgers,0,4
+19870630,Chicago Cubs,Montreal Expos,4,5
+19870630,St. Louis Cardinals,New York Mets,2,3
+19870630,Pittsburgh Pirates,Philadelpia Phillies,4,6
+19870630,Atlanta Braves,San  Francisco Giants,2,5
+19870701,Baltimore Orioles,Boston Red Sox,2,6
+19870701,Oakland Athletics,Chicago White Sox,3,5
+19870701,California Angels,Cleveland Indians,10,5
+19870701,Minensota Twins,Kansas City Royals,3,4
+19870701,Detroit Tigers,Milwaukee Brewers,2,13
+19870701,Seattle Mariners,Texas Rangers,3,7
+19870701,New York Yankees,Toronto Blue Jays,6,1
+19870701,Houston Colts,Cincinnati Reds,4,6
+19870701,San Diego Padres,Los Angeles Dodgers,4,0
+19870701,Chicago Cubs,Montreal Expos,1,0
+19870701,St. Louis Cardinals,New York Mets,6,9
+19870701,Pittsburgh Pirates,Philadelpia Phillies,4,11
+19870701,Atlanta Braves,San  Francisco Giants,8,3
+19870702,Milwaukee Brewers,California Angels,7,9
+19870702,Chicago White Sox,Cleveland Indians,1,2
+19870702,Minensota Twins,Kansas City Royals,3,10
+19870702,Boston Red Sox,Oakland Athletics,3,5
+19870702,Detroit Tigers,Seattle Mariners,2,5
+19870702,New York Mets,Cincinnati Reds,5,0
+19870702,Houston Colts,Philadelpia Phillies,7,6
+19870703,Milwaukee Brewers,California Angels,6,4
+19870703,Chicago White Sox,Cleveland Indians,14,9
+19870703,Toronto Blue Jays,Kansas City Royals,4,6
+19870703,Toronto Blue Jays,Kansas City Royals,4,5
+19870703,Baltimore Orioles,Minensota Twins,5,6
+19870703,Texas Rangers,New York Yankees,9,0
+19870703,Texas Rangers,New York Yankees,1,3
+19870703,Boston Red Sox,Oakland Athletics,2,0
+19870703,Detroit Tigers,Seattle Mariners,5,2
+19870703,St. Louis Cardinals,Atlanta Braves,9,1
+19870703,San  Francisco Giants,Chicago Cubs,3,1
+19870703,New York Mets,Cincinnati Reds,3,8
+19870703,San Diego Padres,Montreal Expos,1,2
+19870703,Houston Colts,Philadelpia Phillies,1,2
+19870703,Los Angeles Dodgers,Pittsburgh Pirates,0,6
+19870704,Milwaukee Brewers,California Angels,2,1
+19870704,Chicago White Sox,Cleveland Indians,3,2
+19870704,Toronto Blue Jays,Kansas City Royals,1,9
+19870704,Baltimore Orioles,Minensota Twins,1,4
+19870704,Texas Rangers,New York Yankees,3,4
+19870704,Boston Red Sox,Oakland Athletics,5,9
+19870704,Detroit Tigers,Seattle Mariners,7,3
+19870704,St. Louis Cardinals,Atlanta Braves,3,0
+19870704,San  Francisco Giants,Chicago Cubs,3,5
+19870704,New York Mets,Cincinnati Reds,3,7
+19870704,San Diego Padres,Montreal Expos,3,4
+19870704,Houston Colts,Philadelpia Phillies,3,9
+19870704,Los Angeles Dodgers,Pittsburgh Pirates,2,4
+19870705,Milwaukee Brewers,California Angels,3,4
+19870705,Chicago White Sox,Cleveland Indians,17,0
+19870705,Toronto Blue Jays,Kansas City Royals,3,4
+19870705,Baltimore Orioles,Minensota Twins,3,4
+19870705,Texas Rangers,New York Yankees,10,4
+19870705,Boston Red Sox,Oakland Athletics,3,6
+19870705,Detroit Tigers,Seattle Mariners,7,5
+19870705,St. Louis Cardinals,Atlanta Braves,4,1
+19870705,San  Francisco Giants,Chicago Cubs,7,5
+19870705,New York Mets,Cincinnati Reds,5,7
+19870705,San Diego Padres,Montreal Expos,3,2
+19870705,Houston Colts,Philadelpia Phillies,8,2
+19870705,Los Angeles Dodgers,Pittsburgh Pirates,6,1
+19870706,Chicago White Sox,Baltimore Orioles,1,4
+19870706,Boston Red Sox,California Angels,7,10
+19870706,Kansas City Royals,Cleveland Indians,7,9
+19870706,Minensota Twins,New York Yankees,2,0
+19870706,Detroit Tigers,Oakland Athletics,3,5
+19870706,Milwaukee Brewers,Seattle Mariners,2,3
+19870706,Texas Rangers,Toronto Blue Jays,4,6
+19870706,San Diego Padres,Chicago Cubs,0,7
+19870706,Philadelpia Phillies,Cincinnati Reds,9,6
+19870706,Montreal Expos,Houston Colts,3,9
+19870706,San  Francisco Giants,Pittsburgh Pirates,7,5
+19870706,San  Francisco Giants,Pittsburgh Pirates,7,4
+19870707,Chicago White Sox,Baltimore Orioles,9,3
+19870707,Boston Red Sox,California Angels,4,9
+19870707,Kansas City Royals,Cleveland Indians,4,6
+19870707,Minensota Twins,New York Yankees,7,12
+19870707,Detroit Tigers,Oakland Athletics,6,4
+19870707,Milwaukee Brewers,Seattle Mariners,5,9
+19870707,Texas Rangers,Toronto Blue Jays,2,6
+19870707,New York Mets,Atlanta Braves,6,2
+19870707,New York Mets,Atlanta Braves,5,1
+19870707,San Diego Padres,Chicago Cubs,5,7
+19870707,Philadelpia Phillies,Cincinnati Reds,10,8
+19870707,Montreal Expos,Houston Colts,2,0
+19870707,San  Francisco Giants,Pittsburgh Pirates,4,6
+19870707,Los Angeles Dodgers,St. Louis Cardinals,4,5
+19870707,Los Angeles Dodgers,St. Louis Cardinals,4,5
+19870708,Chicago White Sox,Baltimore Orioles,5,6
+19870708,Boston Red Sox,California Angels,3,5
+19870708,Kansas City Royals,Cleveland Indians,8,9
+19870708,Minensota Twins,New York Yankees,4,13
+19870708,Detroit Tigers,Oakland Athletics,9,5
+19870708,Milwaukee Brewers,Seattle Mariners,2,5
+19870708,Texas Rangers,Toronto Blue Jays,2,5
+19870708,New York Mets,Atlanta Braves,3,5
+19870708,San Diego Padres,Chicago Cubs,8,12
+19870708,Philadelpia Phillies,Cincinnati Reds,7,2
+19870708,Montreal Expos,Houston Colts,1,0
+19870708,San  Francisco Giants,Pittsburgh Pirates,8,4
+19870708,Los Angeles Dodgers,St. Louis Cardinals,3,6
+19870708,Los Angeles Dodgers,St. Louis Cardinals,7,8
+19870709,Minensota Twins,Baltimore Orioles,3,1
+19870709,Detroit Tigers,California Angels,2,5
+19870709,Chicago White Sox,New York Yankees,6,3
+19870709,Milwaukee Brewers,Oakland Athletics,8,3
+19870709,Boston Red Sox,Seattle Mariners,5,11
+19870709,Cleveland Indians,Texas Rangers,10,4
+19870709,Kansas City Royals,Toronto Blue Jays,1,7
+19870709,Philadelpia Phillies,Atlanta Braves,6,11
+19870709,Los Angeles Dodgers,Chicago Cubs,5,12
+19870709,Montreal Expos,Cincinnati Reds,2,7
+19870709,New York Mets,Houston Colts,3,4
+19870709,San  Francisco Giants,St. Louis Cardinals,6,7
+19870710,Minensota Twins,Baltimore Orioles,12,13
+19870710,Detroit Tigers,California Angels,9,4
+19870710,Chicago White Sox,New York Yankees,5,9
+19870710,Milwaukee Brewers,Oakland Athletics,3,7
+19870710,Boston Red Sox,Seattle Mariners,7,4
+19870710,Cleveland Indians,Texas Rangers,4,10
+19870710,Kansas City Royals,Toronto Blue Jays,0,7
+19870710,Philadelpia Phillies,Atlanta Braves,5,2
+19870710,Los Angeles Dodgers,Chicago Cubs,5,4
+19870710,Montreal Expos,Cincinnati Reds,5,1
+19870710,New York Mets,Houston Colts,7,3
+19870710,San Diego Padres,Pittsburgh Pirates,5,6
+19870710,San  Francisco Giants,St. Louis Cardinals,5,7
+19870711,Minensota Twins,Baltimore Orioles,2,1
+19870711,Detroit Tigers,California Angels,12,5
+19870711,Chicago White Sox,New York Yankees,5,2
+19870711,Milwaukee Brewers,Oakland Athletics,5,6
+19870711,Boston Red Sox,Seattle Mariners,10,4
+19870711,Cleveland Indians,Texas Rangers,2,6
+19870711,Kansas City Royals,Toronto Blue Jays,2,1
+19870711,Philadelpia Phillies,Atlanta Braves,4,5
+19870711,Los Angeles Dodgers,Chicago Cubs,0,7
+19870711,Montreal Expos,Cincinnati Reds,11,5
+19870711,New York Mets,Houston Colts,9,6
+19870711,San Diego Padres,Pittsburgh Pirates,3,1
+19870711,San  Francisco Giants,St. Louis Cardinals,3,1
+19870712,Minensota Twins,Baltimore Orioles,0,5
+19870712,Detroit Tigers,California Angels,4,5
+19870712,Chicago White Sox,New York Yankees,2,6
+19870712,Milwaukee Brewers,Oakland Athletics,4,3
+19870712,Boston Red Sox,Seattle Mariners,1,6
+19870712,Cleveland Indians,Texas Rangers,6,7
+19870712,Kansas City Royals,Toronto Blue Jays,2,3
+19870712,Philadelpia Phillies,Atlanta Braves,3,9
+19870712,Los Angeles Dodgers,Chicago Cubs,12,0
+19870712,Montreal Expos,Cincinnati Reds,4,2
+19870712,New York Mets,Houston Colts,5,2
+19870712,San Diego Padres,Pittsburgh Pirates,2,4
+19870712,San  Francisco Giants,St. Louis Cardinals,2,3
+19870716,Oakland Athletics,Boston Red Sox,6,3
+19870716,Cleveland Indians,Chicago White Sox,4,3
+19870716,Seattle Mariners,Detroit Tigers,2,3
+19870716,Baltimore Orioles,Kansas City Royals,5,4
+19870716,California Angels,Milwaukee Brewers,4,6
+19870716,Toronto Blue Jays,Minensota Twins,5,2
+19870716,New York Yankees,Texas Rangers,12,3
+19870716,Philadelpia Phillies,Houston Colts,1,2
+19870716,Pittsburgh Pirates,Los Angeles Dodgers,0,7
+19870716,Atlanta Braves,Montreal Expos,0,2
+19870716,Cincinnati Reds,New York Mets,0,9
+19870716,St. Louis Cardinals,San Diego Padres,8,9
+19870716,Chicago Cubs,San  Francisco Giants,4,1
+19870717,Oakland Athletics,Boston Red Sox,11,6
+19870717,Cleveland Indians,Chicago White Sox,3,4
+19870717,Seattle Mariners,Detroit Tigers,0,7
+19870717,Baltimore Orioles,Kansas City Royals,3,1
+19870717,California Angels,Milwaukee Brewers,2,12
+19870717,Toronto Blue Jays,Minensota Twins,2,3
+19870717,New York Yankees,Texas Rangers,8,4
+19870717,Philadelpia Phillies,Houston Colts,2,1
+19870717,Pittsburgh Pirates,Los Angeles Dodgers,2,3
+19870717,Atlanta Braves,Montreal Expos,4,5
+19870717,Cincinnati Reds,New York Mets,5,2
+19870717,St. Louis Cardinals,San Diego Padres,4,3
+19870717,Chicago Cubs,San  Francisco Giants,5,1
+19870718,Oakland Athletics,Boston Red Sox,3,5
+19870718,Cleveland Indians,Chicago White Sox,3,6
+19870718,Seattle Mariners,Detroit Tigers,6,10
+19870718,Baltimore Orioles,Kansas City Royals,11,7
+19870718,California Angels,Milwaukee Brewers,12,6
+19870718,Toronto Blue Jays,Minensota Twins,7,5
+19870718,New York Yankees,Texas Rangers,2,7
+19870718,Philadelpia Phillies,Houston Colts,4,2
+19870718,Pittsburgh Pirates,Los Angeles Dodgers,4,2
+19870718,Atlanta Braves,Montreal Expos,2,3
+19870718,Cincinnati Reds,New York Mets,7,3
+19870718,St. Louis Cardinals,San Diego Padres,3,4
+19870718,Chicago Cubs,San  Francisco Giants,2,9
+19870719,Oakland Athletics,Boston Red Sox,5,3
+19870719,Cleveland Indians,Chicago White Sox,7,9
+19870719,Seattle Mariners,Detroit Tigers,5,4
+19870719,Baltimore Orioles,Kansas City Royals,5,1
+19870719,California Angels,Milwaukee Brewers,8,5
+19870719,Toronto Blue Jays,Minensota Twins,6,7
+19870719,New York Yankees,Texas Rangers,3,20
+19870719,Philadelpia Phillies,Houston Colts,4,1
+19870719,Pittsburgh Pirates,Los Angeles Dodgers,7,2
+19870719,Atlanta Braves,Montreal Expos,1,2
+19870719,Cincinnati Reds,New York Mets,5,6
+19870719,St. Louis Cardinals,San Diego Padres,5,4
+19870719,Chicago Cubs,San  Francisco Giants,3,4
+19870720,California Angels,Boston Red Sox,3,2
+19870720,Baltimore Orioles,Chicago White Sox,4,1
+19870720,Oakland Athletics,Detroit Tigers,4,5
+19870720,Cleveland Indians,Kansas City Royals,9,5
+19870720,Seattle Mariners,Milwaukee Brewers,11,13
+19870720,New York Yankees,Minensota Twins,7,1
+19870720,Toronto Blue Jays,Texas Rangers,5,3
+19870720,Houston Colts,Montreal Expos,1,4
+19870720,Atlanta Braves,New York Mets,2,9
+19870720,Cincinnati Reds,Philadelpia Phillies,10,6
+19870720,Chicago Cubs,San Diego Padres,4,7
+19870720,Pittsburgh Pirates,San  Francisco Giants,7,6
+19870721,California Angels,Boston Red Sox,0,3
+19870721,Baltimore Orioles,Chicago White Sox,11,6
+19870721,Oakland Athletics,Detroit Tigers,5,6
+19870721,Cleveland Indians,Kansas City Royals,2,3
+19870721,Seattle Mariners,Milwaukee Brewers,4,6
+19870721,New York Yankees,Minensota Twins,1,2
+19870721,Toronto Blue Jays,Texas Rangers,4,6
+19870721,St. Louis Cardinals,Los Angeles Dodgers,6,1
+19870721,Houston Colts,Montreal Expos,4,2
+19870721,Atlanta Braves,New York Mets,8,3
+19870721,Cincinnati Reds,Philadelpia Phillies,4,3
+19870721,Chicago Cubs,San Diego Padres,3,4
+19870721,Pittsburgh Pirates,San  Francisco Giants,0,7
+19870722,California Angels,Boston Red Sox,6,5
+19870722,Baltimore Orioles,Chicago White Sox,10,5
+19870722,Oakland Athletics,Detroit Tigers,10,1
+19870722,Cleveland Indians,Kansas City Royals,1,5
+19870722,Seattle Mariners,Milwaukee Brewers,2,1
+19870722,New York Yankees,Minensota Twins,1,3
+19870722,Toronto Blue Jays,Texas Rangers,3,5
+19870722,St. Louis Cardinals,Los Angeles Dodgers,3,1
+19870722,Houston Colts,Montreal Expos,7,0
+19870722,Atlanta Braves,New York Mets,3,4
+19870722,Cincinnati Reds,Philadelpia Phillies,3,5
+19870722,Chicago Cubs,San Diego Padres,6,3
+19870722,Pittsburgh Pirates,San  Francisco Giants,4,0
+19870723,Kansas City Royals,Baltimore Orioles,1,2
+19870723,Texas Rangers,Cleveland Indians,2,4
+19870723,Oakland Athletics,Milwaukee Brewers,5,12
+19870723,Minensota Twins,Toronto Blue Jays,3,4
+19870723,St. Louis Cardinals,Los Angeles Dodgers,9,6
+19870723,Cincinnati Reds,Montreal Expos,8,4
+19870723,Atlanta Braves,Philadelpia Phillies,1,5
+19870723,Pittsburgh Pirates,San Diego Padres,1,2
+19870724,Kansas City Royals,Baltimore Orioles,1,3
+19870724,Seattle Mariners,Boston Red Sox,4,5
+19870724,New York Yankees,Chicago White Sox,2,5
+19870724,Texas Rangers,Cleveland Indians,6,3
+19870724,California Angels,Detroit Tigers,3,6
+19870724,Oakland Athletics,Milwaukee Brewers,2,10
+19870724,Minensota Twins,Toronto Blue Jays,6,8
+19870724,Chicago Cubs,Los Angeles Dodgers,6,4
+19870724,Cincinnati Reds,Montreal Expos,2,3
+19870724,Houston Colts,New York Mets,2,5
+19870724,Houston Colts,New York Mets,4,7
+19870724,Atlanta Braves,Philadelpia Phillies,5,11
+19870724,Pittsburgh Pirates,San Diego Padres,3,2
+19870724,St. Louis Cardinals,San  Francisco Giants,3,4
+19870725,Kansas City Royals,Baltimore Orioles,3,4
+19870725,Seattle Mariners,Boston Red Sox,5,11
+19870725,New York Yankees,Chicago White Sox,2,3
+19870725,Texas Rangers,Cleveland Indians,7,3
+19870725,California Angels,Detroit Tigers,4,5
+19870725,Oakland Athletics,Milwaukee Brewers,13,4
+19870725,Minensota Twins,Toronto Blue Jays,13,9
+19870725,Chicago Cubs,Los Angeles Dodgers,2,7
+19870725,Cincinnati Reds,Montreal Expos,3,4
+19870725,Houston Colts,New York Mets,7,5
+19870725,Atlanta Braves,Philadelpia Phillies,2,1
+19870725,Pittsburgh Pirates,San Diego Padres,9,3
+19870725,St. Louis Cardinals,San  Francisco Giants,4,5
+19870726,Kansas City Royals,Baltimore Orioles,4,0
+19870726,Seattle Mariners,Boston Red Sox,1,11
+19870726,New York Yankees,Chicago White Sox,5,2
+19870726,Texas Rangers,Cleveland Indians,11,3
+19870726,California Angels,Detroit Tigers,2,6
+19870726,Oakland Athletics,Milwaukee Brewers,4,7
+19870726,Minensota Twins,Toronto Blue Jays,2,4
+19870726,Chicago Cubs,Los Angeles Dodgers,6,7
+19870726,Cincinnati Reds,Montreal Expos,0,6
+19870726,Houston Colts,New York Mets,5,2
+19870726,Atlanta Braves,Philadelpia Phillies,3,7
+19870726,Pittsburgh Pirates,San Diego Padres,4,7
+19870726,St. Louis Cardinals,San  Francisco Giants,3,6
+19870726,St. Louis Cardinals,San  Francisco Giants,2,5
+19870727,Chicago White Sox,Detroit Tigers,1,4
+19870727,California Angels,Oakland Athletics,1,6
+19870727,Minensota Twins,Seattle Mariners,4,3
+19870727,Milwaukee Brewers,Texas Rangers,4,5
+19870727,Boston Red Sox,Toronto Blue Jays,8,10
+19870727,San  Francisco Giants,Los Angeles Dodgers,5,6
+19870728,Baltimore Orioles,Cleveland Indians,3,4
+19870728,Chicago White Sox,Detroit Tigers,1,3
+19870728,Kansas City Royals,New York Yankees,1,2
+19870728,California Angels,Oakland Athletics,9,2
+19870728,Minensota Twins,Seattle Mariners,1,6
+19870728,Milwaukee Brewers,Texas Rangers,9,2
+19870728,Boston Red Sox,Toronto Blue Jays,4,5
+19870728,Houston Colts,Atlanta Braves,1,6
+19870728,Montreal Expos,Chicago Cubs,3,8
+19870728,San Diego Padres,Cincinnati Reds,7,8
+19870728,San  Francisco Giants,Los Angeles Dodgers,2,4
+19870728,Philadelpia Phillies,Pittsburgh Pirates,5,2
+19870728,New York Mets,St. Louis Cardinals,6,4
+19870729,Baltimore Orioles,Cleveland Indians,7,4
+19870729,Chicago White Sox,Detroit Tigers,4,0
+19870729,Kansas City Royals,New York Yankees,0,4
+19870729,California Angels,Oakland Athletics,5,4
+19870729,Minensota Twins,Seattle Mariners,3,8
+19870729,Milwaukee Brewers,Texas Rangers,9,8
+19870729,Boston Red Sox,Toronto Blue Jays,6,5
+19870729,Houston Colts,Atlanta Braves,3,5
+19870729,Montreal Expos,Chicago Cubs,11,3
+19870729,San Diego Padres,Cincinnati Reds,5,15
+19870729,San  Francisco Giants,Los Angeles Dodgers,16,2
+19870729,Philadelpia Phillies,Pittsburgh Pirates,4,3
+19870729,New York Mets,St. Louis Cardinals,6,4
+19870730,Baltimore Orioles,Cleveland Indians,4,6
+19870730,Chicago White Sox,Milwaukee Brewers,1,6
+19870730,Kansas City Royals,New York Yankees,3,6
+19870730,Houston Colts,Atlanta Braves,8,5
+19870730,Montreal Expos,Chicago Cubs,6,1
+19870730,San Diego Padres,Cincinnati Reds,12,8
+19870730,Philadelpia Phillies,Pittsburgh Pirates,1,0
+19870730,New York Mets,St. Louis Cardinals,5,3
+19870731,Seattle Mariners,California Angels,2,8
+19870731,Boston Red Sox,Kansas City Royals,4,0
+19870731,Chicago White Sox,Milwaukee Brewers,8,6
+19870731,Detroit Tigers,New York Yankees,5,6
+19870731,Minensota Twins,Oakland Athletics,5,3
+19870731,Baltimore Orioles,Texas Rangers,8,4
+19870731,Cleveland Indians,Toronto Blue Jays,3,8
+19870731,Los Angeles Dodgers,Atlanta Braves,9,5
+19870731,Philadelpia Phillies,Chicago Cubs,8,5
+19870731,San  Francisco Giants,Cincinnati Reds,2,9
+19870731,San Diego Padres,Houston Colts,6,2
+19870731,New York Mets,Montreal Expos,3,13
+19870731,Pittsburgh Pirates,St. Louis Cardinals,3,4
+19870801,Seattle Mariners,California Angels,3,4
+19870801,Boston Red Sox,Kansas City Royals,0,4
+19870801,Chicago White Sox,Milwaukee Brewers,3,2
+19870801,Detroit Tigers,New York Yankees,10,5
+19870801,Minensota Twins,Oakland Athletics,2,3
+19870801,Baltimore Orioles,Texas Rangers,7,1
+19870801,Cleveland Indians,Toronto Blue Jays,3,0
+19870801,Los Angeles Dodgers,Atlanta Braves,5,2
+19870801,Philadelpia Phillies,Chicago Cubs,3,5
+19870801,San  Francisco Giants,Cincinnati Reds,7,3
+19870801,San Diego Padres,Houston Colts,6,0
+19870801,New York Mets,Montreal Expos,12,4
+19870801,Pittsburgh Pirates,St. Louis Cardinals,6,7
+19870802,Seattle Mariners,California Angels,5,4
+19870802,Boston Red Sox,Kansas City Royals,5,13
+19870802,Chicago White Sox,Milwaukee Brewers,7,3
+19870802,Detroit Tigers,New York Yankees,5,8
+19870802,Minensota Twins,Oakland Athletics,5,6
+19870802,Baltimore Orioles,Texas Rangers,2,5
+19870802,Cleveland Indians,Toronto Blue Jays,5,11
+19870802,Los Angeles Dodgers,Atlanta Braves,5,10
+19870802,Philadelpia Phillies,Chicago Cubs,2,3
+19870802,San  Francisco Giants,Cincinnati Reds,4,5
+19870802,San Diego Padres,Houston Colts,0,6
+19870802,New York Mets,Montreal Expos,7,4
+19870802,Pittsburgh Pirates,St. Louis Cardinals,1,9
+19870803,Minensota Twins,California Angels,11,3
+19870803,Toronto Blue Jays,Chicago White Sox,14,5
+19870803,New York Yankees,Cleveland Indians,0,2
+19870803,Kansas City Royals,Detroit Tigers,4,2
+19870803,Seattle Mariners,Oakland Athletics,4,3
+19870803,Boston Red Sox,Texas Rangers,11,2
+19870803,Los Angeles Dodgers,Cincinnati Reds,7,2
+19870803,San  Francisco Giants,Houston Colts,3,5
+19870803,St. Louis Cardinals,Montreal Expos,5,2
+19870803,Philadelpia Phillies,New York Mets,2,3
+19870803,Chicago Cubs,Pittsburgh Pirates,4,6
+19870804,Minensota Twins,California Angels,3,12
+19870804,Toronto Blue Jays,Chicago White Sox,4,1
+19870804,New York Yankees,Cleveland Indians,3,15
+19870804,Kansas City Royals,Detroit Tigers,8,4
+19870804,Baltimore Orioles,Milwaukee Brewers,8,9
+19870804,Seattle Mariners,Oakland Athletics,3,9
+19870804,Boston Red Sox,Texas Rangers,8,6
+19870804,San Diego Padres,Atlanta Braves,7,12
+19870804,Los Angeles Dodgers,Cincinnati Reds,4,10
+19870804,San  Francisco Giants,Houston Colts,4,5
+19870804,St. Louis Cardinals,Montreal Expos,5,10
+19870804,Philadelpia Phillies,New York Mets,3,5
+19870804,Chicago Cubs,Pittsburgh Pirates,3,2
+19870805,Minensota Twins,California Angels,1,6
+19870805,Toronto Blue Jays,Chicago White Sox,3,2
+19870805,New York Yankees,Cleveland Indians,5,2
+19870805,Kansas City Royals,Detroit Tigers,2,4
+19870805,Baltimore Orioles,Milwaukee Brewers,1,5
+19870805,Seattle Mariners,Oakland Athletics,1,3
+19870805,Boston Red Sox,Texas Rangers,8,9
+19870805,San Diego Padres,Atlanta Braves,7,3
+19870805,Los Angeles Dodgers,Cincinnati Reds,3,6
+19870805,San  Francisco Giants,Houston Colts,5,6
+19870805,St. Louis Cardinals,Montreal Expos,1,2
+19870805,Philadelpia Phillies,New York Mets,3,13
+19870805,Chicago Cubs,Pittsburgh Pirates,0,10
+19870806,Toronto Blue Jays,Cleveland Indians,5,14
+19870806,New York Yankees,Detroit Tigers,5,12
+19870806,Baltimore Orioles,Milwaukee Brewers,8,11
+19870806,Oakland Athletics,Minensota Twins,4,9
+19870806,California Angels,Seattle Mariners,4,15
+19870806,San Diego Padres,Atlanta Braves,7,4
+19870806,Chicago Cubs,New York Mets,6,7
+19870806,St. Louis Cardinals,Philadelpia Phillies,5,2
+19870806,Montreal Expos,Pittsburgh Pirates,6,3
+19870807,Texas Rangers,Baltimore Orioles,2,9
+19870807,Kansas City Royals,Boston Red Sox,3,4
+19870807,Milwaukee Brewers,Chicago White Sox,7,4
+19870807,Toronto Blue Jays,Cleveland Indians,15,1
+19870807,New York Yankees,Detroit Tigers,0,8
+19870807,Oakland Athletics,Minensota Twins,4,9
+19870807,California Angels,Seattle Mariners,0,14
+19870807,Atlanta Braves,Los Angeles Dodgers,4,3
+19870807,Chicago Cubs,New York Mets,1,7
+19870807,St. Louis Cardinals,Philadelpia Phillies,5,15
+19870807,Montreal Expos,Pittsburgh Pirates,3,9
+19870807,Houston Colts,San Diego Padres,1,7
+19870807,Cincinnati Reds,San  Francisco Giants,1,3
+19870808,Texas Rangers,Baltimore Orioles,11,5
+19870808,Kansas City Royals,Boston Red Sox,3,8
+19870808,Milwaukee Brewers,Chicago White Sox,5,3
+19870808,Milwaukee Brewers,Chicago White Sox,6,8
+19870808,Toronto Blue Jays,Cleveland Indians,1,3
+19870808,New York Yankees,Detroit Tigers,7,0
+19870808,Oakland Athletics,Minensota Twins,2,9
+19870808,California Angels,Seattle Mariners,3,5
+19870808,Atlanta Braves,Los Angeles Dodgers,9,7
+19870808,Chicago Cubs,New York Mets,5,3
+19870808,St. Louis Cardinals,Philadelpia Phillies,9,5
+19870808,Montreal Expos,Pittsburgh Pirates,2,5
+19870808,Houston Colts,San Diego Padres,3,4
+19870808,Cincinnati Reds,San  Francisco Giants,2,5
+19870809,Texas Rangers,Baltimore Orioles,4,5
+19870809,Kansas City Royals,Boston Red Sox,8,3
+19870809,Milwaukee Brewers,Chicago White Sox,8,4
+19870809,Toronto Blue Jays,Cleveland Indians,5,1
+19870809,New York Yankees,Detroit Tigers,4,15
+19870809,Oakland Athletics,Minensota Twins,5,7
+19870809,California Angels,Seattle Mariners,7,5
+19870809,Atlanta Braves,Los Angeles Dodgers,2,5
+19870809,Chicago Cubs,New York Mets,6,3
+19870809,St. Louis Cardinals,Philadelpia Phillies,7,8
+19870809,Montreal Expos,Pittsburgh Pirates,3,4
+19870809,Houston Colts,San Diego Padres,3,4
+19870809,Cincinnati Reds,San  Francisco Giants,2,3
+19870809,Cincinnati Reds,San  Francisco Giants,2,5
+19870810,Cleveland Indians,Baltimore Orioles,3,4
+19870810,Toronto Blue Jays,Boston Red Sox,1,9
+19870810,Detroit Tigers,Chicago White Sox,4,8
+19870810,New York Yankees,Kansas City Royals,1,10
+19870810,Texas Rangers,Milwaukee Brewers,3,4
+19870810,Oakland Athletics,Seattle Mariners,15,4
+19870810,Cincinnati Reds,Los Angeles Dodgers,4,3
+19870810,Montreal Expos,New York Mets,2,1
+19870810,Chicago Cubs,Philadelpia Phillies,2,4
+19870810,St. Louis Cardinals,Pittsburgh Pirates,6,0
+19870810,Atlanta Braves,San Diego Padres,0,2
+19870810,Houston Colts,San  Francisco Giants,5,6
+19870811,Cleveland Indians,Baltimore Orioles,6,3
+19870811,Toronto Blue Jays,Boston Red Sox,8,3
+19870811,Detroit Tigers,Chicago White Sox,9,6
+19870811,New York Yankees,Kansas City Royals,5,8
+19870811,Texas Rangers,Milwaukee Brewers,7,1
+19870811,California Angels,Minensota Twins,2,7
+19870811,Oakland Athletics,Seattle Mariners,2,8
+19870811,Cincinnati Reds,Los Angeles Dodgers,2,7
+19870811,Montreal Expos,New York Mets,2,6
+19870811,Chicago Cubs,Philadelpia Phillies,8,9
+19870811,St. Louis Cardinals,Pittsburgh Pirates,6,5
+19870811,Atlanta Braves,San Diego Padres,6,7
+19870811,Houston Colts,San  Francisco Giants,7,3
+19870812,Cleveland Indians,Baltimore Orioles,8,6
+19870812,Toronto Blue Jays,Boston Red Sox,10,4
+19870812,Detroit Tigers,Chicago White Sox,8,7
+19870812,New York Yankees,Kansas City Royals,1,2
+19870812,Texas Rangers,Milwaukee Brewers,12,3
+19870812,California Angels,Minensota Twins,8,2
+19870812,Oakland Athletics,Seattle Mariners,3,4
+19870812,Cincinnati Reds,Los Angeles Dodgers,0,1
+19870812,Montreal Expos,New York Mets,2,4
+19870812,Chicago Cubs,Philadelpia Phillies,7,13
+19870812,St. Louis Cardinals,Pittsburgh Pirates,0,11
+19870812,Atlanta Braves,San Diego Padres,2,1
+19870812,Houston Colts,San  Francisco Giants,1,8
+19870813,Milwaukee Brewers,Baltimore Orioles,4,5
+19870813,Detroit Tigers,Kansas City Royals,4,1
+19870813,California Angels,Minensota Twins,5,1
+19870813,Chicago White Sox,Toronto Blue Jays,10,3
+19870813,New York Mets,Chicago Cubs,5,7
+19870813,Cincinnati Reds,Los Angeles Dodgers,5,2
+19870813,Pittsburgh Pirates,Montreal Expos,7,9
+19870813,Atlanta Braves,San Diego Padres,3,5
+19870813,Houston Colts,San  Francisco Giants,6,7
+19870813,Philadelpia Phillies,St. Louis Cardinals,4,2
+19870814,Milwaukee Brewers,Baltimore Orioles,6,2
+19870814,Texas Rangers,Boston Red Sox,3,9
+19870814,Texas Rangers,Boston Red Sox,9,4
+19870814,Oakland Athletics,California Angels,7,6
+19870814,Detroit Tigers,Kansas City Royals,5,7
+19870814,Seattle Mariners,Minensota Twins,3,6
+19870814,Cleveland Indians,New York Yankees,6,5
+19870814,Chicago White Sox,Toronto Blue Jays,2,3
+19870814,New York Mets,Chicago Cubs,1,6
+19870814,Atlanta Braves,Houston Colts,4,8
+19870814,Pittsburgh Pirates,Montreal Expos,3,4
+19870814,Cincinnati Reds,San Diego Padres,2,0
+19870814,Cincinnati Reds,San Diego Padres,8,15
+19870814,Los Angeles Dodgers,San  Francisco Giants,4,3
+19870814,Philadelpia Phillies,St. Louis Cardinals,4,8
+19870815,Milwaukee Brewers,Baltimore Orioles,1,2
+19870815,Texas Rangers,Boston Red Sox,6,7
+19870815,Oakland Athletics,California Angels,13,3
+19870815,Detroit Tigers,Kansas City Royals,8,4
+19870815,Seattle Mariners,Minensota Twins,4,14
+19870815,Cleveland Indians,New York Yankees,2,11
+19870815,Chicago White Sox,Toronto Blue Jays,1,0
+19870815,New York Mets,Chicago Cubs,3,7
+19870815,Atlanta Braves,Houston Colts,0,8
+19870815,Pittsburgh Pirates,Montreal Expos,3,6
+19870815,Los Angeles Dodgers,San  Francisco Giants,0,5
+19870815,Philadelpia Phillies,St. Louis Cardinals,5,2
+19870816,Milwaukee Brewers,Baltimore Orioles,6,2
+19870816,Texas Rangers,Boston Red Sox,2,12
+19870816,Oakland Athletics,California Angels,9,6
+19870816,Detroit Tigers,Kansas City Royals,10,6
+19870816,Seattle Mariners,Minensota Twins,1,5
+19870816,Cleveland Indians,New York Yankees,1,0
+19870816,Chicago White Sox,Toronto Blue Jays,4,6
+19870816,New York Mets,Chicago Cubs,23,10
+19870816,Atlanta Braves,Houston Colts,2,6
+19870816,Pittsburgh Pirates,Montreal Expos,7,10
+19870816,Cincinnati Reds,San Diego Padres,2,0
+19870816,Los Angeles Dodgers,San  Francisco Giants,0,1
+19870816,Philadelpia Phillies,St. Louis Cardinals,4,3
+19870817,Oakland Athletics,California Angels,4,6
+19870817,Boston Red Sox,Chicago White Sox,1,2
+19870817,Milwaukee Brewers,Cleveland Indians,5,3
+19870817,Seattle Mariners,Minensota Twins,2,4
+19870817,Kansas City Royals,Texas Rangers,7,6
+19870817,Atlanta Braves,Houston Colts,2,11
+19870818,Baltimore Orioles,California Angels,4,1
+19870818,Boston Red Sox,Chicago White Sox,14,8
+19870818,Milwaukee Brewers,Cleveland Indians,8,9
+19870818,Minensota Twins,Detroit Tigers,2,11
+19870818,Toronto Blue Jays,Oakland Athletics,2,1
+19870818,New York Yankees,Seattle Mariners,4,3
+19870818,Kansas City Royals,Texas Rangers,1,3
+19870818,Chicago Cubs,Atlanta Braves,5,9
+19870818,Pittsburgh Pirates,Cincinnati Reds,7,4
+19870818,St. Louis Cardinals,Houston Colts,0,4
+19870818,Los Angeles Dodgers,Montreal Expos,1,2
+19870818,San  Francisco Giants,New York Mets,2,7
+19870818,San Diego Padres,Philadelpia Phillies,9,4
+19870819,Baltimore Orioles,California Angels,2,1
+19870819,Boston Red Sox,Chicago White Sox,3,8
+19870819,Milwaukee Brewers,Cleveland Indians,13,2
+19870819,Minensota Twins,Detroit Tigers,1,7
+19870819,Toronto Blue Jays,Oakland Athletics,3,7
+19870819,New York Yankees,Seattle Mariners,8,0
+19870819,Kansas City Royals,Texas Rangers,11,6
+19870819,Chicago Cubs,Atlanta Braves,9,1
+19870819,Pittsburgh Pirates,Cincinnati Reds,10,9
+19870819,St. Louis Cardinals,Houston Colts,1,2
+19870819,Los Angeles Dodgers,Montreal Expos,10,9
+19870819,San  Francisco Giants,New York Mets,10,6
+19870819,San Diego Padres,Philadelpia Phillies,5,6
+19870820,Baltimore Orioles,California Angels,4,2
+19870820,Milwaukee Brewers,Cleveland Indians,14,2
+19870820,Minensota Twins,Detroit Tigers,0,8
+19870820,Toronto Blue Jays,Oakland Athletics,7,6
+19870820,New York Yankees,Seattle Mariners,3,4
+19870820,Chicago White Sox,Texas Rangers,1,5
+19870820,Chicago Cubs,Atlanta Braves,4,13
+19870820,Pittsburgh Pirates,Cincinnati Reds,3,5
+19870820,St. Louis Cardinals,Houston Colts,4,5
+19870820,Los Angeles Dodgers,Montreal Expos,7,2
+19870820,San  Francisco Giants,New York Mets,4,7
+19870820,San Diego Padres,Philadelpia Phillies,2,10
+19870821,Minensota Twins,Boston Red Sox,3,11
+19870821,Toronto Blue Jays,California Angels,1,3
+19870821,Detroit Tigers,Cleveland Indians,4,12
+19870821,Detroit Tigers,Cleveland Indians,3,8
+19870821,Kansas City Royals,Milwaukee Brewers,0,3
+19870821,New York Yankees,Oakland Athletics,4,6
+19870821,Baltimore Orioles,Seattle Mariners,2,3
+19870821,Chicago White Sox,Texas Rangers,5,1
+19870821,Pittsburgh Pirates,Atlanta Braves,4,5
+19870821,Houston Colts,Chicago Cubs,5,7
+19870821,St. Louis Cardinals,Cincinnati Reds,2,1
+19870821,San  Francisco Giants,Montreal Expos,6,3
+19870821,San Diego Padres,New York Mets,6,2
+19870821,Los Angeles Dodgers,Philadelpia Phillies,1,2
+19870821,Los Angeles Dodgers,Philadelpia Phillies,3,7
+19870822,Minensota Twins,Boston Red Sox,5,6
+19870822,Toronto Blue Jays,California Angels,2,0
+19870822,Detroit Tigers,Cleveland Indians,8,6
+19870822,Kansas City Royals,Milwaukee Brewers,8,7
+19870822,New York Yankees,Oakland Athletics,0,6
+19870822,Baltimore Orioles,Seattle Mariners,6,14
+19870822,Chicago White Sox,Texas Rangers,6,8
+19870822,Pittsburgh Pirates,Atlanta Braves,3,10
+19870822,Houston Colts,Chicago Cubs,5,4
+19870822,St. Louis Cardinals,Cincinnati Reds,9,7
+19870822,San  Francisco Giants,Montreal Expos,4,5
+19870822,San Diego Padres,New York Mets,8,3
+19870822,Los Angeles Dodgers,Philadelpia Phillies,0,2
+19870823,Minensota Twins,Boston Red Sox,4,6
+19870823,Toronto Blue Jays,California Angels,2,5
+19870823,Detroit Tigers,Cleveland Indians,4,3
+19870823,Kansas City Royals,Milwaukee Brewers,5,10
+19870823,New York Yankees,Oakland Athletics,4,0
+19870823,Baltimore Orioles,Seattle Mariners,6,5
+19870823,Chicago White Sox,Texas Rangers,8,1
+19870823,Pittsburgh Pirates,Atlanta Braves,2,6
+19870823,Houston Colts,Chicago Cubs,4,2
+19870823,St. Louis Cardinals,Cincinnati Reds,12,6
+19870823,San  Francisco Giants,Montreal Expos,5,3
+19870823,San Diego Padres,New York Mets,2,9
+19870823,Los Angeles Dodgers,Philadelpia Phillies,5,1
+19870824,Chicago White Sox,Boston Red Sox,6,3
+19870824,New York Yankees,California Angels,3,2
+19870824,Texas Rangers,Kansas City Royals,4,2
+19870824,Detroit Tigers,Minensota Twins,4,5
+19870824,Baltimore Orioles,Oakland Athletics,3,7
+19870824,Toronto Blue Jays,Seattle Mariners,7,3
+19870824,Los Angeles Dodgers,New York Mets,0,1
+19870824,San  Francisco Giants,Philadelpia Phillies,6,1
+19870824,Cincinnati Reds,Pittsburgh Pirates,4,5
+19870824,Houston Colts,St. Louis Cardinals,5,2
+19870825,Chicago White Sox,Boston Red Sox,3,7
+19870825,New York Yankees,California Angels,1,5
+19870825,Texas Rangers,Kansas City Royals,15,8
+19870825,Cleveland Indians,Milwaukee Brewers,9,10
+19870825,Detroit Tigers,Minensota Twins,5,4
+19870825,Baltimore Orioles,Oakland Athletics,7,9
+19870825,Toronto Blue Jays,Seattle Mariners,6,3
+19870825,Los Angeles Dodgers,New York Mets,3,1
+19870825,San  Francisco Giants,Philadelpia Phillies,3,2
+19870825,Cincinnati Reds,Pittsburgh Pirates,0,1
+19870825,Montreal Expos,San Diego Padres,1,5
+19870825,Houston Colts,St. Louis Cardinals,1,7
+19870826,Chicago White Sox,Boston Red Sox,5,3
+19870826,Texas Rangers,Kansas City Royals,0,3
+19870826,Cleveland Indians,Milwaukee Brewers,0,1
+19870826,Detroit Tigers,Minensota Twins,10,8
+19870826,Los Angeles Dodgers,New York Mets,2,3
+19870826,San  Francisco Giants,Philadelpia Phillies,2,0
+19870826,Cincinnati Reds,Pittsburgh Pirates,5,6
+19870826,Montreal Expos,San Diego Padres,6,5
+19870826,Houston Colts,St. Louis Cardinals,4,5
+19870827,California Angels,Baltimore Orioles,5,9
+19870827,Texas Rangers,Kansas City Royals,2,3
+19870827,Cleveland Indians,Milwaukee Brewers,3,4
+19870827,Oakland Athletics,Toronto Blue Jays,4,9
+19870827,Atlanta Braves,Chicago Cubs,5,2
+19870827,Atlanta Braves,Chicago Cubs,6,8
+19870827,Montreal Expos,San Diego Padres,3,0
+19870828,California Angels,Baltimore Orioles,5,6
+19870828,Kansas City Royals,Chicago White Sox,9,3
+19870828,Texas Rangers,Detroit Tigers,5,3
+19870828,Minensota Twins,Milwaukee Brewers,0,1
+19870828,Seattle Mariners,New York Yankees,10,4
+19870828,Oakland Athletics,Toronto Blue Jays,3,2
+19870828,Chicago Cubs,Cincinnati Reds,6,5
+19870828,Montreal Expos,Los Angeles Dodgers,2,1
+19870828,Houston Colts,Pittsburgh Pirates,2,4
+19870828,Philadelpia Phillies,San Diego Padres,8,1
+19870828,New York Mets,San  Francisco Giants,4,0
+19870828,Atlanta Braves,St. Louis Cardinals,3,4
+19870829,California Angels,Baltimore Orioles,6,5
+19870829,Kansas City Royals,Chicago White Sox,2,7
+19870829,Boston Red Sox,Cleveland Indians,2,7
+19870829,Boston Red Sox,Cleveland Indians,1,2
+19870829,Texas Rangers,Detroit Tigers,1,4
+19870829,Minensota Twins,Milwaukee Brewers,12,3
+19870829,Seattle Mariners,New York Yankees,7,1
+19870829,Seattle Mariners,New York Yankees,2,4
+19870829,Oakland Athletics,Toronto Blue Jays,6,5
+19870829,Chicago Cubs,Cincinnati Reds,1,4
+19870829,Montreal Expos,Los Angeles Dodgers,6,5
+19870829,Houston Colts,Pittsburgh Pirates,2,8
+19870829,Philadelpia Phillies,San Diego Padres,1,3
+19870829,New York Mets,San  Francisco Giants,1,9
+19870829,Atlanta Braves,St. Louis Cardinals,2,4
+19870830,California Angels,Baltimore Orioles,6,2
+19870830,Kansas City Royals,Chicago White Sox,11,7
+19870830,Boston Red Sox,Cleveland Indians,7,3
+19870830,Texas Rangers,Detroit Tigers,0,7
+19870830,Minensota Twins,Milwaukee Brewers,10,6
+19870830,Seattle Mariners,New York Yankees,1,4
+19870830,Oakland Athletics,Toronto Blue Jays,3,13
+19870830,Chicago Cubs,Cincinnati Reds,3,1
+19870830,Montreal Expos,Los Angeles Dodgers,5,4
+19870830,Houston Colts,Pittsburgh Pirates,0,7
+19870830,Philadelpia Phillies,San Diego Padres,1,6
+19870830,New York Mets,San  Francisco Giants,5,3
+19870830,Atlanta Braves,St. Louis Cardinals,3,4
+19870831,Seattle Mariners,Baltimore Orioles,3,4
+19870831,Kansas City Royals,Chicago White Sox,3,5
+19870831,Cleveland Indians,Detroit Tigers,7,2
+19870831,Oakland Athletics,New York Yankees,1,4
+19870831,California Angels,Toronto Blue Jays,8,7
+19870831,Chicago Cubs,Houston Colts,4,3
+19870831,Philadelpia Phillies,Los Angeles Dodgers,4,2
+19870831,Atlanta Braves,Pittsburgh Pirates,3,7
+19870831,New York Mets,San Diego Padres,6,5
+19870831,Montreal Expos,San  Francisco Giants,0,5
+19870831,Cincinnati Reds,St. Louis Cardinals,0,4
+19870901,Seattle Mariners,Baltimore Orioles,5,0
+19870901,Texas Rangers,Chicago White Sox,6,4
+19870901,Cleveland Indians,Detroit Tigers,5,6
+19870901,Milwaukee Brewers,Kansas City Royals,2,0
+19870901,Boston Red Sox,Minensota Twins,9,0
+19870901,Oakland Athletics,New York Yankees,8,3
+19870901,California Angels,Toronto Blue Jays,3,4
+19870901,Chicago Cubs,Houston Colts,3,2
+19870901,Philadelpia Phillies,Los Angeles Dodgers,7,5
+19870901,Atlanta Braves,Pittsburgh Pirates,4,0
+19870901,New York Mets,San Diego Padres,9,1
+19870901,Montreal Expos,San  Francisco Giants,4,14
+19870901,Cincinnati Reds,St. Louis Cardinals,7,4
+19870902,Seattle Mariners,Baltimore Orioles,8,6
+19870902,Texas Rangers,Chicago White Sox,0,5
+19870902,Cleveland Indians,Detroit Tigers,1,2
+19870902,Milwaukee Brewers,Kansas City Royals,3,2
+19870902,Boston Red Sox,Minensota Twins,4,5
+19870902,Oakland Athletics,New York Yankees,2,3
+19870902,California Angels,Toronto Blue Jays,6,7
+19870902,Chicago Cubs,Houston Colts,1,10
+19870902,Philadelpia Phillies,Los Angeles Dodgers,6,2
+19870902,Atlanta Braves,Pittsburgh Pirates,0,2
+19870902,New York Mets,San Diego Padres,4,3
+19870902,Montreal Expos,San  Francisco Giants,7,3
+19870902,Cincinnati Reds,St. Louis Cardinals,3,1
+19870903,Texas Rangers,Chicago White Sox,2,5
+19870903,Cleveland Indians,Detroit Tigers,1,3
+19870903,Milwaukee Brewers,Kansas City Royals,8,2
+19870903,Boston Red Sox,Minensota Twins,1,2
+19870904,Oakland Athletics,Baltimore Orioles,2,5
+19870904,Cleveland Indians,Boston Red Sox,2,5
+19870904,Chicago White Sox,Kansas City Royals,2,6
+19870904,Milwaukee Brewers,Minensota Twins,1,2
+19870904,California Angels,New York Yankees,4,8
+19870904,Detroit Tigers,Texas Rangers,11,2
+19870904,Seattle Mariners,Toronto Blue Jays,5,6
+19870904,Montreal Expos,Atlanta Braves,4,7
+19870904,Cincinnati Reds,Chicago Cubs,4,3
+19870904,Pittsburgh Pirates,Houston Colts,0,2
+19870904,New York Mets,Los Angeles Dodgers,5,1
+19870904,Philadelpia Phillies,San  Francisco Giants,2,3
+19870904,San Diego Padres,St. Louis Cardinals,2,4
+19870905,Oakland Athletics,Baltimore Orioles,7,2
+19870905,Cleveland Indians,Boston Red Sox,15,2
+19870905,Chicago White Sox,Kansas City Royals,2,4
+19870905,Milwaukee Brewers,Minensota Twins,1,2
+19870905,California Angels,New York Yankees,6,7
+19870905,Detroit Tigers,Texas Rangers,7,8
+19870905,Seattle Mariners,Toronto Blue Jays,0,3
+19870905,Montreal Expos,Atlanta Braves,4,1
+19870905,Cincinnati Reds,Chicago Cubs,10,5
+19870905,Pittsburgh Pirates,Houston Colts,1,5
+19870905,New York Mets,Los Angeles Dodgers,4,3
+19870905,Philadelpia Phillies,San  Francisco Giants,3,6
+19870905,San Diego Padres,St. Louis Cardinals,4,1
+19870906,Oakland Athletics,Baltimore Orioles,6,7
+19870906,Cleveland Indians,Boston Red Sox,3,1
+19870906,Chicago White Sox,Kansas City Royals,5,4
+19870906,Milwaukee Brewers,Minensota Twins,6,0
+19870906,California Angels,New York Yankees,3,1
+19870906,Detroit Tigers,Texas Rangers,3,9
+19870906,Seattle Mariners,Toronto Blue Jays,2,3
+19870906,Montreal Expos,Atlanta Braves,5,2
+19870906,Cincinnati Reds,Chicago Cubs,1,3
+19870906,Pittsburgh Pirates,Houston Colts,4,3
+19870906,New York Mets,Los Angeles Dodgers,2,3
+19870906,Philadelpia Phillies,San  Francisco Giants,1,4
+19870906,San Diego Padres,St. Louis Cardinals,4,6
+19870907,Detroit Tigers,Baltimore Orioles,12,4
+19870907,New York Yankees,Boston Red Sox,9,5
+19870907,Kansas City Royals,California Angels,5,2
+19870907,Seattle Mariners,Cleveland Indians,6,4
+19870907,Toronto Blue Jays,Milwaukee Brewers,5,3
+19870907,Chicago White Sox,Minensota Twins,1,8
+19870907,Texas Rangers,Oakland Athletics,1,2
+19870907,San Diego Padres,Atlanta Braves,11,4
+19870907,Pittsburgh Pirates,Chicago Cubs,3,2
+19870907,Los Angeles Dodgers,Cincinnati Reds,2,3
+19870907,San  Francisco Giants,Houston Colts,2,4
+19870907,St. Louis Cardinals,Montreal Expos,2,9
+19870907,Philadelpia Phillies,New York Mets,5,3
+19870908,New York Yankees,Boston Red Sox,6,8
+19870908,Kansas City Royals,California Angels,4,2
+19870908,Seattle Mariners,Cleveland Indians,7,0
+19870908,Toronto Blue Jays,Milwaukee Brewers,4,6
+19870908,Chicago White Sox,Minensota Twins,4,3
+19870908,Texas Rangers,Oakland Athletics,12,1
+19870908,San Diego Padres,Atlanta Braves,2,4
+19870908,Pittsburgh Pirates,Chicago Cubs,4,1
+19870908,Los Angeles Dodgers,Cincinnati Reds,5,3
+19870908,San  Francisco Giants,Houston Colts,6,4
+19870908,St. Louis Cardinals,Montreal Expos,1,4
+19870908,Philadelpia Phillies,New York Mets,2,5
+19870909,Detroit Tigers,Baltimore Orioles,7,4
+19870909,Detroit Tigers,Baltimore Orioles,6,0
+19870909,New York Yankees,Boston Red Sox,3,5
+19870909,Seattle Mariners,Cleveland Indians,9,4
+19870909,Toronto Blue Jays,Milwaukee Brewers,4,6
+19870909,Chicago White Sox,Minensota Twins,1,2
+19870909,Texas Rangers,Oakland Athletics,7,11
+19870909,San Diego Padres,Atlanta Braves,2,3
+19870909,Pittsburgh Pirates,Chicago Cubs,4,3
+19870909,Los Angeles Dodgers,Cincinnati Reds,1,4
+19870909,San  Francisco Giants,Houston Colts,2,4
+19870909,St. Louis Cardinals,Montreal Expos,3,8
+19870909,Philadelpia Phillies,New York Mets,5,11
+19870910,Baltimore Orioles,Boston Red Sox,4,5
+19870910,Texas Rangers,California Angels,7,8
+19870910,Detroit Tigers,Milwaukee Brewers,3,4
+19870910,Kansas City Royals,Oakland Athletics,2,3
+19870910,Houston Colts,San Diego Padres,7,8
+19870911,Baltimore Orioles,Boston Red Sox,3,9
+19870911,Texas Rangers,California Angels,7,2
+19870911,Minensota Twins,Cleveland Indians,13,10
+19870911,Detroit Tigers,Milwaukee Brewers,2,5
+19870911,Kansas City Royals,Oakland Athletics,9,0
+19870911,Chicago White Sox,Seattle Mariners,5,1
+19870911,New York Yankees,Toronto Blue Jays,5,6
+19870911,Los Angeles Dodgers,Atlanta Braves,5,2
+19870911,Montreal Expos,Chicago Cubs,4,8
+19870911,San  Francisco Giants,Cincinnati Reds,3,4
+19870911,St. Louis Cardinals,New York Mets,6,4
+19870911,Pittsburgh Pirates,Philadelpia Phillies,4,2
+19870911,Houston Colts,San Diego Padres,0,11
+19870912,Baltimore Orioles,Boston Red Sox,3,4
+19870912,Texas Rangers,California Angels,4,3
+19870912,Minensota Twins,Cleveland Indians,4,5
+19870912,Detroit Tigers,Milwaukee Brewers,2,11
+19870912,Kansas City Royals,Oakland Athletics,10,7
+19870912,Chicago White Sox,Seattle Mariners,2,12
+19870912,New York Yankees,Toronto Blue Jays,1,13
+19870912,Los Angeles Dodgers,Atlanta Braves,9,10
+19870912,Montreal Expos,Chicago Cubs,7,1
+19870912,San  Francisco Giants,Cincinnati Reds,7,1
+19870912,St. Louis Cardinals,New York Mets,8,1
+19870912,Pittsburgh Pirates,Philadelpia Phillies,12,4
+19870913,Texas Rangers,California Angels,8,2
+19870913,Minensota Twins,Cleveland Indians,7,3
+19870913,Detroit Tigers,Milwaukee Brewers,5,1
+19870913,Kansas City Royals,Oakland Athletics,6,5
+19870913,Chicago White Sox,Seattle Mariners,2,0
+19870913,New York Yankees,Toronto Blue Jays,8,5
+19870913,Los Angeles Dodgers,Atlanta Braves,6,2
+19870913,Montreal Expos,Chicago Cubs,2,5
+19870913,San  Francisco Giants,Cincinnati Reds,6,1
+19870913,St. Louis Cardinals,New York Mets,2,4
+19870913,Pittsburgh Pirates,Philadelpia Phillies,6,1
+19870913,Houston Colts,San Diego Padres,2,10
+19870914,Minensota Twins,Chicago White Sox,2,8
+19870914,Boston Red Sox,Detroit Tigers,0,3
+19870914,California Angels,Kansas City Royals,5,8
+19870914,Milwaukee Brewers,New York Yankees,6,4
+19870914,Cleveland Indians,Seattle Mariners,11,8
+19870914,Oakland Athletics,Texas Rangers,1,2
+19870914,Baltimore Orioles,Toronto Blue Jays,3,18
+19870914,Cincinnati Reds,Atlanta Braves,2,3
+19870914,Houston Colts,Los Angeles Dodgers,8,1
+19870914,Chicago Cubs,New York Mets,5,6
+19870914,St. Louis Cardinals,Philadelpia Phillies,2,3
+19870914,Montreal Expos,Pittsburgh Pirates,6,4
+19870914,San Diego Padres,San  Francisco Giants,3,4
+19870915,Minensota Twins,Chicago White Sox,2,6
+19870915,Boston Red Sox,Detroit Tigers,8,9
+19870915,California Angels,Kansas City Royals,7,1
+19870915,Milwaukee Brewers,New York Yankees,3,4
+19870915,Cleveland Indians,Seattle Mariners,4,2
+19870915,Oakland Athletics,Texas Rangers,6,5
+19870915,Baltimore Orioles,Toronto Blue Jays,2,6
+19870915,Cincinnati Reds,Atlanta Braves,21,6
+19870915,Houston Colts,Los Angeles Dodgers,2,3
+19870915,Chicago Cubs,New York Mets,4,12
+19870915,St. Louis Cardinals,Philadelpia Phillies,4,3
+19870915,Montreal Expos,Pittsburgh Pirates,1,5
+19870915,San Diego Padres,San  Francisco Giants,3,13
+19870916,Minensota Twins,Chicago White Sox,10,13
+19870916,Boston Red Sox,Detroit Tigers,1,4
+19870916,California Angels,Kansas City Royals,6,4
+19870916,Milwaukee Brewers,New York Yankees,5,4
+19870916,Cleveland Indians,Seattle Mariners,3,5
+19870916,Oakland Athletics,Texas Rangers,1,4
+19870916,Baltimore Orioles,Toronto Blue Jays,0,7
+19870916,New York Mets,Montreal Expos,10,0
+19870916,Chicago Cubs,Philadelpia Phillies,5,8
+19870916,St. Louis Cardinals,Pittsburgh Pirates,8,5
+19870916,Atlanta Braves,San Diego Padres,0,3
+19870916,Houston Colts,San  Francisco Giants,1,7
+19870917,Seattle Mariners,Chicago White Sox,8,9
+19870917,California Angels,Kansas City Royals,6,7
+19870917,Toronto Blue Jays,New York Yankees,5,6
+19870917,Cincinnati Reds,Los Angeles Dodgers,3,2
+19870917,Cincinnati Reds,Los Angeles Dodgers,3,6
+19870917,New York Mets,Montreal Expos,1,4
+19870917,Chicago Cubs,Philadelpia Phillies,3,4
+19870917,St. Louis Cardinals,Pittsburgh Pirates,0,1
+19870917,Atlanta Braves,San Diego Padres,1,7
+19870917,Houston Colts,San  Francisco Giants,0,4
+19870918,Boston Red Sox,Baltimore Orioles,4,9
+19870918,Boston Red Sox,Baltimore Orioles,10,7
+19870918,Seattle Mariners,Chicago White Sox,1,0
+19870918,Milwaukee Brewers,Detroit Tigers,6,7
+19870918,Oakland Athletics,Kansas City Royals,4,0
+19870918,Cleveland Indians,Minensota Twins,4,9
+19870918,Toronto Blue Jays,New York Yankees,6,3
+19870918,California Angels,Texas Rangers,1,5
+19870918,San Diego Padres,Houston Colts,2,1
+19870918,Atlanta Braves,Los Angeles Dodgers,4,7
+19870918,Philadelpia Phillies,Montreal Expos,3,6
+19870918,New York Mets,Pittsburgh Pirates,9,10
+19870918,Chicago Cubs,St. Louis Cardinals,8,1
+19870919,Seattle Mariners,Chicago White Sox,8,10
+19870919,Milwaukee Brewers,Detroit Tigers,2,5
+19870919,Oakland Athletics,Kansas City Royals,9,5
+19870919,Cleveland Indians,Minensota Twins,1,3
+19870919,Toronto Blue Jays,New York Yankees,2,4
+19870919,California Angels,Texas Rangers,3,4
+19870919,San Diego Padres,Houston Colts,2,1
+19870919,Atlanta Braves,Los Angeles Dodgers,10,7
+19870919,Philadelpia Phillies,Montreal Expos,4,12
+19870919,New York Mets,Pittsburgh Pirates,5,4
+19870919,Cincinnati Reds,San  Francisco Giants,1,5
+19870919,Chicago Cubs,St. Louis Cardinals,3,5
+19870920,Boston Red Sox,Baltimore Orioles,5,1
+19870920,Boston Red Sox,Baltimore Orioles,6,3
+19870920,Seattle Mariners,Chicago White Sox,3,5
+19870920,Milwaukee Brewers,Detroit Tigers,11,4
+19870920,Oakland Athletics,Kansas City Royals,7,6
+19870920,Cleveland Indians,Minensota Twins,2,3
+19870920,Toronto Blue Jays,New York Yankees,6,2
+19870920,California Angels,Texas Rangers,1,2
+19870920,San Diego Padres,Houston Colts,2,3
+19870920,Atlanta Braves,Los Angeles Dodgers,3,5
+19870920,Philadelpia Phillies,Montreal Expos,4,1
+19870920,New York Mets,Pittsburgh Pirates,8,9
+19870920,Cincinnati Reds,San  Francisco Giants,10,6
+19870920,Chicago Cubs,St. Louis Cardinals,2,10
+19870921,Toronto Blue Jays,Baltimore Orioles,2,1
+19870921,Detroit Tigers,Boston Red Sox,4,9
+19870921,Chicago White Sox,California Angels,5,3
+19870921,Oakland Athletics,Cleveland Indians,3,6
+19870921,Kansas City Royals,Seattle Mariners,1,5
+19870921,New York Mets,Chicago Cubs,7,1
+19870921,Pittsburgh Pirates,Montreal Expos,5,2
+19870921,Los Angeles Dodgers,San  Francisco Giants,4,2
+19870921,Philadelpia Phillies,St. Louis Cardinals,1,3
+19870922,Toronto Blue Jays,Baltimore Orioles,8,4
+19870922,Detroit Tigers,Boston Red Sox,8,5
+19870922,Chicago White Sox,California Angels,3,5
+19870922,Oakland Athletics,Cleveland Indians,10,2
+19870922,New York Yankees,Milwaukee Brewers,2,7
+19870922,New York Yankees,Milwaukee Brewers,10,8
+19870922,Texas Rangers,Minensota Twins,4,6
+19870922,Kansas City Royals,Seattle Mariners,4,3
+19870922,Houston Colts,Atlanta Braves,2,6
+19870922,New York Mets,Chicago Cubs,2,6
+19870922,San Diego Padres,Cincinnati Reds,3,5
+19870922,Pittsburgh Pirates,Montreal Expos,3,4
+19870922,Los Angeles Dodgers,San  Francisco Giants,4,3
+19870922,Philadelpia Phillies,St. Louis Cardinals,2,3
+19870923,Toronto Blue Jays,Baltimore Orioles,6,1
+19870923,Detroit Tigers,Boston Red Sox,4,0
+19870923,Chicago White Sox,California Angels,6,10
+19870923,Oakland Athletics,Cleveland Indians,6,8
+19870923,New York Yankees,Milwaukee Brewers,7,8
+19870923,Texas Rangers,Minensota Twins,2,4
+19870923,Kansas City Royals,Seattle Mariners,9,0
+19870923,Houston Colts,Atlanta Braves,4,5
+19870923,Philadelpia Phillies,Chicago Cubs,5,0
+19870923,San Diego Padres,Cincinnati Reds,6,4
+19870923,Montreal Expos,New York Mets,3,4
+19870923,Los Angeles Dodgers,San  Francisco Giants,8,9
+19870923,Pittsburgh Pirates,St. Louis Cardinals,2,0
+19870924,Boston Red Sox,Milwaukee Brewers,6,7
+19870924,Texas Rangers,Minensota Twins,0,4
+19870924,Chicago White Sox,Oakland Athletics,4,2
+19870924,Detroit Tigers,Toronto Blue Jays,3,4
+19870924,Houston Colts,Atlanta Braves,7,8
+19870924,Philadelpia Phillies,Chicago Cubs,3,2
+19870924,San Diego Padres,Cincinnati Reds,4,5
+19870924,Montreal Expos,New York Mets,5,4
+19870924,Pittsburgh Pirates,St. Louis Cardinals,2,3
+19870925,New York Yankees,Baltimore Orioles,8,4
+19870925,California Angels,Cleveland Indians,5,7
+19870925,Boston Red Sox,Milwaukee Brewers,9,2
+19870925,Kansas City Royals,Minensota Twins,6,4
+19870925,Chicago White Sox,Oakland Athletics,2,1
+19870925,Texas Rangers,Seattle Mariners,3,12
+19870925,Detroit Tigers,Toronto Blue Jays,2,3
+19870925,San  Francisco Giants,Atlanta Braves,9,2
+19870925,St. Louis Cardinals,Chicago Cubs,1,2
+19870925,Houston Colts,Cincinnati Reds,1,4
+19870925,San Diego Padres,Los Angeles Dodgers,3,5
+19870925,Pittsburgh Pirates,New York Mets,2,10
+19870925,Montreal Expos,Philadelpia Phillies,2,4
+19870926,New York Yankees,Baltimore Orioles,2,0
+19870926,California Angels,Cleveland Indians,10,11
+19870926,Boston Red Sox,Milwaukee Brewers,2,3
+19870926,Kansas City Royals,Minensota Twins,7,4
+19870926,Chicago White Sox,Oakland Athletics,3,2
+19870926,Texas Rangers,Seattle Mariners,1,2
+19870926,Detroit Tigers,Toronto Blue Jays,9,10
+19870926,San  Francisco Giants,Atlanta Braves,5,10
+19870926,St. Louis Cardinals,Chicago Cubs,5,3
+19870926,Houston Colts,Cincinnati Reds,5,3
+19870926,San Diego Padres,Los Angeles Dodgers,1,3
+19870926,Pittsburgh Pirates,New York Mets,8,2
+19870926,Montreal Expos,Philadelpia Phillies,7,4
+19870927,New York Yankees,Baltimore Orioles,5,9
+19870927,California Angels,Cleveland Indians,11,8
+19870927,Boston Red Sox,Milwaukee Brewers,6,9
+19870927,Kansas City Royals,Minensota Twins,1,8
+19870927,Chicago White Sox,Oakland Athletics,5,0
+19870927,Texas Rangers,Seattle Mariners,3,5
+19870927,Detroit Tigers,Toronto Blue Jays,3,2
+19870927,San  Francisco Giants,Atlanta Braves,15,6
+19870927,St. Louis Cardinals,Chicago Cubs,3,7
+19870927,Houston Colts,Cincinnati Reds,2,4
+19870927,San Diego Padres,Los Angeles Dodgers,3,4
+19870927,Pittsburgh Pirates,New York Mets,3,12
+19870927,Montreal Expos,Philadelpia Phillies,5,3
+19870928,Baltimore Orioles,Detroit Tigers,3,0
+19870928,Seattle Mariners,Kansas City Royals,5,1
+19870928,Boston Red Sox,New York Yankees,7,9
+19870928,Minensota Twins,Texas Rangers,5,3
+19870928,Milwaukee Brewers,Toronto Blue Jays,6,4
+19870928,Atlanta Braves,Cincinnati Reds,5,6
+19870928,Los Angeles Dodgers,Houston Colts,5,11
+19870928,New York Mets,Philadelpia Phillies,1,0
+19870928,San  Francisco Giants,San Diego Padres,5,4
+19870929,California Angels,Chicago White Sox,0,1
+19870929,Baltimore Orioles,Detroit Tigers,1,10
+19870929,Seattle Mariners,Kansas City Royals,3,6
+19870929,Boston Red Sox,New York Yankees,0,6
+19870929,Cleveland Indians,Oakland Athletics,4,5
+19870929,Minensota Twins,Texas Rangers,5,7
+19870929,Milwaukee Brewers,Toronto Blue Jays,5,3
+19870929,Atlanta Braves,Cincinnati Reds,4,5
+19870929,Los Angeles Dodgers,Houston Colts,6,1
+19870929,New York Mets,Philadelpia Phillies,0,3
+19870929,San  Francisco Giants,San Diego Padres,5,3
+19870929,Montreal Expos,St. Louis Cardinals,0,1
+19870929,Montreal Expos,St. Louis Cardinals,0,3
+19870930,California Angels,Chicago White Sox,2,5
+19870930,Baltimore Orioles,Detroit Tigers,7,3
+19870930,Seattle Mariners,Kansas City Royals,3,7
+19870930,Boston Red Sox,New York Yankees,7,0
+19870930,Cleveland Indians,Oakland Athletics,3,4
+19870930,Minensota Twins,Texas Rangers,1,2
+19870930,Milwaukee Brewers,Toronto Blue Jays,5,2
+19870930,Atlanta Braves,Houston Colts,3,1
+19870930,San  Francisco Giants,Los Angeles Dodgers,3,0
+19870930,New York Mets,Philadelpia Phillies,3,4
+19870930,Chicago Cubs,Pittsburgh Pirates,3,5
+19870930,Chicago Cubs,Pittsburgh Pirates,10,8
+19870930,Cincinnati Reds,San Diego Padres,3,1
+19870930,Montreal Expos,St. Louis Cardinals,6,1
+19871001,California Angels,Chicago White Sox,3,6
+19871001,Baltimore Orioles,Detroit Tigers,5,9
+19871001,Boston Red Sox,New York Yankees,7,5
+19871001,Cleveland Indians,Oakland Athletics,5,9
+19871001,Seattle Mariners,Texas Rangers,8,6
+19871001,Atlanta Braves,Houston Colts,5,6
+19871001,San  Francisco Giants,Los Angeles Dodgers,0,7
+19871001,Chicago Cubs,Pittsburgh Pirates,3,12
+19871001,Cincinnati Reds,San Diego Padres,4,3
+19871001,Montreal Expos,St. Louis Cardinals,2,8
+19871002,Milwaukee Brewers,Boston Red Sox,2,3
+19871002,Cleveland Indians,California Angels,4,10
+19871002,Oakland Athletics,Chicago White Sox,4,3
+19871002,Toronto Blue Jays,Detroit Tigers,3,4
+19871002,Minensota Twins,Kansas City Royals,3,6
+19871002,Baltimore Orioles,New York Yankees,1,3
+19871002,Seattle Mariners,Texas Rangers,5,4
+19871002,Cincinnati Reds,Houston Colts,12,7
+19871002,Chicago Cubs,Montreal Expos,1,7
+19871002,Philadelpia Phillies,Pittsburgh Pirates,4,6
+19871002,Los Angeles Dodgers,San Diego Padres,10,3
+19871002,Atlanta Braves,San  Francisco Giants,6,4
+19871002,New York Mets,St. Louis Cardinals,2,3
+19871003,Milwaukee Brewers,Boston Red Sox,8,4
+19871003,Cleveland Indians,California Angels,5,12
+19871003,Oakland Athletics,Chicago White Sox,1,17
+19871003,Toronto Blue Jays,Detroit Tigers,2,3
+19871003,Minensota Twins,Kansas City Royals,2,4
+19871003,Baltimore Orioles,New York Yankees,2,6
+19871003,Seattle Mariners,Texas Rangers,6,4
+19871003,Cincinnati Reds,Houston Colts,4,6
+19871003,Chicago Cubs,Montreal Expos,4,5
+19871003,Philadelpia Phillies,Pittsburgh Pirates,5,10
+19871003,Los Angeles Dodgers,San Diego Padres,0,1
+19871003,Atlanta Braves,San  Francisco Giants,3,6
+19871003,New York Mets,St. Louis Cardinals,7,1
+19871004,Milwaukee Brewers,Boston Red Sox,0,4
+19871004,Cleveland Indians,California Angels,10,6
+19871004,Oakland Athletics,Chicago White Sox,2,5
+19871004,Toronto Blue Jays,Detroit Tigers,0,1
+19871004,Minensota Twins,Kansas City Royals,1,10
+19871004,Baltimore Orioles,New York Yankees,4,2
+19871004,Seattle Mariners,Texas Rangers,7,4
+19871004,Cincinnati Reds,Houston Colts,2,1
+19871004,Chicago Cubs,Montreal Expos,7,5
+19871004,Philadelpia Phillies,Pittsburgh Pirates,2,4
+19871004,Los Angeles Dodgers,San Diego Padres,5,3
+19871004,Atlanta Braves,San  Francisco Giants,4,5
+19871004,New York Mets,St. Louis Cardinals,11,6
